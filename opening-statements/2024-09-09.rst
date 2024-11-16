@@ -1,0 +1,731 @@
+.. raw:: html
+
+   <a id="hearing-link" href="https://lampardinquiry.org.uk/hearings/hearing-day-01-opening-statements/">Official hearing page</a>
+
+Hearing Day 01
+==============
+
+.. raw:: html
+
+   <details id="hearing-meta" open>
+        <summary>
+            <span class="open">Hide video</span>
+            <span class="closed">Show video</span>
+        </summary>
+   <lite-youtube videoid="1nHqRthhkUo" params="rel=0"></lite-youtube>
+   <lite-youtube videoid="MHBuRhJrDFA" params="rel=0"></lite-youtube>
+   </details>
+
+*(11.00 am)*
+
+Opening statement by The Chair
+------------------------------
+
+**The Chair**: Well, good morning everybody.   I'm Baroness Lampard and, with this statement, I'm opening the hearings of the Independent Statutory Inquiry into the deaths of mental health inpatients in Essex.   I want to welcome everyone here today at the Civic Centre and those watching over the live feed.
+
+The purpose of this Inquiry is, according to my terms of reference, to "investigate the circumstances surrounding the deaths of mental health inpatients under the care of NHS Trusts in Essex" over the 24-year period between the start of 2000 and the end of 2023.
+
+This is the first Public Inquiry set up in the UK to investigate mental healthcare.   We'll be investigating matters of the gravest public concern and significance. The Inquiry is not considering one single event, one set of circumstances or one individual.   Instead, we're investigating alleged failings in mental healthcare on a scale that is deeply shocking.
+
+As you may be aware, during the Inquiry's non-statutory phase, when it was called "The Essex Mental Health Independent Inquiry", the Inquiry was informed of approximately 2,000 deaths being in scope. This information was provided to the Inquiry by relevant mental healthcare providers.
+
+Following publication of the Terms of Reference for the Lampard Inquiry, I requested that Essex Partnership University Trust, known as "EPUT", as well as other relevant providers, submit updated figures of the number of deaths in scope in line with the Inquiry's definition of "inpatient death".
+
+Data quality and retention issues over the 24-year period, as well as varying interpretations of the terms of reference, have meant that this process has taken longer than anticipated.     The Inquiry is working with all providers to obtain figures which are as accurate as possible.   I have and will continue to reject information and data from providers which I do not consider to be an appropriate or reliable standard.
+
+It's worth noting that the Lampard Inquiry's Terms of Reference, including our definition of "inpatient death", are broader than those of the non-statutory Inquiry, with the timeframe having been extended by a further three years.   In addition, the Lampard Terms of Reference include, for example, private sector providers of NHS care and those who were assessed but not admitted to inpatient care.    The Essex Mental Health Independent Inquiry did not include such deaths in scope.
+
+I do not at this stage have a number of deaths in scope to share with you.    The tragedy is that we may never have a definitive number of deaths that fall within the Inquiry's remit.   The Inquiry is committed to publishing a figure of the number of deaths as soon as we have finished analysing and interrogating the information provided to us.   I will release the figure when I feel confident that it is the most accurate representation of the number of deaths in scope that can be achieved.
+
+This number is likely only ever to be approximate and I find it shocking that we may never be able to say for sure how many people died within the remit of this Inquiry.   What I can tell you now is that the number of deaths in scope will be significantly in excess of the 2,000 that were being considered by the Inquiry during its non-statutory phase.
+
+I wish to express my deepest sympathy for the loss and heartbreak experienced by families and friends of those who have died while an inpatient in a mental health facility in Essex and also to current and former patients who have experienced harm or unnecessary suffering when in inpatient facilities in Essex.
+
+I invite us to pause for one minute of silence in respect of those who died.
+
+*(One minute of silence observed)*
+
+**The Chair**: The purpose of these initial hearings is to hear opening statements from the core participants involved in the Inquiry.   I will listen with interest to what they have to say and their suggestions for working with the Inquiry to achieve its objectives.    I've read with care the statements they have already provided.
+
+Significantly, the purpose is also to hear about those who have died.   Each death represents a tragedy. I am profoundly grateful to have the opportunity to learn more about these individuals from their families and friends and to commemorate them.     I will also be hearing deeply personal and difficult accounts of the impact of the events which are the focus of this Inquiry on families and friends.
+
+I want to thank all those who have contributed written accounts, photographs, videos and other forms of commemoration as well as those who are coming to speak at the hearing.   It will be crucial to my understanding and the understanding of all of us involved in the Inquiry of the true impact of the deaths and harms which have occurred.
+
+There will be a further opportunity for families, friends and former patients to provide commemorative and impact evidence in the hearings conducted remotely in November and I urge anyone who thinks they might want to do that to get in touch with the Inquiry team.
+
+The Essex Mental Health Independent Inquiry was launched in 2021 with Dr Geraldine Strathdee as its chair.   I am grateful for the important work that she undertook in that role.       In June 2023 the former Secretary of State for Health and Social Care, Steve Barclay, announced that the Inquiry would be converted to statutory status under the 2005 Inquiries Act, with new powers to compel individuals and organisations to provide it with evidence and with serious repercussions if they failed to do so.   Dr Strathdee stood down as chair in this time.
+
+In September 2023, I was asked by Mr Barclay to take on the role of chairing this Inquiry and I was formally appointed as chair on 26 October 2023.      The following day the Department of Health and Social Care issued a formal notice of conversion, confirming the Inquiry's statutory status.   The Inquiry then relaunched as the Lampard Inquiry on 1 November 2023.
+
+When the non-statutory Inquiry was first launched, Dr Strathdee made a commitment to put families and former patients at the heart of our work.      I firmly stand by that commitment.   I will ensure that the experience of family, friends, patients and former patients remains central to the Inquiry's work.
+
+My key concern is properly and fully to understand all the issues I'm required to address and to make meaningful recommendations.    This is to ensure that any necessary improvements in mental health care are made here in Essex but also nationally and to do this within a reasonable period of time.    There is urgency to my task.   A number of the issues that have been identified remain of current concern and I need to address those quickly.
+
+This Inquiry was not established on the back of a single incident.   Instead it was the accumulation of a number of tragic deaths which have led to a series of investigations, key reports from regulators and other relevant bodies and awareness-raising by parliamentarians.
+
+In my statement of approach to the Terms of Reference, I referred to the courage, resilience and strength that the families have demonstrated in these most tragic of circumstances, including in bringing to light some of the matters I will be looking into. I again acknowledge the instrumental role of the families in the creation of this independent statutory Inquiry.   Without their dedicated and tireless campaigning, it is unlikely that we would be here today. I am grateful to have met with a number of families to hear about their experiences, their concerns and, most importantly, about the person they lost.
+
+I think it's important that I should say a little about my own background.     After spending a number of years practising as a barrister, I gained an in-depth understanding of our health systems through holding various senior non-executive roles within the National Health Service.     During my career, I have led independent reviews into matters of serious public concern.   These include being appointed by the Department of Health and Social Care to oversee its investigations into the allegations of sexual abuse by the late broadcaster Jimmy Savile, taking place in NHS hospitals.
+
+I have had a role considering deaths in a closed setting as interim chair of the Independent Advisory Panel On Deaths in Custody.    I also conducted independent reviews of allegations of the mistreatment of detainees at Yarl's Wood Immigration Removal Centre and then later at the Brook House Immigration Removal Centre.    This led, in 2019, to my being appointed by the then Home Secretary to conduct a review of the Borders, Immigration and Citizenship Service.    I therefore have significant experience of the conduct of major investigations and reviews.    I intend to apply that experience to my work as chair of this Inquiry.
+
+The role of chair comes with deep responsibility and is one I've not stepped into lightly.   I and my Inquiry team will be investigating matters of grave importance relating to life and death, which are of course the most serious issues that we can find ourselves dealing with. I will ensure that this Inquiry is fair, objective, thorough, rigorous and balanced.    It's important to stress that I am independent.   As chair, I will act without fear or favour and without interference from government, health bodies or others to get to the truth. You have my full commitment to establishing the key facts and issues at the heart of this Inquiry, to probe, to examine the evidence critically and to ask the difficult questions.
+
+This Inquiry is not a trial in court.    It's not about finding guilt, although wrongdoing is likely to be uncovered.   I do not have the power to make findings of criminal or civil liability.    Instead, this, like other inquiries, is a process independent of Government and politicians, stakeholders and all interested parties, with the key aim of getting to the truth.
+
+I must approach the Inquiry proportionately and efficiently and deliver my findings and recommendations in as swift a manner as possible.      People have waited too long for answers and, as I've already said, we need to make sure that matters that need remedying are put right urgently to limit any further unnecessary suffering.
+
+I'm not going to be opening up and determining cause of death in every single case.       In many cases the cause of death has already been determined by legal processes. In others the passing of time and lack of evidence make it impossible to do so.       In any event, this Inquiry is concerned with and has been set up to identify the systemic issues that have given rise to the deaths and serious harm we're concerned with.       This Inquiry will uncover what went wrong, but, in doing so, I also want to investigate what went right, what good practice looks like and how things can be improved.      Indeed I accept that there were many dedicated members of staff on the wards during the time in question who were carrying out their work to the highest standards.      The importance of this Inquiry is to learn lessons of general application so that we can ensure that the identified failings are never able to happen again, in Essex or beyond, in mental health facilities across the country.
+
+The Secretary of State for Health set the Inquiry's Terms of Reference in their current form in April this year.   They outline the matters this Inquiry will investigate.   You can find them on the Inquiry's website along with an explanatory note which indicates how I propose to interpret them.
+
+The Inquiry is investigating "the circumstances surrounding the deaths of mental health inpatients". The focus is accordingly on those who died as inpatients rather than those who were being treated in the community.   However, my proposed definition of inpatient deaths enables me to examine the circumstances of those who died up to three months post-discharge, including the support provided on discharge as well as the circumstances surrounding assessments and admissions to inpatient wards.   This means that some aspects of care received in the community will inevitably fall within the Inquiry's investigations.
+
+The Inquiry will look into serious failings in inpatient treatment and care, including serious harm that did not end in a death.   It will also be considering how the NHS engaged with patients and their families, matters relating to physical and sexual safety, the actions of staff as well as the Trusts' approach to staffing, the relevant leadership, culture and governance within the Trust, the quality of the Trusts' investigations and how they responded when things went wrong and the interactions between the Trusts and other bodies, such as coroners' courts.
+
+I am satisfied that the scope of this Inquiry provides the breadth needed to thoroughly address the significant areas of concern identified, but the terms are also appropriately focused and proportionate, allowing me to report and make recommendations within a reasonable period of time.
+
+My hope and expectation is that any witness I call to give evidence at a hearing or to whom a request is made to provide documents or a written statement will cooperate voluntarily with the Inquiry.   Where NHS staff in Essex have relevant information, I will expect them to come forward to the Inquiry with it.   I expect the Inquiry's requests for evidence to be met promptly and with complete candour.    My strong wish is to work collaboratively with core participants and others engaging with the Inquiry to achieve my objectives. I should, however, make clear from the outset that, where relevant evidence is not provided or is not provided appropriately promptly, I will not hesitate to use my statutory powers to the fullest extent necessary to compel its production.    I will also expect the organisations at the heart of the Inquiry's investigations to be appropriately resourced so that they engage effectively and efficiently with the Inquiry.
+
+I'd like to turn now to speak about the Inquiry team.   It's made up of the secretariat, solicitor and counsel teams, who work closely together to support me and advance the Inquiry's work.   Kate Ward is the secretary to the Inquiry.   Her role is to support and advise me and to act as Chief of Staff to the Inquiry. She is a member of the Senior Civil Service and has wide-ranging experience highly relevant to this Inquiry. She has also worked on the front line as a nurse.       She is supported by a highly skilled secretariat team.
+
+Catherine Turtle is lead solicitor to the Inquiry. Her role includes advising me and the Inquiry team on any legal issues which may arise.   She has extensive experience of working with inquiry teams, stakeholders and witnesses.   She is supported by a team of solicitors with significant inquiry experience.
+
+Nicholas Griffin KC is lead counsel to the Inquiry and you will be hearing from him after me.     He has practised extensively as a barrister in major public inquiries.   His role includes the presentation of evidence at this Inquiry, which he will do with his team of experienced barristers.
+
+I am also in the process of appointing assessors. They will have a background and expertise in certain of the areas into which I am looking.     They will provide me with additional assistance during the course of the Inquiry.    For example, they'll help me to understand key clinical, managerial, governance and regulatory aspects of mental health care.    In all of these ways, I will be supported by a highly skilled, dedicated and experienced group of people.
+
+I will, separately, instruct experts in certain areas, for example healthcare statistics, to analyse or explain particular issues and to present their evidence to me in the form of written reports and possibly also at the Inquiry's hearings.      I'll provide more details of my approach to assessors and experts as the Inquiry proceeds.
+
+This Inquiry will be considering matters of the gravest sensitivity in relation to people who were, at the time, very vulnerable.      I take that seriously. The Inquiry's processes will be set up to ensure that special allowances are made to help people who find talking about these matters difficult and to safeguard highly personal and medical information that doesn't need to be made public.      I know that there will be members of staff who have also found the events under consideration to be challenging and who wish to do their best to assist the Inquiry to get to the truth.    I will do all that I can to help them to give important evidence.
+
+I recognise that this Inquiry is dealing with issues that are deeply personal.   Everyone involved will have certain words and expressions that they feel right for them to use when explaining their thoughts and experiences connected to mental health and the matters which this Inquiry is looking into.   These may differ from person to person.   I ask that everyone is respectful of that.
+
+I and my Inquiry team have carefully considered the language we plan to use and we've published on our website a list of the terms the Inquiry proposes to use, which is available for all to read.   If we use terms that are not your preferred language or if we accidentally deviate from our own intended language, please be assured that we do not mean any disrespect. The Inquiry's list of terms is for us but it doesn't need to be for you.   You're obviously free to use the language of your choice.    I wish to hear your experience in your own words and I reiterate my ask that people are respectful of those who, in describing very personal experiences or talking about difficult issues, choose to adopt language that you might not use yourself.
+
+As I've said, this Inquiry is dealing with the most sensitive of subjects and it's understandably distressing to many.    I encourage us all to remember this and ask that we treat each other with courtesy at all times.   I recognise that there may be parts of the hearings that could be extremely difficult to hear.      In order for the Inquiry to obtain the best information and evidence possible, however, everyone speaking at these hearings must be given the opportunity to be heard and everyone attending or engaged in these hearings must be afforded respect throughout.    I therefore ask that those attending listen quietly to the opening statements and the commemorative and impact evidence being given. There are to be no disruptions, shouting out or disturbances of any kind.    Mobile phones must be switched off within the hearing room and no recording or filming devices of any kind may be used.   I thank you all in advance for your co-operation with this.
+
+The Inquiry places the well-being of those engaging with it at the centre of its work.    You can find further details of the support available on the website or do, please, speak to one of the Inquiry's team if you feel you may need support.    Today, emotional support services, which consist of confidential one-on-one support, are available.     Anyone who needs assistance during a hearing should please leave the room quietly and alert a member of the Inquiry team, who will help them to access this support.
+
+Raising awareness of mental health and expectations around the care given to those living with mental ill-health is of critical importance.    For too long the subject of mental health has not been spoken about with the same candour and openness as physical health. Thankfully times are changing and I hope that this important Public Inquiry into mental healthcare, the first of its kind, will further support this shift.
+
+One of the best ways to shine a light on the matters under investigation in this Inquiry is through media reporting.   The media are able to disseminate the findings, learnings and in due course the recommendations to a wide and varied audience.    I'd like to thank our press and media colleagues for all the work they've done and will continue to do in encouraging a sensitive, respectful and informed debate about mental health and care.
+
+I know that journalists will be accustomed to the guidance on reporting of suicide but I would ask everyone watching these hearings to be mindful about what they say online about any of the information they hear in this Inquiry.   Care should be taken to limit the risk of vulnerable people being influenced by discussion of suicide and choosing to end their own lives. Particular care should be taken when mentioning unusual methods of suicide or the inclusion of any unnecessary details.   It's a matter of the utmost importance to be sensitive to the needs and feelings of the bereaved.
+
+I would also ask that no photography, filming, media interviews, including for social media, take place in or around any hearing venue.    This is to protect and respect the privacy of all those who are watching and participating in person.
+
+Turning now to the outcome to be achieved from this Inquiry.   Following my thorough investigations of the issues in scope, I will set out in a report the key factual background, analysis, my findings and recommendations.   The report will be written in clear and straightforward language.   My current intention is not to provide interim reports, but I will keep an open mind on this point as the Inquiry develops.     Where I identify systemic matters that require urgent attention, I may issue an urgent statement and I will alert the relevant organisations as appropriate. Matters which relate to keeping people safe from harm, current threats to health or safety and any criminal offending will be communicated immediately to the relevant authorities.
+
+I will not be afraid to be critical or challenging in my findings or to make bold and meaningful recommendations for change.   When making recommendations, I will direct them to particular individuals or organisations, provide a timeframe for expected implementation and set out the way in which I would expect that implementation to be monitored. Although the Inquiry is focused on Essex, my recommendations will be made national wherever appropriate, helping to ensure improvements to mental healthcare across the whole country.
+
+I wish to finish by underlining the importance of this Inquiry to families, friends, patients and former patients who have experienced trauma and loss because of the mental healthcare provided in Essex.    For my part, I wish to conduct this Inquiry in a way that both recognises these experiences and allows everyone to have their say in order to get to the real heart of the issues.   I hope that through this Inquiry we can make recommendations for real and lasting change in memory of those who have lost their lives as mental health inpatients in Essex.
+
+Mr Griffin.
+
+**Mr Griffin**: Thank you, Chair.   May I just check first that everyone can hear me all right?    It's a little bit low -- is the volume a little bit better now?      Okay, thank you.
+
+Opening statement by Mr Griffin
+-------------------------------
+
+**Mr Griffin**: We will today and during the course of this hearing be addressing distressing and difficult matters. Chair, you have referred to the emotional support service that is available.     It is overseen by the Inquiry's chief psychologist.    Counsellors are present here today -- and I think they're wearing black lanyards -- and information about further services is available on the Support Services page of the Inquiry's website or by asking a member of the Inquiry team.     As you heard, we are wearing purple lanyards.    We want all those engaging with the Inquiry to feel safe and supported.
+
+Chair, we have a number of lawyers here representing core participants.   On behalf of the family, friends and patients represented by Hodge Jones & Allen, Steven Snowden King's Counsel, Dr Achas Burin and Rebecca Henshaw-Keene; on behalf of INQUEST, Lilian Lewis; on behalf of the Essex Partnership University Trust, Adam Fullwood.    Chair, Eleanor Grey King's Counsel will be here on Wednesday to give their opening statement; on behalf of North East London NHS Foundation Trust, Valerie Charbit; on behalf of the three core participant integrated care boards, Mid and South Essex, Hertfordshire and West Essex, Suffolk and North East Essex, Zeenat Islam; on behalf of the Care Quality Commission, Jenni Richards King's Counsel; and on behalf of the Department of Health and Social Care, Anne Studd King's Counsel.
+
+I am assisted at this hearing by further members of the counsel to the Inquiry team.    They are Rachel Troup, Rebecca Harris and Dr Tagbo Ilozue.   I am grateful for all of their help.   As you have said, Chair, the counsel team works closely with the Lampard Inquiry solicitor team under Catherine Turtle -- the Inquiry would not be able to operate without them -- and we also rely heavily on the work of the professional and experienced secretariat team and the Inquiry's engagement team, which is part of the secretariat and with whom many families and patients may have already been in contact.
+
+I've already referred to the Inquiry's website and I will throughout this opening statement be referring to other documents and information that are available on it.   It's an important resource and the Inquiry will regularly post updates on it.   It is at lampardinquiry.org.uk and it contains a wealth of material, including a series of helpful FAQs.
+
+It will be helpful to provide some background about how this Inquiry came to be set up, although I don't intend to provide a comprehensive account.   In June 2019 Rob Behrens CBE, who was then Parliamentary and Health Service Ombudsman, published his report entitled "Missed Opportunities", which found that there had been a series of significant failings in the care and treatment of two vulnerable young men who died shortly after being admitted to North Essex Partnership University NHS Foundation Trust, which was subsequently subsumed into the Essex Partnership University NHS Foundation Trust. The report considered the death in 2008 of a person referred to as "Mr R" and the death in November 2012 of Matthew Leahy.   It identified multiple failings surrounding both deaths.    The report also identified systemic issues at the Trust, including a failure over many years to develop the learning culture necessary to prevent similar mistakes from being repeated.
+
+Mr Behrens noted that the families of both young men -- and I quote:
+
+"... suffer the ongoing injustice of knowing that their sons did not receive the standard of care they should have done.   This has caused them unimaginable distress."
+
+He also said -- and I quote:
+
+"Serious failings by organisations providing mental health services can have catastrophic consequences for patients.    NHS Trusts must ensure timely improvements to ensure patient safety and protect patients who are at risk of taking their own life."
+
+In 2021, Essex Partnership University NHS Foundation Trust, which I will sometimes refer to as "EPUT", faced criminal proceedings and was fined for safety failings. This was for over a period exceeding ten years, from 2004 to 2015, concerning the deaths of patients at the North Essex Partnership University Trust.   The prosecution was brought by the Health and Safety Executive and I will refer to the sentencing remarks of Mr Justice Cavanagh.   That was at the Crown Court here in Chelmsford on 16 June 2021.    Some of what he said is distressing to hear.
+
+He noted that, on 20 November 2020, at Chelmsford Magistrates' Court, EPUT had pleaded guilty to a charge that during the period from 1 October 2004 to 31 March 2015 it had failed, so far as was reasonably practicable, to manage the environmental risks from fixed ligature points within its inpatient mental health wards across various sites under its control in Essex, thereby exposing vulnerable patients in its care to the risk of harm by ligature.    The risk of harm was that patients would end or attempt to end their lives by hanging, using such ligature points as were available to them in the inpatient wards.
+
+During this period, 11 inpatients hanged themselves using ligature points and at least one other and probably more tried unsuccessfully to do so.   The judge added this -- and I quote:
+
+"At the heart of this case are a number of interconnected failures by the Trust.   In summary, these are that there was a consistent failure to comply with national standards and guidance involving ligature risks (these are sometimes referred to as 'environmental' risks); failure to act in a timely manner when environmental risks were brought to the Trust's attention, and failure to act in a timely manner on recommendations made by the Trust's own internal Audits; and failure to act appropriately after serious incidents had occurred, by failing to make appropriate environmental changes to reduce suicide risks, so as to remove the environmental risks from the same or similar locations.   These failings often persisted for a number of years and meant that dangers resulting from ligature points on wards ... were not identified and dealt with."
+
+Dedicated family members, with the strong support of a number of MPs, raised awareness of these issues within Parliament and, on 16 October 2020, during a debate on deaths in mental health facilities, James Cartilage MP spoke about the circumstances of the death of a young man named Richard Wade in 2015 in the Linden Centre here in Chelmsford.   The debate highlighted concerns over the Care Quality Commission's handling and investigations of deaths in a mental health inpatient setting. Ed Argar MP, who was then Minister of State for Health, told the House of Commons that fellow Health Minister, Nadine Dorries MP, intended to commission an independent review into the serious questions raised by a series of tragic deaths of patients at the Linden Centre between 2008 and 2015.   At around the same time, a petition created by Matthew Leahy's mother, Melanie, was signed by over 100,000 people, calling for a statutory inquiry to cover all Essex mental health services.     This extraordinary effort secured a second Parliamentary debate on 30 November 2020.
+
+During this debate, Nadine Dorries announced that there would be an independent inquiry covering the period from 2000 to the present day.   The Essex Mental Health Independent Inquiry was established by the Government in April 2021 and Dr Geraldine Strathdee CBE was appointed as its chair.    This was a non-statutory inquiry.    Significant concerns were raised by some families from the outset about it being a non-statutory inquiry and calls were made for it to have the full force and powers of a statutory inquiry.
+
+In November 2021 the Inquiry launched a call for evidence from families and carers of inpatients who died in Essex NHS Trusts between 2000 and 2020 as well as anyone with experience of mental health inpatient services across Essex during the 21-year period.
+
+In March 2022 the Inquiry put out a wider call for evidence.    In July 2022 the Inquiry's chair issued an urgent appeal to staff to come forward to share their experiences with the Inquiry.   The response to this was extremely poor.    On 12 January 2023, Dr Strathdee published an open letter setting out her belief that the Inquiry could not deliver as a non-statutory inquiry with the current response from staff.
+
+After further efforts to engage staff, the chair informed Steve Barclay MP, who was then Secretary of State for Health and Social Care, on 17 April that her view remained that the Inquiry could not meet its terms of reference without statutory status to compel witnesses to share evidence.    In June 2023 Steve Barclay announced the Statutory Inquiry, saying that -- and I quote:
+
+"Due to the challenges faced while running an independent inquiry -- such as engaging former and current staff at the Essex Partnership University Trust ... and in securing evidence from the Trust itself, a statutory inquiry will have legal powers to compel witnesses, including those former and current staff of EPUT, to give evidence."
+
+Chair, you have already described how the Inquiry was put on a statutory footing in October 2023, that you took over from Dr Strathdee as chair and that it relaunched on 1 November last year as the "Lampard Inquiry".   It is clear that serious issues with mental healthcare in Essex continue and that the matters to be investigated by the Inquiry are as pressing and relevant as when it was first established.
+
+On 10 October 2022 Channel 4 broadcast a Dispatches documentary entitled "Hospitals Undercover Are They Safe?".    The programme showed footage from a year-long undercover investigation and highlighted concerning practices on various wards run by EPUT.   It is a stark but important piece of reporting.   It covers issues of great relevance to this Inquiry, including concerning ligatures, the use of restraint and absconding from wards.
+
+I turn now to discuss the Inquiry's procedure.       The Statutory Public Inquiry is a process that allows for a thorough but ultimately flexible and imaginative approach in pursuit of the truth.   I want to speak first about some of the provisions in the Inquiries Act 2005 and Inquiry Rules 2006 as they form an important part of the Inquiry's procedure, but I don't intend to enter into an exhaustive discussion of this statutory framework.
+
+The Inquiries Act specifically says that the procedure and conduct of an inquiry are to be as the chair directs them to be.   That is section 17.   It is subject to the Inquiry Rules, which I will come back to in a moment.   The law therefore gives the chair a great degree of control about how to proceed.   The Act also makes clear that the chair, and I quote, "must act with fairness and with regard also to the need to avoid any unnecessary cost".   That is again section 17.    The central requirement of fairness is as one would expect and the chair must adopt a proportionate approach, with efficiency and the urgency of the Inquiry's task in mind.
+
+Section 2 of the Act states that the chair is not to rule on and has no power to determine any person's civil or criminal liability.   Chair, as you have said, that means that the Inquiry is not a trial.   The Inquiry's process is inquisitorial and the end results are its report and recommendations.    It is not like a civil or criminal case, there are no sides and there is no finding of guilt or innocence.
+
+Chair, this does not stop you from reaching strong and clear findings about the facts.   On the contrary, it is your duty to do so.   And it does not stop you from going on to make robust recommendations for change. This is in part because section 2 also makes clear that the chair is, I quote, "not to be inhibited in the discharge of [her] functions by any likelihood of liability being inferred from facts that [she] determines or recommendations that [she] makes".
+
+One of the requirements of the chair's appointment is impartiality.   This is addressed in section 9.     The chair and this Inquiry will be entirely independent from all of those engaging with the Inquiry and, more widely, from Government or any health body or other organisation.    This is a statutory requirement and a matter of fundamental fairness.   The Inquiry's findings would be undermined were we to act in any other way.   This is a public inquiry.   The default position is that Inquiry proceedings shall be public.   Section 18 covers this.    It sets out that the chair must take such steps as she considers reasonable so that, firstly, members of the public are able to attend the Inquiry in person or to view its proceedings virtually via a simultaneous transmission and, secondly, to obtain or view a record of its evidence and documents.     But the Inquiry is considering matters of great sensitivity. They involve highly personal information regarding mental health and medical matters in relation to people who may be vulnerable.   The Inquiry's Terms of Reference recognise this and include that -- I quote:
+
+"Personal and sensitive information provided to the Inquiry will be appropriately handled.     It will only be shared or made public as is necessary and proportionate for the Inquiry to fulfil these Terms of Reference."
+
+This is where section 19 comes into play.      It allows the chair to impose restrictions both on attendance at an inquiry and the disclosure or publication of evidence.   In general terms, this means that in certain circumstances the chair may hold hearings in private or hold back certain documents or provide them with redactions.   Another aspect of this is that the chair may grant individuals anonymity, allowing them to give evidence without disclosing their identities.     In some cases this might be appropriate for those who wish to assist the Inquiry but for various reasons are very apprehensive about doing so in public.
+
+Restrictions on the disclosure of identities or other parts of evidence are imposed by making a restriction order.   Two different categories of restriction may be contained in an order.    They are set out in section 19.   The first are those required by a statutory provision or rule of law; the second are those that the chair considers, I quote, "to be conducive to the inquiry fulfilling its terms of reference or to be necessary in the public interest".
+
+The system involves careful consideration and balancing of a number of relevant factors.    It also requires a clearly set-out proper basis before any restriction may be made.
+
+Chair, you have published a note on the Inquiry's website setting out the approach you will adopt in relation to restricting the identities of patients who engage with our investigations.   You have decided to apply a presumption in favour of anonymity for those who are living and are currently or have previously been mental health inpatients under the care of NHS Trusts in Essex.
+
+I would now like to address the Inquiry's powers of compulsion, which most clearly set it apart from the non-statutory Inquiry.   Chair, you have said that the Inquiry expects that those asked to provide documents or to come to give evidence will do so voluntarily. However, where that does not happen, the chair has powers under section 21, by notice, to require a person to give evidence and to produce documents and materials to the Inquiry.   It is a criminal offence under section 35 to fail without reasonable excuse to do anything that is required by a section 21 notice.    It is also a criminal offence to suppress, conceal, alter or destroy relevant evidence.   As we have heard, the importance of the matters being looked into and the difficulties experienced by the non-statutory Inquiry have made a statutory inquiry with powers necessary.
+
+I repeat the call for those with relevant information to provide to the Inquiry, whether they are current or former staff members or others, to come forward voluntarily.   By doing so and cooperating, they will rightly assist us in uncovering what happened.    We recognise that there will be dedicated and committed staff and former staff who do wish to come forward to share their experiences of mental health inpatient care in Essex and to express their concerns about what they have witnessed.   They will be supported throughout by this Inquiry, including, where appropriate, through the use of restriction orders.      But we will not hesitate to look for those who do not come forward.     Chair, you have indicated that you are prepared to use your powers to compel evidence wherever necessary.
+
+We recognise, however, that giving evidence at a hearing may be particularly difficult for the family and friends of those who have died and for patients and former patients.   The Inquiry's objective is to ensure that each witness is fully supported in a way that allows them to share their experiences to the best of their ability.   To achieve that objective and to encourage these witnesses to share their experiences with the Inquiry as safely as possible, Chair, you have confirmed that you will not exercise your powers under section 21 against the family and friends of those who have died or against patients and former patients, unless in exceptional circumstances.     This means that they will not at any stage be compelled to give evidence at any Inquiry hearing.      They will be invited to do so on a voluntary basis.   Further information about this is available in a note that was published in July this year regarding section 21 of the Inquiries Act 2005.
+
+This is an appropriate time to make clear that the Inquiry takes its safeguarding responsibilities very seriously.   A note about the approach the Inquiry will take in this regard is available on its website.
+
+The Inquiry has produced various other notices. They provide additional information about the running of the Inquiry.   It's important to mention one of those at this stage: the notice on the prohibition on the destruction of documents which refers to section 35.    It makes clear that it is crucial that the Inquiry's investigation is not obstructed by the premature destruction of any material that may be relevant to the matters it is investigating and that anyone holding such material should ensure that it is preserved.   It spells out what is meant by "material" here, including all correspondence, emails, recordings, documentation or data of different sorts.    The Inquiry has also contacted those it knows or believes to hold relevant documents in similar terms.
+
+Chair, you have decided that the Inquiry will also operate under the Inquiry Rules 2006.   You were not required to do so as the Inquiry started life as a non-statutory inquiry, but the rules will provide a proper framework for participation by those who wish or are asked to engage with the Inquiry.   This was explained in the April 2024 statement of approach you provided with the publication of the Inquiry's Terms of Reference.   The rules cover matters such as the designation of core participants.   They also cover, in rule 9, the process by which the Inquiry should seek evidence, initially by way of written request, and in rule 10, the framework for the questioning of witnesses who come to an inquiry hearing to give evidence.    The rules cover a range of other matters, such as the award of legal and other costs and expenses, that I don't intend to go into now.
+
+The Inquiry has further spelt out the procedure it is to follow in a series of protocols.   It is important that those engaging with the Inquiry and, where they are represented, their lawyers have regard to these protocols.   They cover the Inquiry's approach to a range of matters, including but not limited to obtaining witness statements, the disclosure of documents to the Inquiry and whistle-blowing.   I will refer to some other protocols later and further protocols will be added as appropriate as the Inquiry goes along.
+
+As we have seen, the Inquiry is not constrained by the strict rules of evidence in adversarial proceedings. Chair, given your commitment to ensuring that all those who engage with the Inquiry can be supported to do so as safely as possible, the Inquiry will consider the processes it adopts and may be flexible about the types of evidence it is prepared to receive.   The Inquiry team will continuously consider the most efficient way in which to address the issues being investigated, consistent with the requirements of thoroughness and fairness.   We will also consider the views of core participants and others involved in the Inquiry's work about how to achieve this.
+
+I have already referred to core participants. I would like now to explain what a core participant is. It is a person or organisation afforded specific rights at the Inquiry.   For example, they may have greater access to the Inquiry's evidence; they can make opening statements, as we will be seeing this week, and closing statements in due course; they may suggest lines of questioning for witnesses who come to give evidence at an inquiry hearing.   The application process to become a core participant took place in April and May this year.   It is still possible to apply, however, particularly for those who may have only recently become involved in the work of the Inquiry.
+
+Anyone interested in applying should look at the protocol on core participants, which explains the relevant criteria and includes an application form. They should also look at the chair's statement of approach on determining core participant applications of 15 July this year.
+
+The Inquiry's core participants fall into the following broad categories: the bereaved family and friends of those who died; living current and former patients; staff members and health bodies and other organisations.   The evidence of the family, friends and patients will be key.   At its heart, this Inquiry is about people and, most obviously, those who died and those most closely affected by the issues under consideration.   The written opening statement provided on behalf of many of the families, friends and patients expresses hope of building rapport and trust with the Inquiry.   The Inquiry very much welcomes the opportunity to build those constructive relationships with the people most affected by the issues to be explored.
+
+There are various organisations with core participant status in this Inquiry, ranging from government departments and national health bodies through to local NHS Trusts and integrated care boards. A number of these core participants have provided written opening statements which include relevant background.   However, it will help if I provide a brief summary about each of them at this stage.
+
+The Department of Health and Social Care, also known as the "DHSC", is the Government department which sets overall strategy for funds and oversees the health and social care system in this country.   This includes responsibility for overseeing services provided in clinical settings, such as hospitals and GP surgeries, and those provided in the community through nursing, social work and other professional services.   The DHSC has a significant role to play in the development of policy in relation to mental health and patient safety. It works with a number of other public bodies, agencies and authorities to provide health and social care. These include public bodies such as NHS England and the Care Quality Commission, who are also core participants in this Inquiry.
+
+The DHSC is the Government department sponsoring and funding this Inquiry.   It is therefore important to state that the Inquiry requires and will monitor strict separation between the department's sponsorship and core participant roles.
+
+NHS England.    The National Health Service is a series of interconnected organisations responsible for directing, planning, commissioning, organising and providing healthcare services.   NHS England leads the National Health Service in England and has day-to-day responsibility for the provision of health services in England.   Its purpose is to deliver high quality services for all users.
+
+The Care Quality Commission, also known as the "CQC", established in 2009, is the independent regulator of health and adult social care in England.      The CQC regulates the organisations that provide health and social care as distinct from the individuals within them.   The CQC's role is to ensure that all health and social care services provided in this country are safe, effective and of high quality.    Its remit is wide-ranging.    The CQC regulates and scrutinises a variety of providers, from hospitals to care homes. It is an executive, non-departmental, public body sponsored by the DHSC.   There is no question that work done by the CQC will be of interest and relevance to the work of the Inquiry; for example, the CQC undertook reviews of the Trusts with which we are concerned.
+
+Three integrated care boards, also known as "ICBs", are core participants in this Inquiry: Hertfordshire and West Essex; Suffolk and North East Essex; and Mid and South Essex.    ICBs are statutory bodies responsible for planning and funding NHS services in their local area. ICBs allocate the NHS budget and commission services for the population, taking over the functions previously held by clinical commissioning groups and some of the direct commissioning functions of NHS England.
+
+ICBs are directly accountable to NHS England.      They are a key component of integrated care systems.    The three ICB core participants in this Inquiry are those responsible for planning and funding mental health services in Essex.   They work with local providers to do so.
+
+Essex Partnership University Trust or "EPUT" is the main Trust providing mental health services in Essex which this Inquiry is investigating.    EPUT was formed in April 2017 as a result of the merger of two predecessor Trusts in Essex, the North Essex Partnership University Trust and the South Essex Partnership University Trust.    EPUT is commissioned to provide the majority of mental health services in Essex but not community outpatient Child and Adolescent Mental Health Services.    As the Inquiry's timeframe extends back to the start of 2000, the Inquiry will in addition consider the way in which predecessor Trusts operated.
+
+North East London NHS Foundation Trust, also known as "NELFT", provides community Child and Adolescent Mental Health Services across the whole of Essex.    NELFT also provided mental health services historically at Mascalls Park, a mental health inpatient unit in Essex which closed in 2011.   Furthermore, on occasions, patients from Essex were placed in NELFT units.
+
+The Royal College of Psychiatrists is the professional medical body responsible for supporting psychiatrists through their careers.   Given its membership, the college works to promote the provision of high quality mental health services and to secure the best outcomes for people with mental illness. The Inquiry expects to hear evidence from and about registered clinicians who work in this speciality.
+
+The charity INQUEST is also a core participant in this Inquiry.   INQUEST is independent from Government. It provides advice and expertise on state-related deaths to bereaved people, lawyers and others.    INQUEST has considerable experience of the deaths of those detained under the Mental Health Act and in psychiatric settings and has worked on a large number of cases involving deaths in mental health settings in Essex.
+
+Staff member core participants and witnesses will fall into one of the following categories: doctors, ranging from trainees and specialist psychiatric trainees to consultant psychiatrists; those working in the psychological professions, such as clinical psychologists and CBT therapists; mental health nurses and nursing associates; occupational therapists; other therapists; paramedics; healthcare assistants; and managers.   The Inquiry is aware of highly concerning practices that must be brought to light.    Staff members must come forward where they have relevant information but, as has already been said, the Inquiry expects also to find examples of professionalism, dedication and good practice from which it wishes to learn.
+
+We do not intend to provide a fuller list of family, friend and patient core participants at the moment. This is for various reasons, including outstanding applications to protect the identities of certain individuals.   A full list will be provided in due course, which may include ciphers in place of the names of those to whom the Inquiry has granted anonymity.
+
+As far as is possible and appropriate, the Inquiry team wishes to collaborate with core participants to advance the Inquiry's important work.    Being a core participant does not mean that a person's evidence is in any way more important or given any greater weight. Personal accounts and experiences shared by those who are witnesses but not core participants are of no less value in the eyes of the Inquiry than those provided by persons who are, so it is important to stress that it is not necessary to be a core participant to engage meaningfully with the Inquiry.     The Inquiry process is designed so that those engaging with it do not need to be legally represented.     Each person or organisation, core participant or not, should decide for themselves whether they require legal representation.
+
+Funding is available for legal costs for individuals who meet the relevant criteria.    Funding is also available for other expenses connected to assisting the Inquiry as a witness, whether legally represented or not.    The protocols on legal costs and on witness expenses explain more about this.    Those can be found on the Inquiry's website along with other protocols. Lawyers representing core participants are known as "recognised legal representatives", using the language of the Inquiry Rules.    Our hope and expectation is that they will not only provide a high level of representation to their clients but will also engage helpfully with the Inquiry team.     We look forward to working with them.    The Inquiry counsel team will make itself available to speak with legal representatives and I encourage constructive dialogue during the course of this Inquiry.
+
+We are pleased to see many of the core participants and their representatives here today.    We are grateful for the written opening statements that they have provided and look forward to the oral opening statements that will follow my own.
+
+Moving now to consider the scope of this Inquiry. The Terms of Reference are central to the Inquiry and delineate its scope.   I would like to say a little bit more about them now.    "Terms of Reference" are defined in section 5 of the Inquiries Act to mean "the matters to which the Inquiry relates", as well as the matters as to which the chair is to determine the facts, whether she is to make recommendations and any other matters that are specified relating to scope.    The Inquiry has no power to consider matters outside its Terms of Reference.
+
+The Lampard Inquiry terms should be read along with the explanatory note in relation to scope, which indicates how the chair is minded to interpret them. The chair's statement of approach of 10 April this year was provided following the consultation on updated terms of reference to form the basis of the newly statutory Lampard Inquiry.   It provides information about that consultation process and its outcome.   The Chair's further statement of approach of 15 July this year contains some further information about the Terms of Reference and how they are to be interpreted.
+
+In addition, we now have produced a provisional list of issues.   It is intended to spell out in further detail the issues under consideration and to help guide the Inquiry's investigative work.   It is not intended to, nor would the Inquiry be permitted to, expand or capture issues outside the Terms of Reference.
+
+The Inquiry recently invited written submissions about the provisional list and we are grateful for the responses received.   We are considering them and will provide a formal list of issues following this hearing to reflect the submissions as appropriate along with any further matters that arise in the written and oral opening statements.
+
+The Inquiry team also continues to reflect upon these issues and is minded to add further matters to the list of issues, such as: the demographics of Essex and whether a person's background or ethnicity influenced the treatment they received; the risk of adverse therapeutic outcomes arising from coercive treatment aimed at promoting physical safety, such as confinement; how an appropriate balance was reached between medical and psychological treatment options and the extent to which there was any practice or culture of over-medication; wider beliefs held by those working in psychiatric care, which may influence the care given, for example, whether or not they consider suicide to be preventable; and the extent to which mental health has been prioritised by politicians and those in leadership positions in the major health bodies nationally and in Essex.   The list of issues may further evolve as the Inquiry receives further evidence and undertakes its investigations, with issues being added, removed or amended as appropriate.
+
+I would like now to turn to look at key points arising from the Terms of Reference themselves.    What I would like to do is to ask the evidence handler to please put up the Terms of Reference, page 1.    That's perfect.   Thank you.   The Terms of Reference, as we can see, start by encapsulating the Inquiry's task, namely:
+
+"To investigate the circumstances surrounding the deaths of mental health inpatients under the care of NHS Trust(s) in Essex ... between 1 January 2000 and 31 December 2023."
+
+We can see that they then say:
+
+"1.     The Inquiry will investigate the circumstances surrounding the deaths of mental health inpatients within this timeframe.
+
+"2.     To the extent necessary to investigate the deaths and fulfil these Terms of Reference, the Inquiry will consider ..."
+
+And we there then see a series of specified issues.
+
+So we can see from the start of the Terms of Reference that the focus of the Inquiry is on the deaths of mental health inpatients under the care of Essex Trusts.    This is not therefore an inquiry into community mental health -- but I will come back to this -- nor is it into mental health services outside of Essex with certain limited exceptions.   The timeframe under consideration is approaching a quarter of a century, the 24 years from the start of 2000 to the end of 2023, during which there were significant changes, for example, as to the applicable legislation and policy and as to the structure of the relevant health bodies that the Inquiry will need to understand and take into account.
+
+The Inquiry will adopt a proportionate approach.      It is required to investigate a series of issues but only to the extent necessary to fulfil the terms. The Inquiry will be rigorous and thorough but it will also act with expedition to provide answers to these important issues within a reasonable period of time.     It will be for the chair to judge to what extent it will be necessary to investigate each of the matters that are then listed from (a) to (k) in the Terms of Reference, remembering that the Inquiry's focus is mental health inpatients' deaths.
+
+What constitutes an inpatient's death is addressed in the explanatory note and also in the July 2024 statement of approach.   It includes, for example, not only those who died on relevant wards or units but also those who died in a range of other circumstances.    They include but are not limited to deaths within three months of discharge or, at the other end of the spectrum, within three months of a mental health assessment provided by the Trusts where the decision was not to admit.   In this way certain deaths outside mental health inpatient units and in the community will be in scope and we will greatly value evidence about them.
+
+The provisional list of issues covers in greater detail important background issues, such as the landscape to NHS-funded mental health inpatient care in Essex, the care and treatment pathway of those who died and discharge and continuity of care to those returning to the community.   That's at sections (a) to (c).
+
+Specific issues for investigation in the terms include at 2(a):
+
+"Serious failings related to the delivery of ... inpatient treatment and care ..."
+
+The draft terms were extended to reflect responses received during the November consultation.   This was to make clear that serious failings may include, as we can see, consideration of circumstances where serious harm short of death occurred.    It is recognised that such incidents may raise the same or similar issues as incidents that resulted in deaths.
+
+Chair, as you said in your July statement of approach, you have defined "serious harm short of death" to apply to incidents and events that are serious in nature and which had a reasonable prospect of leading to death.   They include but are not limited to attempted suicide, serious physical and/or sexual assault and serious failure to look after patients' well-being.
+
+The terms also address, at 2(b) and (c), how the NHS engage with patients and their families.   The Inquiry knows that these are issues of grave concern to patients and families alike and they are further outlined in the provisional list of issues at section D.
+
+The Inquiry has received serious allegations about the way in which various Trusts and staff members have acted.   Accordingly, the terms expressly extend to matters relating to physical and sexual safety within the relevant units at 2(d) and this is covered further within the provisional list of issues at section E.
+
+Could you please expand the bottom half of this page?    Perfect, thank you.
+
+Paragraphs 2(e) and (f), as we can see, cover the actions of staff more generally as well as the Trusts' approach to staffing.   This will be a major area of the Inquiry's investigations and the issues are further broken down in the provisional list of issues at sections B, G and elsewhere.
+
+The leadership culture and wider governance within the Trusts is also a major area of investigation.     It is covered at 2(g) and (h) and in the provisional list of issues at sections H to J.
+
+The Inquiry will consider next in the terms at 2(i) and (j) the quality of the Trusts' investigations and, separately, how they responded to concerns and complaints that were raised with them.    These issues are addressed further in the provisional list of issues at sections K and L.
+
+Could you please put up the top half of the next page?   Thank you.
+
+Finally, as far as specific issues are concerned, the Inquiry will investigate how the Trusts interacted with other public bodies, such as coroners and professional regulators.     What I'm going to suggest is could you expand the top half of the page so that people can see the screen?   Thank you.
+
+I was talking about 2(k), covered further in the provisional list of issues at section M.
+
+As the focus of this Inquiry is on the actions of the Trusts in the context of the treatment of mental health inpatients, we will not, other than in the way I have just described, be considering the operation of these other public bodies.     This means that it's not the place of the Lampard Inquiry to consider the workings and effectiveness of, for instance, the coronial or healthcare regulatory systems in their own right.
+
+We can see at paragraph 4 of the terms that the Inquiry is indeed required to go on to make recommendations to improve the provision of mental health inpatient care.    The Inquiry wishes to give a great deal of thought from an early stage to any recommendations it may make.    The recommendations must be evidence-based, clearly expressed and, of course, implemented by the responsible bodies.    The Inquiry will also consider the ways in which the implementation of those recommendations could be monitored.
+
+Chair, I've been talking for a while and this might be a moment for a brief break.    Can I say ten minutes only?
+
+*(12.25 pm)*
+
+*(A short break)*
+
+*(12.45 pm)*
+
+**The Chair**: Mr Griffin, do you want to carry on?
+
+**Mr Griffin**: Chair, I plan to finish my opening statement this morning, which will probably mean going beyond 1 o'clock but not hopefully too much.    In that way, Mr Snowden will have a clear start this afternoon and will ensure that people have a full hour for their lunch in the middle of the day.
+
+Can the evidence handler please put up the first page of the explanatory note?   Thank you.
+
+This is the explanatory note in relation to scope to which I referred before the break.    As we can see at the top there, it:
+
+"... does not form part of these Terms of Reference but indicates how the Chair is minded to interpret them."
+
+Would you mind going to the second page, please? Could you expand from "Further points to note"?    Can people see that all right?   Yes.
+
+At this stage I would like to draw attention to two paragraphs in the explanatory note.   The first is the paragraph which starts:
+
+"In undertaking her investigations ..."
+
+This explains that the chair will consider the particular circumstances relevant to those who have died.    This may include a range of factors, such as "neurodiversity, learning disabilities, dementia, co-existing physical health issues, drug and alcohol addiction, and other social and economic factors".
+
+Taking neurodiversity as an example, the issue of the adequacy of treatment of people who are neurodiverse in the context of mental health inpatient care emerged as a serious matter of concern in the responses to the Terms of Reference consultation.   It is therefore important to reflect this within the work of the Inquiry and I know it is very important to a lot of people.
+
+The second paragraph I want to look at comes next. It says:
+
+"The Chair is minded to identify a sample of cases, representative of the issues, that will be investigated in detail in order to draw wider conclusions."
+
+The approach will provide a sensible and proportionate way forward as it will unfortunately not be possible to investigate in depth each of the very many deaths that are potentially within scope. The Inquiry is acutely conscious of the fact that many of the issues it is investigating remain of ongoing concern and that it must therefore work efficiently to identify those issues as a matter of urgent importance. The Inquiry is considering which cases should fall within the sample and no doubt further cases will be added as we proceed and more information becomes available.   However, I can indicate now to all existing core participant families and friends that we will be looking into the death of their relative or friend and the issues or concerns arising to the extent possible and appropriate.
+
+Thank you.   Can you take down the explanatory note?
+
+It is important to say that the Inquiry will consider the totality of the information and evidence it obtains and its focus will not be limited to individual cases.   Chair, the Terms of Reference provide the basis for a full investigation of the issues of major public concern giving rise to this Inquiry.    They will allow the Inquiry to get to the heart of these issues and to make findings about what actually happened.    This will form the basis for significant recommendations to ensure to the greatest extent possible that they will not happen again.    That is the mission of the Inquiry.   The starting point must be recognition of the rights and expectations of patients and their families in connection with care, treatment, dignity and respect. There must also be recognition of the tragedies experienced by so many and agreement that lessons must now finally be learnt and acted upon.
+
+At this stage I note the following from the written opening statements of the health bodies.   The Department of Health and Social Care states that "every patient deserves to be treated in an environment where they receive high quality care and are treated with dignity and respect"; that it is "determined to work with others to transform and improve mental healthcare"; and that it "looks forward to assisting the Inquiry" in this regard.
+
+NHS England, again, in their written opening, "recognises the incredibly important role for this Inquiry in identifying lessons that can be learned from the events that led to these tragic deaths in order to improve NHS mental health services both in Essex and nationally"; and that it is "committed to assisting the Inquiry".
+
+And the three integrated care boards are "committed to engaging with the Inquiry in full openness and transparency" and "highlight their willingness to reflect on key learning".
+
+And EPUT apologises to all those who have been failed by NHS mental health services in Essex and acknowledges that safe services were not always provided.   It vows to learn and to implement change and states that it is committed to engage candidly with the Inquiry.
+
+The Inquiry will hold these health bodies to their promises of engagement and assistance.
+
+It is important to say a little more about the geographical scope of the Inquiry.   As the Terms of Reference make clear, the Inquiry is investigating the deaths of mental health inpatients "under the care of NHS Trust(s) in Essex".    The explanatory note says further that these include "[EPUT] and [NELFT] and their predecessor organisations where relevant".
+
+The July statement of approach explains that "Essex" has been defined in accordance with Schedule 1 of the Lieutenancies Act 1997 as being comprised of the local government areas of Essex, Southend-on-Sea and Thurrock. This is the administrative county of Essex and does not include areas of Greater London.
+
+However, the Inquiry will need to consider matters outside Essex in two ways.    Firstly and as the July statement of approach explains, the Inquiry's definition of "inpatient" includes mental health inpatients who were under the care of NHS providers in Essex but who were placed outside Essex.    This was either because there was not enough bed space in Essex or due to needing specialist services that were not, at the relevant time, available in Essex.
+
+Secondly, the Terms of Reference state at paragraph 5 that while the investigations will focus on the Essex Trusts -- I quote:
+
+"The Chair may make national recommendations as she considers appropriate.    To do so, she may seek evidence from individuals, organisations or from Trusts who are either involved in the provision of mental health inpatient healthcare in other areas or [who] have evidence which may be relevant to the issues which the Inquiry is investigating."
+
+The evidence obtained in this way may provide useful comparators to the approach in Essex but it could also address, to a certain extent at least, whether the practices of concern revealed in Essex are specific to this county or whether they actually reflect the approach in other parts of the country.
+
+The Inquiry's intention is to address the issues under investigation on a Trust-by-Trust basis.     We will start with a consideration of North Essex Partnership University Trust and the South Essex Partnership University Trust and we'll then move on to EPUT.    We will also consider NELFT and the private providers, to the extent that they are in scope.
+
+As well as matters connected to the management of and leadership of the Trusts, we will consider events and issues as appropriate on a ward-by-ward basis within each Trust and broadly on a chronological basis within each ward.
+
+We will of course be looking at other matters too, including other local and national bodies such as those that I have named, to the extent necessary.   Further information about the Inquiry's approach will be provided shortly.
+
+I move now to consider evidence and disclosure. Important information was obtained during the non-statutory phase of this Inquiry, when it was the Essex Mental Health Independent Inquiry.    This included, for instance, transcripts and recordings of evidence sessions with family members and others.    The information is being reviewed and will be incorporated as appropriate into the statutory Inquiry, so in many cases members of the Inquiry team are working with families who attended evidence sessions with the non-statutory Inquiry to use the transcripts of those sessions to form the basis of their witness statements to this Inquiry.
+
+As a general principle, the Inquiry will only request, review and store material which is potentially relevant to the Terms of Reference.    The Inquiry will review the evidence it obtains prior to making disclosure of documents that it is relevant and necessary to provide to core participants and witnesses. Given the nature of this Inquiry, much of the evidence we receive will be highly sensitive.    As I have said, the Inquiry will handle all the material it receives with extreme caution and will ensure that it is processed and stored in accordance with all relevant data protection laws.
+
+In order to meet its Terms of Reference, the Inquiry will be looking to obtain and hear evidence from a wide variety of sources.   The Inquiry is working very hard to obtain full information in relation to those who have died.   As the chair said, we have asked the relevant healthcare providers to provide us with the details of those who fall within the Inquiry's definition of inpatient deaths and who died whilst in their care.
+
+As the chair has already said, this is proving to be a difficult exercise.   This is in part because there are issues with the availability of data.   Very sadly we may never know the precise number of those who died and come within the Inquiry's scope, but we will continue to work with and require information from the providers and intend to provide the best estimate possible.   The further work done has already demonstrated that the figure previously given of 2,000 deaths will rise substantially.   We will provide an update about this at the November hearing.
+
+The evidence from the families and friends of those who have died and from patients with lived experience will be at the heart of this Inquiry.   We are very grateful to those who have engaged with the Inquiry already and we will do all that we can to support others who may wish to engage in due course.   The Inquiry also understands, however, that there may be some for whom such engagement is simply too difficult.    We will continue to look for answers on their behalf.
+
+As well as the powerful and moving commemorative evidence that we will hear over the next two weeks, the Inquiry will hear evidence from a number of patients about the impact on them of their experiences.    We have already received courageous and compelling accounts from former patients.   The vital importance of that evidence is best illustrated by some excerpts from one of these accounts which I would like to read at this stage. A former patient has told the Inquiry -- and I quote:
+
+"I became ill when I was at university.      I was a high achiever and like many young people I was overwhelmed with the pressures of university and this led to a real deterioration in my mental health and a number of suicide attempts that led to my eventual admission.   What should have been a relatively straightforward encounter with services to develop mechanisms to cope with life turned into a very traumatic experience and I am both physically and emotionally scarred from that experience.   The point I would make is that I was just a relatively typical person who had a mental health crisis, something that could happen to anyone.
+
+"When I first heard about the possibility of an inquiry into a number of deaths within inpatient settings, the aspect that affected me most was the sudden difficult realisation that a number of the things I had experienced whilst an inpatient were wrong.    They had also happened to a lot of other people and the thing that probably upset me most was a realisation that I was not to blame for my presentation whilst unwell.    I feel terrible that so many people have lost loved ones and have experienced the same kinds of trauma that I did in a place where I should have been safe and supported to recover.
+
+"Whilst I have long since recovered from my mental illness, it was still very difficult to talk about what happened to me.   However, I felt, and still feel, that I have a moral duty to speak up as there are so many people who cannot.   Today I am well but I am well despite my treatment from Essex mental health services, not because of it.   No one should have to say that they are a survivor of a system that completely failed to keep them safe [as read]."
+
+That is the end of the quote and we are very grateful for that account.
+
+From next year the Inquiry will hear evidence from families, friends and patients about the detail of the care and treatment that was or was not provided as part of inpatient mental health services in Essex.
+
+The Inquiry will also seek evidence from those employed or engaged in the provision of this care.    I've outlined the relevant categories of staff from whom we shall hear, from those on the front line through to clinical managers and those in executive roles at the relevant healthcare providers.   The Inquiry has identified many such individuals and it is in the process of approaching them for assistance.     The Inquiry is pleased to note EPUT's assurance that it is doing all it reasonably can to ensure that staff members engage fully with the Inquiry.
+
+The Inquiry will examine all relevant information available to it; for example, serious incident reviews, investigative work undertaken by regulators, the police and the Health and Safety Executive, and material from inquests in order to understand the extent to which mental health services were being provided to an appropriate standard during the period with which we are concerned.
+
+The Inquiry will rigorously scrutinise the management and governance of mental health services during the relevant period.   It will look not only at the way those services were being run but also at how those in charge were learning lessons and implementing changes where necessary.   These are just examples of the investigative work the Inquiry intends to undertake. Put shortly, the Inquiry will be robust and unafraid in its pursuit of evidence to enable it to meet its Terms of Reference.
+
+The Inquiry recognises the importance of the data it will capture from the Trusts and others.   Data has the potential to provide insight to reveal trends and to expose further areas of concern.   The Inquiry will instruct an expert statistician, as the chair said, of appropriate standing and experience to assist it with its work.
+
+Issues of relevance to data collection are addressed in the provisional list of issues at section F.   This identifies relevant lines of enquiry, including about the data that was captured during an inpatient's stay on a ward and how it was recorded and analysed at the time.
+
+Issues concerning data adequacy, accuracy and availability have also been raised in core participants' responses to the provisional list of issues as well as in the written opening statements.   We will consider what they have said with care.
+
+The Inquiry also intends to hold seminars this autumn and winter.   They will provide an early and efficient way to provide uncontroversial but important background information.     The intention is that they will provide necessary context to the hearings that will take place next year and will cover areas such as the structure and organisation of NHS mental health services on a national basis and in Essex over the period under consideration as well as the legal and policy background.   We hope shortly to be able to give more information about the seminars we have planned.
+
+I now turn to speak about two different types of undertakings.   First, confidentiality undertakings. The Inquiry will make disclosure of certain of the documents in advance of hearings to core participants and witnesses so they can prepare and provide witness statements and other information as necessary.    The documents may well contain sensitive information or otherwise be confidential.     Those involved with the Inquiry are entitled to expect that the Inquiry itself and those to whom it provides disclosure will treat that disclosure responsibly and securely.    That is why the Inquiry requires everyone to whom it provides documents to sign a confidentiality undertaking.      The undertaking requires that the documents that have been disclosed are kept secure and confidential, can only be used for the purposes of the Inquiry and directly related legal proceedings and can only be discussed with the Inquiry or others who have signed an undertaking. The Inquiry takes the confidentiality of its material extremely seriously and there will be grave consequences for anyone breaching an undertaking.
+
+The second type of undertakings are those from Trusts and regulators.   The Inquiry intends to use all means at its disposal to ensure that important evidence is heard.    Where necessary, it will deploy its statutory powers to compel evidence.    In addition, the Inquiry wishes to take all appropriate steps to encourage people to come forward with relevant evidence.   It therefore considers it necessary to seek limited undertakings from the relevant healthcare providers and regulators that are designed to facilitate the flow of evidence to the Inquiry.    What this means is that the Inquiry is asking the healthcare providers and regulators to agree that they will not take action against individuals such as staff members in certain limited circumstances relating to their provision of information to the Inquiry or their failure to have come forward to provide it in the past.   Such undertakings would mean that a staff member does not need to worry about being held accountable for breaching confidences if they provide sensitive information to this Inquiry or if they come forward now with information about an incident occurring some time ago and which they should have reported at the time.
+
+The Inquiry has been in talks with the relevant healthcare providers and regulators on this issue.    We reiterate that staff are encouraged to come forward to share their experiences and that they have the support of the Inquiry in doing so.
+
+Turning now to the Inquiry's hearings, I hope that those attending will now be aware of the protocol and code of conduct for this September hearing.     Both are on the website.    We will be hearing core participant opening statements this week, followed, as I've said, by two weeks of commemorative and impact evidence.    There will be no hearing tomorrow afternoon.   This short pause has proved necessary in order to enable legal representatives of core participants to be present and fully engage in the opening statements section of the hearing.   Opening statements will conclude on Wednesday morning.
+
+I would like to say something now about the commemorative and impact evidence commencing on Monday, 16 September.    I have had the great privilege of reading the statements that have been provided and viewing the videos and photographs too.   On behalf of the Inquiry team, I would like to stress three particularly important points.
+
+First, next week, when we start to hear this evidence, will mark the most important stage in the Inquiry so far.    It is when we will hear about the lives of those who have died from their families and friends.
+
+Second, we will be hearing about people who were deeply loved, from people giving evidence with dignity and pride.
+
+And, third, those coming forward are doing so with immense courage.    We do not underestimate the difficulty of doing this and I want them to know that we thank them and we will support them.
+
+A further virtual hearing is planned from 25 November to 5 December this year.     The Inquiry recognises that not everyone who might wish to would be ready to give commemorative and impact evidence at this September hearing.      The November hearing provides another important opportunity for the Inquiry to hear from them.   We will provide details about the November hearings shortly.
+
+We then move on to 2025 and 2026.      This is the stage when the Inquiry will hear further evidence from the families and friends of those who have died, from patients and former patients, from those who work in mental health settings and from a range of other witnesses who can help us understand what has been happening in inpatient mental health services in Essex and how things need to change.   These future hearings will be evidential hearings to address the issues raised in the Terms of Reference.
+
+There will be hearings throughout 2025 and into 2026 as follows: in 2025, from April 28 to May 15, July 7 to the 24th, October 6 to the 23rd; in 2026, from February 2 to the 19th, April 20 to May 7, July 6 to the 23rd.
+
+The Inquiry will provide details of what each hearing will cover well in advance.   We intend to fix the schedule of witnesses as far in advance of each hearing as possible.   Our current intention is also to circulate an electronic bundle of evidence of relevance to each specific hearing to core participants.
+
+We wish to provide as much certainty as possible about the Inquiry's hearings and arrangements.    In this way, we hope to assist those involved with their own planning.   These dates are therefore fixed, barring unforeseen circumstances.
+
+The Inquiry considered that an inquiry which has an Essex focus should hold its opening hearing in Essex. However, we are aware of the real sensitivities concerning a number of locations in this county.    In short, they include locations where individuals took their own lives or which have connections to Government, health or other bodies that may be involved in the matters that may be investigated by the Inquiry.    In securing a venue for the hearings in 2025 and 2026 we have borne this in mind.
+
+In addition, we have been determined to find a hearing centre that is suitable for holding an investigation into matters of such sensitivity which will, as far as possible, be conducive to receiving the best evidence from a full range of witnesses.    It needs to be neutral with sufficient and appropriate space. This must include trauma-informed space.     In other words, a venue allowing access to emotional support and that is considerate of those who have experienced or continue to experience trauma, avoiding links that may be triggering for witnesses and attendees.
+
+The Inquiry has therefore decided on a venue in London, with good transport links to Essex, with the set-up and facilities that are required to ensure that this Inquiry supports those engaging with it and runs efficiently.   It is a neutral venue with ample space, good facilities and natural light.   It is Arundel House, near Temple Underground Station, and we will provide further information about it and indeed about the hearings in due course.
+
+It will not be necessary to attend hearings to view what is taking place.    Hearings will be filmed and a live feed will be available for those wishing to follow proceedings in that way.    A secure link will be made available to core participants and their legal representatives should they wish to access the hearings in that way.
+
+Finally, on the question of venues, I'd like to say that the Inquiry may hold a further hearing or hearings in Essex.   We will liaise closely with core participants and others about this.    We intend to ensure that we create the right environment for this Inquiry.   We place the well-being of those involved in the Inquiry's work at the centre of the evidence-gathering process and acknowledge that the giving of evidence may be challenging.   Our aim is that the Inquiry and its hearing spaces are safe spaces.    Every person engaging with the Inquiry should be able to share their experiences to the best of their ability.   We will wish to engage with core participants and their legal representatives about the best way to achieve this.
+
+The Inquiry will put in place special measures and support to ensure that those who are vulnerable are looked after properly.   Special measures are adjustments at hearings which may be made for witnesses to ensure they are able to provide their best evidence.    Further information about this can be found in the Inquiry's vulnerable witness and restriction orders protocols.
+
+The terms of reference require, at paragraph 9, that -- and I quote:
+
+"Those engaging with the Inquiry are to be treated by all parties with courtesy."
+
+We ask that Inquiry participants respect the right of all witnesses to be heard.    We understand how difficult it may be to hear some of the evidence and the anger and the distress to which it may give rise, particularly in the hearings from next year.    But all witnesses must be heard and treated with courtesy, no matter what subjects they are addressing, if the Inquiry is to be able properly to fulfil its role.
+
+Chair, you have referred already to the terminology the Inquiry team plans to use in connection with the deaths and other matters you are considering.    The Lampard Inquiry document on terminology and abbreviations is available on the website.    It will be reviewed and expanded after this hearing.    Although the language set out in the document is not mandatory, as witnesses are free to express themselves as they choose, it is helpful to have a reference document explaining the terms the Inquiry will be adopting.      We will keep this document under review and would be happy to engage with core participants and others who have suggestions for its development.
+
+Chair, a written version of this opening statement, my opening statement, will go on to the website with hyperlinks to most of the documents to which I have referred.
+
+I conclude by saying that the Inquiry's legal team recognises the urgency and importance of the task upon which we are embarking.      We will be dedicated, determined and thorough in our pursuit of the truth.       We look forward to working with core participants and others to advance the work of the Inquiry.     We look forward to assisting you throughout so that you are able to meet your terms of reference and to deliver a strong report with robust recommendations.
+
+Chair, that is all for this morning.     The hearing will resume this afternoon with Mr Snowden's opening statement.   Should we say at 2.20 pm to allow people a full hour over lunch?      2.20 pm.
+
+**The Chair**: Thank you.   Thank you very much, Mr Griffin.
+
+*(1.18 pm)*
+
+*(The short adjournment)*
+
+*(2.23 pm)*
+
+**The Chair**: Mr Snowden, thank you.
+
+Opening statement by Mr Snowden
+-------------------------------
+
+**Mr Snowden**: Thank you.   Chair and all those present here and those watching online, good afternoon.    I'm Steven Snowden.    I'm leading counsel, instructed with a small team of barristers by Hodge Jones & Allen and the team there, led by Nina Ali, the partner leading this case, to represent 52 core participants who instruct them.    We also represent other clients who are not or not yet afforded core participant status.
+
+Speaking on behalf of a large group is never easy but we do our best and we trust, Chair, that you will, so far as possible, allow each to have their own voice, expressed through their witness statements and evidence, as and when they are called to give it as this Inquiry proceeds.    We are very grateful for the opportunity to speak first after your Counsel to the Inquiry.
+
+Some of my thunder has been stolen, but I was going to start with two numbers: first, 24 years, 2000 to the end of 2023, and, second, the fact that this Inquiry is investigating up to or was believed to have been investigating up to 2,000 deaths which may have been preventable.   I'll say that again: 24 years and 2,000 deaths which may have been preventable.    I said two numbers.   There's a third because that translates to almost 100 deaths a year.
+
+Now, Chair, we heard what you said this morning and absolutely concur that having the correct numbers and understanding as best we can of whether that 2,000 figure is right or not is crucial.   It would be helpful to the Inquiry and it would be helpful to carry through the strength of the recommendations you make if we can see the magnitude of the numbers affected.   But, having heard, Chair, what you said this morning, that 2,000 deaths may or may not be an underestimate, given that your Inquiry covers a greater number of years and a greater constituency, if I can put it that way, than the previous informal Inquiry did, it seems likely it will be at least that number, so I proceed on that basis for now.
+
+But those numbers are simply shocking.    I say that on behalf of all of our core participants and I'll say it again: shocking that those deaths have occurred. Each death, as we know, leaves a family bereft and, insofar as each death was preventable, needlessly bereft, which is utterly shocking.
+
+Our cohort of core participants have said for years that there has been woefully sub-standard, inadequate, unacceptable care, clinical care practice.   They've said poor care, poor treatment decisions, statistically high levels of suicide, preventable deaths, lack of continuity between inpatient and outpatient care, abuse and maltreatment.
+
+Chair, we recognise and are grateful that the very fact of there being a statutory inquiry being convened, as we set out in writing in our written submissions, which we understand you'll publish shortly, is itself a recognition that there is something of real concern in mental healthcare in Essex and continues to be so.
+
+We together say and we believe you will find that each of those deaths was not an accident in the sense in which we use that word.      An accident in its true sense is something which is avoidable.      It's an avoidable misfortune.    These were avoidable deaths, we believe you will find.    Inquest juries and coroners have repeatedly said so.    Health Ombudsman reports have repeatedly been critical.    Many of these deaths were in fact criminal, as established by the guilty plea that your Counsel to the Inquiry referred to earlier, to charges arising from 11 deaths.    These were preventable deaths.
+
+Then we put the context on it, Chair, if you'll allow me to do so in the language my clients would like me to use.    In the ordinary course of events, any death naturally brings sorrow and mourning and feelings of loss, but these were preventable.   We pause for a moment and imagine how that feels.   A parent trusts their child, let's say, to the state, to the NHS.    They are devastated at the loss of their child.   They are destroyed at the guilt they feel, having trusted their loved one to others and been let down.   They are then dehumanised by the way they are dealt with in the aftermath of that death.   To those three Ds, we then add that they are universally disgusted by the cover-ups and the failure to learn lessons, with the result that others suffer the same avoidable loss later.
+
+They universally encourage me to say to you that the complete trust they placed -- these families and these patients -- in the state and in the NHS bodies, which are the emanation of the state, and in the clinicians and in the mental health staff has been broken.     So we welcome this Inquiry, I say on their behalf, but at the outset I am going to give an illustration of that broken trust because this, we say, is the Inquiry that almost did not happen.   I have a graphic to illustrate.
+
+Chair, you may or may not have seen that on Saturday, at the weekend, The Daily Telegraph and The Times and then other media bodies picked up and ran the story which I'm showing on the screen now. A special report:
+
+"Revealed: how Dorries tried to isolate mother seeking justice for her dead son."
+
+Chair, you will see that those who are in the room and I hope those who are watching online, whom I represent, can see that we're not afraid to take you to this.   The Telegraph report says this:
+
+"A Health Minister attempted to block a full public inquiry into suspicious deaths in mental health hospitals, The Telegraph can reveal.   Leaked WhatsApp messages revealed that Nadine Dorries, a Conservative Health Minister under Boris Johnson, sent a message to Matt Hancock, then Health Secretary, saying she was picking off families whose relatives had died as a way to ensure that a full public inquiry into suspicious deaths was not launched [as read]."
+
+Chair, if we look at the second page, please, you'll see there the Daily Telegraph, in its graphic way -- thank you for highlighting -- has picked out WhatsApp messages in a manner you'll see them on a telephone. You'll see attributed to -- as I say, this was run in both The Times and The Telegraph -- to Nadine Dorries MP, writing to Mr Hancock:
+
+"Sorry to bother you about this on a Saturday but I have a petitions debate [there's an explanation for what that is] on Monday [as read]."
+
+And these messages are, Chair, you will note, in November 2020, which is the stage at which so many of my clients and others had been campaigning and campaigning and campaigning for a public inquiry and a debate was about to be held in Parliament.    You will see that Ms Dorries' WhatsApp carries on:
+
+"The Linden Centre Inquiry, the scope was very narrow, half a dozen cases, but as a young boy died there two weeks ago, I'd like to extend the scope to the present day [as read]."
+
+Now, that's laudable.     But we carry on beneath that, and if we move just a couple of lines down:
+
+"Melanie Leahy, one of the mums, has the weight of the media behind her and I'm sure she's being advised by a journalist as she is still calling for a full public inquiry [as read]."
+
+Pause and digest what comes next:
+
+"We aren't going there and I'm picking off the other families and speaking to them one by one to get them on side to isolate her.   But it's incredibly sensitive and difficult as all of these young boys died in very suspicious circumstances [as read]."
+
+Mr Hancock replies:
+
+"Okay, I will back your judgment on all of these sorts of cases [as read]."
+
+Ms Dorries replies, and again we see at the end of a WhatsApp message, "MH [shorthand for mental health] is so effin political [as read]".
+
+We can see further -- if we close the zoom-out box for a moment, if that's possible -- the final lines of the report immediately above:
+
+"Ms Dorries says [three lines up from the end of the paragraph above], 'I want this on the road before recess so that the Government keeps control'.    Mental health is so effin political'.    She also writes, 'I want out of mental health asap.    It's demoralising' [as read]."
+
+Now, Chair, I hope you'll forgive me if, at the request of those families I represent, I say just a couple of things about that.    First, those who campaign and campaign and campaign against what they see as iniquities perpetrated on them by the state are often caricatured as conspiracy theorists.     They're often caricatured as those who say, "Somebody is trying to stop me getting what is right".   Chair, we say that is part of what's occurred here.    We trust our politicians and agencies of the state to look after us, so those families I represent feel disgust and revulsion at this dreadful betrayal of their trust.   They campaigned for years to get a full proper statutory inquiry and it seems behind the scenes politicians are agitating and turning one against the other to achieve a different result.
+
+Now, our belief, Chair, and we fear that you will find, is that failures are continuing, lives are continuing to be lost.   Chair, you and your Counsel to the Inquiry have correctly talked about the need to proceed with all due speed to ensure thoroughness because we believe lives continue to be lost.    So we pause for a moment and wonder whether, by denying a full proper statutory inquiry in late 2020 and the fact that at least three years have now passed before we have the first hearings in this full statutory Inquiry -- quite what effect those three years of delay have had in terms of further harm, suffering, injury and loss, and that those I represent invite you to consider as disgraceful.
+
+Oddly, Nadine Dorries at the time held a post of Minister for Patient Safety, Mental Health and Suicide Prevention.    What she did, we say, is a classic example of cover-up.    It's a classic example of campaigners being actively undermined, a deliberate divide and conquer strategy, when all these families sought was the truth.
+
+So we do welcome your and your Counsel to the Inquiry's statement that families and patients will be at the heart of this Inquiry, but the story broken at the weekend demonstrates that others have professed similar sentiments which turn out to be empty.    So we emphasise again that we look forward to building trust with this Inquiry to ensure that things can be different in the future.
+
+We do ask in due course -- we'll perhaps make a formal request in due course -- that Ms Dorries and Mr Hancock be called to give evidence, but that's a matter for another day.
+
+I'm going to move on to talk about something else. Part of this is the history of how we came to be here, and again your Counsel to the Inquiry, Chair, has explained the campaigning and the steps that were taken to bring us to this point.   The start of these public hearings is, we recognise, one more step in what has been a long and arduous road for the patients of the Essex Trusts and for the families of those who died. You, Chair, understand -- I know you do -- that the call for an inquiry followed repeated serious concerns raised about the standards of care in Essex NHS Trusts by coroners, by the CQC, by the Parliamentary and Health Service Ombudsman amongst others.
+
+Now, it seems to us extraordinary in the 21st century that an NHS Trust should have been prosecuted in a criminal court, as described by your Counsel to the Inquiry, for failing sufficiently to manage environmental risks in its mental health wards, with the results that 11 patients died by using ligature points, but that is exactly what happened.   The Trusts were prosecuted, pleaded guilty and sentenced in the summer of 2021.
+
+For the avoidance of doubt, we and the families I represent say that avoidable deaths by use of ligature points is only one aspect of the many shortcomings of the Essex Trusts in the period you will be investigating.    A number of the others were graphically illustrated in the Channel 4 Dispatches documentary which aired in October 2022, which, we say, shows dreadful, brutal treatment.
+
+It further seems extraordinary in the NHS in the 21st century that, when a non-statutory inquiry into the shortcomings of the Essex Trusts begins, rather than there being full wholehearted co-operation to allow a swift successful investigation for things to be put right, instead that Inquiry is thwarted by lack of co-operation and lack of engagement.    We've given you three examples of that in our written submissions, our written opening, but as those haven't yet been published, you will forgive me illustrating them and reading out loud three examples of those on the issue of engagement.    The Trust did email a number of current employees, but surprisingly, with a number of former employees for whom it didn't have a current email address, it didn't send letters by post.
+
+We understood from a report of a Westminster Hall debate that, of the many thousands of current and former employees contacted by the previous iteration of this Inquiry, it is understood that only 11 had agreed to give evidence by January 2023.
+
+Finally, Dr Strathdee, as your counsel has reminded you and reminded us all, Dr Strathdee, chair of the non-statutory Inquiry, considered a statutory inquiry, such as yours, was necessary due to the lack of engagement and the lack of powers of compulsion.    She described that fewer than 30% of what she thought were essential witnesses had agreed to attend evidence sessions.
+
+Before I proceed further, though, we're going to take a sidestep.   I would like to set the scene because the evidence the families have given and will give of being let down badly by institutions of the state is not new.   So taking a sidestep from our written opening, in this oral opening I'm going to emphasise two words which we hope will resonate throughout the rest of this Inquiry.    The first is "candour", which is not a word in usual usage but it is the quality of being open, honest and frank, and that we invite you to find -- we will invite you to find -- is what was lacking in the responses of the Trusts towards the concerns of the patients, towards the concerns of the families.
+
+The second word I'm going to invite you to consider and think about for a moment or two is the word "justice".   Again not common usage.   Lawyers use it, we use it.   I'm going to ask you to go back some distance in time to 2017 to Bishop Jones, the Bishop of Liverpool, and his report into the Hillsborough tragedy. What I invite you to consider is that those I represent can be described as seeking justice, and the purpose of this Inquiry is to achieve justice, not through the courts but through the statutory inquiry process.
+
+Our core participants have fought and fought and campaigned and asked and enquired and sought clarity and sought redress and demanded an inquiry after doors are slammed in their faces, and their overwhelming common experience is of having been ignored, sidelined and belittled by those in authority.   Without exception, they are all individuals who have placed their trust in medical professionals and then placed their trust in other authorities and in Government to get it right and their trust has not been met.   Individuals have been disempowered.
+
+So I'd like to take you back to the Hillsborough story for a moment and, as I say, the former Bishop of Liverpool, the Right Reverend James Jones, was commissioned in the wake of the final Hillsborough inquest by the then Home Secretary to report on the experience of ordinary members of the public who had been the victims of the Hillsborough tragedy.    He produced a report in November 2017 entitled "The patronising disposition of unaccountable power", which is a very wordy title but we'll explore what it means in a moment.   I'd like, if I may, to quote two paragraphs from his introduction.   He writes of his exploration with the Hillsborough families.   He says:
+
+"Over the last two decades, as I've listened to what the families have endured, a phrase has formed in my mind to describe what they have come up against every time they have sought to challenge those in authority: the patronising disposition of unaccountable power. Those authorities have been in both the public and the private sectors [as read]."
+
+He goes on to say:
+
+"The Hillsborough families are not the only ones who have suffered from that patronising disposition of unaccountable power.   The families know there are others who have found that when, in all innocence and with all good conscience, they have asked questions of those in authority on behalf of those they love, the institution has closed ranks, refused to disclose information, has used public money to defend its interests and has acted in a way which is both intimidating and oppressive.   And so the Hillsborough families' struggle to gain justice for 96 [he says] has a vicarious quality so that whatever they can achieve and call into account those in authority is of value to the whole nation [as read]."
+
+That we invite you, Chair, to consider is very much the sense of what we have been told and we believe you will be told time and time again by those I represent. That has been their experience too.
+
+We emphasise, using the words they'd like me to use, that that is simply wrong.    It's not a lawyer's definition of a crime or of negligence, but to any right-thinking person it is wrong that that can happen. It shouldn't have happened.
+
+So how do we describe the justice that our families are looking for?   First, it needs to be based on knowledge.   We are grateful that you and your team of counsel recognise that full access to the facts and information must be the foundation of achieving justice in this case.   Those I represent are demanding to know what actually happened -- in some, it's individual cases.   For all, it is on the wider stage of the structure and the organisation and the response of the Trusts -- and then what happened or how it came to be that things were covered up afterwards when they began to ask perfectly proper questions.
+
+They want to see and hear the truth, the unvarnished full truth, of what happened to their loved ones.    They want to know why and how it was allowed to happen to their loved ones.   There needs to be recognition and accountability and, again, there needs to be no way that this can happen again.   By "this", we mean not only the horror of each individual's case but the inaction and inertia and failure to learn that has followed each.
+
+I'm going to come back to the Reverend James Jones now just for a moment.   In his report he recommended a charter for families bereaved through public tragedy and since 2017 various public bodies have signed up to it as a code of how to behave when their own behaviour is called into question.    And we would like to hear from each of those who follow me in their opening submissions that each of the public bodies here has committed to that charter and will follow through its advice, because this should not be an inquiry that deals with bodies who are closing doors in our faces, but with public bodies who positively welcome the opportunity to engage and to be frank and who welcome it genuinely rather than paying it only lip service.
+
+This Inquiry is investigating a public tragedy in exactly the same sense as Bishop Jones has been describing, so the things he says about the perspective of the bereaved, the injured, must not and cannot be lost.   So his charter contains six points.   The first is this:
+
+"In the event of a public tragedy, the body is to activate an emergency plan to deploy its resources to rescue victims [as read]."
+
+Now clearly what we mean here is to remedy so far as possible.   But it carries on:
+
+"... to support the bereaved and to protect the vulnerable [as read]."
+
+We pause and we comment and we wonder whether that in fact will be established as ever having happened in many of the cases that you will investigate.
+
+Second, point 2:
+
+"Place the public interest above your own reputation [as read]."
+
+So, again, we encourage those public bodies, as, Chair, I know you do, and we hope we will hear words that say they will.    Not to be defensive, not to obstruct this process, not to withhold documents, not to be slow; to comply, to volunteer, to be proactive and to be helpful.
+
+Point 3 of Bishop Jones' recommendations:
+
+"Approach all forms of public scrutiny, including public inquiries [he says], with candour, in an open, honest and transparent way, making full disclosure of relevant documents, material and facts.    Our objective should be to assist the search for the truth, to say we accept that we should learn from the findings of external scrutiny and from past mistakes [as read]."
+
+So, again, we invite absolute clarity from those public bodies involved in this Inquiry that they will indeed assist the search for the truth and actively do so.
+
+Bishop Jones' fourth point:
+
+"Avoid seeking to defend the indefensible or to dismiss or disparage those who may have suffered where we've fallen short [as read]."
+
+Let me read that again.   I'm sorry, I stumbled over the words:
+
+"Avoid seeking to defend the indefensible or dismiss or disparage those who may have suffered when we have fallen short [as read]."
+
+Again, Chair, we believe you will hear reams of witness evidence that public bodies have sought to defend the indefensible and they have sought to dismiss and disparage -- we saw an example five minutes ago -- those who suffered.
+
+Bishop Jones' fifth point:
+
+"Ensure all members of staff treat members of the public and each other with mutual respect and with courtesy.   Where we fall short, we should apologise straightforwardly and genuinely [as read]."
+
+Again, we don't believe that's happened.   We look forward to your Inquiry, Chair, and to seeing that co-operation from the public bodies here.
+
+Point six, the final one of his six:
+
+"Recognise that we are accountable [so this is speaking to the public bodies] and open to challenge. Say that we'll ensure that processes are in place that allow the public to hold us to account for the work we do and the way in which we do it and that we will not knowingly mislead the public or the media [as read]."
+
+We pause there because an inquiry which makes no change is pointless and, Chair, we know that you and your counsel team are committed to achieving change insofar as it's possible.   We do say that public bodies recognising that they are accountable and the process of being held to account by you is going to be the first step in learning and changing and in putting right.
+
+So, against that background of Bishop Jones, what do the families and the bereaved who I represent want? It's very simple: no more unnecessary deaths. Articulated in different words in different evidence from different witnesses, they want good care for the next generation of mental patients.    An expression, "I don't want to see this happening to any other family ever"; and from another one, "I want change.    I want my answers but I want meaningful change.   The whole system needs a radical shake-up [as read]".    These families have to have their voices heard.    They want good, safe hospitals with staff that care.    And that seems so simple and so obvious to say, but I juxtapose that for one moment with the finding of an inquest jury that the young man concerned was subject to a series of multiple failings and missed opportunities over a period of time by those entrusted with his care.   We look forward to the day when inquest juries in Essex won't say that anymore.
+
+And the families want accountability.    There are, they believe, a number of individuals who have fallen below acceptable standards by any stretch of the imagination.   We recognise, as your counsel recognises, as you recognise, Chair, that it's no part of a public inquiry to find criminal or civil blame, fault, but, Chair, we endorse what your counsel reminded you of, which is that you can be strongly critical, short of finding criminal or civil blame, and we will encourage you to do so.
+
+Now, Chair, if you'll forgive me, I am I hope not going to take long, but as our written opening is not yet up on the Inquiry's web page and many in the room and many watching online will not have read it, I'm going to briefly summarise it.
+
+We have appended to the back of it a chronology, a long list of dates and events, where we have begun, from what we know, from the limited resources we have, to list this catalogue of catastrophic failings.    But it is only based on what we know.   It's based on information that is in the public domain and it is only the beginning.   We've hardly scratched the surface in what we, as the collective knowledge of a body of 52 core participants and others, currently know.
+
+We recognise that the job of this Inquiry will include, as your counsel recognises, exploring and understanding the background material that we don't know and we expect a much more full timeline of failures -- of some good practice.   Chair, you're entirely right, you may well find good practice -- but a failure upon failure upon failure, which of themselves evidence an inability to learn, an inability to recognise what's gone wrong and an inability properly to correct it so that the failures continue.
+
+Chair, with your permission, what I'm going to do briefly is outline three things: first, what our clients expected and what we believe anyone who uses NHS services expects from the Essex Trusts; second, I'm going to very briefly outline what they in fact got, what actually happened contrary to their expectations; thirdly, I'm going to give an indication of what we hope for from this Inquiry, which chimes with, Chair, what you yourself have said and with what your counsel said.
+
+First, what do we expect?   What did my clients and the core participants I represent expect and what were they entitled to expect from these Trusts?   We put it this way: when we entrust our health and that of our loved ones to the care of an NHS hospital, we are expecting to be taken care of and we are expecting to recover.   We expect to recover because mental illness is not a terminal diagnosis.   Even if it carries risk to life or may have a life-long impact, fundamentally we do not expect our loved ones to die while undergoing treatment for psychiatric illness.   Instead we expect their symptoms to get better and, ideally, to resolve.
+
+We do not expect them to be traumatised or retraumatised by ill-treatment and abuse they suffer or that which they witness while under NHS care.    We do not expect their physical health to be poorly treated or for them to suffer avoidable injury while on an NHS ward. Yet they say and will say in evidence to you that this happened again and again to patients in the care of the Essex Trusts.   What is more, every time it's happened, there was an opportunity to prevent further death and ill-treatment, but lessons weren't learned, practices didn't change, poor decisions were repeated, the tragedies continued and they continue to this day.
+
+The expectation of our clients: the first one worth highlighting is the entitlement to be treated competently and with dignity, and the law, the common law, entitles us to that, to be treated with medical treatment of a standard that a reasonably competent medical professional would provide.   It's called a "duty of care".   Chair, we know that.   Your counsel knows that.   It's a phrase that's bandied around more widely now, but it's helpful, in part because it resonates with a sense of care and compassion for mental treatment of patients.   So it's both a moral duty and a legal duty, and that duty has to be discharged by the NHS Trusts broadly but by individual healthcare workers too.
+
+On top of that, Chair, as we've set out in our written opening for you, there are a number of duties imposed and expectations arising from the European Convention on Human Rights.   The first of those of course and the most significant in this context is the right to life.   As long ago as 2009 a case went to the House of Lords, a case called Savage v South Essex Partnership NHS Foundation Trust, and I'll say very little more about it given that one of the counsel involved in that case is present and representing another body in this Inquiry.   But the House of Lords in that case found that a state is under an obligation to adopt appropriate measures for protecting the lives of patients in hospitals.
+
+It will involve ensuring that competent staff are recruited, that high professional standards are maintained and that suitable systems of work are put in place.   We anticipate this Inquiry will find that many of the relevant systems of work simply were not properly implemented in the years you're looking at in the Essex Trusts; either accessing patient data, communicating within the Trust, communicating between the Trusts and other agencies -- from those more systemic issues right down to fundamental ones of staff being asleep while on duty.
+
+We think the Inquiry is likely to find -- we will encourage you in due course to find -- that some of these systems of work probably weren't even suitable to begin with.   The House of Lords is particularly aware of the position of patients in mental health Trusts, saying as follows:
+
+"Plainly, patients who have been detained because of health or safety demands that should receive treatment in hospital are vulnerable.   They are vulnerable not only because of their illness, which might affect their ability to look after themselves, but also because they are under the control of hospital authorities.    Like anyone else in detention, they are vulnerable to exploitation, abuse, bullying and all the other potential dangers of a closed institution [as read]."
+
+Those, we say, are the very dangers that manifested themselves in many of the cases we believe you will be looking at.
+
+The House of Lords continued, identifying that there is an obligation on health authorities and hospital staff to do all that can reasonably be expected to prevent patients from committing suicide.
+
+The second right under the European Convention that we would refer you to and we have referred you to in writing -- and I'll skip briefly through these because nobody is terribly interested in the law -- but these are setting out the standards that most rational people would expect for their patients, for their loved ones, when they go to hospital: a right to freedom from inhuman and degrading treatment and suffering.
+
+We pause there and we will say that you, Chair, will be able to discern what we will characterise as cruel and inhuman treatment of inpatients being seen, for instance, in the Channel 4 Dispatches documentary.    We anticipate you will find instances of that sort of treatment being imposed on patients who are vulnerable for all the reasons identified by the House of Lords in the case I've just mentioned.   Those reasons, that vulnerability, ought to have led to those patients being treated with more sensitivity rather than with less.
+
+There are other aspects that we've identified in our written opening and I won't mention them now, but we move from the European Convention on Human Rights to the Parliamentary Health Ombudsman, who, again, your Counsel to the Inquiry referred us to this morning.   He identified in 2019 and before then that patients have the right to be treated with dignity and respect in accordance with their human rights and his report went on to observe that his casework showed an individual's human rights can be infringed as a matter of poor care. The Ombudsman went on to say, "Patients who use mental health services should be treated with dignity at all times, particularly in times of crisis, when an individual's illness may compromise their own ability to understand their own actions.   It is vital to the trust we place in mental health services that they protect and respect our human rights when we cannot do so for ourselves [as read]".
+
+Then we ask what the NHS itself says about the legitimate expectations we have when we go to them as a patient.    And there's a constitution -- as you'll see in our written submissions.   Chair, you will know this -- there is a constitution to the NHS and it begins as follows:
+
+"The NHS belongs to the people.    It is there to improve our health and well-being, supporting us to keep mentally and physically well, to get better when we're ill [as read]."
+
+It carries on:
+
+"The service is designed to improve, prevent, diagnose and treat both physical and mental health problems with equal regard.   It has a duty to each and every individual it serves and it must respect their human rights [as read]."
+
+Yet a further example of the legitimate expectation that my families had in placing their loved ones in the NHS' hands is Dr Strathdee's Rapid Review commissioned earlier.   Its ministerial foreword, so written by the minister, says:
+
+"Every patient deserves to be treated in an environment where they receive high quality care and are treated with dignity and respect, and their families and carers deserve to be reassured that their loved ones are safe."
+
+Now, all of that seems blindingly obvious and none of it would have needed to be articulated so explicitly had things not gone so wrong.
+
+We've also written that we expect -- and I won't unpick this very much more verbally here and now because everyone will be able to read, Chair, as you have already read, our written opening.   It is legitimate to expect a duty of candour, not least because, in October 2014, eight of the regulators of healthcare professionals in the UK, including the General Medical Council and the Nursing and Midwifery Council, identified that all healthcare professionals have a duty of candour.   You'll recall it's being frank, it's being honest, it's being open.    It's not concealing or obscuring.
+
+We say there are two components to this duty and this expectation that my core participants had of placing their loved ones into the hands of the NHS -- two components: first, a duty to be open and honest with patients if something goes wrong.    There's advice in those publications on how to apologise.   The second component, though, is to be open and honest within the organisation itself so as to encourage a learning culture by reporting adverse incidents that lead to harm as well as near-misses.    So our clients are entitled to expect that the complaints and concerns they raised would have been listened to and promptly addressed, and we anticipate -- we fear that you will find that this duty of candour has not been adhered to nor has the learning culture been established.
+
+Again, the Parliamentary Health Ombudsman -- as I'm sure the Inquiry will look at in due course and your leading Counsel to the Inquiry has mentioned already -- after a number of reports into serious issues and events identified -- we identify as follows, that wherever there is a -- so far as we've been able to find on public web pages where there's a Trust's response to concerns to prevent future deaths expressed by a coroner, there is a statement which invariably reads along these lines from the Trust:
+
+"I'd like to begin by extending my deepest condolences to the patient's family.    This has been an extremely difficult time for them and I hope my response provides the patient's family and you [the coroner] with assurance that the Trust takes their loss seriously and has taken action to address the issues of concern raised in your report [as read]."
+
+Now, the mere fact that that is repeated and repeated but at the same time the same sorts of incidents recur and recur, those words ring hollow.
+
+So we say that all this that's happened has betrayed the trust placed in the Essex Trusts by our patients and their families.   Our patients are exhausted -- our parents are exhausted, our families are exhausted and upset from the experience, but they expected as a minimum that healthcare professionals would treat their relatives with compassion, decency and tenderness that they would have done themselves.   They did not expect their loved ones to be belittled, ignored or abused, and if it did happen, the least they then expected was transparency, which they did not get.
+
+So, Chair, that explains why, and I'm sure you understand already, our clients have come to expect little that is good and much that is bad due to what they have experienced from figures of authority, from Trusts, from those whose job it should have been to have protected them, and, again, as graphically illustrated earlier in my opening now and in the newspapers on Saturday, from those politicians whose job ought to have been to have ensured those steps were maintained.
+
+So we hope and look forward to this Inquiry demonstrating that your approach and your counsel's team will be thorough, vigorous, trustworthy, capable of meaningful change and demonstrating that to our clients.
+
+But turning from the expectation to what actually happened, I'm going to tread very lightly here because you will in due course hear -- and over the next two weeks you will hear details from families who have lost loved ones.   Instead of seeing their loved ones getting better, as they'd hoped and expected, they had to watch helplessly as they got worse.   Their own efforts to intervene would have been rebuffed by the Trusts and they suffered the devastating loss of family members.
+
+In our written opening for you, Chair, we have not set out very many individual examples of the failings. We have sought instead to categorise them and we've identified no fewer than 20 areas in which we expect and regret that you are probably going to find that there has been a lack of care, there has been neglect, there has been systemic failings, ranging from, on the one hand, poor engagement with families, dismissive language, lack of compassion, failing to involve patients and families in decision-making, core collaboration between agencies, discharging patients at inappropriate times; and on the other side of that coin, failing to admit them when in desperate need, inaccessible out-of-hours services, a lack of understanding of neurodiversity, which your leading counsel touched on earlier this morning, lack of understanding of addiction, inappropriate medication, misdiagnosis, inappropriate use of restraint and force and various other issues; combined then to make what is bad worse by poor record-keeping, clerical errors, inaccessible records, seeking to conceal and seeking to change records.   Those are examples of the sorts of things we believe this Inquiry will hear about.
+
+I'm going to give you, if I may, four further slightly sharper examples.   First, at a point in time which I'm sure the Inquiry will itself investigate in due course, the Conduct and Competence Committee of the Nursing and Midwifery Council found that a nurse employed by the Essex Trusts had said about a patient words to the effect of, "He was just a drunk anyway", in the context of his death, and she'd previously -- or they had previously said words to the effect of, "If I ever get like that, I want to go to Switzerland". That individual's conduct was investigated after it was discovered that they and others had attempted to cover up by manufacturing a backdated care plan for a patient after their death.
+
+Quite separately, Chair, you will be aware of and no doubt have in mind to investigate an inquest jury which found that two groups of staff claimed to have unlocked a door behind which another patient was dying and they, the jury, concluded that both groups were correct, and the only but horrifying implication of that is that the first set of people to unlock the door simply closed it and locked it again.
+
+The fourth example, one I won't delve into any deeper, but allegations of sexual abuse perpetrated on inpatients and complaints about potential sexual abuse or alleged sexual abuse not being appropriately followed up.    So those are the sorts of things that happened as opposed to the expectation that our core participants had.
+
+So turning finally then to what we hope and expect from this Inquiry.   First of all, as I said, we look for candour, we look for justice, we look for this Inquiry to find the truth and we absolutely recognise that that is the aspiration, the determination that you and your counsel team share, and we're grateful for that.   We recognise, though, that if you merely report on what happened and cannot effect change, then this Inquiry will not have served its function.   We recognise that many other public inquiries have dealt with cumulative failures on the part of the NHS, for instance the recent report of the Infected Blood Inquiry.   The chair, Sir Brian Langstaff, noted:
+
+"It is a sad fact that very few inquiries into aspects of the health service or parts of it have ended without recognition of the cultural need to change. Over the past 50 to 60 years there have been several inquiries of different types but nearly all have had some such recommendation [as read]."
+
+Sir Brian Langstaff, the chair of that Inquiry, went on to say that the retiring Parliamentary Health Service Ombudsman, Rob Behrens, to whom your leading counsel referred earlier, reported as recently as March 2024 as describing parts of his experience over the last seven years as:
+
+"... having to confront a cover-up culture within the NHS, including the altering of care plans, the disappearance of crucial documents after patients have died and a robust denial in the face of documentary evidence [as read]."
+
+So, Chair, you know we've raised those concerns at the very outset because we hope to be able -- we aspire to be able to work with you and your counsel team to find new and different ways to ensure that cultures can change, that you make recommendations which don't simply lie gathering dust.
+
+We recognise that indeed in your own review of the Leeds Teaching Hospital NHS Trust into the abuses perpetrated by Jimmy Savile you said as follows:
+
+"If there is any legacy from what we have learned from the behaviour of Savile through this and other investigations, it should be that both within and outwith the NHS we all pay more attention to what is going on around us; we become more courageous in challenging behaviour that is unacceptable or that concerns us in some way.    Pretending not to see cannot be an option.   Acting with compassion requires a shared commitment to protect and safeguard the most vulnerable, to take responsibility, to raise concerns and to expect and demand action by those in authority [as read]."
+
+We're grateful for you having expressed those thoughts in that way in your report into Savile.    So we do encourage you -- we're grateful to have heard you earlier today saying you're going to keep an open mind about how to proceed with this Inquiry.   We encourage you to use the full extent of your formal powers and your influence to effect change in the recommendations you make.
+
+We recognise that you will be mindful, from conducting previous inquiries and from the learning from other inquiries, that it is hard to effect change and that we need political will, we need practical recommendations, and we need things that can tangibly be done and then can be checked that they've been done, not simply again left to gather dust.
+
+So we, again, encourage you -- we've done so in writing and I do so again publicly today -- to turn your mind at the very outset to the question of ensuring the efficacy of your recommendations, how we can be sure they'll be done.   Again, we offer to be involved as core participants to assist in that insofar as we can.
+
+We're grateful to have heard from you and from your counsel that you want to foster an environment of collaboration with and amongst the core participants and it's only through that, we believe, that you may -- we may together achieve meaningful change.   We do believe and hope that meaningful change is possible with the right approach, with the right resources and with strong recommendations.
+
+My clients, my core participants, have to put their faith in both the Government and in this Inquiry.   We hope that we have begun a path of that faith and trust being earned but our final request, as I've put in writing, is for this Inquiry and for the Government to demonstrate their trustworthiness during the conduct of this Inquiry and in implementing recommendations.     I do say, on behalf of all of my core participants, that we look forward to working with you in this Inquiry.     Thank you.
+
+**The Chair**: Thank you very much, Mr Snowden.
+
+**Mr Griffin**: Mr Snowden has referred to his written opening statement.    I can indicate that the written opening statements of all core participants will be put onto the Inquiry website after the close of opening statements on Wednesday, so they'll be on the website this week.
+
+**The Chair**: Thank you.
+
+**Mr Griffin**: We reconvene tomorrow at 10.00 am, when we will hear further opening statements.
+
+**The Chair**: Thank you very much.   Thank you, everybody.
+
+*(3.34 pm)*
+
+*(The hearing adjourned until Tuesday, 10 September 2024 at 10.00 am)*
+

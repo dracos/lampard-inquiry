@@ -1,0 +1,56 @@
+name: update-site
+run-name: Scrapes/parses for new Lampard Inquiry data
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - run: |
+        sudo apt-get update
+        sudo apt-get install -y poppler-utils
+
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+        cache-dependency-path: 'requirements-parse.txt'
+
+    - name: Install dependencies
+      run: pip install -r requirements-parse.txt
+
+    - name: Make data directory
+      run: mkdir data
+
+    - uses: actions/cache@v3
+      with:
+        path: data
+        key: data
+
+    - name: Scrape transcript data
+      run: |
+        python scrape-hearings.py
+
+    - name: Parse transcript data
+      run: python parse.py
+
+    - name: Check if there are any changes
+      id: verify_diff
+      run: |
+        git add -N .
+        git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+
+    - name: Commit
+      if: steps.verify_diff.outputs.changed == 'true'
+      run: |
+        git config --global user.name 'Matthew Somerville'
+        git config --global user.email 'dracos@users.noreply.github.com'
+        git commit -am "Data update."
+        git push

@@ -1,0 +1,230 @@
+.. raw:: html
+
+   <a id="hearing-link" href="https://lampardinquiry.org.uk/hearings/hearing-day-03-opening-statements/">Official hearing page</a>
+
+Hearing Day 03
+==============
+
+.. raw:: html
+
+   <details id="hearing-meta" open>
+        <summary>
+            <span class="open">Hide video</span>
+            <span class="closed">Show video</span>
+        </summary>
+   <lite-youtube videoid="K5mt1lMsn-4" params="rel=0"></lite-youtube>
+   </details>
+
+*(10.00 am)*
+
+**Mr Griffin**: Chair, today is the last morning of opening statements from core participants. There will be no hearing this afternoon. The first opening statement this morning is on behalf of Essex Partnership University NHS Foundation Trust and will be given by Eleanor Grey King's Counsel.
+
+**The Chair**: Thank you.
+
+**Ms Grey**: Good morning, Chair. Could I just start briefly by offering apologies for the fact that I wasn't able to attend over the last couple of days? No disrespect was meant either to the Inquiry and, most importantly, to members of the families and other core participants who have been present over these last two days.
+
+**The Chair**: Thank you. I appreciate your apology. Thank you.
+
+Opening statement by Ms Grey
+----------------------------
+
+**Ms Grey**: Chair, this is the opening statement of the Essex Partnership University NHS Foundation Trust, which I've referred to as "EPUT" or "the Trust" throughout these submissions, and if I use the term "we", it's because we are referring to EPUT, its board and its staff.
+
+In these remarks, just to try to set them in context, we offer an apology for failing patients and their families when care and services have not been safe. We've acknowledged some of the main areas in which this has occurred. We've set out how the Trust and its board are responding now by referring to some of the key areas of ongoing change that we hope will be explored further in the Inquiry. The Trust board is committed to engaging candidly with the Inquiry. Finally we've set out some of the challenges faced by the Trust in their national context in the hope that the Inquiry might explore this context further and that it can be confident that learning from Essex will help to improve patient services across the whole of the UK.
+
+But I want to start with an apology. This opening statement is delivered at an early stage of the Inquiry as part of the journey that we hope and anticipate will enable much learning and further change. That includes, I should say, further reflection by the Trust on the many important issues that have been raised by core participants' opening statements over the last two days.
+
+But we do want to start by apologising, on behalf of both EPUT and its predecessor organisations, to everyone who has been failed: patients, family members and carers, by NHS mental health services in Essex. Patients, families and carers have a right to expect safe services and those were not always provided. EPUT's board and its staff are committed to doing all that they can to support you, Chair, and the Inquiry team to give patients, families and carers the answers that they have been waiting for.
+
+In a statement provided as part of the Health and Safety Executive's prosecution of the Trust, the Trust chief executive, Paul Scott, expressed profound apologies on behalf of the Trust to the family and friends of those who tragically lost their lives and for the pain and distress they continue to experience. He went on to give a personal assurance to learning from patient deaths, the patient deaths which formed the focus of the prosecution, with a commitment to improve the environment, culture and care for all patients served by the Trust.
+
+The Trust would like to repeat this apology and those assurances now to all the families and friends who have lost loved ones so that services locally are improved and the lessons learnt can be shared widely. We also offer condolences to anyone who has lost a loved one as a result of the failings in care within Essex mental health services. Each loss is a tragedy. We understand the importance of learning lessons from failings and from the Inquiry and to giving the fullest and most careful consideration to the Inquiry's findings and recommendations to reduce the risk of further losses.
+
+EPUT is striving to improve care for those with mental health needs within Essex and the wider NHS, as the Inquiry proceeds and in the light of any recommendations and findings that it ultimately may make.
+
+We fully appreciate that the information that will be shared and discussed during the Inquiry process will cause much distress for the bereaved and many current and former patients. The Trust, working with others within the wider NHS and alongside the voluntary sector, will do all it can to support people affected during this time and beyond.
+
+Before the Trust addresses some of the issues and failings that the Inquiry will cover further, it may be helpful to give some context and background about the formation of the Trust. We then turn to failings, what has been done to improve care by the Trust so far and to the national picture.
+
+Chair, I'm conscious that this repeats matters covered in our written opening statement, but we felt that it was important to put it into the public domain in full.
+
+So if I turn to the current Essex Partnership NHS Foundation Trust, this was formed by the merger between the North Essex Partnership and South Essex Partnership University Foundation Trusts, NEPT and SEPT, on 1 April 2017. In the context of this Inquiry, looking back, as it will, over some 24 years, we, EPUT, are the corporate body which has taken over the responsibility of those preceding trusts and we refer to them all together as "the Trusts".
+
+The creation of EPUT in 2017 and the appointment of Paul Scott as CEO in 2020 were all part of a process of widespread change to ensure the delivery of safe and therapeutic care to patients. This isn't the time to further outline the complexities of that past organisational history, but during the 24 years covered by the Inquiry's Terms of Reference, there have been widespread changes to the national mental health landscape of policy and resourcing, the regulatory landscape and in the commissioners to which the Trust has been held accountable. There have been changes to the physical sites from which services were provided and across the teams that delivered care. There have been significant changes to hospital configurations, services, IT systems, personnel and organisations in summary.
+
+But EPUT now provides community health, mental health and learning disability services to support more than 3.2 million people living across Essex, Luton, Bedfordshire and Suffolk. This is in fact a wider footprint than the framework set by the Inquiry's Terms of Reference, which commit it to looking at events within Essex. We work across more than 200 sites with more than 6,500 staff. There are around 100,000 patients in our care at any one time. EPUT provides a variety of mental and physical health services, from acute mental health inpatient care to diabetes and end-of-life community-based care.
+
+Many of the steps taken by the Trust have taken place against the backdrop of the pandemic in 2020 to 2023, which created particular stresses for both patients, their families and loved ones as well as staff. EPUT was the lead provider for the COVID-19 vaccination programme and had delivered about 1.6 million vaccines to people in Essex, Suffolk and Norfolk. Generally, over the course of 24 years covered by this Inquiry, there has been rising demand for services, including considerable pressures on beds and large numbers of out-of-area placements.
+
+In 2021, we launched a vision to be the leading health and well-being service in the provision of mental health and community care and since then we've continued a programme of wholesale change, with safety and engagement as the key drivers in the delivery of this vision. Prior to this and immediately following the merger of NEPT and SEPT, a programme of surveying and the removal of ligatures commenced as part of the work to bring those two organisations together.
+
+Investment in the patient environment was also undertaken as well as the review and trial of new technologies, including body-worn cameras and other technical aids, such as Oxevision. While the Trust is clear about the scale of the challenges and is making significant progress, we know that there is more to do and much to learn from this Inquiry and from those who will share their experiences.
+
+Addressing our engagement with this Inquiry, we are committed to working with this Inquiry and we are currently in the process of responding to its requests for statements. To date we've been asked to respond to five requests for witness statements or Rule 9 requests, to use the language of the Inquiry Rules, and we've filed five statements as a result, which we know the Inquiry will disclose to core participants and the wider public in due course. We expect to receive many further requests and we will respond as fully as we can.
+
+The Inquiry has produced a detailed draft list of issues and the Trust knows that the causes of deaths of patients in its care, as well as other serious safety incidents and possible failings in care, will be explored in detail by your Inquiry. We've heard over the last two days submissions that deaths, perhaps all deaths, were preventable. We know that the Inquiry is required, through its Terms of Reference, to investigate the circumstances surrounding the deaths of mental health inpatients within the scope of its Terms of Reference. The scope of those Terms of Reference is wide and the Inquiry will encounter a wide range of circumstances as a result. Those mental health patients who died within the 24 years under investigation will include patients who did die of natural causes unrelated to mental health issues, such as some who were on the end-of-life palliative pathways.
+
+We have established a Lampard Oversight Committee, which reports directly to the board and is jointly chaired with the Trust's Audit Committee and senior independent director. In addition, we have a dedicated Inquiry project team, which includes a registered mental health nurse. These arrangements will ensure that the Trust considers any emerging learning from the Inquiry as it continues.
+
+But I want to move to the subject of care failings. We are making determined efforts to improve services, but the Trust approaches this Inquiry and the evidence it will hear very conscious of the fact that, despite significant improvements over recent years and a transformative plan to improve patient care and services, EPUT still has many improvements to make. We know that the Terms of Reference and the list of issues that we've referred to set out a comprehensive list of areas for investigation. We acknowledge from the outset of this Inquiry that there have been significant failures to deliver safe and therapeutic patient treatment and care. We will seek to assist the Inquiry in investigating all those issues. At this early stage, we've highlighted a number of the areas in which there have been significant failings, but the relatively brief summary which follows below, which I'm just about to recount, is not intended to be either an exhaustive list of failures or an analysis of their causes at this stage.
+
+If I address the subject of ligature points and other environmental risks to patients. Many people of course will know that the Health and Safety Executive brought a prosecution against the Trust and, in November 2020, the Trust pleaded guilty to a charge that, during the period from October 2004 to the end of March 2015, we failed to manage the environmental risk from fixed ligature points within our inpatient mental health wards, exposing vulnerable patients in our care to the risk of harm. During this period, some 11 inpatients hanged themselves using ligature points and, in addition, others were harmed due to the failure of the Trust to eliminate ligature points on our wards. In the prosecution, the Trust accepted that lessons learned did not always result in the required or effective remedial action. We also know that further deaths involving fixed ligature points occurred after 2015.
+
+We also know there have been serious issues raised about staff conduct, including the neglect and abuse of patients, staff falling asleep on duty and inadequate patient observations. Low staffing levels, including those below those authorised by the Trust, were reported on various wards.
+
+Although it registered some areas of improvement in culture and staff morale, the 2023 Care Quality Commission or CQC report also highlighted areas where the Trust needed to act to support staff. These included staff and managers' failures to report or escalate incidences of abuse of staff, including in cases of racial abuse of staff by patients, which the CQC was told was seen regularly. The overall rating given by the CQC was "requires improvement".
+
+On the topic of sexual and physical abuse, we acknowledge that there have been serious allegations of sexual assault of patients by staff and also of staff by other staff members. There's a history of criticism in relation to a lack of segregation on wards which leads to sexual safety risks. We also acknowledge that there have been a significant number of incidents involving violence, abuse and excessive use of restraint. The Channel 4 Dispatches documentary in October 2022 highlighted issues within the scope of this Inquiry, including the abuse and mockery of patients by staff and the excessive use of restraint, and of course it was followed by CQC inspections in November 2022.
+
+We know that patients sectioned under the Mental Health Act have left the grounds of Trust facilities and failed to return. Sometimes they have left without authorisation and sometimes after being granted day release or other forms of relief, but they failed to return as agreed. The seriousness of the risk is illustrated by the fact that a number of absent patients have taken their own lives.
+
+Patients have also taken their lives shortly after being discharged from the Trust's care after delays in receiving prescriptions, medication or urgent mental health support or following assessments of their mental health needs that were later found to be inadequate due to inaccurate or out-of-date care plans, insufficient monitoring or errors and oversights in patient records or information-sharing. The co-ordination of services, including communication with partner organisations and services, has been a repeated issue.
+
+Failings in care have been exacerbated by failures on the part of the Trust to listen properly or to act upon the concerns of patients, families and friends. While there's a lot of work happening now, which I will turn to, aiming to capture the feedback of service users, families and carers and to make sure that it's listened to, the Trust acknowledges that failures to listen have led to inadequacies in care planning and in the management of patients' care.
+
+We also know that safety, hygiene and quality issues have been identified at a number of EPUT facilities. Last year's CQC report of July 2023 downgraded the status of the Trust adult mental health wards and psychiatric intensive care units to "inadequate". It examined the environment, noting, for example, that ward showers and bathrooms were said to be "visibly dirty" and the overall environment "worn and gloomy".
+
+On the topic of staff engagement with investigations, we know that concerns were raised by the Essex Mental Health Inquiry's former chair, Geraldine Strathdee, about the lack of staff response and engagement with her independent Inquiry and its work.
+
+As a result we welcome the statutory powers of the Lampard Inquiry, which give legal clarity to the position of witnesses and to the work of the Inquiry in general. The Trust is doing all that it reasonably can to ensure that staff members, past and present, engage fully with the Inquiry and give full and frank evidence. We have provided regular updates to all staff through a variety of methods, including direct mail from our CEO and executive director lead, and we've held dedicated staff sessions to answer questions. We've also conducted staff site visits to ensure that all staff are aware of this Inquiry and the important role they have to play in it.
+
+Professionals in the NHS owe obligations of candour, but in addition the staff have put in place arrangements by which staff members can seek legal advice and support in giving evidence. The Trust is very much open to considering any further suggestion to protect the interests of those who wish to speak up and which would further the public interest in the Inquiry hearing candid evidence from the widest possible group of staff members.
+
+My Lady, after recounting those issues, I'd like to turn to the current leadership and the remedial programme in hand. Even as this Inquiry progresses, EPUT continues to treat patients on a daily basis. At any one time, as I've mentioned, there are some 100,000 patients in EPUT's care. Despite the serious failings that we've acknowledged and the ongoing challenges, there have also been improvements and change initiated by the new board after EPUT was formed in April 2017. Progress has not always been smooth or uninterrupted and we know there have been further tragedies as well as external shocks, like the COVID-19 pandemic, but there has also been significant development of services and of our links with partner agencies and universities. The work is led by the EPUT board, which has focused time and resources on understanding the issues and in taking action to address them.
+
+The board appointed its first director of people and culture in August 2019 and then the "Freedom to Speak Up" guardian, both key posts in promoting cultural change amongst staff.
+
+So, Chair, I will seek to outline some of the main steps that have been taken since 2017 to ensure that services are safe and meet patient needs. Again, this isn't a complete account. Full details will be set out in statements and other evidence to the Inquiry and will no doubt be explored further by it.
+
+On the topic of ligature points and other environmental risks, there is now a ligature risk reduction group that meets every month and is chaired by the executive chief operating officer. After its formation in 2017, we undertook a full fixed ligature review across all Trust inpatient wards and spent over 6.3 million on the removal of fixed ligature points. Further gaps have been tackled by the 20 million spent since 2020 on inpatient services addressing environments and safety, including further work to reduce fixed ligature risks across the estate. All mental health and learning disability wards had a ligature environmental risk assessment carried out in the last year and received a six-month follow-up review, which focused on clinical risk management and staff coaching.
+
+The need for training reflects the many complexities of this area of risk. There has been a pattern of the risk shifting from secured ligature points, such as door handles, to unsecured ligature points, clothing and bedding. So managing ligature risks in the physical environment has to be considered in the wider context of care provision, including training, staffing, security, patient risk assessment, patient engagement, observation and care planning. In relation to bedroom doors, the trust is mitigating risk by using assisted technology, such as door top alarms, and these were in place for some 96% of patient incidents during 2023 and 2024.
+
+On patient safety, in 2021 we launched our patient safety strategy, "Safety First, Safety Always", with the ambition to provide the safest possible care. We've introduced new technologies to support safer care including the remote monitoring tool, Oxevision, which allows staff to continuously track the vital signs of patients, monitor their activity and conduct observations, alongside CCTV and body-worn cameras, all of which may provide data if there are safeguarding concerns. We do recognise that that technology must not be a substitute for inpatient observations and also that staff must be properly trained, confident in its use and aware that it doesn't replace their role and duties to check on patients if the alarm is activated. And further information about those changes will be supplied in our statements to the Inquiry.
+
+We were an early adopter of NHS England's Patient Safety Incident Response Framework, which was rolled out to all NHS trusts in 2023. That NHS England framework governs how EPUT investigates and learns from patient safety incidents and we've assisted other trusts in introducing this new framework.
+
+On the topic of staff numbers and culture, we know that the mental health workforce nationwide has been under significant stress, with workforce shortages affecting staff workload, well-being, morale and the ability of staff to provide high quality care. Against that background, we have undertaken a major recruitment drive. We welcomed over 1,700 new colleagues in 2023, including 220 from overseas. We're now accredited with the NHS Pastoral Care Quality Award for support offered to nurses and those recruited internationally. Vacancy rates in the inpatient units have fallen to 10% from an all-time high of 40% in 2020 and we are on track to have no inpatient vacancies by the end of 2024. We know we will still be recruiting for Time to Care vacancies although we remain on track to reduce our vacancy rate.
+
+Through a major transformational programme, "Time to Care", we've created new roles, including new site managers, senior nurses, at Rochford Hospital and Linden Centre to support staff and to address conduct, such as the staff sleeping on duty reported by the CQC in its July 2023 report.
+
+The Trust has introduced a new behaviour framework to ensure that every member of the organisation understands their responsibilities and their duty of care, including the need to report incidents of abuse. The sexual and physical safety of both patients and staff continues to be an area of trust [sic] and concern for EPUT, which will give the fullest co-operation to any police investigation of criminal allegations. We've signed up to the NHS Sexual Safety Charter, launched in September 2023, which provides the framework for a zero tolerance approach to unwanted, harmful or inappropriate sexual behaviour for both patients and staff. All this is linked to the cultural change that we've already referred to, including the importance that we attach to the Freedom to Speak Up initiatives and the staff behaviour frameworks.
+
+As we've already mentioned, the Trust has recently developed Time to Care, which is a five-year programme of change, co-created with service users and their families. We plan to recruit more than 300 full-time equivalent posts, adding new therapeutic roles to teams on wards: occupational therapists, physiotherapists, activity co-ordinators. We've also funded the appointment of peer support workers as part of our commitment to involve people with lived experiences within our services and to help shape changes going forward.
+
+Recruitment of those roles is underway. Time to Care will invest 14.4 million in 2024/2025, with further investment annually over the five years of the programme. The investment does allow for planned reductions in the numbers and use of temporary staff and a reduction in out-of-area placements. This is to enable greater continuity and quality of care and increasing care hours per patient, lower sickness levels, improved staff retention and, we hope, improved length of stay on our wards, all of which to support the delivery of better patient experience. Time to Care also aims to ensure that supporting technology are in place to enable Trust staff to spend more time in direct patient care. Again we provide further details in response to Inquiry witness statement requests. We've also completed, as we mentioned, the recruitment of international nurses, with investment of 6.7 million in 2023/2024.
+
+But we know that families haven't been involved or listened to properly in many instances where there were tragic harms to patients. We are committed to developing a "family first" approach to our services and to working with service users, families and carers to support people to manage their own care and to support their loved ones. We're determined to progressively build and further strengthen patient and public participation as a golden thread woven through our strategic priorities and plans and there has been a renewed focus on listening to patients' families and carers.
+
+We've introduced a reward and recognition policy for people with lived experience so that people with lived experience are paid or can choose to receive other non-monetary recognition when working on the co-design and improvement work, and this has facilitated the introduction of peer support workers on our ward in 2023.
+
+We've introduced the Patient, Carer and Family Collaborative, a key decision-making body made up of patients, carers and staff at every level of our organisation that meets on a quarterly basis. We've appointed a service user as our coproduction lead. Those feedback routes are supported by the forum and the iWantGreatCare, a feedback service for carers, service users and families.
+
+The number of lived experience ambassadors employed by the Trust has tripled over the last two years, now with over 200 current and former patients now working alongside EPUT to shape improvement.
+
+Some of this work was recognised in the most recent CQC inspection of December 2022, published in July of 2023. The Trust is not seeking to gloss over the many failings identified and the CQC ratings on "requires improvement", but it is also fair to note that the CQC did rate the caring dimension of the Trust's services as "good", recognising that patients and carers gave largely positive feedback on the way that staff treated them and the support they offered. But the Trust board recognises the need to embed change through the organisation, to ensure that strategies are effectively implemented at every level and influence every patient interaction.
+
+Chair, I'll turn, if I may, to the national context, conscious, as I am, that that is part of your investigation or your Terms of Reference. We operate as a statutory body within the wider NHS, operating at a local level alongside bodies such as the integrated care boards, other provider NHS trusts, independent sector providers, primary care providers and local authorities.
+
+Overall the NHS is regulated and inspected by the Department of Health and Social Care and national bodies such as the Care Quality Commission, the Health and Safety Executive and NHS England. The delivery of services to individual patients by different providers clearly overlaps and, whilst integration is a key NHS objective, including integration with social care, this is a complex system set within a statutory framework and subject to national guidance and regulation.
+
+Sadly, the Lampard Inquiry, your Inquiry, Chair, is not unique in the focus of some of its work. At present there are a number of public inquiries considering issues touching upon the performance of the NHS. These include the Covid-19 Inquiry and the Thirlwall Inquiry and there has recently been the commitment to a judge-led inquiry to learn lessons from the tragic killings in Nottingham by a former patient.
+
+There have also been a range of investigations into issues in mental health services across the UK, including in relation to subjects that are at the forefront of this Inquiry, including the Wessely Independent Review of the Mental Health Act as well as various CQC and other reports.
+
+We know that Dr Strathdee was commissioned by the Department of Health and Social Care to carry out a Rapid review into data on mental health inpatient settings", and she found that there were significant difficulties in obtaining and interpreting mental health data at present. Her report identified significant challenges in providing an overview of how many people die while in contact with inpatient services and the cause of their deaths. There's no published national overview for the deaths of people in inpatient mental health services nor of the total numbers of deaths of people in contact with mental health services at a provider level. She made a range of recommendations to improve data collection.
+
+So, in looking at the national context, it's apparent from a number of reports that, sadly, there has and continues to be a high risk of self-inflicted death for those with mental illnesses. There are at least now a number of data sources regarding patient safety and death, but it's clear that concerns have been raised in numerous reports about the quality of data which is available to enable qualitative analysis of mental health services and their safety across England.
+
+We know that the Healthcare Services Safety Investigations Body or HSSIB is carrying out an investigation into the safety of mental health services, due to conclude by the end of this year. HSSIB will develop learning from inpatient mental health deaths and near misses to improve patient safety by again examining the mechanisms that capture data on deaths and near misses across the mental health provider landscape and it will also further examine topics such as the local, regional and national oversight and accountability framework for deaths.
+
+Many issues raised by this Inquiry's Terms of Reference have long been concerns in relation to mental health services nationwide. We've already mentioned how the Wessely Review identified extensive problems with the mental health inpatient estate, describing the environment as being "anything but therapeutic", explaining that "facilities are substandard and worn out", which makes the delivery of good care difficult. That review called for capital investment by the Government and the NHS to "modernise the NHS estate" and to improve physical environments. The CQC report on the state of care in mental health services from 2014 to 2017 identified similar themes.
+
+Ligature risks were also identified by the CQC in that report as being an issue, as many wards contained fixtures and fittings that people who are at risk of suicide could use as ligature anchor points. The National Confidential Inquiry into Suicide and Safety in Mental Health Annual Reports, which investigate data on health suicides, including in its 2022 report, found that, between 2009 and 2019, 49% of deaths by hanging or strangulation on wards used a door as a ligature point.
+
+Best practice guidance, such as that contained within the Department of Health's Environmental Design Guide, can help to reduce risk, but it's challenging to eliminate all risks with deaths by strangulation taking place in circumstances tragically where there is no ligature point.
+
+We also know that sexual safety on mental health wards is also an ongoing issue and, Chair, in our written submissions we refer to the 2018 CQC review of this issue and its finding that sexual incidents were "commonplace" on mental health wards, that incidents were unreported or were not investigated, that gender separation was not achieved or well managed, that staff hadn't received adequate training and that risk assessments and care plans were not always in place in relation to sexual safety.
+
+Staffing we know is a further area of common difficulty, with services struggling to ensure adequate staffing and a national shortage of mental health nurses. In areas of high staff turnover, this can create a negative effect on morale which is difficult to address.
+
+There are many other systemic issues that are relevant to this Inquiry which we've noted in our written submissions, many of them commented on by the King's Fund Mental Health Review, the 360-degree review of mental healthcare, only published in February 2024, which said:
+
+"There is a great deal of data on mental [health] illness and mental health services. However, issues with coverage and quality of data limit its value for being able to plan services and understand what is going on. This directly impacts on the quality and safety of care, and efforts to improve care."
+
+The Terms of Reference of this Inquiry anticipate that the Inquiry may make recommendations that are intended to apply nationally. Against this background, we would invite you, the chair, to build on the work of previous reviews and ongoing inquiries. You may wish to take into account the recommendations made elsewhere by other public bodies and to assess the data available to enable analysis of the national context. Indeed, the previous reviews and any barriers to implementation of their recommendations may offer insights into the challenges surrounding the provision of quality mental health services across the 24-year period of your review and give a flavour of the complex system within which mental health service providers operate.
+
+We take the view that identifying effective levers to address such challenges, whether they consist of guidance, capital investment, staffing transformation, is critical for our services and for others across the country. We hope to learn from any examples of good practice that may be identified. To that end, we'd be keen to see evidence commissioned by the Inquiry on what works and to identify durable solutions to problems that are stubborn, deep-seated and widespread.
+
+In relation to any national benchmarking data, it's our submission that the Inquiry should aim to seek both to understand what's available and what's not, both to place issues and outcomes within EPUT in a national context and to inform its recommendations. Although the data quality and completeness issues that I've referred to may make this task difficult, we do highlight the importance for the Inquiry of seeking to put deaths in care at EPUT into a national context, including examining the extent to which EPUT and its predecessors have been outliers. If the Inquiry is to make recommendations that can have a national application, they would be informed, we would gently suggest, by information about whether what is being examined is a national or a local issue or the extent of both.
+
+It is important that collectively the wider NHS and the health sector should understand and take action as a result of the learning that you and your team will undoubtedly deliver. We see this Inquiry as a space for openness and transparency as well as a willingness to be accountable and to take action which exceeds the reputation or culture of individual organisations. We commit to approaching the Inquiry in an open, collaborative and supportive way to achieve this.
+
+So in closing, Chair, the Trust would like to reiterate to all those who have suffered the loss of a loved one that we are sorry and to acknowledge that, even when there may be a firm hope and belief that the Inquiry will deliver the answers they have been seeking, nothing can bring back a loved one. We, the Trust, will hold that truth with us as we move forward to our commitment to deliver safe and therapeutic care to patients.
+
+**The Chair**: Thank you.
+
+**Ms Grey**: Thank you, Chair.
+
+**Mr Griffin**: Chair, the second and final opening statement this morning will be on behalf of North East London NHS Foundation Trust and will be given by Valerie Charbit. It may take a short moment for Ms Charbit to come down and install herself. (Pause)
+
+**Ms Charbit**: Good morning.
+
+**The Chair**: Good morning.
+
+**Ms Charbit**: I represent North East London NHS Foundation Trust. I'm going to call them "NELFT" for the purposes of this opening.
+
+Opening statement by Ms Charbit
+-------------------------------
+
+**Ms Charbit**: Thank you, Chair, for this opportunity to address you in addition to NELFT's written opening statement. I will also take this opportunity to respond to some of the points raised in other core participants' opening statements.
+
+I would like to say at the outset to families and friends of all of those who have died or suffered under the care of mental health services how sorry NELFT is. We are grateful for the support NELFT has had over the last year from local residents in developing an expert-by-experience-led strategy to improve services delivered by NELFT. NELFT would like to emphasise it is committed to assisting the Inquiry in improving the outcome for Essex residents and more widely across the mental health service provision.
+
+NELFT's commitment to being open and transparent with the Inquiry will resonate throughout the Inquiry's processes. Since 2023 and 2024, NELFT has appointed a new chief executive and deputy chief executive, the latter of whom has been present to listen to all of the opening statements. NELFT is committed to assisting this Inquiry and learning from it. NELFT is also committed to ensuring meaningful changes in NELFT's processes when recommended by the Inquiry.
+
+The process of change has already commenced by enhancing clinical leadership at board level and expert by experience leadership within operational teams. We note you, Chair, also referred to the Inquiry investigating both good practice and bad practice and we look forward to sharing NELFT's journey of using quality improvement methods to enhance clinical outcomes for patients.
+
+NELFT wishes to make clear that it will seek to apply a rigorous, reflective and self-critical approach to the analysis of its role in the events with which this Inquiry is concerned. As part of NELFT's commitment to helping the Inquiry with its investigations, NELFT has devoted considerable resources to responding to the Inquiry's Rule 9 requests for statements to date as openly and comprehensively as possible and with complete candour. It will continue to do so.
+
+A dedicated project team has been set up within NELFT which is being led by NELFT's deputy chief executive, demonstrating how seriously NELFT takes its commitment to the Inquiry.
+
+NELFT is acutely aware of the devastating impact that the matters under investigation by the Inquiry have had on patients and their family and friends in Essex through the Essex Mental Health Independent Inquiry and other legal proceedings which went before the Lampard Inquiry. NELFT is fully committed to supporting and cooperating with the Inquiry in order to understand what happened and to learn from it for the benefit of those families, their friends and future service users. NELFT will consider carefully the disclosure, once received from the Inquiry, with a view to making wider improvements to the provision of mental health services in Essex.
+
+Can I give a very short brief history of NELFT? North East London Mental Health NHS Trust was first established in June 2000 and became operational in April 2001. North East London Mental Health NHS Trust then became NELFT, North East London Foundation Trust, in 2008. NELFT currently provides an extensive range of integrated community and mental health services for people living in the London boroughs of Barking and Dagenham, Havering, Redbridge and Waltham Forest. NELFT also provides community health services and dementia crisis support for people living in the South-West Essex areas of Basildon, Brentwood and Thurrock. NELFT's provision of Child and Adolescent Mental Health Services, CAMHS, commenced on 1 November 2015.
+
+Whilst NELFT does not currently operate any inpatient units in Essex, NELFT and its predecessor organisation historically provided mental health services at Mascalls Park, a medium-secure mental health unit at the Warley Hospital site near Brentwood. Typically, residents from Havering and Barking and Dagenham accessed care at Mascalls Park. Mascalls Park also accepted residents from Essex and out of area, if necessary, and Mascalls Park closed in January 2011.
+
+May I move on to say something about the compilation by NELFT of the list of those that have been deceased? In order to compile the list of deceased for the Inquiry, NELFT has reviewed five computer systems it used for electronic patient records between 2003 and 2023. All records prior to 2003 were paper records and the computer systems are SEPIA, introduced in 2003; RiO, introduced in 2006; SystmOne, introduced in 2011; and Windip, linked to RiO, introduced in 2011; and CareDoc, linked to RiO, introduced in 2017.
+
+NELFT sought retrieval of a large number of paper records available in the archives, provided by a third party, Iron Mountain, which were still available, and those have also been searched.
+
+NELFT is also willing to disclose any protected characteristics it has in respect of its list of deceased, if that information is captured in its records. It agrees that it is important that any protected characteristics and intersectionality are also identified as part of this Inquiry.
+
+May I move on briefly to say something about changes to mental health guidance? NELFT's services in Essex were provided against a backdrop of the emerging national approach to mental healthcare. The first clinical mental health guidance was published by the National Institute for Healthcare and Excellence, NICE, in 2002 and this guidance has been updated twice since it was published. Since 2002, NICE has published 80 pieces of mental health guidance signifying the ever-evolving standards over the relevant period of this Inquiry.
+
+It was not until 2011, when references to "parity of esteem" were made, which was the first public health strategy to give equal weight to both mental and physical health. It was from parity of esteem that the Mental Health Investment Standard was developed, which became operational in 2015/2016 and sought to increase the level of investment in mental health services across England.
+
+In 2017 an independent review of the Mental Health Act 1983 was undertaken in response to concerns raised about the efficacy of the Act and the review accepted that changes were needed to make it easier for patients and service users to participate in decisions about their care and sought to restore their dignity. Since then, the Government has proposed reforms which NELFT is aware of and, as you will be aware, Chair, have not yet been enacted. NELFT welcomes your indication that you, Chair, will seek to appoint assessors or suitable experts to properly understand how these changes have impacted care in mental health throughout the 24-year period.
+
+NELFT has not sought in this opening statement to set out a formal response to your provisional list of issues and it looks forward to exploring these matters with the Inquiry in due course.
+
+In conclusion, NELFT remains fully committed to supporting the Inquiry with candour in every way it can. It is committed to learning and changing to prevent any future deaths of mental health patients or any future suffering of mental health patients.
+
+Thank you very much.
+
+Closing remarks by Mr Griffin
+-----------------------------
+
+**Mr Griffin**: Chair, that marks the end of the opening statements. I would like to thank those who have given opening statements this week. The Inquiry will be considering what they have said together with their written opening statements. The Inquiry has also received written opening statements from the Department of Health and Social Care, NHS England, the Care Quality Commission and the Royal College of Psychiatrists. We thank them too for what they have provided. All written opening statements will be going on to the Inquiry website, lampardinquiry.org.uk, I think later today, but shortly in any event.
+
+The hearings will start again on Monday at 10 o'clock, when we will start to hear commemorative and impact evidence from those most closely affected by the matters the Inquiry is investigating.
+
+Thank you, Chair.
+
+**The Chair**: Thank you.
+
+*(10.55 am)*
+
+*(The hearing adjourned until Monday, 16 September 2024 at 10.00 am)*
+

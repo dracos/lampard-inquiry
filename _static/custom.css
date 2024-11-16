@@ -1,0 +1,86 @@
+/* Nicer top left spacing */
+.wy-side-nav-search a {
+    line-height: 1.5;
+}
+
+/* Correct colouring */
+.wy-side-nav-search label {
+    color: #fcfcfc;
+    display: inline;
+}
+
+/* My sign-off */
+.right {
+    text-align: right;
+}
+
+/* Keep headings visible on page */
+h2 {
+    position: sticky;
+    top: 0;
+    background-color: #fcfcfc;
+}
+/* Bug? in safari if overflow on a parent is set */
+body, html {
+    overflow-x: visible;
+}
+
+/* Index page list */
+.toctree-wrapper .toctree-l1 {
+    border-bottom: dotted 4px #9D29A3;
+    margin-bottom: 12px;
+}
+
+/* Hide versions menu, keep hosted/privacy permanently shown */
+div.rst-versions > span.rst-current-version {
+    display: none;
+}
+div.rst-versions > div.rst-other-versions {
+    display: block;
+}
+div.rst-versions > div.rst-other-versions > div.injected > dl {
+    display: none;
+}
+div.rst-versions > div.rst-other-versions > div.injected > hr {
+    display: none;
+}
+
+div.document a:hover {
+    text-decoration: underline;
+}
+
+#hearing-link {
+    float: right;
+}
+#hearing-link::after {
+    content: ' \29c9';
+}
+
+#hearing-meta {
+    padding: 0.5em 0.5em 0;
+    color: #fff;
+    background-color: #9D29A3;
+    position: fixed;
+    bottom: 0em;
+    right: 0em;
+    text-align: right;
+}
+#hearing-meta > * {
+    display: block;
+    margin-bottom: 0.5em;
+    color: #fff;
+    background-color: #9D29A3;
+}
+#hearing-meta summary { cursor: pointer; }
+#hearing-meta summary span.open { display: none; }
+#hearing-meta[open] summary span.closed { display: none; }
+#hearing-meta[open] summary span.open { display: inline; }
+
+lite-youtube {
+    width: 200px;
+    height: 113px;
+}
+
+p.indented {
+    margin-left: 1.5em;
+}
