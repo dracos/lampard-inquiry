@@ -87,8 +87,10 @@ def parse_speech(speech):
 def parse_transcripts():
     for f in sorted(glob.glob('data/*.scraped.txt')):
         if 'raw.txt' in f: continue # Ignore PDF processed
-        date, title, sect = re.match('data/(\d\d\d\d-\d\d-\d\d)-(Hearing Day .*?) (.*).scraped.txt$', f).groups()
+        date, title, sect = re.match('data/(\d\d\d\d-\d\d-\d\d)-(Hearing Day .*?) (?:– )?(.*).scraped.txt$', f).groups()
         sect = sect.lower().replace(' ', '-')
+        if sect == 'opening-statements-and-commemorative-and-impact-accounts':
+            sect = 'commemorative-and-impact-accounts'
         os.makedirs(sect, exist_ok=True)
         outfile = f'{sect}/{date}'
 
@@ -296,11 +298,20 @@ def parse_transcript(url, text):
                 continue
 
             # Headings with names in
-            m = re.match('(?:(?:Opening|Closing) (?:s|r)|S)(?:tatement|emarks) (?:by|from) ([A-Z ]*)(?:, QC)?(?: \(continued\))?$|Announcements by ([A-Z ]*)$|(?:Further s|S)ubmissions? by ([A-Z ]*)(?:, QC)?$|Reply by ([A-Z ]*)$|Witness statement of ([A-Zc ]*) adduced$', line.strip())
+            m = re.match('(?:(?:Opening|Closing) (?:s|r|R)|S)(?:tatement|emarks) (?:by|from) ([A-Z ]*)(?:, QC)?(?: \(continued\))?$|Announcements by ([A-Z ]*)$|(?:Further s|S)ubmissions? by ([A-Z ]*)(?:, QC)?$|Reply by ([A-Z ]*)$|Witness statement of ([A-Zc ]*) adduced$|Pre-recorded (?:opening )?statement by ([A-Z ]*)', line.strip())
             if m:
                 yield speech
                 name = next(filter(None, m.groups()))
                 line = line.replace(name, fix_name(name)).strip()
+                speech = Section( heading=line )
+                continue
+
+            m = re.match('Statement of ([A-Z ]*) (?:read )?by ([A-Z ]*)', line.strip())
+            if m:
+                yield speech
+                for i in range(2):
+                    name = m.group(i+1)
+                    line = line.replace(name, fix_name(name)).strip()
                 speech = Section( heading=line )
                 continue
 
@@ -371,8 +382,8 @@ def fix_name(name):
     #if ' and ' in name or (' of ' in name and ',' not in name):
     #    return name
     # Remove middle names
-    name = re.sub('^(DAC|DS|Dr|Miss|Mrs|Mr|Ms|Baroness|Lord|Professor|Sir) (\S+ )(?:\S+ )+?(\S+)((?: [QK]C)?| of \S+)$', r'\1 \2\3\4', name)
-    name = re.sub('^(?!DAC|DS|Dr|Miss|Mrs|Mr|Ms|Baroness|Lord|Professor|Sir)(\S+) (?!Court)(?:\S+ )+?(\S+)((?: [QK]C)?)$', r'\1 \2', name)
+    name = re.sub('^(DAC|DS|Dr|Miss|Mrs|Mr|Ms|Baroness|Lord|Professor|Sir|The) (\S+ )(?:\S+ )+?(\S+)((?: [QK]C)?| of \S+)$', r'\1 \2\3\4', name)
+    name = re.sub('^(?!DAC|DS|Dr|Miss|Mrs|Mr|Ms|Baroness|Lord|Professor|Sir|The)(\S+) (?!Court)(?:\S+ )+?(\S+)((?: [QK]C)?)$', r'\1 \2', name)
     return name
 
 def fix_heading(s):
