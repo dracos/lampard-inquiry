@@ -36,6 +36,8 @@ def fetch_hearing_page(item):
     r = session.get(url)
     soup = bs4.BeautifulSoup(r.content, "html.parser")
 
+    if b'will not be open to the public' in r.content: return
+
     for vid in soup.find_all('iframe'):
         if 'google' in vid['src']: continue # GTM
         yt_id = re.search('(?:v%3D|youtu.be/|youtube.com/embed/)(.*?)(?:&|%26|\?)', vid['src']).group(1)
@@ -45,7 +47,7 @@ def fetch_hearing_page(item):
         META['videos'].setdefault(str(date), []).append({'title': yt_title, 'id': yt_id})
 
     for link in soup.find_all('a', class_='btn-download'):
-        if 'Transcript' not in link.text and 'Lampard Inquiry 18 September 2024' not in link.text: continue
+        if 'Transcript' not in link.text and 'transcript' not in link.text and 'Lampard Inquiry 18 September 2024' not in link.text: continue
         txt_href = urllib.parse.urljoin(BASE, link['href'])
         print('Downloading', date, txt_href)
         with open(filename_pdf, 'wb') as fp:
