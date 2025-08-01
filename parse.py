@@ -237,7 +237,7 @@ def parse_transcript(url, text):
             line = line.replace('_', '\_')
 
             # Date at start
-            m = re.match(' *(Mon|Tues|Wednes|Thurs|Fri)day,? \d+(nd|th)? (August|September|October|November|December|January|February|March|April|May|June|July),? 20[12][1234]\.?$', line)
+            m = re.match(' *(Mon|Tues|Wednes|Thurs|Fri)day,? \d+(nd|th)? (August|September|October|November|December|January|February|March|April|May|June|July),? 20[12][1-6]\.?$', line)
             if m:
                 date = line.strip() # datetime.strptime(line.strip(), '%A, %d %B %Y')
                 continue
@@ -326,16 +326,17 @@ def parse_transcript(url, text):
                 yield speech
                 yield Section( heading=heading )
                 yield Speech( speaker=None, text=narrative )
-                if m.group(3):
-                    speaker = fix_name(m.group(3))
-                    speech = Speech( speaker=speaker, text='')
-                else:
-                    speech = Speech( speaker=spkr, text='' )
+                #if m.group(3):
+                #    speaker = fix_name(m.group(3))
+                #    speech = Speech( speaker=speaker, text='')
+                #else:
+                speech = Speech( speaker=spkr, text='' )
                 continue
 
             # Question/answer (speaker from previous lines)
             m = re.match(' *([QA])\. (.*)', line)
-            if m:
+            nope = re.search('The Linden Centre in Chelmsford', line)
+            if m and not nope:
                 yield speech
                 if m.group(1) == 'A':
                     assert Speech.witness
