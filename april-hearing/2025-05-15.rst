@@ -1,0 +1,2372 @@
+.. raw:: html
+
+   <a id="hearing-link" href="https://lampardinquiry.org.uk/hearings/hearing-day-21-april-hearing/">Official hearing page</a>
+
+Hearing Day 21 – Paul Scott
+===========================
+
+*(10.07 am)*
+
+**The Chair**: Mr Griffin, good morning.
+
+**Mr Griffin**: Thank you, Chair, good morning.
+
+Chair, this morning we will be hearing from Paul Scott, the Chief Executive Officer of EPUT and I will be asking Mr Scott about issues arising from the position statement provided by him on EPUT's behalf to the Inquiry.
+
+A wide range of issues will be covered from the role and responsibility of EPUT in relation to mental health care through to patient care and safety.     Much of what will be covered will not relate to individual cases. However, matters arising from the Dispatches documentary and the HSE prosecution, for example, may be covered.
+
+Mr Scott is the last witness the Inquiry will be hearing from at this hearing.   Following his evidence, I will give a short closing statement and, Chair, subject to anything further you wish to say at that stage that will mark the end of this hearing.
+
+Before we hear any evidence, however, I would like to point to the fact that today's evidence may nevertheless in parts be distressing and difficult to listen to and, for some, it may not be possible to sit through the session.   Anyone in the hearing room is welcome to leave at any point.    I would like to remind people that emotional support is available for all those who require it, and we have support again today from Hestia, the experienced provider of emotional support. In fact, there is one raising her hand at the moment, wearing an orange -- two of them wearing orange scarves and orange lanyards.    Thank you very much.
+
+You could also speak to a member of the Inquiry team and we will put you in touch with them and we are wearing purple lanyards.
+
+If you are watching on-line information about available emotional support can be found on the Lampard Inquiry website at lampardinquiry.org.uk and under the "Support" tab near the top right-hand corner.
+
+We want all those engaging with the Inquiry to feel safe and supported.
+
+Chair, with that, we move to the evidence of Mr Scott and I am going to ask that he be sworn, please.
+
+Mr Paul Scott
+-------------
+
+*MR PAUL SCOTT (affirmed).*
+
+Questioned by Mr Griffin
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Griffin**: Please provide your full name.
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Paul Michael Scott.
+
+**Mr Griffin**: Are you Chief Executive Officer of Essex Partnership University NHS Foundation Trust or EPUT?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Your position statement says at paragraph 7 that you joined EPUT as CEO in September 2020; is that correct?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: That's not correct.    I joined the organisation in September 2020 and I didn't take up the role of CEO until 1 October.
+
+**Mr Griffin**: So October 2020 was the start of your position as CEO?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Thank you very much.    So you have been CEO for around four and a half years?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: EPUT was formed on 1 April 2017 by the merger between South Essex Partnership University Foundation Trust, or SEPT, and North Essex Partnership University Foundation Trust, or NEPT.     So EPUT has been in existence for just over eight years?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Before we go any further, Mr Scott, I understand there is something that you would like to say?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, I would, I would like to make a couple of apologies, with your permission, Chair, and thank you for the opportunity.
+
+.. rst-class:: indented
+
+I would like to offer an apology and condolences to all families who have lost loved ones under the care of Essex Mental Health.    I have listened -- when I first joined, I have met many families.    The HSE prosecution, I was in the court for that, and I have heard testimony through this Inquiry as well and they have been brave, powerful and heartbreaking.   These have deeply affected me and motivated me to make a real difference and I am sorry for their enduring pain and, since joining the organisation, I have given everything I have to try and improve safety and I will try to continue to do so.
+
+.. rst-class:: indented
+
+A second apology, Chair, is with deep regret I learned about the impact on the Inquiry of our late submission of information regarding Oxevision.    Our intention was to update the Inquiry of the work we had done to update our policies following NHS England guidance, so we could be confident our patients were receiving care in line with that guidance and that we had fully disclosed that to the Inquiry.   I have since reviewed the submission and it is clear that there were opportunities to inform the Inquiry to the extent of our work in the preceding period and to be more succinct in our submission.
+
+.. rst-class:: indented
+
+And I would like to apologise to you Baroness Lampard, the Inquiry team, families and witnesses, and anyone else who was affected by the delay and disruption to the Inquiry as a result of our submission.    We are doing our best to serve the Inquiry and we will do better in the future.
+
+**Mr Griffin**: May I make sure everyone can hear Mr Scott in the hearing room.   No.
+
+I am going to ask you to speak up and we will turn the mics up as well, if that's possible, please.    If there are issues in the hearing room, would people raise their hands so that I am aware of them.   It's important, obviously, Mr Scott that everyone can hear what you say.
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Of course.
+
+**Mr Griffin**: Just following on from the second apology, in relation to the late service of information on the Inquiry, I would just like to ask you this.   First of all, the Trust's counsel in their opening statement on behalf of EPUT in September last year expressed a commitment to candid engagement with the Inquiry, approaching the Inquiry in an open, collaborative and supportive way, assisting the Inquiry in its investigations, responding to all requests as fully as it can, doing all that it can to ensure that full and frank evidence is given by its staff and supporting the Chair and the Inquiry team to give to families, carers and those with lived experience the answers they have been waiting for.
+
+So do you now, on behalf of EPUT, agree to honour those commitments through yours and the Trust's actions, rather than just through words or broad assurances?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, I do.
+
+**Mr Griffin**: The Inquiry will hold you and the Trust to those
+
+commitments.
+
+Moving to the request for the position statement.
+
+Did EPUT's legal representatives receive a request
+
+from the Inquiry in the form of a letter dated
+
+17 February of this year, inviting EPUT to, and I quote:
+
+"... submit a position statement regarding its
+
+involvement in the care of mental health inpatients
+
+during the relevant period."
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Did the letter also ask EPUT to, and again I quote:
+
+"... offer a broad candid narrative providing the
+
+Trust's own accounts of events, acknowledging where
+
+things went wrong and explaining why those failures
+
+occurred."
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Did the letter also ask for, and again I quote:
+
+"... a clear-eyed assessment of what happened, what
+
+went wrong and what has or has not changed as a result."
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Thank you.    You provided the Inquiry with a 20-page
+
+position statement, dated 27 March 2025 on behalf of
+
+EPUT; is that correct?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Is that statement signed by you?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Does it represent EPUT's response to the Inquiry's request?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Do you have it in front of you now?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, I do.
+
+**Mr Griffin**: Do feel free to refer to it as necessary.
+
+The position statement has been provided in your name and in your capacity as EPUT's CEO; is that correct?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, it is.
+
+**Mr Griffin**: In other words, you have provided it on behalf of EPUT and are speaking on EPUT's behalf today?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: There is also a section in the position statement on your own personal reflections.     So would it be right to say that you are speaking today in your capacity as CEO on behalf of EPUT but you may also wish to give some further personal reflections about matters of relevance?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, I think that's true.
+
+**Mr Griffin**: Thank you.    The questions I will be asking you today will be addressed at and limited to, at this stage, issues arising from the position statement and, Mr Scott, do you agree to come back to give evidence to this Inquiry on more detailed matters at a later stage?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Of course, yes.
+
+**Mr Griffin**: Thank you.   Mr Scott, the position statement was circulated to Core Participants -- and, Chair, I can indicate that the position statement itself will be put on the Inquiry website today -- but, yes, as I was saying, it's been circulated in advance to Core Participants.   I will come on shortly to look at aspects of it but, before I do, I would like to ask you whether you believe that it does, in fact, provide the requested clear-eyed assessment of what happened, what went wrong and what has or has not changed as a result?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think it does.   I am aware some of the Core Participants felt it wasn't candid and I am really sorry to have that impact on them.   It was clearly not my intention.   I think it does, to the best extent I could. I think it's a -- should be also read, actually, with our opening statement that EPUT gave, where we were very clear, I think, about accepting the failings of the past.   And, just for completeness, Chair, I will just probably go through them quickly so it's here with this.
+
+.. rst-class:: indented
+
+We admitted to failings around ligature points and other environmental risks; staff numbers; culture and conduct; sexual and physical abuse; absconding; discharge and assessment of patients; involvement of family and friends; and staffing engagement with investigations.
+
+.. rst-class:: indented
+
+So with that -- and I think I really do try and show the areas that I have focused on, in terms of the work we have done since and we have explained the work we have done and the impact of that, and then the work that there is clearly still to do.
+
+**Mr Griffin**: Thank you.    The Inquiry heard on 1 May, so during this hearing, from Ms Murphy, King's Counsel, representing one of the family Core Participant teams.    She referred to the position statement as exemplifying a stance of institutional defensiveness and complacency -- those are her words -- and as being again:
+
+"... replete with attempted justifications and excuses and with vague and generalised statements of confidence in an improved service."
+
+Would you accept that any of that is fair or accurate?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I -- I wouldn't dispute their view but I would say that I have -- this is far from complacent, actually. I think what I have heard from families, what I've seen since I've joined the organisation is that you can't be complacent.     I have given everything I can and my team have given everything they can to try and make improvements.     The individual stories and tragedies behind everything that I have read to now are always in our minds.
+
+.. rst-class:: indented
+
+I have tried to give context about some of the areas that we face challenges with and some of the -- I think that it would be important to the Inquiry to understand what needs to be overcome to deliver change in an organisation such as EPUT.   And I have tried to -- one of the things I have really heard from families is that they don't believe that things have changed in the past and in the present, and I have tried to give more detail and context to show that things have changed but I am also being very open and honest to say there is a lot more to do.
+
+**Mr Griffin**: Would you accept this: that whilst the statement does contain acceptance of serious and unresolved problems, its focus is actually more on change and emerging success than on a profound analysis of what has gone wrong?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I -- I have chosen -- I did choose to answer the question in that way, to use the things we have done to try and highlight the deficiencies that were there.    I tried to do an analysis and I wrote this statement, it was my perspective and not a lawyer's perspective, because I wanted to disclose fully my view of the world and I think it's important for me to do that and I completely respect that others will have a different perspective.   But part of the process of the Inquiry, I think, is to hear all of those perspectives and hopefully coalesce towards action and change.
+
+**Mr Griffin**: Thank you.
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: And sorry, I have forgotten the question that you --
+
+**Mr Griffin**: Well, it was really asking you whether you accepted that the focus of the position statement is more on emerging success and change, rather than really digging down into what had gone wrong in the past?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, I think -- I think I would say it is difficult to do an analysis of the whole 24 years and I think the work we have done since I have arrived is to -- is an analysis of where we think we went wrong.    The HSE prosecution was the first thing we made moves on to try and address what I heard in the courtroom there and other strategies and plans have all been built from what we have heard from families, staff and other -- and other patients in the population.
+
+**Mr Griffin**: Thank you.   The final sort of general question on the position statement: would you agree that much of what you address in the position statement is aspirational, as opposed to something you can evidence?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I wouldn't agree with that, no.    I -- no.
+
+**Mr Griffin**: Can we move on then to the first part of the statement. Would you please put up core bundle page 1397 and expand paragraphs 11 and 12.
+
+Mr Scott, you say here at paragraph 11 that you and other board members and staff will:
+
+"... do our best to provide the Inquiry with the relevant information held by us about events and periods before EPUT's formation but, in responding to the Inquiry's request for a position statement, I can only speak for the current Trust, EPUT.    I have made a few comments on what was known at the point of merger, particularly as a result of the due diligence exercise but I do not have the authority or the knowledge to make assessments about what happened in previous years. Furthermore, it would be potentially unfair to patients and families and to those staff members of previous Trusts who may be asked to contribute to the Inquiry's work, to set out judgements on the performance of the previous trusts, at least in this early stage of the Inquiry as the information is still being gathered and disclosed."
+
+In the next paragraph, number 12, you say that you will keep this position under review as the Inquiry's important work continues.
+
+Mr Scott, I would like to understand what you mean here by not having the authority or knowledge to make assessments about what happened before the merger?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, I think -- just to be clear, I think we have provided information going back as far as we can get it. We are -- you know, you heard from our medical director this week, trying to support evidence giving against that and we have acknowledged and owned fully the failings of the past, both morally and legally.
+
+.. rst-class:: indented
+
+The keyword in there for me is "assessment" and I am not in a position to be able to analyse or judge or give commentary on the decision-making, the behaviours and the context that individuals in the past were operating under.
+
+**Mr Griffin**: Has a lack of cooperation from former or current members of staff made it difficult for you to address what occurred pre-merger?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No.
+
+**Mr Griffin**: Can I explore then with you the extent to which you do actually need to engage with the past, including pre-merger, in order to be able to do your job effectively.
+
+Just dealing with the position statement first, please, you refer in it to various matters occurring pre-merger: for example, you mention at paragraph 11 the due diligence exercise.     That would have been before your time?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Do you know who conducted it or how long it took?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I don't know who did it.     I think it was done relatively quickly.
+
+**Mr Griffin**: Do you know what was learnt as a result of it?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: That, it was learnt that there was some difficulties in the North Essex Partnership Trust and clearly what's emerged since is much more serious than the due diligence exposed.
+
+**Mr Griffin**: Could you put up, please, core bundle page 1400 and expand paragraph 23.
+
+So you refer here, later in the statement, to the fact that:
+
+"I have described in this document the areas that needed improvement and our responses.     This is not intended to be defensive or complacent.     Describing where we have attempted to make improvement is intended to show the deficits that existed and that we have tried to learn from the past."
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Now, what do you mean when you say "we have tried to learn from the past"?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: So I joined the organisation and there was a number of action plans in place relating to past events, the PHSO and the HSE prosecution, in place, so they were there.
+
+.. rst-class:: indented
+
+My judgement, when I joined the organisation, was that
+
+.. rst-class:: indented
+
+they were still suffering from a sort of post-merger
+
+.. rst-class:: indented
+
+centralisation and focus on governance, rather than
+
+.. rst-class:: indented
+
+a focus on quality and safety.     So the first thing I did
+
+.. rst-class:: indented
+
+there was -- on that reflection was to build a safety
+
+.. rst-class:: indented
+
+strategy, and then I attended the HSE prosecution in
+
+.. rst-class:: indented
+
+the -- in June '21.
+
+**Mr Griffin**: We will come on to that in a moment.
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Okay.
+
+**Mr Griffin**: My question was: when you say you have tried to learn
+
+from the past, does that include events pre-merger?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, yes.
+
+**Mr Griffin**: So it was important for you to be looking back before
+
+EPUT came into existence?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Thank you, can you take that down, please.
+
+As you have just mentioned the Health and Safety
+
+Executive prosecution, that related to events occurring
+
+pre-merger, between 2004 and 2015; is that right?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: EPUT had the responsibility to respond to that
+
+prosecution?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, we did.
+
+**Mr Griffin**: Could you put up core bundle page 1401 and expand
+
+paragraph 30, please.     Thank you.   You say here that:
+
+"Since joining EPUT, my work has focused on acknowledging past failures and reducing the risks associated with delivering healthcare."
+
+What did you mean here by "acknowledging past failures" and did those failures extend to what happened pre-merger?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, they did, and the -- the past failures were clearly identified in the HSE prosecution and I acknowledged those in the courtroom and -- well, representatives of me did -- and we have used that to drive forward our change programme.
+
+**Mr Griffin**: Thank you.    Would you take that down, please.
+
+You say at paragraph 39 of the position statement that, at the point of merger in 2017, EPUT knew that it faced the challenges outlined in, for example, the CQC inspections of 2015 and 2016, and you summarise some of those.    But, again, these were matters that EPUT needed to review and consider that occurred pre-merger?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Thank you.    Would you put up core bundle page 1415, please, and expand paragraph 100.
+
+So this is the last paragraph in the position statement, and you say this:
+
+"Finally, I want to reiterate that we have really attempted to learn from the past and listened to the voices of those affected by past failures.     I am determined that we will do all we can to continue to improve mental health services in Essex."
+
+Again, you are saying that you have attempted to learn from the past and, again here, would the past include what happened before the merger?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Ultimately, Mr Scott, would you agree that, in order to effect meaningful and lasting change in EPUT, you personally, and the Trust leadership more generally, needed and still need a good understanding of what had gone wrong in the predecessor Trusts?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Is learning from the past in order to make change for the better something in which you are personally invested and engaged?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Thank you.    Would you please put up core bundle page 1397 and expand paragraphs 11 and 12.
+
+So we have looked at these paragraphs already but I just want to come back to them.    Given what you have just said and given what we have looked at in terms of other parts of the position statement, do you still stand by the suggestion in paragraph 11 that you don't have the authority or the knowledge to make assessments about what happened in previous years?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think there's -- there's a distinction, isn't there, between learning from the events of the past, but understanding and making an assessment about how those events happened is much, much more difficult, as I haven't got the context, I haven't got the individual leadership who were making decisions at the time. I hear from families and staff but I haven't got that context.
+
+**Mr Griffin**: Thank you.   Would you take that down, please.
+
+In a section of the statement covering mental health care and its complexities context, you say that the commissioning of mental health services is complex, and that's paragraph 17 for those who are following.    Could you explain what you meant by that?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: There's a -- yes, and there's a number of areas that makes for this complexity.   One there is a number of commissioners for mental health and, in Essex, in particular, we have three ICBs commissioning mental health.    There's also a specialist commissioner as well. So specialist commissioning for forensic services and for children's services are made through a different commissioning arrangement.    And there's also a wide range of providers, so commissioning in the recent past has been subject to competitive tendering for mental health, so we will see a wide range of providers providing healthcare in mental health across Essex, in Talking Therapies, for example, in Children's Community Mental Health Services and a wide range of voluntary organisations doing amazing work but commissioned separately.
+
+**Mr Griffin**: What is the practical effect of having all of these different bodies and organisations in play?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, well, I think it increases the interface between organisations and, therefore, the risk around interface. It also makes it very hard to get an overall picture of the mental health landscape in Essex, for the geography we cover, and various bits of information held in different places.   So it is very hard for us to understand, I think, how we can play a better role in supporting pathways and supporting, particularly, voluntary organisations.
+
+**Mr Griffin**: You say in the same paragraph, 17, that there are opportunities for simplification of the commissioning and funding of mental health care which could have significant benefits, and you add, "but solutions are not readily to hand".
+
+What opportunities are you referring to?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think there's an opportunity to be clearer about what is being commissioned on an Essex footprint and we have made -- you know, we have made some moves to support an Essex-wide strategy that's led by local authorities and ICBs but I think that could go further and, since I wrote this statement, actually, the changes to NHS England and ICB footprints has been announced, and I am hopeful that there is opportunity there that, actually, the consolidation of commissioners will mean for a simplification and opportunities to have a clearer view over the Essex footprint and what mental health commissioning looks like.
+
+**Mr Griffin**: When you said in your position statement that the solutions are not readily to hand, was that before you became aware of these recent changes?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Do you still think that solutions are not readily to hand or do you think the changes might present an opportunity, as you say?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No, I think changes will present an opportunity.
+
+**Mr Griffin**: You describe in your statement, this is paragraph 20, the profound impact that the Covid-19 pandemic had on the delivery of care across all sectors and you add:
+
+"Significantly, we saw a change in how people with neurodiversity presented and continue to with their mental health conditions which is an ongoing area of improving understanding."
+
+How have you learnt of this change?   For example, how was this change recorded and how were you briefed about it?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: So I will just correct my language there, actually.    So we saw more neurodivergent people presenting through our services.
+
+.. rst-class:: indented
+
+The -- well, I think this is a real area of emerging change.   So I heard this through speaking to our staff visiting wards and the narratives that came out of that.
+
+.. rst-class:: indented
+
+I also -- you know, we learnt -- we learnt from some tragic incidents in the past as well, so -- and we saw, particularly in children's, as lockdowns ended, that people -- neurodivergent people, particularly people with autism and ADHD, their mechanisms for coping had been severely disrupted in their normal lives, and you could see quite quickly how that manifested in a presentation with mental health challenges.
+
+.. rst-class:: indented
+
+And I've been speaking with -- we have got a specialist consultant, who is a CAMHS consultant, who is autistic but also provides advice and support and guidance to our mainline services.   She is very clear that there is more to do to understand the number of people and the extent of ADHD/autism in the community, how that impacts on people's mental health and what can be done to support people better than the environments we currently provide.
+
+**Mr Griffin**: Are you able to say what actions EPUT has taken to date to implement specialist support or specific provisions for inpatients who present with neurodiversity?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: We have -- we've got mandatory training for all staff, clinical staff, so they have got all of the information needed.   We have appointed this consultant psychiatrist for a day a week, who's providing support and guidance, and we have a number of processes, I think, in place for acknowledging when people are presenting with autism or ADHD, either diagnosed or undiagnosed, and to make sure we are giving the best environment we can for them, within the context we operate.
+
+**Mr Griffin**: Does the training equip staff to care for a population with such diverse vulnerability?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think it does, I think -- I would say though that, as this is an emerging area of understanding, it is actually quite contended, as well, about the extent of autism and ADHD in the population.    So I think there is more to learn and more to do.
+
+**Mr Griffin**: Chair, neurodiversity is an important area of interest for the Inquiry --
+
+**The Chair**: It is.
+
+**Mr Griffin**: -- and we are commissioning expert assistance.
+
+**The Chair**: Yes.
+
+**Mr Griffin**: Mr Scott, as I have already mentioned, your statement includes a section on personal reflections and this includes reference to the profound impact on you, as well as others, of the HSE prosecution from 2021 and the Dispatches documentary from 2022, and the 2023 CQC report downgrading EPUT adult mental health wards and psychiatric intensive care units to inadequate.
+
+I mean, you have touched on this already near the start of your evidence today but could you describe the impact on you of those matters, the HSE prosecution, the Dispatches documentary and the CQC report?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, the HSE prosecution was extremely sobering and shocking.   To listen to very powerful testimonies of the families in the courtroom of how they had been failed, the impact it had on them and the responsibility I felt to address that was very, very powerful to me and I still remember that every day, that day, it was probably one of the most profound days of my life.
+
+.. rst-class:: indented
+
+The Dispatches documentary, as well, was equally very, very shocking and especially when it's our services and the services I am responsible for, and I felt a deep responsibility there to address that as well.
+
+**Mr Griffin**: The CQC report from 2023, which you also mention, can we just address that very briefly.   That was a report and it was following the CQC visiting EPUT between November 2022 and January 2023 and looking at six core services; is that correct?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Of those six core services, was the subsequent CQC rating for two of them "good", that is mental health crisis services and health-based places of strategy and substance misuse services?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: But, potentially more worryingly, the acute wards for adults of working age and Psychiatric Intensive Care Units was rated as "inadequate", which was the same as the previous time it was rated, correct?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Wards for people with a learning disability or autism rated as "requires improvement", and that was down on the previous rating, correct?
+
+Community-based mental health services for adults of working age rated as "requires improvement", again down on the previous rating, correct?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Wards for older people with mental health problems rated as "requires improvement", which was the same as the previous rating, correct?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: (The witness nodded)
+
+**Mr Griffin**: Do you want to address the impact that report had on you?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, again, it's, you know, deeply concerning when we receive that report and I -- I -- I guess where I come from is everything I have done is tried to listen to the past.     I've really tried to make sure we have made improvements.    Clearly, we hadn't made improvements there and there is context but I don't want to hide from the fact that that was a deeply disappointing state of affairs and now we are implementing the strategies, I think, that were already in place at the time and recognised by the CQC but hadn't yet had an impact and yet been embedded.    So some of the issues in that CQC have been -- all of them have been addressed now and fundamental to that staffing levels and the ward environment, and we have taken all of the actions from the CQC and we have changed very substantially the way that we put together the actions and make sure that they are embedded.
+
+**Mr Griffin**: We will come on to that in a moment, if we may?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Sure okay.
+
+**Mr Griffin**: What I would like, though, to do first, could you put up core bundle page 1401 and expand paragraph 28.    You say here that:
+
+"While many of the issues identified by CQC and featured in the undercover filming were areas that we had already identified as needing focus [I think that picks up on something you were just saying] -- for example a move away from restrictive practices to more therapeutic observations -- I and my colleagues on EPUT's Board found both the coverage and CQC report deeply concerning.   We subsequently launched the 'Quality of Care' Strategy in 2024."
+
+We will come on to look at that.    You say here:
+
+"... there was a need to do more to improve the quality and experience of care, alongside reducing physical risk."
+
+So the suggestion here, as I understand it, is that Dispatches and the other matters were a powerful stimulus for the board to act?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think the board had already acted and I guess -- and I'm really trying not to be -- put excuses in the way for this, but I think really important context was the impact of the pandemic, and I would say that, leading into the pandemic -- you know I joined during the pandemic -- services were minimally staffed.   And the impact of the pandemic -- and so, weren't resilient, I would say, and the impact of the pandemic meant that staffing levels that were already at minimal were really under pressure.
+
+**Mr Griffin**: So if I was to ask you why there wasn't an equivalent urgency to act before these matters came to light through Dispatches, and otherwise, would your answer be just problems presented by the pandemic?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No, no, no.    There was -- there was already lots of action going on.   We were desperately trying to recruit staff.   We put in place a substantial overseas -- I think the largest in the country -- overseas recruitment programme.   We were doing lots of work on our wards to make sure the environments were better and we were really building the Time to Care new staffing in clinical model with our partners and patients and staff.
+
+**Mr Griffin**: What is your current understanding of the principal issues that existed before the merger?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: There was -- my understanding, and this is what I took from the HSE, was a number of issues involved staffing and staffing oversight, the built environment, engagement with families and friends, and the use of observations and clinical recordkeeping.
+
+**Mr Griffin**: Thank you.    Is it your view that either/or both of the predecessor Trusts had failed to identify the changes needed to make services safe prior to merger?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think that -- I think that can't be definitive but I think it would be my judgement, yes.
+
+**Mr Griffin**: In relation to both the pre-merger Trusts or one in particular?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I have got less information on South Essex Partnership but it is clear in the CQC reports and the HSE reports that there was a number of issues in place there.
+
+**Mr Griffin**: Mr Scott, knowing what you know now, do you think that the merger of NEPT and SEPT into EPUT was a good idea?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think the intention of the merger was to bring a perceived to be strong organisation with a weaker organisation, build capacity, both in terms of staffing, training and financially as well, and, from that perspective, it seemed like a good idea.    I haven't got a view, really, about whether smaller organisations or the merger would have been better or worse.    My focus has been saying how do we move EPUT forward.
+
+**Mr Griffin**: Thank you.    The Dispatches documentary exposed a number of concerns, including inadequate observations and these included staff falling asleep on one-to-one observations, staff's familiarity and training with ligature cutters and absconsions -- and I will come on to absconsions in a moment, if I may.
+
+Given the impact of the documentary on you personally, are you able to say what changes EPUT instituted after it had been shown in relation to the staff falling asleep and training in connection to ligatures?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, we -- we -- yes.    Falling asleep on duty is unacceptable; that message was reinforced.    We put in place a number of measures to support staff to -- to stay awake.    I guess the reason I am saying that is because sometimes we are asking people to observe people for extended periods of time, and that's not right either.    So we put changes into rosters, we had more staff, we put some night -- senior night presence into all of our wards.     We have now got e-observations, as well, so the records are easier to make and they're less burdensome.    So we have made a significant improvements, I think, and oversight of that issue.
+
+**The Chair**: What is e-observations?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Sorry, electronic observations.
+
+**The Chair**: So how does that affect people not falling asleep on the ward?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: It is probably not directly involved.    It improves the oversight, I think, of observations so we can see quicker if people are spending too long on observations.
+
+**The Chair**: I see, thank you.
+
+**Mr Griffin**: Are those observations on the patient or on the person who's meant to be observing the patient?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, I think that's -- that's part of -- no, literally, it is for the patient's observations, yes.
+
+**Mr Griffin**: Thank you.    You say at the end of paragraph 27 that:
+
+"The period involving the HSE prosecution, Dispatches and the CQC 2023 inspection highlighted for me the complexity of the nature and oversight of regulation facing NHS Trusts, given the interest from multiple parties within the wider health and social care sector."
+
+Would you explain what you meant by that?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.    I think if, if I -- I will answer that question and add a little bit more, as well.
+
+.. rst-class:: indented
+
+So, so understandably, those with regulatory responsibilities were very interested in the Dispatches programme and our response to it.    But the sheer volume of people who wanted some assurance that we were taking this seriously and making improvements overwhelmed me, actually, and I was having to attend.    I think, you know, this may not be entirely accurate but it's representative.     I think I attended 19 boards or board equivalents across Essex and beyond to provide assurance from very different angles, you know.
+
+.. rst-class:: indented
+
+So, so -- so, you know, 19 regulators over one organisation felt overwhelming, if I am honest.
+
+**Mr Griffin**: Did you hear the evidence last week of Sir Rob Behrens, the former Parliamentary and Health Service Ombudsman on this point?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I did but I can't recall exactly.
+
+**Mr Griffin**: Well, in his evidence to this Inquiry, he gave his view that the regulatory framework was overcomplicated and needed to be reformed and he spoke of a PHSO report from 2023 called Broken Trusts, which had itself referred to a confusing landscape of organisations, and that report called for the Government to consider the case for streamlining some of these functions.
+
+So he was looking at regulators and those to whom complaints can be made, such as the PHSO.   Do you have any view about what Sir Rob said?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I would completely agree with that, and I think the other -- the other that comes from that is the sheer volume of recommendations as well, so that when I first joined, one of my reflections was, Chair, that making sense of hundreds of recommendations, both internally generated and externally generated, and then trying to prioritise those and make some sense of those, for staff was particularly difficult as well.
+
+**Mr Griffin**: You say in your statement at paragraph 30 that:
+
+"Achieving consensus on necessary changes and implementing them is challenging.   I have sought to prioritise changes that had broad agreement and fall within EPUT's control."
+
+Why has achieving a consensus been challenging?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, I think -- I think always achieving consensus is challenging because, if you really hear people's views, they will be different.     So we have really moved into trying to build all of our plans and actions by consensus, and that's not just consensus within EPUT, that's consensus with patients, that's consensus with stakeholders, including commissioners and local authorities, and hopefully the voluntary sector as well, so that takes time.   And -- and it, people don't always agree and I guess that's the challenge and how do you get to a point of clarity so you can act is the key bit.
+
+**Mr Griffin**: Have there been difficulties at a governance managerial level or at a clinical level in achieving consensus?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think so, yes.   I think one of the things I have tried to do since I have joined is to make sure all voices are heard, especially clinical voices, and there's a wide range of clinical voices that contribute to mental health.   One example I can give is our Time to Care programme, and there was quite a lot of debate about the move away -- well, the diversification of staff on the wards away from just nurses and doctors, to include ward psychologists, peer support workers.
+
+**Mr Griffin**: We may come on to look at some of that a little bit later.
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Sure.
+
+**Mr Griffin**: You have said that you sought to prioritise changes that have broad agreement; does that mean that difficult areas where there's no consensus are yet to be addressed?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No.   Well, I say there's broader things outside of EPUT that needs -- well, there's things within EPUT I've identified that need to be addressed.    There's also broader things around commissioning and --
+
+**Mr Griffin**: No, I understand that: within EPUT?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Within EPUT, there's nothing been stopped because we haven't achieved consensus.
+
+**Mr Griffin**: Can we move now to the topic of recommendations, please. Would you put up core bundle page 1402 and expand paragraph 36, please.   So you say here:
+
+"We can point to tangible improvements, learning from those willing to share their stories, the maintenance of services through the pandemic, and continuing to run a complex organisation under operational and clinical pressure, as well as the scrutiny of the Inquiry.     We are committed to learning from the Inquiry and ready to implement recommendations arising from the Inquiry which are in our control."
+
+So you refer to being ready to implement recommendations arising from this Inquiry.    Have you heard of the Inquiry's intentions with regard to its Recommendations and Implementation Forum?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: So that forum will consider what can be done now to ensure the Chair's recommendations, when they are ultimately made, are clear, focused and in an implementable format and that they are then implemented by the responsible body.
+
+Do you commit EPUT to work with the Inquiry generally and with the forum specifically to ensure that recommendations, when made and directed at EPUT, are indeed implemented?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Of course.
+
+**Mr Griffin**: Thank you.    First of all, you refer here to the implementation of recommendations in your control: what did you mean by that?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, I think -- well, without anticipating the recommendations, I think that there is likely to be recommendations about regulation, for example.
+
+**Mr Griffin**: So do you actually or simply mean those that are properly directed at EPUT?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Thank you.     Generally, how is EPUT going to ensure it's responsive to lesson learning from this Inquiry and, where appropriate, action is taken within reasonable timeframes?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: We have established, I think now, a relatively mature infrastructure for transformation.    So we have got change -- people who support change, and professionals in that area and we have got methodologies that ensure that actions that are taken have had the impact that we were looking for.     And we have also built in a mechanism that that's externally scrutinised as well.
+
+**Mr Griffin**: Thank you.   Could you take that down, please.
+
+You also approach recommendations from a different approach, and you have touched on this already, about being overwhelmed by the number of recommendations and actions, for example following Dispatches or some major event of that type.
+
+Generally, what is the Trust's approach to recommendations coming out of that kind of incident or more generally?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, I think -- I think the first one is to make sure -- there's probably a broad range of approaches but in terms of delivering the recommendations, we are now building the capability, as I said earlier, built around the CQC action plan, to make sure that actions are complete, have had the impact we expected and they have been embedded.
+
+**Mr Griffin**: How does the Trust monitor and evidence implementation of recommendations?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, there's -- with the new process, we have got a report that comes through to the Exec Team that goes to board committees as well.     This is a process that is we are bringing more and more recommendations into.
+
+**Mr Griffin**: How is it operating in practice?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Right now?
+
+**Mr Griffin**: Yes.
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, it's working well, I would say, and reports through to the Exec Team and board committees.
+
+**Mr Griffin**: I mean, generally, how does EPUT retain significant learning so it becomes part of the Trust's institutional memory?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: So there's a wide range -- well, there's probably two main facets there.    One is this embeddedness of the recommendations and making sure that they are absolutely within the service and stay within the service so they become part of day-to-day work.
+
+.. rst-class:: indented
+
+The other one is to make sure that conversations are being had, the culture of learning is there, and we have a number of reflective practices, we have dissemination of learning, we have newsletters, et cetera and I think we can continue to build our capacity for learning there.
+
+**Mr Griffin**: How does the Trust rely on its institutional memory, once that's formed, to avoid repeating the serious mistakes of the past?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: So I would say -- I'll just think -- there's a wide range of things, I'd say.       So we use control mechanisms and we would look at -- effectively, we will create Standard Operating Procedures, we will have KPI reports, we will have family and friends forums, patient forums, so all giving feedback about what's the service like, that's collated up and overseen by the Clinical Management Team in the care units, the units that we divide the organisation into, and then overseen by Quality Committee and executive functions.
+
+**Mr Griffin**: We will come on to aspects of that in a moment.       May I just check again that people can hear what Mr Scott is saying?     Yes.   Thank you.
+
+Your position statement contains references to multiple different improvement strategies and can we look at some of those, please.       Looking first at Safety First, Safety Always from 2021, which you mention at paragraph 49, and you describe this as a board level strategy launched in January 2021 --
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: -- designed to lead directly to an increased focus on safety in inpatient wards, a three-year approach, centring on five key areas, which you set out, but they include, for example, patients and families feel safe in our care and no preventable deaths, correct?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Can you confirm that this was launched in response to issues identified by the HSE prosecution?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: It was initially my trying to reset the organisation onto safety but, subsequently, once the prosecution completed, we made sure that the recommendations or the observations from that prosecution were incorporated into the strategy.
+
+**Mr Griffin**: As we have already mentioned the HSE prosecution covered events from 2004 to 2015.    Can you tell us why EPUT awaited the outcome of that investigation, therefore six years after the last related death, before implementing this Safety First, Safety Always strategy, or at least interim measures?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think there were a number of interim measures in place and when I joined there was work going on to remove dormitories, I think other investments had been made.
+
+.. rst-class:: indented
+
+I think a legacy of the merger was that the organisation was very focused on corporate governance and making sure the organisation was stable and there wasn't enough attention, from my perspective, on safety and quality.
+
+**Mr Griffin**: To what extent has learning from deaths occurring after the period covered by the HSE prosecution, so from 2015 to 2020, been considered as part of the Safety First, Safety Always strategy?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: So there was a broad range of things that went into developing that strategy, learning from deaths, CQC recommendations, feedback from staff and, actually, it was quite overwhelming, as I said earlier, making sure part of the thing I have learned, actually, is to make sure we actually prioritise a few things to try and deliver.   So part of that exercise was to say what can we do now what is going to have the biggest impact and what's the most important.
+
+**Mr Griffin**: I have said I want to look at the various improvement strategies.   We have just looked at Safety First, Safety Always from 2021.    Can we now look at another one, and we have already referred to it, the Time to Care programme of 2022.
+
+So this is paragraph 55.    So you describe the Time to Care programme as a programme of practical and cultural change across EPUT, largely centred on inpatient wards and designed in co-production with patients and their families.    You say it is a five year programme at the early stages of implementation, and you say the premise is a clear purpose for each admission, a care plan that is agreed with patient and family, and a route to discharge and support in the community.
+
+Now, I would like to come back to the Time to Care and discuss that with you later but I just want to, for present purposes, note its existence coming into existence in 2022.
+
+There's also reference in your position statement at paragraph 75 to a behaviours framework and leadership behaviour toolkit of 2023.   You describe that as:
+
+"... a key part of addressing feedback from our staff survey, concerns of poor behaviours and enabling leaders at all levels of the organisation to develop high performing and compassion at team cultures."
+
+Then there is also the quality of care strategy of 2024, which you address at paragraph 28, and you say was agreed by the board last year:
+
+"... building on the foundations of Safety First, Safety Always, in recognition that there was a need to do more to improve the quality and experience of care alongside reducing physical risk."
+
+So these are four strategies or programmes or similar instituted at Trust level from 2021 to 2024: Safety First, Safety Always; Time to Care; the behaviours framework; and the quality to care strategy.
+
+Is the Trust's response, whenever it identifies a significant problem, to create a new strategy to address it without necessarily much thought as to other pre-existing programmes and strategies?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No.
+
+**Mr Griffin**: Is there a single coherent rationale underpinning all of these strategies?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, there is, yes.
+
+**Mr Griffin**: What is that?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, we have a Trust-wide strategy where -- again which was co-produced with stakeholders and the population and our staff -- which clearly sets out our priorities and each of those programmes of work that you have just described would fit into those -- into that and these aren't just strategies for -- to put on a shelf. I think it's really important that, especially in mental health, with a range of stakeholders, consensus is built and alignment of action is built and so, therefore, that allows us to act and start to deliver real change.
+
+**Mr Griffin**: How do the strategies, programmes, et cetera, work or relate to each other and work together?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: So there's a transformation programme board that's chaired by the Executive Director for strategy and supported by the transformation group and attended by all of the senior responsible officers for the programmes of work within the strategy.
+
+**Mr Griffin**: So there would be high level oversight of the different programmes and strategies?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, yes.
+
+**Mr Griffin**: Would you agree that there's a danger of having too many new strategies if they are not designed to work together?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I would, yes, and I think, you know as, as -- I think that goes back to my point about prioritisation actually and being very focused.      It is very tempting to try and fix everything at once but, clearly, we need to have the discipline of prioritisation.
+
+**The Chair**: Do you think the staff understand each of these programmes, are conscious of them?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I would expect that they do understand Time to Care, I would expect that they understand our focus on safety as two priorities.    I think it depends whereabouts in the organisation you speak to them though.
+
+**The Chair**: Do you think there might be some confusion in the mind of staff about these programmes running alongside each other?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I haven't picked that up.     I think there is a really -- you know, the Time to Care programme is a language that staff use and that's why it's used Time to Care.     Safety was a very clear -- Safety First, Safety Always was a very clear sort of reset of the organisation and generally welcomed by staff.
+
+**Mr Griffin**: How do the Trust's strategies and programmes relate to national strategies?     For example, the Culture of Care Standards for Mental Health Inpatient Services of January 2024.    I understand that that's guidance providing support to all providers to achieve the culture of care that patients, families and staff want to experience?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, so they are very closely related actually.      We developed Time to Care as the national team were putting together the Culture of Care and so we fed in quite a lot into that piece of work, so I think you can draw parallels between the two.
+
+**Mr Griffin**: Thank you.   I would like to move on to a new topic please and that's funding, and it's noticeable in your position statement that you refer to funding issues several times.   You make the general point early on, this is paragraph 18 for people who are following, that:
+
+"Like all public services we operate within financial constraints."
+
+What I want to do is just trace through your position statement other things that you have said about finances.    Could you please put up core bundle page 1402 and expand paragraph 35.     Thank you.   So you say here:
+
+"The changes that we have made since the formation of EPUT cannot be made without an impact on financial resources.   Improved staffing levels, the use of IT, the improvement of our ward environments, the improvement in governance of change, the infrastructure to support patient and family involvement have all led to an increase in costs of delivering the service.     There are choices to be made in the future for mental health services about the amount of financial resources available, a better understanding of both productivity and the impact of improvements on patient outcomes."
+
+Would you please expand on what you mean there where you talk about the choices that are to be made?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think it's about how much money is invested into mental health, as a percentage of the overall NHS funding.    I think in recent years it's increased, though it's starting to flatten off now.
+
+**Mr Griffin**: Could you take that down, please, and put up core bundle page 1403 and expand paragraph 42.    You say here that:
+
+"As a new Trust EPUT had already identified a number of these issues in 'due diligence' work prior to merger and was taking action.    However, the depth and scale of the work required was not identified in full until post-merger."
+
+I think that's a point that you have already made this morning, isn't it?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: "The merger itself proceeded without a Chair and EPUT inherited a number of issues relating to cultural differences and the need to align two very different organisations."
+
+That's a point we'll probably come back to:
+
+"The challenges were increased by difficult financial circumstances and the need to make savings, leading to a lack of resources for change in certain key issues including the poor state of ward environments, outdated data systems and the need to improve ward safety especially in relation to ligature risk."
+
+What were the difficult financial circumstances to which you refer there?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think North Essex Partnership had some very severe financial challenges at the start -- well, when we merged.   I think there's been a significant constraint on capital, which restricts the ability to make the changes to the wards, and I think there were also very strict financial controls in the organisation and centralised control of finance, I think, in the organisation, immediately post-merger.
+
+**Mr Griffin**: We could see on the screen that you say that there was a lack of resources for change.
+
+Is that basically a point that you have just picked up on or is there more of an explanation you would like to give about what you mean by that, leading to a lack of resources for change?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, I think that means there was a lot on to operational and clinical staff to deliver change and there wasn't infrastructure to support them and the kind of work we have done is invest in the transformation capacity of the organisation, with professional change managers supporting clinical staff to make change.
+
+**Mr Griffin**: So you have referred there to improving ward safety, especially in relation to ligature risk.   Would you take that down, please.   You also address physical risk reduction in your statement at paragraph 58, where you go on to say this:
+
+"While there have been significant improvements in some of our wards, there are others that have fallen short and the facilities do not meet the standard we would want for our patients.   This is due to constraints on capital available."
+
+This may pick up on a point that's made in one of the earlier paragraphs but would you expand on that please?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, I think this is -- we have got a wide variety of estates that our wards are operating from across a wide geography and there's different levels of modernisation of those and if you visit some of our sites, for example, they won't have en suite bathrooms within the wards, it is quite a tired building.
+
+.. rst-class:: indented
+
+My hope would be that we would be able to get capital to refresh that fully or to provide that in a more modern facility.
+
+**Mr Griffin**: The HSE prosecution of EPUT resulted in a fine of £1.5 million in, I think, June 2021.    What impact on EPUT's finances has payment of this fine had?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: It is a relatively small impact.    It has not affected how we deliver services.     It was paid in increments, I think, and we have got a turnover of around 650 million.
+
+**Mr Griffin**: Are there any outstanding instalments to pay?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I don't know that.    I'll provide that to you outside.
+
+**Mr Griffin**: Would you give me one moment?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Sure.
+
+**Mr Griffin**: So you have given another witness statement, you have given a first witness statement to the Inquiry.     It is dated 20 March and it covers the HSE prosecution, correct?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: You have said there that -- this is paragraphs 45 and 46, core bundle page 39 -- EPUT would be and has subsequently been significantly impacted by the fine, and you say at paragraph 47:
+
+"No additional funds were available to cover the cost of the fine.     In essence, the fine was paid for by the usual income stream from EPUT's commissioners.      This has a particular impact due to EPUT's current financial position and has meant a reduction in funds available for frontline services and the ability of EPUT to plan long-term capital projects, service improvement and the significant backlog of planned preventative maintenance. This will continue for the next couple of years whilst the remaining instalments are paid."
+
+Do you think that's likely to be accurate?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think accurate in terms of instalments being paid, yes.     I think there's a judgement to be made about how far that fine impacted.       Clearly, it came out of the funds for healthcare but it was some time ago now, so ...
+
+**Mr Griffin**: You explain at paragraph 56 that:
+
+"EPUT invested £20 million in our inpatient wards aiming to make them safer via the removal of fixed ligature risks, as well as digital investment in remote monitoring and CCTV."
+
+When was that investment made?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: That was in the first two -- so '21 and '22, I would say.     Again, I probably need to just make sure that's completely accurate.
+
+**Mr Griffin**: Fine, you can follow up, please, if that's not accurate?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: But around that period of time?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Was it, at least in part, in response to the HSE prosecution?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Was any of that £20 million funding allocated to staffing or training?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: That -- that was capital funding.   We did invest in staffing and have continued to invest in staffing.
+
+**Mr Griffin**: But that would have been from a separate stream of finance?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Separate, yes, yes.
+
+**Mr Griffin**: Are you able to say what key environmental and/or security changes were made by EPUT across all acute wards to minimise the risk of patient absconsions?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.   I mean, it's -- there's quite a range there and I haven't got all of the details but I can talk to the airlock for the Linden Centre for example, we can talk about the work that's done to raise the level of the fences to reduce the access to the roofs, as well, of the facilities.
+
+**Mr Griffin**: So you would need to get back with a more comprehensive answer --
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: -- but you point to individual changes that have been made to improve that particular situation?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.     Yes.
+
+**Mr Griffin**: You refer at paragraph 61 to EPUT's 2023 to 2025 Patient Safety Incident Plan and the Trust's 10 safety improvement plans.    Do any of those address absconsion, as far as you are aware?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No.
+
+**Mr Griffin**: Do you know why that is?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Because these are -- these are responses to specific recommendations.    There will be an estate's plan that continues -- capital plan that monitors our estate to make sure it is fit for purpose when it comes to making sure people are secure.
+
+**Mr Griffin**: But absconsions has been identified as a potentially serious issue.    Is it not more on your radar to be addressing the problems arising?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: There's -- there's two bits to absconsions really, isn't there?     There's one, can people leave the facility, and the work, I think, has been done to make good changes to our environment so that's less likely now.
+
+.. rst-class:: indented
+
+And the second piece is around escorted leave or leave from the premises, and I think that that's part of, sort of, clinical handovers and it's a clinical piece of work there about judgements and risk assessments, et cetera.
+
+**Mr Griffin**: Thank you.   Just returning to funding, sort of generally, please.   Overall, have financial pressures adversely impacted inpatient safety since the merger?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: So I don't think -- that's a good question, in some respects.    Since I have joined, there has been no financial constraints on our inpatient wards.     The constraint is the supply of staff.
+
+.. rst-class:: indented
+
+I think, prior to that, there was very strict financial control -- now, whether you call that financial constraint or not -- and I would expect that -- you, know my view was that we should have been investing more earlier.
+
+**Mr Griffin**: Just following on what you've said.   Is the suggestion that financial pressures currently don't impact patient safety, at least in mental health inpatient units, in terms of -- well, generally?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Our, our establishment, so the number of people that are scheduled to work on our wards, has been fully funded. We also support colleagues if they need additional staff because of the acuity on the ward.
+
+.. rst-class:: indented
+
+We have a range of training in place and we continue to prioritise quality of safety over financial requirements.    I would say -- so I don't think it has adverse -- so no is my, my general answer on that.
+
+**Mr Griffin**: Thank you can we just stick with the topic of safety and committees focused on safety.   You refer in your statement at paragraph 66 to a ward to board focus on safety.
+
+To what extent has and does the board, as a whole, including non-executive members, get involved with matters of safety?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Extensively so, I would say.    I can expand, if you would like.
+
+**Mr Griffin**: Please do.
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: You know, I think there is, there is a whole range of sort of escalations and meetings in place that will make sure that what happens at ward level is discussed with clinical leadership, is escalated as appropriate to an executive group, and that's fed through on a weekly basis to the Chief Exec, Chair of the Exec Group.
+
+.. rst-class:: indented
+
+There's also reports that go through to -- from all of these groups to the Quality Committee, that's chaired by a Non-Exec doctor, and they, they work together to try and understand what themes things are emerging and escalate as appropriate to the board.
+
+**Mr Griffin**: We will pick up on a couple of aspects of what you have just said in a moment.   Would you agree that effective ward to board working will include a system under which board directors hear what's happening on the front line,
+
+which could, for example, involve executive and
+
+non-executive members visiting wards?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Do they?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Including inpatient units?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: How often do you yourself visit the wards including
+
+mental health inpatient wards?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Frequently, I would say.     I -- you know, I can't give
+
+.. rst-class:: indented
+
+you a -- I can provide that information outside, but
+
+.. rst-class:: indented
+
+I am -- you know, three weeks ago I was on a ward.
+
+**Mr Griffin**: Three weeks ago?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Do you know how long ago it was since you were last on
+
+a mental health inpatient ward?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: That was a mental health inpatient ward.
+
+**Mr Griffin**: How often do other board members do this?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Regularly, I think, and there's also governors attend.
+
+.. rst-class:: indented
+
+So I would say, you know, I haven't got the answer but
+
+.. rst-class:: indented
+
+it is -- part of our work is to be present on the wards.
+
+**Mr Griffin**: Overall, what are the main challenges that you face or
+
+you think exist in making ward to board work at EPUT?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think it's constantly understanding, I think --
+
+.. rst-class:: indented
+
+I think there's a couple of things.    I think one is data and making sure that we have got consistent and understood data coming through to all aspects in a timely fashion, and I think the other one is the live bit, so how can we understand that in the moment. Obviously, visiting wards and checking in with the staff and patients is one way of doing that.
+
+.. rst-class:: indented
+
+But how do we systemically do that, I think, is something I am still working with.
+
+**The Chair**: Do members of the board go back to the ward in the sense of shadowing; do they do that?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: What, in terms of working on a ward?
+
+**The Chair**: Yes, do they do shifts?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No, no.
+
+**The Chair**: Do you have processes for staff to meet informally with members of the board, for instance open sessions, where they can come and talk to the board either in the board itself or outside the board?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, there's -- there's a -- it's quite a disparate organisation, so finding a geography that can attract everyone is difficult.
+
+.. rst-class:: indented
+
+So we do quite a lot through Teams.    I do a regular -- Microsoft Teams, you know, the videolink -- and so there's plenty of chance for staff to ask me questions through that, my executive team join that, and board members will make themselves available at public
+
+.. rst-class:: indented
+
+board meetings to any staff attending.
+
+**The Chair**: Thank you.
+
+**Mr Griffin**: Just still on the question of safety and sexual
+
+safety and the issue of mixed wards, what plans does
+
+EPUT have in the future about providing single-sex wards
+
+for those in mental health settings?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I'll have to get back to you on that one, I'm afraid.
+
+**Mr Griffin**: Thank you.
+
+Chair, we have been going for an hour and 20 minutes
+
+or so, maybe a little less but may I suggest that's the
+
+time for a 15-minute break.
+
+**The Chair**: Thank you.
+
+**Mr Griffin**: So that will take us back at 11.40.
+
+**The Chair**: Perfect.
+
+*(11.23 am)*
+
+*(A short break)*
+
+*(11.42 am)*
+
+**The Chair**: Mr Griffin.
+
+**Mr Griffin**: Thank you, Chair.
+
+Mr Scott, in the section of your statement
+
+addressing staff management and conduct, and this is
+
+from paragraph 72, you speak of improvements in the
+
+recruitment and retention of staff.
+
+Can I ask you this: has there been a reduction in
+
+agency and temporary staffing?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Of what magnitude?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: We have -- well, it matches the increase in permanent staff and we have reduced it.    I am trying to -- I'll have to supply that number to you but it's probably about 20 to 30 per cent reduction.
+
+**Mr Griffin**: So just in case people didn't hear that, 20 to 30 per cent reduction.   Is that also reflected specifically in mental health inpatient units?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, and the purpose of doing that is to make sure we have got permanent staff, permanent teams and rely less on temporary staff that may not be so embedded with the systems and the culture in the organisation.
+
+**Mr Griffin**: The Inquiry may well be in touch and seek further information about the reduction in those categories of staffing and specifically in relation to the mental health context.   But your evidence is that the 20 to 30 per cent reduction would also be applicable to the mental health inpatient unit?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, and I would say we will have more staff on our wards now, including bank and agency, than we had in 2020.
+
+**Mr Griffin**: Thank you.   I want to now ask you about culture but looking at it from various different perspectives. I mention that funding was something that keeps coming up in your position statement.       Culture is another word we see at various different stages and can we just follow that through, looking first of all from the perspective of staff support.
+
+You address staff support from paragraph 75 and actions being taken so that all staff are supported, as you put it.    At paragraph 76 you refer to strengthening EPUT's culture of openness and signing up to the NHS Sexual Safety Charter.
+
+I am now going to ask you that core bundle page 1411 is put up with paragraphs 77 to 78 being expanded, please.    Thank you.
+
+So you say here at paragraph 77 that:
+
+"These areas touch on the fundamental culture of the Trust.    I acknowledge this is an area which needs further development -- we know that issues of racial abuse and sexual safety are experienced by some of our staff.    I acknowledge that staff have sometimes reported that they do not feel confident in speaking up, not least as wards can be small communities where 'everyone knows everybody'.       In relation to the investigation of staff complaints and concerns, there have been times when Trust policies or procedures have not been applied consistently or sufficiently rigorously, and the training of those conducting disciplinary investigations has not been sufficient."
+
+You then say in paragraph 78:
+
+"There is more to do to address these issues and to make sure that everyone feels safe and supported in the workplace -- only by doing this can we ensure that colleagues are able to provide the best therapeutic care for others."
+
+What do you mean there when you say these issues touch on the fundamental culture of the Trust?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, I think, if you start from the fact can anyone speak up and do they feel safe to speak up and do they feel safe at work, that that is the basis for any organisation, I would say, from a cultural perspective and, you know, I think it's a well-known challenge in mental health wards, but isolated wards in general, that closed cultures can occur and there is power bases that may inhibit people from speaking up for fear of detriment.
+
+.. rst-class:: indented
+
+And there's also, I think -- we are continuing to do that piece of work, we have invested very heavily in -- invested in a freedom to speak up guardian office that is very high profile, very well known and very challenging to us in a good way, that we hear, and she still says that people feel like they don't feel confident to speak up.
+
+.. rst-class:: indented
+
+Now, whether that's because of actual things or perceived things is something we need to be still looking into.
+
+**Mr Griffin**: So these are staff members who do not still feel confident to speak up within the Trust?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Do you understand that there may be also concerns and difficulties for those people to speak up to this Inquiry?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I can understand concerns that, you know, people have been speaking, speaking about past events that are difficult, yes.
+
+**Mr Griffin**: What will you do to facilitate staff members feeling free to contact this Inquiry and to give this Inquiry important evidence?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I will give really consistent messages that this really important Inquiry needs our attention, and that if people have something to say, they should contact the Inquiry.    There is absolutely no fear of detriment at all.     We will provide support, if required, both emotionally and/or practically.
+
+**Mr Griffin**: Thank you.    You refer to issues of racial abuse and sexual safety experienced by some staff.    Is that abuse also experienced by patients?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think there's evidence in the past that that has happened, yes.
+
+**Mr Griffin**: You say there's more to do, that's the start of paragraph 78: what do you think still needs to be done in the mental health context?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think we will need to keep encouraging that culture of speaking up.   I think it is really important that everyone feels that it is safe to speak up and, if they speak up, something will happen appropriately.
+
+.. rst-class:: indented
+
+I think that we need to give -- need to embed some of the new measures we put in place, so the space that we created for staff -- does that -- sorry, my voice is a bit croaky --
+
+**Mr Griffin**: I was just looking at the back of the hall to make sure that everyone can hear what you are saying and they can. Thank you very much.
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: So I think we -- I mean, part of this is time, right. So the more people trust us as a leadership group, the more they can feel that actions are happening as a result of what they have said and they feel safe and they have got stories of being safe when people speak up.   I think that's really the fundamental piece going on there.
+
+.. rst-class:: indented
+
+We will continue to support staff with freedom to speak up, we will continue to put in place behaviour standards, we will continue to do that through supervision, we will continue to do that through plenty of other measures that have gone from my mind now --
+
+**Mr Griffin**: Understood.
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: -- but we can supply those.
+
+**Mr Griffin**: But EPUT has been in existence for over eight years and you have been CEO for around four and a half years.     Why is it that there is still so much more to do?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think culture is a never-ending piece of work to be honest and any change in culture is, I think, well researched, it takes an awful long time for it to -- from the input to manifest in outputs of behaviours every day.
+
+**Mr Griffin**: Thank you, would you please put up core bundle page 1403, expanding paragraph 42.   So you say here:
+
+"As a new Trust EPUT had already identified a number of these issues in 'due diligence' work prior to merger and was taking action.   However, the depth and scale of the work required was not identified in full until post-merger."
+
+Again, the point that you have previously made:
+
+"The merger itself proceeded without a Chair and EPUT inherited a number of issues relating to cultural differences and the need to align two very different organisations."
+
+Now, I think you have touched on this before.     But could you just expand on what you mean by the cultural differences and the need to align the two very different organisations?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, I think these are organisational cultures, rather than the cultures we were talking about before and that would be things like language, processes and where priorities were put.    So there's a melding that was needed.
+
+**Mr Griffin**: So these relate to the predecessor Trusts --
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: -- and merging them into a single entity --
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, yes.
+
+**Mr Griffin**: -- and the cultural differences of both of those predecessor Trusts?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: The need to align the two different cultures, does that difficulty remain a problem to this day?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I haven't experienced that.    So I've obviously got no memory of the previous two Trusts and I come in and see EPUT.
+
+.. rst-class:: indented
+
+I think there is this -- there is slightly different clinical practice in different parts of EPUT, which may well be as a result of historical organisations.    I -- you know, we, for example -- the inpatient units are now under one leadership team, we have had a very high turnover of staff, and they feel like one organisation to me.
+
+**Mr Griffin**: You just said a very high turnover of staff?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, over a period.   Sorry, a number of staff -- not excessively high.   A number of staff have moved on over time.
+
+**Mr Griffin**: Are you saying there is new personnel who haven't been part of the predecessor Trusts?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, exactly.   Thank you.
+
+**Mr Griffin**: Can you take that down.      Staying with culture, you also refer to the need for a radical transformation of mental health care and cultural shift in the context of Time to Care.
+
+Could you put up, please, core bundle page 1406 and expand paragraphs 54 and 55.      Thank you.
+
+So in 54 you say this:
+
+"In many respects 'Safety First, Safety Always' established the environment and put in place the processes to support safe care -- and we undoubtedly saw improvements, as I have outlined above.        However, a radical transformation of mental health care -- moving from a medical and clinical led focus on observations to a more holistic approach -- takes a cultural shift and we have not yet fully achieved that."
+
+Then you say at paragraph 55:
+
+"In May 2022, EPUT's Board approved the Time to Care programme."
+
+You go on to say that:
+
+"It is a programme of practical and cultural change across EPUT, largely centred on our inpatient wards and designed in co-production with patients and their families."
+
+You say a little later in the paragraph:
+
+"In the spring of 2023, the second phase focused on developing and implementing a new staffing model, moving away from a clinical and medical focus to a more multidisciplinary approach of therapeutic engagement."
+
+Then a little later you say:
+
+"The third phase of the programme will start in April 2025 [so last month] with a focus on embedding transformation and beginning to realise the benefits of the programme."
+
+So you describe at paragraph 54 the need for a radical transformation in mental health care and a cultural shift.   Could you just explain or expand on what you mean by that?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: So I think, and we have heard from lots of the evidence already, the desire that mental health is not diluting the clinical medical model but adding to it in terms of making sure the therapeutic care, the trauma-informed care, the involvement of people with lived experience and families in decision-making are all there, and that's the big, big shift I think we are describing here.
+
+**Mr Griffin**: You say this also in paragraph 54, you talk about a move from a medical and clinical-led focus on observations to a more holistic approach.    Then, in the next paragraph, you refer or you speak about moving away from a clinical and medical focus to a more multidisciplinary approach of therapeutic engagement.    Could you clarify what you mean by all of that?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: So, again, I think it's very similar to what I have just said.   So the -- you know the standard model of doctors and nurses has been expanded to include -- and psychologists also and occupational therapists currently work across our sites as well.    But we are adding to that with, you know, activity coordinators, with more social workers, with lived experience ambassadors, along those lines.   So we are trying to create a therapeutic environment that is aimed at recovery and aimed at supporting people to get back into their home as quickly as possible.
+
+**Mr Griffin**: What more is there to do to achieve the necessary cultural shift?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Right now, we are implementing -- so there's quite a lot of -- well, I think there is a lot more, actually, if I am honest.    So we are implementing the new targeting operating model now.    That was a painstaking piece of work to design new operating procedures for the wards and that will start to embed those new arrangements.       By introducing a new therapeutic environment and patients or people with lived experience and opening the doors to families, you are opening up a process of cultural change that I think will take -- well, it will benefit from for many years, as it develops.
+
+**Mr Griffin**: Could you take that down, please.
+
+Could you put up core bundle page 1412 and expand paragraphs 83 and 84.
+
+So you say at paragraph 83:
+
+"I have already touched upon some of the challenges including cultural alignment ones ..."
+
+The cultural alignment ones, is that point about the merger of the two different cultures?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: "... that faced EPUT upon its creation.    This undoubtedly left a legacy.     When I joined EPUT, there was a recognition of the need to shift the culture at EPUT from one of centralised control to a devolved model where local clinical decision-making was enabled, and was better able to respond to the needs of diverse local communities."
+
+Then there is reference to the target operating model; is that what you have just been referring to?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: It is.
+
+**Mr Griffin**: In paragraph 84 you say:
+
+"The creation of care units with a multidisciplinary leadership -- operational, nursing and medical -- has been an important step in allowing us to meet the needs of local people.    There is undoubtedly more to do ..."
+
+Could you just expand on the meaning of centralised control in paragraph 83?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.     I think decision-making in the organisation when I joined was taken at executive level.    There was very little devolved when it came to decision-making on capital, for example, so clinical people weren't involved.
+
+**Mr Griffin**: So is this a point you have made previously?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Thank you.    What are the practical elements of the devolved model, in your view?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: The practical elements?
+
+**Mr Griffin**: The practical elements of the devolved model?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: So we are very clear about the plan, that and the obligations and responsibilities on the leadership team as overseeing a care unit, we call it, which is a division of clinical care, we have inpatients and Urgent Care and then we have got locality Community Mental Health Teams.
+
+.. rst-class:: indented
+
+So they have responsibility for running the services, overseeing the quality of the safety and performance as well.   That's then overseen -- or they work with the executive team in what's called an accountability framework meeting, where issues are discussed and things are escalated and actions taken.
+
+**Mr Griffin**: Thank you.   Could you take that down, please.
+
+Can we just take stock.   We have looked at various different aspects of culture, so references in the position statement to staff support and other areas touching on the fundamental culture of the Trust; cultural differences arising from the merger of the two predecessor trusts; Time to Care and the cultural shift necessary there; and shift in culture, as we have just heard, from centralised control to a devolved model. Overall, Mr Scott, would you agree that there remain fundamental issues relating to the culture of EPUT?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I would say there's ongoing work with culture in the organisation, whether you describe them as fundamental issues, I think this is an ongoing piece of work on culture and I'd say some of what we are doing, you would look across the wider NHS and say that's ongoing as well.
+
+**Mr Griffin**: Given that we are now eight years since the merger, do you think EPUT should still be the organisation to deliver mental health services to the people in need of them across the whole county of Essex?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, I would say so.    If there's better models, then I am always open to listen to those and there's opportunity for different models with the changes in NHS England and commissioning, and we should always be considering that.   I think the consistency of approach and what we have invested in for the future, it's actually really important that that is retained.
+
+**Mr Griffin**: Thank you.   Can we now turn to incident investigations and responses, please.    Dealing first with the Prevention of Future Deaths reports issued by the coroner.   Do you know whether NEPT had any mechanism or framework for sharing issues arising from records of inquests and PFDs and indeed the findings of serious incident investigations and action plans across the Trust, so as to identify recurrent issues of concern and to prevent future deaths?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I don't know.
+
+**Mr Griffin**: Could you put up core bundle page 1407 and expand paragraph 62, please.    Thank you very much.
+
+So you say here:
+
+"In addition, the Prevention of Future Deaths Reports from inquests into patient deaths which occurred since the date of merger have been analysed thematically to identify systemic issues.   The systemic themes identified included:
+
+"Communication, including failures in joint working and information sharing, and the involvement of family members or carers
+
+"Training and supervision, including criticisms of Oxevision training and failure to convey its limitations/use of the tool as a substitute for in-person observations and care
+
+"Recordkeeping
+
+"Discharge planning including the inadequate assessment of patients
+
+"Care planning
+
+"Failures to assess risk and manage risk adequately."
+
+When did the analysis that this paragraph talks about take place?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I will have to -- I am really sorry, I will have to get back to you on that.
+
+**Mr Griffin**: Do you know what purpose that analysis was for?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: It was trying to understand what kind of things were emerging from the thematic review, as you have already said, and how that informs our safety plans or our strategy.
+
+**Mr Griffin**: Was that done specifically for this Inquiry, do you know?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No, no, no.
+
+**Mr Griffin**: It would have been done prior to this Inquiry or for a separate purpose, in any event?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: It is a separate purpose, in any event.
+
+**Mr Griffin**: Thank you.    Would it be fair to say that the Trust's systems for responding to and learning from coronial reports have been slow or inadequate?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think they have been slow, yes, and I think it's -- it's -- there's been -- there's been a gap, I think, in the oversight of those.
+
+**Mr Griffin**: Have they been inadequate?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I don't know.
+
+**Mr Griffin**: You don't know?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I don't know if they have been inadequate or not. I think there's been gaps and -- so the reason I am saying that is that the -- it is the oversight at a central level that's different.   So they were overseen and delivered at care unit level, clinical level, but we haven't -- we didn't have the reporting mechanism, the oversight to make sure that the actions we committed to were delivered and that's why I say I don't know if it is inadequate because I don't know.
+
+**Mr Griffin**: We can still see it on the screen, looking at the themes there, do you accept that the pattern of failings repeated in multiple PFD reports reflects systemic and ongoing failure of the Trust leadership?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I don't -- I don't accept that, no, and I think there's a -- there's quite an interesting conversation here and, if you look across many NHS organisations, particularly mental health organisations, you will see repeated themes, and that's because there's learning and we need to do more, but it's also because they are the points of risk and failure in a system.
+
+.. rst-class:: indented
+
+So when we talk about learning we have to continually cycle round to say has that learning worked? And you heard from Dr Ian Davidson that there is a lot of things that need to be in place to guarantee safety and these are the areas we are going to have to continue working on, time and time again, I think, to get to a point where we improve safety?
+
+**Mr Griffin**: Thank you.We understand from the witness statement of your EPUT colleague, Ann Sheridan, that the Trust does not hold a central record of all PFDs and records of inquests issued for the entire relevant period, so we are going back to 2000.   She also says that since May 2023 the Trust has in place a central record of PFDs and ROI, Records of Inquests, which consists of a catalogue and the storage of key documents within the inquest team's shared drive.
+
+What was the reason that there was no such central record in existence before May 2023?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think it was an oversight and omission and we have corrected that now.
+
+**Mr Griffin**: Is there any reason why it took six years post-merger to set it up?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No.
+
+**Mr Griffin**: Are you aware of any reason why older pre-merger records couldn't also be incorporated into this central record?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No.   There's no -- there's no reason no.
+
+**Mr Griffin**: Do you think that might be a good idea?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Possibly, yes.
+
+**Mr Griffin**: Could we move on now, please, to the Patient Safety Incident Response Framework.    Would you please put up core bundle page 1413 and expand paragraphs 86 to 87.
+
+So this is where you are addressing the Patient Safety Incident Response Framework.    You say this at paragraph 86:
+
+"I have already outlined some of the work we have done with the creation of a Lessons team to create a culture of learning across the Trust."
+
+Then you say this:
+
+"A key part of this was the early adoption of NHS England's Patient Safety Incident Response Framework (PSIRF), the new way that the NHS looks at patient safety incidents."
+
+You go on a little later in that paragraph to say that:
+
+"EPUT was one of the first 'early adopter' NHS Trusts to introduce PSIRF."
+
+Then in paragraph 87, you say that:
+
+"The Trust previously operated a centralised investigation team who did the majority of investigations into patient safety incidents under the Serious Incident Framework ..."
+
+The Serious Incident Framework preceded the PSIRF; is that correct?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: "... this continued under the PSIRF.     This approach has at times disempowered local clinical teams from taking ownership of patient safety incidents and embedding timely learning at a local level.     It has also meant that processes for investigating and learning have at times been complicated and taken far too long to complete, with shortcomings in patient and family involvement.    The quality of some investigations fell short of what patients, their families and staff were entitled to expect."
+
+So you say in the statement at paragraph 86 that EPUT was an early adopter of the PSIRF.    Do you know approximately when that would have been?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: That would have been about two or three -- two or three years ago, I think.
+
+**Mr Griffin**: Why did EPUT want to be an early adopter?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: We were -- it was the ICB, Suffolk and North East Essex, who adopted that as a commissioner and so all the provider organisations within the ICB.
+
+**Mr Griffin**: So that was an initiative led by the ICB?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Were there any issues with the adoption of the framework?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think there's been a couple of issues, I would say, I think, and the -- the -- it was very clear in the Serious Incident Framework, when we investigated, I think there was much more judgement in the PSIRF framework about when detailed investigation or high level investigations were done and we had to calibrate that quite a lot.
+
+**Mr Griffin**: Sorry, can I just ask you, you said there was much more judgement in the PSIRF framework; what do you mean by that?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: So there is a whole range of different investigations that are mandated by the PSIRF framework and judgement taken about when a detailed investigation would be done or a systemic investigation would be done.     I am not -- I haven't got all of that detail in my mind.
+
+**Mr Griffin**: Understood.    So there was an issue of that nature.
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: You say at paragraph 23 of the position statement that the introduction of the PSIRF caused concern that the guidelines for local teams were too ambiguous and that you have since strengthened and clarified the guidance for teams?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: That's exactly the same issue.
+
+**Mr Griffin**: That's the same point?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: The evidence of Deborah Coles, who is the Director of the organisation INQUEST, is that, whilst there have been changes to the post-death investigation process since 2010, such as the introduction of the PSIRF, INQUEST's experience as an organisation is that families are continuing to raise similar concerns and INQUEST have not seen fundamental improvements in families' experiences.
+
+Do you consider that the adoption of the PSIRF has led to an improvement in the systems and processes for responding to patient safety incidents, including particularly for the family members who take part?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, I think, you know, my understanding is that many families appreciate the Family Liaison Support Officer we now put alongside them and feel more included in the process of investigation.
+
+.. rst-class:: indented
+
+I think, you know, this will come back to culture, again how open really are we to really including them and how open are we to the systemic review, which is different from a root-cause analysis.   I think -- I think, as ever, with anything you do, you can always improve further and we will seek to do so.
+
+**Mr Griffin**: Thank you.   What has been the impact of increasing investigative capacity locally?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: It's been a transfer of investigative resource from the central team into the local team.   We are seeing quicker responses and it's very early days though, it's only done very recently.
+
+**Mr Griffin**: Is there a concern that local ownership of investigations increases the risk that those investigating are familiar with the members of staff who were involved with the events under investigation?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, I think we always look to safeguard that, so investigating officers should be out of the area that the investigation is taking place.    So, sorry, there is a resource that's available there to support the investigation but they are not working in the clinical areas.    So that's with the management team of that area and then external people come in, external from that area, to do the investigation.
+
+**Mr Griffin**: We may follow up and seek some further information from EPUT about that process, Mr Scott.
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Could you take that down, please.    Coming on now to data management and recordkeeping practices.
+
+You refer in your statement -- the reference is paragraph 91 -- to EPUT's use of multiple legacy data management systems since the merger and the negative impact this has had on clinicians and managers.
+
+You mention that the Trust has put in place mitigations to address the multiple and legacy systems issue but this is far from perfect.      Then you come on at paragraph 93 to say that you are working with a neighbouring acute Trust towards an electronic patient record, or EPR, across acute mental health and community services with implementation in 2026/27.
+
+What are the hopes for the EPR?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: What are the hopes?
+
+**Mr Griffin**: Yes.
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, the hopes are we can unify all of the electronic patient records, so the interfaces between the different systems will be removed and, therefore, removing that risk as well.    The record will be seen between community services, mental health and acute, appropriately governed, of course, but that means that clinicians treating mental health patients in the acute hospital will have access to mental health records and be better informed.
+
+.. rst-class:: indented
+
+The other big thing for EPUT is the quality of the record will improve dramatically and there will be more protocolised care, there will be designed Standard Operating Procedures embedded within the electronic patient records, so it will become more -- less of, you know, a document storage to a clinical tool, much akin to what's in many acute hospitals now.
+
+.. rst-class:: indented
+
+But very, very different for mental health and this is the first of its kind in the UK.   So we are working very closely with the supplier to make sure that gets put in safely.
+
+**Mr Griffin**: Why has it taken so long to bring about the EPR, given the ongoing difficulties the multiple and legacy systems present?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think there's two reasons.    One is funding and, you know, NHS organisations across the country face these kinds of challenges that we have with multiple systems and, you know, the argument goes, actually, we should only have one system for the NHS.
+
+.. rst-class:: indented
+
+So funding and the window for that funding has been -- I think a delay and we have -- we found that window and then the delay is it's very complicated and there is lots of business cases to get approved at national level and governmental level.
+
+.. rst-class:: indented
+
+And then the implementation will take two years, which we are in the middle of now.
+
+**Mr Griffin**: Thank you.
+
+Chair, those are the questions I have at this stage for Mr Scott.     Could we pause now for 10 minutes and come back at 12.25, just to check if there's anything else that needs to be asked.
+
+**The Chair**: Yes, 12.25.
+
+*(12.16 pm)*
+
+*(A short break)*
+
+*(12.42 pm)*
+
+**The Chair**: Mr Griffin.
+
+**Mr Griffin**: Chair, a few more questions for Mr Scott.
+
+Mr Scott, I asked you a question earlier on in this session and you denied that a lack of cooperation from former members of staff had made it difficult for you to address what had occurred pre-merger; do you remember?
+
+Can you explain this: how is the position now radically different from the position prior to the statutory Inquiry?      So when we go back to the non-statutory Inquiry, presided over by Dr Strathdee, she decided that a statutory Inquiry was necessary due to lack of engagement and her lack of powers of compulsion and, at that stage, fewer than 30 per cent of what she considered to be essential witnesses had agreed to attend evidence sessions.    So what has changed?   Why do you think a lack of cooperation is no longer an issue?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I'm sorry, I didn't understand the question you put to me.
+
+**Mr Griffin**: So the question probably boils down to this: that the previous version of this Inquiry, the non-statutory Inquiry, had real difficulty in getting staff members and others to cooperate and to comply.    Why do you think they will be more willing to come forward now?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, I welcome the clarity of a statutory Inquiry and the powers that come with it.    It makes it very clear for everybody engaging in their obligations, I think.
+
+**Mr Griffin**: Is there anything else you would like to say?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I would like to say that we will obviously encourage staff to come forward to volunteer information, as well as attend when required.
+
+**Mr Griffin**: Thank you.   You stated in response to my question that you agreed to honour a commitment to candid engagement with the Inquiry, approaching the Inquiry in an open, collaborative and supportive way.
+
+In an open letter in January 2023, Dr Strathdee stated that, as a result of poor levels of witness engagement, out of 14,000 mental health staff who were contacted, only 11 said they would attend an evidence session.   It had not been possible for her Inquiry to carry out its functions properly and to meet its Terms of Reference.   Do you believe that EPUT approached the non-statutory Inquiry in an open, collaborative and supportive way?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I really do, actually, and that was obviously very, very disappointing for everyone involved.   We put a lot of effort -- once we found out that, we put a huge amount of effort to support staff to go forward to communicate its importance.   There was direct emails from me, broadcasts from me, meetings with staff and I understand many more staff came forward as a result of that. I don't know how many, but many more did.   So I think we are absolutely committed.   Sometimes we don't get it right, sometimes, you know, we need to continue to encourage staff to engage well.
+
+**Mr Griffin**: Do you believe that any steps taken by the board and by yourself to encourage engagement with that Inquiry were sufficient or even in line with the duty of candour owed by the Trust?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I -- I did a huge amount -- the board did a huge amount
+
+.. rst-class:: indented
+
+to set out the importance of the Inquiry, the importance
+
+.. rst-class:: indented
+
+of engaging with the Inquiry and communicating really
+
+.. rst-class:: indented
+
+effectively, I think, with staff to say, "You should go
+
+.. rst-class:: indented
+
+forward".   We put support in place for staff if they
+
+.. rst-class:: indented
+
+needed it, in terms of pastoral support as well as
+
+.. rst-class:: indented
+
+practical support, and we continue to put that message
+
+.. rst-class:: indented
+
+through now, and I call on all staff now to come forward
+
+.. rst-class:: indented
+
+to the Inquiry if they have got something to say.
+
+**Mr Griffin**: By your own admission, you have got less information on
+
+SEPT and you appear to be relying on CQC and HSE reports
+
+about safety at that Trust.    First of all, would you
+
+accept that's true?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: There's probably more of a legacy from SEPT in terms of
+
+.. rst-class:: indented
+
+people working in the Trust.
+
+**Mr Griffin**: How many members of your leadership team previously
+
+worked at SEPT?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Two.
+
+**Mr Griffin**: How large is your leadership team in total?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Seven, I think.
+
+**Mr Griffin**: How much of EPUT's estate was previously SEPT estate?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I would be guessing at this: it is higher than 50 per
+
+.. rst-class:: indented
+
+cent, I would say.
+
+**Mr Griffin**: So over half?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: How can you assure yourself that the safety of care
+
+delivered in these environments has improved if there is
+
+no benchmarking data from before the merger?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Because if you walk round them, you will see major,
+
+.. rst-class:: indented
+
+major improvements in the sites, in terms of the
+
+.. rst-class:: indented
+
+environment, the work we have done around dormitories at
+
+.. rst-class:: indented
+
+Basildon, the decorations, the gardens, the staffing
+
+.. rst-class:: indented
+
+levels.    So that's been distributed across the
+
+.. rst-class:: indented
+
+organisation.
+
+**Mr Griffin**: So this is basically on what you observe yourself?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: And from the outputs from our Safety First, Safety
+
+.. rst-class:: indented
+
+Always strategy.
+
+**Mr Griffin**: You previously referred to significant restraint on
+
+capital which restricts the ability to make changes to
+
+the wards; has that been an issue here?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No.   Sorry, can I -- before I confirm that answer --
+
+**Mr Griffin**: So we were talking specifically about the SEPT estate
+
+and I was asking you a follow-on question.
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Okay.
+
+**Mr Griffin**: Just building on what you said before the break about
+
+there having been significant restraint on capital,
+
+which restricts the ability to make changes to the
+
+wards.    Has that been an issue specifically in relation
+
+to the former SEPT estate?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think the former SEPT estate was better and they benefited from a sale of an institutional hospital to fund the developments of wards in Rochford, for example.
+
+**Mr Griffin**: So financial constraints were less of an issue for the SEPT side of the merger?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: It appears so, yes, I would say.   They were more successful financially.    They were bigger and they'd won more contracts under competitive tendering.
+
+**Mr Griffin**: You were asked about the four strategies and programmes from 2021 to now, Safety First, for example.   How will you monitor the effectiveness of those programmes so as to be sure that the changes are implemented in the real world and on the ground?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes, so, so the programmes of work that are ongoing now, particularly Time to Care and the electronic patient record, have got very, very clear benefits and realisations.   So we have written down what we expect the results to be and we have data sources to check that.   We will do the same process of checking embeddedness and we will also externally validate that as well.
+
+**Mr Griffin**: Is it your evidence that safety in EPUT deteriorated round the time of the merger; that immediately following the merger, there were actually more serious issues?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I -- I can't see evidence for that.
+
+**Mr Griffin**: What does that answer mean?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I don't know, I think, because what we are doing is --
+
+.. rst-class:: indented
+
+it's two organisations with multiple reporting
+
+.. rst-class:: indented
+
+mechanisms and when we bring one together, it's
+
+.. rst-class:: indented
+
+difficult for me to say, and I wasn't there.
+
+**Mr Griffin**: At paragraph 62 of your position statement, you stated
+
+that the Prevention of Future Deaths reports, or PFDs,
+
+from inquests into patient deaths, which occurred since
+
+the date of merger, have been analysed thematically to
+
+identify systemic issues.
+
+We looked at that.   To what extent have PFDs
+
+pre-merger been analysed for systemic issues?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: There hasn't been any.
+
+**Mr Griffin**: None at all?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No.
+
+**Mr Griffin**: Why is that?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think the -- I mean, it's a very good question, to be
+
+.. rst-class:: indented
+
+honest, and we will look into that.
+
+**Mr Griffin**: So you don't have an answer for today?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No.
+
+**Mr Griffin**: We heard from the Director of INQUEST, Deborah Coles,
+
+earlier this week, who gave evidence of institutional
+
+defensiveness as to patient safety, experienced through
+
+seeing legal representatives of the Trust try and
+
+effectively stop a coroner from making a Prevention of
+
+Future Deaths report.
+
+Have you actually yourself attended any inquests since joining EPUT?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I have attended pre-inquest hearings, yes.
+
+**Mr Griffin**: But not a substantive inquest?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No.
+
+**Mr Griffin**: Why's that?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I haven't been invited.
+
+**Mr Griffin**: Would you feel you would need to be invited to attend an inquest into a serious matter that had occurred at EPUT?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No, I think that's a fair challenge actually and ...
+
+**Mr Griffin**: Are you aware of the Trust or its lawyers seeking to stop or oppose the Prevention of Future Deaths reports at inquests?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No.
+
+**Mr Griffin**: Deborah Coles --
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Sorry, sorry, can I just -- I think we are asked to give evidence to help the coroner make a decision around whether the Prevention of Future Deaths report is made, so I want to make that clear that we are asked to provide evidence and we do that.
+
+**Mr Griffin**: This is following the issue of the Prevention of Future Deaths report?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: No, no this is the coroner judging whether a Prevention of Future Deaths reports should be issued.
+
+**Mr Griffin**: So are you saying that sometimes EPUT may say that one isn't necessary?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: We will never judge whether one is necessary or not, I don't think.   We will provide evidence to help the coroner make a decision.
+
+**Mr Griffin**: Deborah Coles, one of the other things she said was that EPUT had not been complying with its duty of candour. Do you believe that the predecessor Trusts complied with their duty of candour during the relevant period, so going back -- we stretch back to 2000; to what extent is that something within your knowledge?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Well, I think it is very clear from some of the evidence that the Inquiry has heard already and the reports that are available that, particularly around the time 2010 to 2015, there was, there was not in NEPT.
+
+**Mr Griffin**: So to be clear, you are saying in NEPT it appears that the duty of candour wasn't honoured for a period of time?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: That appears to be the case from the evidence that I have heard and seen.
+
+**Mr Griffin**: Do you believe that EPUT has complied with its duty of candour since you have been CEO?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I really hope so, yes.
+
+**Mr Griffin**: Do you believe that it has?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I believe it has, yes.
+
+**Mr Griffin**: In relation to the CQC report of 2023, you have said that all of the issues have now been addressed and that fundamental to that is staffing levels and the ward environment.   Can I just put to you something that Dr Karale said during his evidence recently.   He was asked, "In terms of staffing, is there an expectation that female-only wards will not be staffed by male ward staff", and his response was that he was aware of such an expectation.    But he says:
+
+"It would be difficult to -- I mean, there's -- recruitment is itself a challenge at present."
+
+He was asked:
+
+"Can I assume from what you have said and what you have described with different personnel involved that there are challenges, for example if you have got staffing issues?"
+
+He responded:
+
+"Staffing issues, yes."
+
+So Dr Karale seemed to be concerned about staffing matters at EPUT.    Do you have anything to say about that?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Dr Karale and I talk very often and he is part of the executive team and we have overseen a significant improvement in staffing vacancies are down, the number of staff that are budgeted to be on the wards is up, we are continuing to recruit to the Time to Care.     So I am not -- I'm not aware of any particular concerns.
+
+**Mr Griffin**: You said that you have a Trust-wide strategy, which has been co-produced by stakeholders and staff.    Could you please provide further information about the co-production of this strategy and how patient and carer involvement was facilitated in this process?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I can't recall exactly but we can definitely supply that information.
+
+**Mr Griffin**: That's not something that you are able to tell us today?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I do know there was involvement but I can't describe -- it was two or three years ago now and I don't -- I am not able to describe the detail of that now.
+
+**Mr Griffin**: Thank you.   How do you reconcile EPUT's claimed commitment to deriving meaningful learning from previous incidents and investigations with the fact that you state it was simply an oversight that EPUT did not put in place, until May 2023, a centralised system for the retaining and sharing of all Records of Inquests and Prevention of Future Deaths reports?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: There's multiple sources and, I'm sorry, I didn't mean to diminish the importance of Prevention of Future Deaths report with my language there.   There are many sources of data to support what we need to do to address safety, Health and Safety Executives, CQC reports, investigation recommendations, other recommendations. So all of those have been drawn in.
+
+.. rst-class:: indented
+
+I will check -- I am going to check and it's a very important challenge about what have we learnt from the Prevention of Future Deaths report from predecessor organisations.
+
+**Mr Griffin**: Why wasn't pooling and learning from Records of Inquests and Prevention of Future Deaths reports a priority much earlier within EPUT, since its inception?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: I think we have been very -- yes, I think -- it goes back to that point I made about being overwhelmed with recommendations.   When I joined, there was probably -- you know, I wouldn't want to make a number up but hundreds or potentially thousands of recommendations outstanding, and making sense of those and finding priorities was our key.
+
+.. rst-class:: indented
+
+And I go back to: we have got to find a way of getting clearer and more focused pieces of work through to make improvements.
+
+**Mr Griffin**: So just back to mechanisms to monitor the implementation and efficacy of the various improvement strategies, such as Safety First.   When the strategy period ends, there is an overview report provided to the Executive Team and possibly also external stakeholders about the extent to which the strategy has achieved its aims?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Could you expand on that?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: So each year of the Safety First, Safety Always strategy an annual report was produced, it was a three-year strategy and there was a final report we produced at the end of year 3, which went to our Trust board in public, and it forms part of the narrative around our quality account, which goes to all our stakeholders.
+
+**Mr Griffin**: Mr Scott, I started this morning by asking that you agree to come back to give evidence to this Inquiry on more detailed matters at a later stage and you have agreed to do so.    Do you understand, personally, that there will be many issues of concern arising from your evidence this morning and no doubt from evidence we have heard at this hearing and from future evidence and, when you come back to give evidence in the future, will you ensure you are prepared to address these further matters including matters of detail?
+
+.. rst-class:: indented
+
+**Mr Paul Scott**: Yes.
+
+**Mr Griffin**: Thank you.
+
+Chair, those are the questions I have for Mr Scott unless you have any.
+
+**The Chair**: I have none, thank you.
+
+**Mr Griffin**: Mr Scott, thank you very much.   You can step down from the witness table.
+
+*(Pause)*
+
+**Mr Griffin**: Chair, we are almost at 1.00 but what I propose to do with your permission is I have a short closing statement to give and, rather than breaking and coming back at 2.00, I propose to give it now.
+
+**The Chair**: I would welcome that.
+
+**Mr Griffin**: Thank you.
+
+Closing statement by Mr Griffin
+-------------------------------
+
+**Mr Griffin**: Chair, the evidence that we have heard from Mr Scott this morning, that brings us to the conclusion of this hearing and, on behalf of the Inquiry team, I would like to begin these closing remarks by thanking all of those who have provided evidence to the Inquiry so far, whether or not that evidence formed part of this hearing.    We are very grateful to those who provided witness statements, of which there are many, and to those who have taken time to come and give oral evidence to you and to answer questions.
+
+Whilst this hearing has been introductory in nature and was intended to set out background and contextual matters, we have already heard some important and, at times, shocking evidence.    It's clear even at this early stage that there are common themes emerging and clearly we are going to have to keep under review what those themes are but, at this stage, they include first of all the importance of data.
+
+It's abundantly clear to the Inquiry and to those engaging with it that issues relating to data, including but not limited to, lack of data, the collection, collation and retention of data, how data should be used and interpreted will form an important part of the Inquiry's work.
+
+Issues with data have featured in a number of different ways during the course of the hearing.    The following are just some examples:
+
+Dr Davidson, the Inquiry's expert psychiatrist, flagged lack of outcome data relating to the provision of mental health services generally.   He explained that, whilst there is good information in relation to the deaths by suicide, this is not a helpful tool by which to assess how mental services are being provided overall.
+
+Deborah Coles of INQUEST gave evidence of the absence of centralised coherent and complete statistics in relation to those who die in mental health detention and the effect of that data gap.    Ms Coles emphasised the need for a centralised dataset, which could identify where, how many and why people were dying in mental health detention.
+
+Furthermore, Chair, it's clear, following the evidence of Dr Karale, that considerable further probing will be required in order to understand what data may be available from EPUT to inform the Inquiry's work.     There were a number of instances in which Dr Karale was not able to assist the Inquiry in relation to how various aspects of the delivery of care were being monitored and what information might be available for the Inquiry to interrogate.
+
+The Inquiry will consider all of these matters carefully with the assistance of Professor Donnelly, the Inquiry's expert health statistician and her team.
+
+Another theme concerns in relation to the investigation of deaths and serious incidents in mental health settings.
+
+Chair, the Inquiry heard concerning evidence from Sir Rob Behrens, the former PHSO, and Deborah Coles in relation to the system by which deaths in mental health settings are or are not investigated.   Of particular impact was the evidence the Inquiry heard of the way in which families are treated as part of this process.     The Inquiry is seeking further evidence on this topic and will continue to explore it further.
+
+Furthermore, Sir Rob and Ms Coles both emphasised the need for some improved mechanism by which the implementation of formal recommendations should be monitored.   As I outlined at the opening of this hearing, Chair, this is something the Inquiry is looking at carefully.
+
+Institutional defensiveness and the duty of candour is a further theme.
+
+The Inquiry is aware of families whose experiences following the death of their loved one have included healthcare providers withholding information or attempting to cover up serious failings, adding considerably to their distress.    The Inquiry was deeply concerned again to hear evidence from both Sir Rob and Ms Coles which underlined those experiences and revealed that, time and time again, providers have been less than frank in their communications with families and later on with those investigating deaths and serious incidents in mental health settings.
+
+Sir Rob also gave evidence of considerable reluctance on the part of many healthcare professionals to come forward and provide information about what happened, for fear of reprisals.    Sir Rob emphasised the need to provide better legal safeguards for those who wish to disclose information.   Ms Coles advocated the need for improved powers to ensure the enforcement of the duty of candour.
+
+This is a matter the Inquiry has very much in its sights.   In fact, as has been outlined repeatedly by those representing Core Participants, one of the reasons this Inquiry was afforded statutory status was as a consequence of the inability of the previous independent Inquiry to engage cooperation from those who worked in mental health units, and I will return in just a moment to the question of undertakings that have been sought by this Inquiry.
+
+Another theme, the crowded and confused regulatory landscape.
+
+The Inquiry heard evidence about the regulatory landscape, which, taken as a whole, ought to have guarded against failings in care and delivered accountability.   In opening, I described the picture as a crowded one, where it was not clear how the various organisations fitted in.   Having heard further evidence, that observation remains apt.
+
+Jane Lassey, Director of Regulation at the Health and Safety Executive, identified what had been perceived as the regulatory gap in respect of inpatient care.     In 2015, following the Mid Stafforshire NHS Foundation Trust Public Inquiry, this resulted in the Care Quality Commission being given new statutory powers to prosecute healthcare providers for failing to provide treatment in a safe way.   This was followed by a memorandum of understanding between the CQC and HSE as to who was responsible for investigating deaths and serious incidents, depending on the circumstances.    The 2020 prosecution of EPUT was undertaken by the HSE rather than the CQC, and this is something which the Inquiry will consider further.
+
+Evidence summarised from the healthcare professional regulators underlined the high threshold for action against individual professionals.    Their data shows a high number of concerns having been raised and a relatively small proportion of cases where action was taken on a professional's registration.    Many of the professional healthcare regulators' cases were closed due to the concerns being of a systemic rather than individual nature or because individual concerns were not sufficiently serious to justify further action.
+
+It is the CQC's responsibility to investigate and address broader concerns relating to provision of inpatient care.     The Inquiry intends to explore further whether and to what extent the various regulators acted together effectively to prevent cases falling into the gap.     Set against the known failings of EPUT, reflected in both CQC inspections and the HSE's prosecution, it will be important to understand fully the absence of CQC criminal prosecutions and the limits of civil enforcement action.
+
+The Inquiry will also carefully consider the Penny Dash review into the effectiveness of the CQC and the extent to which concerns raised there are applicable to the CQC role in Essex.
+
+Chair, there are early indications that Essex is not an outlier.   This is from the evidence heard so far, including that of Sir Rob, Ms Coles, Dr Davidson and Ms Nelligan, that some of what was occurring in Essex may reflect the national picture.
+
+Chair, I now turn to consider some of the other evidence the Inquiry has heard during the course of this hearing.
+
+First of all in relation to inquests.
+
+The Inquiry heard a CTI presentation on inquests which summarised the coronial process in England and Wales.   The paper explored particular difficulties faced by families, including the length of time which inquests take, the lack of funding for representation and their legal complexities.   Challenges facing families were further highlighted on behalf of Core Participants by Fiona Murphy KC and Steven Snowden KC.   Both they and Deborah Coles of INQUEST gave particular emphasis to the issue of Prevention of Future Deaths reports and the lack of an effective system to ensure their implementation.
+
+The Inquiry heard expert evidence from Dr Davidson and Ms Nelligan, which sought to provide a high level overview of some of the key principles and good practice in respect of mental health inpatient care nationally during the relevant period.    They provided important national context to some of the issues which we will be examining more forensically within Essex.    Their evidence explained some of the obstacles and shortcomings in the provision of high quality inpatient care, and these included:
+
+The increased demand for mental health services which was not always matched by adequate resources in the teams which needed them;
+
+Delays and challenges with getting those in crisis admitted to an inpatient bed at the optimum time to provide the most effective care and treatment;
+
+Shortages of Registered Nurses in inpatient units and nurses leaving roles in inpatient services.      We heard how this was made worse by often attractive conditions in newer and speciality community teams and also by a lack of time to deliver therapeutic interventions to patients.     We also heard about the increasing reliance on Healthcare Support Workers;
+
+We heard from the experts about a fear of culture amongst mental health professionals, where many felt they would be blamed if things went wrong, whatever decision they took.    We heard that this could result in compassion fatigue and undue focus on restrictive practices to try and reduce or manage risk, rather than a focus on treating the patients' underlying mental health condition.     That was entirely consistent with Sir Rob's experience.
+
+We heard more broadly across a number of areas of the dangers of trying to manage or eliminate risk at the expense of delivering effective care and treatment of a patient's underlying condition.
+
+As was said at the outset, this was introductory evidence and represents the start, not the end of the expert evidence which the Inquiry will consider and we are currently considering what further expert evidence is required.
+
+May I deal next with Dr Karale's evidence.
+
+As we heard, he is the Executive Medical Director at EPUT, a position he has held with EPUT, and before that SEPT, since 2012.     He was the first witness from EPUT to give oral evidence to this Inquiry.
+
+In summary, Chair, the Rule 9 request to EPUT for information about pre-admission assessments and the inpatient pathway made it clear that the Inquiry sought:
+
+A broad explanation of the forms of mental health assessment that EPUT's patients received prior to admission over the relevant period;
+
+A description of the mental health treatment and care the Trust delivered to inpatients over the relevant period;
+
+An understanding of the guidance and policies that applied to the provision of those services;
+
+Explanations of how the Trust monitored and evaluated performance to check whether those services were being delivered as intended.
+
+Whilst Dr Karale's evidence in relation to both of those areas was helpful in setting out a broad overview of the structure and processes in place over the relevant period, you may think that his evidence was marked as much by what he could not assist with as the questions he was able to answer.
+
+In relation to monitoring and evaluation, for example, Dr Karale's response in his statements and to Ms Harris KC's questions was very limited.
+
+Furthermore, the choice of documents exhibited to Dr Karale's witness statements might be considered somewhat haphazard.   In some cases, historic and out of date documents were produced; in others, the documents relied on remained in draft form.   There appears to have been no consistent or systematic approach evident in the documents supplied.
+
+This raises questions about the state of the Trust's policy and document library, quality assurance and the processes in place to enable staff members to access the right policy at the right time.    The Inquiry intends to revert to the Trust and to ask again for a complete overview of the documentation which is actually available from the entire relevant period and, more significantly, a proper understanding of staff access to policy documentation over that period.
+
+Chair, we heard this morning from Paul Scott, the Chief Executive Officer at EPUT.     He was asked a number of questions in relation to the position statement that he provided to the Inquiry on behalf of the Trust. Whilst he did not accept that the tone of his statement was aspirational, his evidence focused to a large extent on change and plans going forward.    It was of note that he gave evidence of the complications of commissioning and he described the regulatory landscape as overwhelming, chiming with other evidence the Inquiry has heard.
+
+Mr Scott told the Inquiry that, since he started at EPUT, there had been no financial constraints but the greatest challenge was the supply of staff.
+
+Asked further about staffing issues, and in particular the difficulties with staff coming forward to speak up, Mr Scott agreed that there was still a lot of work to do to ensure that staff felt safe and supported at work.    He accepted that closed cultures did exist at EPUT and that staff do not feel confident about speaking up at the Trust and there was ongoing work to try and change the culture at EPUT.
+
+Mr Scott told the Inquiry, however, that EPUT is giving consistent messaging to staff about the importance of sharing information with this Inquiry.    He said that EPUT will offer support to those staff members if required.
+
+Mr Scott accepted that the Trust's responses to and learning from coronial reports was slow.    He acknowledged that it had been an "oversight", using his word, on the part of EPUT not to have a central record of PFDs and that it might also be a good idea to have older records incorporated into that central register.
+
+Asked about the inclusion of families in the investigation process, Mr Scott said that it was his understanding that many families appreciate the involvement of the family liaison and feel more included.
+
+Chair, on Monday of this week, you determined to postpone the public hearing of evidence about the use of Oxevision.   The reason for this was the late disclosure by EPUT on Friday last week of a statement in relation to major policy and procedural change in their use of Oxevision.
+
+EPUT's position in the new statement was a very different position than that set out in the Trust's initial statement just six weeks earlier.    Furthermore, prior to last week, EPUT had given no notice to the Inquiry of the potential change, notwithstanding the fact that EPUT were aware many weeks ago that change would be effected, and we have heard an apology this morning from Mr Scott about that.
+
+Chair, you have already expressed your dissatisfaction about this and I, this morning, asked Mr Scott to honour the commitments that EPUT set out in its opening statement to the Inquiry in September last year and to demonstrate these commitments through its actions rather than words and broad assurances.
+
+Chair, I would like to now say a few words both about next steps and about the future work of the Inquiry.
+
+The Inquiry's work will continue without break to investigate the issues required in order to meet its Terms of Reference.
+
+The Inquiry's next public hearing will be in July and the July hearing will be focused on those who died whilst under the care of EPUT's predecessor Trusts, NEPT and SEPT.    The Inquiry is in the process now of receiving witness statements and will be inviting oral evidence in July from a number of the families and friends of those who died as to what actually happened to their loved ones.
+
+The Inquiry undertakes its work in parallel, however, both in and out of hearings.   The Inquiry will continue to seek and share information and to publish evidence as appropriate outside public hearings.    The Inquiry is also exploring different ways to obtain witness evidence and will remain flexible in its approach.    Since the start of this hearing the Inquiry has granted Core Participant status to British Transport Police and St Andrew's Healthcare, by way of update.
+
+In the meantime, Chair, you have invited any Core Participant who wishes to, immediately following this hearing, to provide written submissions addressing you and your team on pertinent issues and matters arising during the April hearing.    This provides an opportunity for Core Participants to engage with the Inquiry's work in what we hope will be a constructive and collaborative discourse.
+
+The inquiry will also reflect independently on what it has heard and learnt during the course of this hearing.   The Inquiry will consider all possible lines of enquiry, many of which have already been identified. This will include whether to seek further evidence from and/or recall witnesses that it has already heard from.
+
+As I stated at the outset of this hearing, Chair, and in light of the evidence we heard from Sir Rob Behrens, the Inquiry is interested in the views of the Core Participants as to whether it should pursue undertakings from healthcare providers and regulators -- and the word I just saidis undertakings.
+
+Sir Rob's view given in oral evidence was that the "duty of candour does not work", and that "the law on whistleblowing doesn't work either".    He told you, Chair, that he had "dozens" of clinicians get in touch with him indicating that they wanted to raise issues but they feared they would lose their jobs and careers.     The proposed undertakings seek to safeguard the interests of those who would like to raise issues.   They relate only to the provision of material to the Inquiry and would not enable any individual to avoid accountability for serious misconduct.
+
+Set against the background of such limited staff engagement with the previous independent Inquiry, Chair, you considered these undertakings were a necessary and proportionate method by which healthcare professionals and employers might be encouraged to come forward and give evidence to the Inquiry now, without facing reprisals for not having come forward before.
+
+Finally, Chair, by way of this closing statement, I emphasise again that this hearing represents only the start of the Inquiry's consideration of the issues and themes that have been raised over the past few weeks, and certainly not the end.
+
+Although the end may still be a little way off, we offer all of those participating in this Inquiry and the public the Inquiry's assurance that we will continue to work to uncover the truth, to expose wrongdoing and to allow us to establish facts and for you, Chair, to make recommendations for real and lasting change.
+
+Thank you, Chair.
+
+**The Chair**: Thank you.   Before I rise, I want to thank everyone who has helped with the running of this evidence session over the last three weeks.    It has required an enormous joint effort, which will not have been publicly apparent but I know what it has involved and I am truly grateful to all those who have assisted with it.
+
+I would particularly like to thank the following: Dave Burns, and all the team at Arundel House for what has been unfailing helpfulness; all the support staff that have attended from Hestia, I am very grateful to you; Sam Afari and his team at Pace Security, thank you very much indeed; RTS for their audio visual support.
+
+Of course, I thank all those who have come to give evidence and all those who have assisted with the evidence, Core Participants and their legal representatives.
+
+Above all, finally, I want to thank my Secretariat, the legal and counsel teams and particularly you, Mr Griffin, for your very masterful conduct of these proceedings so thank you.
+
+**Mr Griffin**: Thank you, Chair.
+
+**The Chair**: Thank you.
+
+*(1.23 pm)*
+
+*(The hearing concluded)*
+

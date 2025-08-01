@@ -1,0 +1,834 @@
+.. raw:: html
+
+   <a id="hearing-link" href="https://lampardinquiry.org.uk/hearings/hearing-day-12-april-hearing/">Official hearing page</a>
+
+Hearing Day 12
+==============
+
+.. raw:: html
+
+   <details id="hearing-meta" open>
+        <summary>
+            <span class="open">Hide video</span>
+            <span class="closed">Show video</span>
+        </summary>
+   <lite-youtube videoid="cYHJztd0iL0" params="rel=0"></lite-youtube>
+   <lite-youtube videoid="J9BcNDw1t2k" params="rel=0"></lite-youtube>
+   </details>
+
+*(10.00 am)*
+
+*(Proceedings delayed)*
+
+*(10.19 am)*
+
+Opening remarks from The Chair
+------------------------------
+
+**The Chair**: Good morning, everybody.   Today is the first day of hearings in our London venue, Arundel House.    As things stand, we have a further six public hearings scheduled over the next 18 months, the majority of which will take place in this building.
+
+The Lampard Inquiry is breaking new ground, as it's the first UK public inquiry to investigate mental health care.    Throughout the upcoming public hearings, we shall listen to, examine, and challenge evidence that goes to the heart of the issues of this Inquiry.
+
+I've promised that those who have suffered loss, and those who have sadly died, will always be at the heart of this Inquiry.   This remains my firm commitment.     It's crucial that we keep in our minds the people who experienced, either directly or indirectly, the mental health inpatient services with which we are concerned.
+
+I know that engaging with the Inquiry can, for some people, be difficult and upsetting, as it focuses on an incredibly challenging time in their lives.    I wish to remind everyone that emotional support services, overseen by the Inquiry's chief psychologist, are available.   Anyone who needs assistance during the hearing should please contact my Inquiry team, who will help them to access this support.
+
+I remain grateful to all those who offered to meet with me or my team, or offered to contribute information or evidence or otherwise support the work of the Inquiry.   This includes all those who provided commemorative evidence to the Inquiry last year.
+
+Since the start of this year I've had the benefit of attending 23 introductory meetings with family members who are also Core Participants, some of whom I can see in the room here today.    I wish to thank those who attended, as I gained much from these meetings and from hearing their reflections on the Inquiry to date, and the aspirations that we have for it.
+
+Where possible, I and my Inquiry team have acted quickly to address issues raised, like making available more information about the Inquiry's process, including publishing further detail on future hearings and how the Inquiry plans to request information from those involved with our work.
+
+As we proceed, we will continue to listen, learn and, where appropriate, adapt.
+
+Some reflections from those meetings are harder to address universally.   One matter raised was the way in which the Inquiry will investigate and examine the issues, and especially the level of investigation that individual cases will receive from the Inquiry.     I'll go on now to say more on both of these points.
+
+I recognise that the ambitions and expectations for this Inquiry are different for different people, depending on their past experience and how they have come to be involved in the Inquiry.
+
+Some people may feel that the Inquiry will wander away from where they had hoped it would go, so I wish to be clear now on the path the Inquiry will take.     The Inquiry's focus is on systemic issues relating to mental health inpatient care in Essex.   We are investigating the big, critical concerns about what went wrong that span across over almost a quarter of a century.
+
+The Inquiry will dive down into these systemic issues with increasing focus and detail, until we have enough evidence, information and understanding to satisfy ourselves about what really happened and why, so that I can report my findings and make meaningful recommendations for change.
+
+To help me and my team to focus on the systemic issues central to this Inquiry, we published in February a revised list of issues.   This list of issues will help guide our investigative work.   We sought engagement on it from interested people and those with clinical expertise, to ensure that it covers the issues most relevant to our Inquiry.   The list of issues may evolve alongside our investigations, with issues added, removed or amended to reflect what the Inquiry is hearing and thinking.
+
+We will seek out the truth.    In doing so, we will not simply accept the information we are given but, instead, we will question and challenge the evidence until we're satisfied that the findings we make are the truth or as close to the truth as we can come.    In order to support me in understanding the complex and wide-ranging issues being considered within this Inquiry, I have recently appointed three independent assessors and three experts.    These are highly-skilled individuals with knowledge and experience within their respective areas of mental health care and data analysis.
+
+They will support me and my Inquiry team to understand and analyse important aspects of our work. Counsel to the Inquiry, Nicholas Griffin KC, will tell you more about these individuals and the role they will take in the Inquiry when he speaks shortly.
+
+To further support our understanding, earlier this month the Inquiry made available on its website two important background presentations: one produced by The King's Fund and another by the National Collaborating Centre for Mental Health.   These presentations, which are delivered as video lectures with supporting materials and documents, provide background information on mental health inpatient care.
+
+Topics covered by these seminars include the legislative and policy background and guidelines for good medical practice in the delivery of mental health services nationally over the 24-year period the Inquiry is concerned with.
+
+The presentations were produced to help me and every person involved in or following the Inquiry's work to better understand the background and the expected mental health care for mental health inpatients over the 24 years in scope.   For anyone who has not seen these presentations, I do recommend watching them.
+
+This leads me on to the purpose of these hearings, which begin today and end on 15 May.   We shall start by hearing an opening statement from Counsel to the Inquiry, Nicholas Griffin KC.   We shall then hear evidence which gives important contextual background on mental health inpatient care in Essex.   We will hear from medical experts, healthcare providers and other relevant organisations on topics such as what good mental health care should have been at various points over the 24-year period in scope, aspects of the set-up and organisation of mental health care in Essex, and evidence on some of the key issues, including ligatures and absconsion, the use of technology, such as Oxevision and, finally, related investigation processes such as Health and Safety Executive prosecutions and inquests.
+
+This is the start of us exploring the background and context to our Inquiry, a process that will examine matters with greater specificity over the next 18 months of hearings.   I'm conscious that some Core Participants may not have had the time wanted to formulate their views on some of the matters raised in this hearing, but they will have the opportunity to present further evidence on the matters raised as the Inquiry proceeds.
+
+The reason we are starting with contextual background is that it will assist me and my Inquiry team to better understand the material and evidence we will receive on what went wrong.   This includes better understanding the important issues within individual cases, which we will be investigating and hearing evidence on in our July hearings and at future hearings thereafter.
+
+As I stated in my first opening statement in September last year, I am not going to be opening up and determining cause of death in every single case.     This Inquiry cannot rerun the inquest process or conduct forensic, police-style investigations.   We will investigate the issues raised by individual cases to the extent necessary to fulfil the Terms of Reference.
+
+The cases that the Inquiry will review will be those that allow us to explore the broad range of themes and will be illustrative of the issues that have arisen over the 24 years and that fall within the Inquiry's scope. For this reason, we will refer to them as "illustrative cases".
+
+All bereaved families who are Core Participants will have their illustrative cases reviewed by the Inquiry to the extent that I conclude is necessary in each case but these are by no means the only cases that the Inquiry will consider.   There will be other cases, other than Core Participant family cases, that will be reviewed in more detail by the Inquiry.   These include, to give just one example, deaths occurring under the care of Child and Adolescent Mental Health Services or CAMHS.
+
+The nature and extent of the investigations into the illustrative cases will depend on the circumstance of each case being reviewed.   Investigations will be carefully adapted to the circumstances and requirements of each illustrative case.       I can assure you that my legal and counsel teams, who will be carrying out the investigations, are highly skilled, with many collective years of experience of leading investigations in public inquiries, inquests and examining deaths which have taken place within healthcare settings.      They will, of course, be ably supported by the Inquiry's clinical assessors and experts.
+
+This will be an evolving picture, the Inquiry will keep its approach to illustrative cases under review at all times as our investigations develop and we receive more evidence.
+
+At future hearings, the Inquiry will also explore evidence on relevant themes and issues, some of which are likely to evoke strong opinions and give rise to conflicting viewpoints.       For example, in future, the Inquiry is minded to hear evidence on the preventability of suicide and whether suicide should be considered theoretically preventable in each and every case; the concept of compassion fatigue in those working in mental health care, which is where the prolonged exposure to the suffering of others leads to a decline in empathy and compassion; the circumstances where it is and where it is not appropriate to detain someone under the Mental Health Act; the balance to be struck in mental health care and treatment between risk management and therapy.
+
+I understand, these will be difficult discussions but an inquiry of this scope and importance cannot do anything but confront head on these big and difficult questions.   There will be topics that this Inquiry covers that will be challenging for some people to listen to, which is why I wanted to acknowledge that now, from the very start of these evidential hearings.
+
+The Inquiry is an investigative process, not adversarial.   It's a process in which we seek to gather the best evidence we can.   To achieve this, the Inquiry considers it important that it hears a diverse range of perspectives on the issues that matter most.   The Inquiry values all voices, including, of course, those of bereaved families, those with lived experience, also, mental health staff, campaign groups and the senior leadership within key organisations.
+
+We must ensure a balanced and comprehensive understanding of mental health inpatient care.    We are independent from all those engaging with the Inquiry and from Government.   We shall decide for ourselves what good mental health inpatient care should look like, where things went wrong and where things went right.    We will question statements and assumptions about care and treatment from wherever they have come.
+
+There may be things said during hearings that some people disagree with, potentially very strongly.         In order for the Inquiry to obtain the best information and evidence possible, everyone speaking at these hearings must be given the opportunity to be heard.    Everyone attending or engaged in these hearings must be afforded respect throughout.    I therefore ask that those attending listen quietly to the evidence being given and that there are no disruptions, shouting out or disturbances of any kind.
+
+As I have outlined, I wish to hear a diverse range of views.    We're dealing with the most sensitive of subjects and it's understandably distressing to many. I request that everyone is treated with courtesy at all times.
+
+To do our work properly, the Inquiry relies heavily on the cooperation of those engaging with it.       My intention is, whenever possible, to work collaboratively with Core Participants and others to achieve the Inquiry's objectives.    I am grateful to all those who have provided, in a timely way, material to the Inquiry so far.     I appreciate the resource and effort that required.
+
+Let me be clear that I expect the Inquiry's requests for evidence to be met promptly and with complete candour.    I will not hesitate to use my statutory powers to the fullest extent necessary to compel the production of evidence where it is not provided or not provided promptly.
+
+This does not and will not apply to families of those who died and those with lived experience, who will be able to choose whether to respond to any request from the Inquiry to provide evidence or information, and my Inquiry will work with them on how this can be done. I will not compel family members or those with lived experience to produce evidence or require them to speak at a hearing if they do not wish to do so.
+
+I turn now to the final point that I will cover today, which is the outcome to be achieved from this Inquiry.    As I have said previously, following my thorough investigations of the issues in scope, I will set out in a report the key factual background, the key evidence and my analysis of it, my findings and recommendations.
+
+The Inquiry is investigating what occurred under the care of Essex NHS Mental Health Trusts.   Although the focus is on Essex, the Inquiry is of national significance and, wherever possible, my ambition is to make lasting, positive recommendations to improve mental health care right across the country.
+
+The timeframe the Inquiry is investigating covers, as I have said, nearly a quarter of a century.   That is 24 years during which the policy landscape and expectations of good mental health care would have been changing and developing.   Recent national developments in mental health legislation and policy indicate that significant changes will continue throughout the time of our Inquiry.
+
+We will need to ensure that any recommendations based on findings from historic matters are still relevant at the time our Inquiry concludes but, from what I already know, there are many matters identified that remain of current concern.
+
+To support the work of making recommendations as effective as possible, the Inquiry will be establishing a Recommendations and Implementation Forum.   Counsel to the Inquiry, Nicholas Griffin KC, will say more about this forum shortly.
+
+As the House of Lords Statutory Inquiries Committee stated in their September 2024 report, inquiries have a core purpose: to publish recommendations for change so as to prevent the recurrence of an event of public concern.   I remain continuously mindful of this core purpose and of the need to make impactful recommendations for change.   I would like those who experience mental health inpatient care to have confidence in the system, confidence that they will receive appropriate and therapeutic care, confidence that they will be treated with empathy and respect, and that they will be safe.       That was not always the case in Essex.
+
+Today is the start of what I hope will be an informative and insightful hearing, which will form part of the ground work for the Inquiry's investigations.    I wish to thank all those who have been involved in getting us to this stage of the Inquiry. This has required an extraordinary amount of work from Core Participants, legal representatives, witnesses, experts and my dedicated Inquiry team.      I am immensely grateful to everyone.
+
+I will now hand over to Counsel to the Inquiry, Nicholas Griffin.
+
+**Mr Griffin**: Thank you, Chair.    In fact, what we'll do now is take a break.   I will suggest that we start again at 11.15 so that gives people just over half an hour.      So back here starting at 11.15, please.
+
+*(10.43 am)*
+
+*(A short break)*
+
+*(11.19 am)*
+
+**The Chair**: Mr Griffin.
+
+Opening statement by Mr Griffin
+-------------------------------
+
+**Mr Griffin**: Thank you, Chair.   May I just check that everyone can hear me okay?     Thank you very much.
+
+In September and November last year, the Inquiry heard important commemorative and impact evidence from those whose family members and close friends had died as mental health inpatients, or otherwise in circumstances that we are investigating.     It was compelling.   We also received opening statements made on behalf of the Core Participants which the Inquiry has found very helpful.
+
+We now reach the stage in the Inquiry where we start to hear evidence of a different kind.    We will be hearing evidence that relates directly to the Inquiry's Terms of Reference.   As this is the first stage of that evidence, it will be largely by way of introduction.
+
+In this opening statement, I will be touching on some of the points that you raised just now, Chair. Where I do, my intention is not to cover the same ground but to provide some further detail.
+
+Both in this opening statement and throughout the next three weeks of hearings, the Inquiry will be talking to and discussing content that will be distressing and difficult to hear.    While this hearing will generally not go into detail about individual deaths or experiences, the themes that we are discussing may be deeply painful, as they relate to the trauma, grief and loss suffered by many who are here today or watching online.
+
+At the start of each day and evidence session, I will clearly set out the topics that will be covered to give those attending, watching and listening the opportunity to decide whether or not they wish to, or indeed are able to, engage with those topics.   The timetable for this hearing is also available on the Inquiry website with information about the topics that will be discussed during each evidence session.
+
+In this opening statement, I will be touching on topics search as ligatures, absconsions, the use of restraint, HSE prosecutions, the Parliamentary and Health Service Ombudsman, healthcare regulators, inquests, inpatient care, inpatient facilities, Oxevision, investigations by the Health Services Safety Investigations Body and recent deaths.
+
+I'd like to be clear that anyone in this hearing room is welcome to leave at any point.
+
+As I've said, people attending or watching remotely may find some of the matters I am going to talk about and that we hear evidence about distressing.    Before I go any further, I'd like to make clear as you have, Chair, that emotional support is available for all those who require it.    The wellbeing of those participating in the Inquiry is extremely important to the Inquiry.    We have two support staff from Hestia -- Naveed and Lorna -- an experienced provider of emotional support, here today and for each day of this hearing.   I'm just going to ask Naveed and Lorna to raise their hands to identify themselves to you.   You'll see that they are wearing orange lanyards.
+
+There is a private room downstairs where you can talk to Hestia support staff if you require emotional support at all throughout this hearing.   You'll see, as I've said already, orange lanyards they're wearing and I understand also orange scarves, thank you.
+
+Or you can speak to a member of the Inquiry team and we can put you in touch with them, we're wearing purple-coloured lanyards.
+
+If you're watching online, information about available emotional support can be found on the Lampard Inquiry website.   That's lampardinquiry.org.uk, and it's under the support tab near the top right-hand corner. You can also contact the Inquiry team's mailbox on contact@lampardinquiry.org.uk for this information.
+
+We want all those engaging with the Inquiry to feel safe and supported.    The role and remit of the Inquiry is to investigate mental health inpatients' deaths.      It is not the role of the Inquiry to intervene in clinical decisions for current patients or to act as a regulator or in the role of the police.   However, the Inquiry has a safeguarding policy and takes safeguarding matters seriously.   Where we receive any information which meets our safeguarding threshold, we will pass it on to the appropriate organisation.   This is something which has been done since the Inquiry was established and which we will continue to do.
+
+I am assisted at this hearing by members of the Counsel to the Inquiry Team: Rebecca Harris King's Counsel, and Rachel Troup, and I'm joined today by Kirsty Lea. Further members of the CTI team will be involved in the course of the hearing and I will introduce them at the relevant time.   I am grateful for all of their help.
+
+The Counsel Team works closely with the Lampard Inquiry Solicitor Team, under Catherine Turtle.   The Inquiry would not be able to operate without them.    We also rely heavily on the work of the professional and experienced Secretariat Team and the Inquiry's Engagement Team, who are part of the Secretariat and with whom many of those engaging with the Inquiry have been in contact.
+
+I want to be clear that my colleagues and I have been instructed by you, Chair, to assist you in your important task.   We are part of the Inquiry team working for you.   We are independent from all other organisations and individuals involved in this Inquiry.
+
+I'd like now to introduce the lawyers who are here representing Core Participants.   For the bereaved families and those with lived experience, Bates Wells; Bhatt Murphy and their counsel, Fiona Murphy King's Counsel, Sophy Miles and Lily Lewis; Bindmans LLP and their counsel, Brenda Campbell King's Counsel; Hodge Jones & Allen and their counsel, Steven Snowden King's Counsel, Achas Burin, Jake Loomes, Rebecca Henshaw-Keene; Irwin Mitchell LLP; Leigh Day and their counsel, Maya Sikand King's Counsel.   Several families are also assisted by counsel Laura Profumo and Tom Stoate.
+
+For the organisations: for INQUEST, Bhatt Murphy and their counsel Anna Morris King's Counsel, and Lily Lewis; NHS England are represented by DAC Beachcroft LLP, Jason Beer King's Counsel, and Amy Clarke; the Department of Health and Social Care, represented by the Government Legal Department, Anne Studd King's Counsel and Robert Cohen; the Care Quality Commission are represented by counsel Jenni Richards King's Counsel, and Rachel Sullivan; North East London NHS Foundation Trust by Kennedys, and their counsel Valerie Charbit; Essex Partnership University NHS Foundation Trust are represented by Browne Jacobson LLP and their counsel Eleanor Grey King's Counsel, and Adam Fulwood; the Integrated Care Boards by Mills & Reeve and their counsel, Kate Brunner King's Counsel, and Zeenat Islam; Oxehealth by Bevan Brittan and Fiona Scolding King's Counsel; and Stop Oxevision by Bindmans and Brenda Campbell King's Counsel.
+
+I am grateful for their engagement and input in the run-up to this hearing.
+
+In this opening statement, I intend to cover a number of different areas.   First, I'd like to report on progress made by the Inquiry since our last hearing in November.   Then I intend to look at different aspects of the evidence the Inquiry is receiving or intends to receive.   I'll next move on to this hearing, look at various preliminary matters, and then provide an introduction to the evidence that will be presented over the course of the next few weeks.   Finally, I will consider two important matters: the first is the changing landscape into which you will be delivering your report and recommendations, Chair; and the second is what recent inquests and deaths may reveal about the extent to which the issues in Essex are really being addressed.
+
+Starting, then, with progress since November.      The Inquiry has been busy since our last hearing in November.   Its work has advanced in a number of significant ways.    Chair, you have already mentioned the importance of the meetings you have had since the start of this year with Core Participant family members.
+
+As we will see, the Inquiry has been listening to its Core Participants and others, and to the matters raised in opening statements last year, and other interactions with the Inquiry.     We have accepted the force of many matters raised and, where appropriate, tailored our work and investigations accordingly. Although this is, of course, an independent inquiry, we have considered with care the issues that will be of importance to the family members and close friends of those who died.     We have sought to ensure that at least some of these issues will be considered in this hearing by way of introduction.
+
+Turning to the List of Issues.     As you mentioned, Chair, it has been created to provide a more detailed approach to the investigation of issues raised by the Inquiry's Terms of Reference.    I discussed the Terms of Reference in some detail in my opening statement back at the start of the September hearing.    The Inquiry published its provisional List of Issues in July last year and invited feedback and suggested amendments, prior to the revised List of Issues being published on 20 February this year.
+
+A huge amount of work has gone into the revision of the List of Issues, and the Inquiry is grateful to everyone who has engaged with us and suggested amendments by whatever means.
+
+Core Participants provided considered and helpful submissions about the provisional list.   These were taken into account and, where appropriate, incorporated into the revised list.    Likewise, the Inquiry considered all points that were raised more generally in written and oral opening statements submitted to the Inquiry by Core Participants during the course of its September and November 2024 hearings.
+
+As the introduction to the List of Issues makes clear, it will be a matter for you, Chair, to determine the nature and extent to which any of the issues may be investigated in order to meet the Inquiry's Terms of Reference.   The Inquiry is not necessarily required to investigate all of these numerous issues in depth. Further, there may be issues which, due to the passage of time or lack of available evidence, cannot be addressed fully or in part.
+
+The List of Issues provides a helpfully detailed delineation of the issues to be considered.    It may, if necessary, evolve as the Inquiry receives evidence and undertakes its investigations.
+
+Now, Chair, I'm going to ask that the first of number of documents are put up on our screen, so I'll ask our evidence handler, Amanda, to put up the List of Issues and go to the bottom of the second page, please.
+
+We can see here, by way of example, part of the List of Issues, and I want to just look at it to get an idea of the way it works.   We can see here the start of the section addressing the assessment process.    It asks a series of questions:
+
+"How were individuals assessed for mental health inpatient admission, and what clinical processes and procedures applied during the relevant period? Specifically:
+
+"a.    Who could request or refer patients for such assessments?
+
+"b.   How, and to whom, could a referral be made? What criteria applied, and did these change over time?"
+
+Would you go to the top of the next page, please.
+
+"c.    How easily could an assessment be arranged?
+
+"d.   What factors affected when an assessment could take place?
+
+"e.   Who carried out assessments for admission, and where were they undertaken?
+
+"f.   Who was consulted during the course of any assessment, and who was notified as to the outcome?"
+
+The section then goes on to ask further questions on the same theme and, in this way, we hope and expect that the List of Issues here, and in its other sections, will be a useful tool to help guide the Inquiry's investigative work.   Thank you.   Could you take that down, please.
+
+Turning now to position statements, which may provide the Inquiry with a better early understanding of the role played by particular organisations.    They may help it to crystallise issues, focus on key areas and understand those areas in which it's accepted that standards fell below what was acceptable or, conversely, which provide examples of good practice.
+
+The written opening statement of the families represented by Bindmans LLP, provided for the purposes of the November hearing, and the further submissions made at that hearing by Brenda Campbell King's Counsel, urged the Inquiry to seek position statements.
+
+The Inquiry considered these submissions and requested position statements from Essex Partnership University NHS Foundation Trust, which I'll refer to as EPUT, and the North East London NHS Foundation Trust, or NELFT.   This was because of their direct role in the provision of inpatient mental health care in Essex during the relevant period.
+
+The Inquiry is likely to seek further position statements from other relevant bodies.
+
+The Inquiry has circulated the EPUT position statement to Core Participants and it will be available on the Inquiry's website.   We will be calling EPUT's CEO, Paul Scott, to give evidence at the end of this hearing.   The questions he will be asked will be addressed at, and limited at this stage to, issues arising from the position statement.
+
+We will ask him to come back to give evidence on more detailed matters at a later stage.
+
+More generally, and not limited to position statements, the Inquiry should not need to remind providers that every health and care professional is subject to the duty of candour.   They must be open and honest about what has gone wrong with treatment, and fully cooperate during reviews and investigations such as this Inquiry.   Chair, you have already spoken today about the outcome to be achieved by this Inquiry and the importance of the recommendations you'll make.
+
+As you will recall, several of the Core Participant opening statements at earlier hearings also referred to the importance of recommendations.   They referred specifically to the requirement that these recommendations must be implemented by the relevant Government, health or other body, if meaningful change is to be made.
+
+As I noted at the November hearing, whilst it's currently too early to be considering the content of any recommendations you may make now, now is the right time to be considering their implementation.   In other words, what can be done to ensure that your recommendations, when made, are clear, focused, in an implementable format and that they are then implemented by the responsible body.
+
+We will expect those within these responsible bodies to be preparing for their speedy implementation from an early stage.   I'm therefore pleased to note that the position statement provided on behalf of EPUT makes clear that it is committed to learning from the Inquiry, and ready to implement recommendations arising from the Inquiry which are in our control.
+
+There is also the connected issue of the extent to which the implementation of recommendations can and should be monitored and, if so, how.
+
+Chair, you directed that a Lampard Inquiry Recommendations Forum should be set up.   That process has started.   We're now referring to it as the Recommendations and Implementation Forum to reflect the importance that issued recommendations are indeed accepted and implemented.
+
+I am pleased to say that the Inquiry has secured the assistance of a noted academic with expertise in public inquiries for the Forum.    She is Dr Emma Ireton, Associate Professor at Nottingham Law School.     She specialises in research in applied public inquiry law and procedure.   She is co-author of a book about public inquiries and she will assist the Forum by providing a report covering relevant issues connected to recommendations, their acceptance and implementation, and the ways in which implementation might be monitored. We will circulate her report along with a paper from the Counsel to the Inquiry team, which includes our suggestions for how the Forum should work.   We will then seek the views of Core Participants and other key stakeholders about the best way forward for the Forum.
+
+We have our eye firmly on the recommendations you may make, Chair.   We would expect that the Forum's work will increase the likelihood of Government and health bodies accepting and implementing recommendations.
+
+I want to return to talk about the Forum a little more later on.   This will be when I consider some significant recent developments that are likely to be highly relevant to the context in which recommendations will ultimately be delivered.
+
+Chair, you mentioned back in September that the Inquiry has carefully considered the language we plan to use, in connection with mental ill health and other matters the Inquiry is considering.   We have set out our approach to terminology in our Lampard Inquiry Terminology and Glossary.   It is a publicly available document via our website.
+
+The language set out in the terminology section of the document is not mandatory, as those involved with the Inquiry are free to express themselves as they choose, provided it is respectful.    However, it is helpful to have a reference document explaining the terms the Inquiry will be adopting.   We've kept this document under review and it has recently been updated to include a glossary section covering mental health conditions and symptoms, mental health professionals, teams and types of units, and mental health treatments.
+
+It also includes a list of acronyms commonly used by the Inquiry and in the evidence we will be hearing shortly.   This is to help people following the Inquiry to understand words that may be less familiar to those outside the medical profession.   As we have previously said, we would be happy to engage with Core Participants and others who have suggestions for the development of this document.
+
+Chair, at the conclusion of the November hearing, you indicated that you had asked the Inquiry team to consider how to gather together all of the commemorative and impact evidence and present it in a way that preserves and reflects their vital importance to the Inquiry's work.   You've mentioned again this morning the importance of this.
+
+Following feedback from those who provided the evidence, the Inquiry will be creating a dedicated page on our website which contains much of the commemorative and impact evidence shared with us.   The Inquiry will liaise with those who provided accounts to determine what they would like to be shared on the website.     The Inquiry intends to create a further piece that reflects the voices and experiences of those impacted by this Inquiry.
+
+This will include honouring the important contributions that were shared during the commemorative and impact hearing, as well as any future such evidence. We remain extremely grateful to all of those who felt able to provide the personal and moving accounts in relation to their family member or friend, and Chair, as you said in November, they are vital to the work of this Inquiry.
+
+Chair, you have referred to the appointment of the Inquiry's Independent Assessors and Experts.    Section 11 of the Inquiries Act 2005 gives you the power to appoint assessors to assist the Inquiry.
+
+Before such an appointment, you must be satisfied that the person you propose to appoint has the knowledge and experience which makes them a suitable person to provide assistance to the Inquiry.    Following a rigorous selection process, which included liaison with Core Participants, the Inquiry has appointed three Independent Assessors.   We are very pleased to have secured their assistance.    They are all experts in their respective areas of mental health provision and will inform the Inquiry on important clinical aspects of its work.   The appointed Assessors occupy a range of clinical posts and come with considerable experience of providing frontline mental health care.
+
+They've been in post since 5 February this year and they are:
+
+Dr Nicola Goater.    Dr Goater has worked as a consultant psychiatrist for over 20 years in areas including crisis, inpatient, intensive care, assessment and community teams.   She has significant experience in crisis teams, establishing a team in 2003 and working on key research in the area.   She is currently the Responsible Officer for West London NHS Trust and works clinically in Early Intervention in Psychosis, as well as acute psychiatry.   Dr Goater has worked as a locality clinical lead, clinical and educational supervisor, and clinical director.   From 2019 to 2024 she was the Trust's deputy Chief Medical Officer and Caldicott Guardian, as well as the Chair of the Trust's mortality review and Medicines Optimisation Groups.   She acted as Chief Medical Officer for the Trust in 2020-21.
+
+Mick O'Driscoll MBE.    Mr O'Driscoll is a retired, registered mental health nurse with 30 years' experience of working in both junior and senior clinical roles within NHS acute adult mental health services.     His various job roles, as a staff nurse, matron, clinical nurse specialist, Associate Director of Nursing and Clinical Director, kept him close to the clinical area he most enjoyed: acute inpatient wards.   He also developed and led the training of many nursing, medical and occupational therapy staff in his area of specialist interest: understanding suicidal behaviour and risk.      In 2014 he was awarded an MBE for services to mental health nursing.
+
+Dr Elizabeth Walker.     Dr Walker qualified as a doctor at St George's Hospital Medical School in 1995 and has worked as a psychiatrist since 1997.   She has been a general adult consultant psychiatrist working in the northwest of England for the last 15 years.      Her area of expertise is in continuity of care, having been responsible for the care of her patients through both community and hospital settings.    She also plays an active role in medical education, for example training students and junior and senior doctors, and in management.
+
+The Assessors' roles include, but are not limited to, offering general advice and explanation on any specific issue on which they have appropriate knowledge and experience and, in particular, the clinical aspects of the Inquiry's work; advising on potential avenues of the Inquiry; and providing you, Chair, with any other assistance or advice on any matter relevant to the Inquiry, within the knowledge and experience of the assessor.
+
+Assessors may be appointed from a range of disciplines relevant to the Inquiry's focus, not limited to clinical experience and knowledge.   This allows flexibility in addressing various aspects of the Inquiry as needed.    Chair, you are keeping an open mind about the appointment of further Assessors as appropriate.
+
+Further information about the appointment and role of the Inquiry's Assessors can be found on the Inquiry's website, and there is also a Protocol on the Role and Appointment of Assessors.
+
+Assessors assist the Inquiry in the ways I have outlined but they are not witnesses and they do not give evidence on which you, Chair, will rely for the purpose of reaching conclusions or issuing recommendations.
+
+Where you wish to consider in detail any specific issue, including standards of clinical care and the nature and extent of any failings, you will consider instruction of an appropriate expert witness, who is able to provide a written report or reports and oral evidence at a hearing.   This will form an important part of the body of evidence that you will be considering.
+
+To date, you have appointed four expert witnesses. They are:
+
+Professor Christl Donnelly CBE.   The Inquiry has recognised from an early stage the importance of the data it will capture from the Trusts and others.   Data has the potential to provide insight, to reveal trends and to expose further areas of concern.   The Inquiry also recognised the need to instruct an expert statistician of appropriate standing and experience to assist it with its work.   We are therefore very pleased that Professor Donnelly has agreed to act as Expert Health Statistician to the Inquiry.
+
+Her role is to provide expert advice and opinion in the field of health statistics and to support the Inquiry with data analysis.   Although at an early stage, she is working to identify and analyse relevant data in order to assist the Inquiry in drawing relevant conclusions as to deaths within scope.
+
+Insofar as possible, she will be seeking to place these within the proper national context, the extent to which the available data will allow such conclusions remains to be seen.   Professor Donnelly is Head of the Department of Statistics at the University of Oxford, and formerly Deputy Director of the World Health Organisation Collaborating Centre for Infectious Disease Modelling at Imperial College, London.   She recently complete her four-year term as Vice President for External Affairs of the Royal Statistical Society.     She was a senior member of the Imperial College Covid-19 Response Team whose work informed government policy in both the UK and internationally.   She also served as a member of the Expert Group on Statistics for the Infected Blood Inquiry.    She is a Fellow of the Royal Society and of the Academy of Medical Sciences.
+
+She was awarded a CBE in 2017 for services to epidemiology and the control of infectious diseases.
+
+She being supported in her work by Dr Maria Christodoulou, Dr Christodoulou is a Senior Statistical Consultant, a Chartered Statistician and former Postdoctoral Researcher in Biostatistics at the University of Oxford.    She is an expert in both quantitative and evolutionary biology, with specialised knowledge and expertise in the handling of large longitudinal data.
+
+Professor Donnelly's evidence will be of central importance to the Inquiry and we look forward to receiving reports from her.
+
+Dr Ian Davidson.    Dr Davidson is a consultant psychiatrist.   He will be giving evidence at this hearing, which I will be discussing later.     He has extensive experience in both inpatient and community general psychiatry.     He formerly held different roles at Cheshire and Wirral Partnership NHS Foundation Trust as Consultant General Adult Psychiatrist, Medical Director, Deputy Chief Executive, and Interim Chief Executive. Dr Davidson's roles at the Royal College of Psychiatrists included as clinical lead during Lord Darzi's investigation into the NHS in England and as inaugural Autism Champion between 2017 and 2021.     He is currently national clinical lead in the Getting It Right First Time programme for the crisis, acute adult and older adult mental health community and acute inpatient services.   Getting It Right First Time is a national NHS England programme designed to improve the treatment and care of patients through in-depth review of services, benchmarking and presenting a data driven evidence base to support change.
+
+Maria Nelligan.   Ms Nelligan has been instructed to act as a mental health nursing expert.   She has drafted a report that is complementary to that of Dr Davidson and her evidence, together with his, will form part of this hearing.   Ms Nelligan is an experienced Registered Nurse who first began practising in mental health in 1985.    She has held significant roles, including as Chief Nurse and Quality Officer at Lancashire and South Cumbria Foundation Trust, and as director of Nursing and Quality at North Staffordshire Combined Healthcare NHS Trust.   Her further roles included as Associate Deputy Director of Nursing (Mental Health) at Cheshire and Wirral Partnership NHS Foundation Trust and secondment to Greater Manchester Mental Health Trust to support them, particularly in patient safety and experience.
+
+During the relevant period, Ms Nelligan has gained substantial experience in external roles, providing independent assessment of nursing standards in mental health inpatient care.   She has also contributed to setting national standards of care in mental health inpatient care, including most recently working on NHS England's 2024 guidance, Culture of Care Standards for Mental Health Inpatient Services.
+
+The fourth expert instructed is Dr Emma Ireton, to whom I have already referred.
+
+It's clear that different experts covering different fields will need to be instructed as the Inquiry proceeds.    Chair, the Inquiry will keep this under review.
+
+I turn now to the two presentations that have been commissioned by the Inquiry and provided in preparation for this hearing.    You have already referred to them, Chair.    They present vital background information and set the scene for the evidence that is to follow.      These prerecorded presentations were made available online on 14 April via the Inquiry's website.    They are by way of introduction.    They do not claim to cover everything. We believe they cover ground that is not controversial but, if there is anything in them with which Core Participants and key stakeholders disagree, they should let us know.    It will then be investigated as appropriate and consistently with our Terms of Reference and List of Issues.
+
+The first presentation has been provided by The King's Fund's Helen Gilburt, who has been supported by a team from that organisation.   Ms Gilburt is a Fellow in their Policy Team with over 20 years' experience in delivering research, analysis, advice and information related to mental health care policy.   The King's Fund is a well-established and independent charity which works to improve health and care in England and delivers education relating to the Health Service in the United Kingdom.
+
+This presentation addresses the national legislative and regulatory landscape for the provision of NHS mental health inpatient care during the relevant period.     The aim of the presentation is to provide an explanatory overview of the relevant NHS structures, regulatory boards, legislative provisions, key national policies, and guidelines, which underpin the provision of inpatient mental health care nationally.
+
+Evidence relating to local services within Essex will be heard separately during this hearing, as I'll come on to explain.
+
+The presentation is accompanied by helpful materials and I will be looking at a couple of the slides provided with the presentation later on, by way of example.
+
+The National Collaborating Centre for Mental Health has provided the second presentation.   That is a partnership between the Royal College of Psychiatrists and University College London.    This presentation is given by consultant psychiatrists, Professors Stephen Pilling and Tim Kendall.    It identifies and explains the relevant guidelines from the National Institute for Health and Care Excellence, or NICE, in respect of the provision of care to mental health inpatients during the relevant period.
+
+It includes an explanation of NICE Guidelines more broadly, their development and substantial changes to them during the relevant period, and other key associated national care standards.
+
+Chair, moving now to the appointment of some new Core Participants.
+
+Last month, the Inquiry contacted six organisations, inviting them to apply for Core Participant status in the Lampard Inquiry.   These were three private providers of mental health inpatient care, two police forces and a provider of digital monitoring technologies.    None had applied during the original application window last year.
+
+Chair, the decision to grant Core Participant status is entirely at your discretion.   The process for applying is one I addressed in September and which can also be found in the Inquiry's Core Participant Protocol.   The decision to apply is a matter for the individual organisations.   There is no obligation to do so, nor does the Inquiry have a power to require it.    It is possible to engage with the Inquiry as a witness or a material provider, who may provide documents or other information, without being a Core Participant.    But there were specific reasons why you, Chair, believed it was appropriate for these organisations to consider applying, as I will outline, and why, in their cases, Core Participant status would allow them to engage fully in the Inquiry's process.
+
+Dealing with those organisations in turn:
+
+Cygnet Health and Priory Group.   The Inquiry believes that the roles of Cygnet Health and Priory Group as key providers of mental health inpatient care in Essex, with multiple facilities across the UK, position these organisations as important participants in understanding the issues of patient safety, treatment and care in mental health inpatient settings.     The Inquiry further believes that their insights into the functioning, monitoring and practices within these environments are crucial.
+
+Both were invited to apply to become Core Participants.   Cygnet Health have now applied for and been granted Core Participant status.   Priory Group have declined the Inquiry's invitation to apply.
+
+St Andrew's Healthcare.    In their opening statement provided to the Inquiry in November last year, the lawyers representing the family of a former patient of St Andrew's Healthcare raised concerns with the Inquiry about the care that was provided to her.   It would appear, therefore, that serious concerns exist regarding the care, treatment and safety of patients within St Andrew's Healthcare facilities.   This points to the importance of St Andrews involvement in the Inquiry to help shed light on the systemic factors that may have contributed to failures.    St Andrew's Healthcare was invited to become a Core Participant, and has indicated that it intends to apply for Core Participant status by the end of this month.
+
+Essex Police and British Transport Police.    These forces had roles both investigating and responding to incidents and allegations of criminal activity within mental health inpatient settings in Essex and in relevant places outside Essex.   They were part of interagency collaboration with health authorities and other stakeholders.   This makes them important contributors to understanding the broader context of patient safety in mental health inpatient settings.
+
+Both were invited to apply to become Core Participants.     The Chief Constable of Essex Police made an application and has now been granted Core Participant status on behalf of that force, and British Transport Police have indicated that they will be making an application.
+
+Oxehealth Limited.    The use of digital monitoring technologies in mental health settings, including Oxevision, has been the subject of considerable discussion and scrutiny in recent years.     As a provider of such technology to EPUT, the Inquiry believes that Oxehealth, the company behind Oxevision, is well placed to contribute valuable insights into its development, implementation and impact on patient safety and wellbeing.   Indeed, we will be hearing from an Oxehealth witness at this hearing, as I will come on to explain.
+
+Oxehealth was invited to apply to become a Core Participant.    It responded by making an application which has been granted and they are now a Core Participant to the Inquiry.
+
+Chair, I turn now to the issue of undertakings.       The Inquiry wishes to use all possible means to ensure that important evidence is received and heard.    Where necessary, it will deploy its statutory powers to compel evidence but that can only apply when the Inquiry is aware that the evidence exists.    In addition, the Inquiry wishes to take all appropriate steps to encourage people to come forward with relevant evidence that it does not yet know about.     The Inquiry therefore considered it necessary to seek limited undertakings from the relevant providers and healthcare regulators that were designed to facilitate the flow of that potentially important evidence to the Inquiry.
+
+Chair, you asked the providers and healthcare regulators to agree that they would not take action against individuals such as staff members or registered healthcare professionals in certain limited circumstances relating only to their provision of information to the Inquiry or their failure to have come forward to provide it in the past.
+
+The Inquiry has engaged in protracted discussions with the relevant providers and healthcare regulators on this issue.   However, almost all, including the largest providers, have declined to give such undertakings.     We have been reflecting on what further steps should be taken.   We would be interested in the views of Core Participants and key stakeholders as to whether the Inquiry should continue to pursue these undertakings. This is in circumstances where we are seeking to remove what we consider are, for some, bars to coming forward and providing full and frank information to assist the Inquiry, to get to the bottom of what was going on.
+
+I'd like to be clear that the Inquiry has not asked for an undertaking from the Attorney General, as is sometimes done in public inquiries, that an individual will not be prosecuted if their evidence reveals criminal wrongdoing on their part.   That kind of undertaking is designed to govern the future use of Inquiry evidence in criminal proceedings.   For example, an undertaking from the Attorney General may say that no evidence given to the Inquiry by a person will be used against that person in criminal proceedings.
+
+The Inquiry is not seeking an undertaking that would prevent information provided by a witness to the Inquiry later being used against them in criminal proceedings. Similarly, the Inquiry is not seeking an undertaking that would prevent information provided by a witness to the Inquiry later being used against that witness in regulatory or disciplinary proceedings if that evidence revealed potential wrongdoing beyond their disclosure of confidential information to the Inquiry or their failure to report matters at an earlier stage.
+
+Put shortly, the undertakings sought would not prevent misconduct proceedings being brought concerning many serious allegations at the heart of this Inquiry. Ultimately, the undertakings sought may, we suggest, be key to obtaining relevant information as to what was actually happening in inpatient settings and are proportionate to the circumstances of this Inquiry.
+
+Turning now to the subject of evidence and how evidence will work at this Inquiry, I mentioned at the start of our first hearing last year the process the Inquiry uses for obtaining information and documentation.   In short, the Inquiry Rules 2006 cover in Rule 9 the process by which the Inquiry should seek evidence.    This is initially by way of a written request.    Those requests go out in the form of a letter. Some organisations, such as EPUT, have received multiple requests for information which, for ease of reference are numbered sequentially, as Rule 9(1), 9(2), et cetera.   This is relevant because you will be hearing about some of these specific requests during this hearing.
+
+The Inquiry expects that those asked to provide documents or to come to give evidence will do so voluntarily following the Rule 9 procedure.    However, where that does not happen, Chair, you have powers under Section 21 of the Inquiries Act 2005 by notice to require a person to give evidence and to produce documents and materials to the Inquiry.
+
+It is a criminal offence under Section 35 to fail without reasonable excuse to do anything that is required by a Section 21 Notice.   It is also a criminal offence to suppress, conceal, alter or destroy relevant evidence.
+
+You have made it clear, Chair, that you will use your full powers to secure evidence for this Inquiry as appropriate and I'll say a little bit more about this later.
+
+Up to last month, the Inquiry had sent a total of 293 requests for information, under either Rule 9 or Section 21, these requests were directed to a range of individuals and organisations, including 58 requests to organisations which are Core Participants, 72 requests to organisations which are not Core Participants and 162 requests to individuals and families.
+
+Further information can be found in the Inquiry's disclosure updates on its website and the first update was issued last month.
+
+As the update records, the Inquiry's information requests had focused on a broad range of critical issues affecting mental health inpatient services, which include but aren't limited to:
+
+Inpatient care and safety: the provision and oversight of mental health services in Essex and other areas, including pre-admission assessments, inpatient pathway and incidents of harm.
+
+Patient monitoring and autonomy: a key area of focus is the use of Oxevision, which I've just mentioned.
+
+Autism and mental health inpatients.   The intersection of autism and inpatient mental health care, including the impact of neurodiversity alongside mental health conditions and the adequacy of adjustments made to care.
+
+Regulatory oversight and accountability: the roles of organisations such as the Care Quality Commission, or CQC, the Nursing and Midwifery Council, or NMC, the General Medical Council, or GMC, the Health and Care Professions Council, or HCPC, National Health Service England, and the Parliamentary and Health Service Ombudsman, PHSO, in monitoring mental health inpatient services, responding to incidents and addressing concerns raised by patients, families and staff.    I'll be coming on to talk a little bit more about that later.
+
+Investigations into serious incidents: the examination of whistleblowing reports, safety incidents including physical and sexual safety, ligature and absconsion data, as well as official investigations undertaken by Essex Police and prosecutions by the Health and Safety Executive.
+
+Staff and staffing matters: the examination of the approach to staffing, training and working conditions, for those providing inpatient mental health care.    This includes staff support and supervision, as well as evidence relating to staff-related concerns and experience shared by individuals.
+
+As I've said, some of the evidence to which I've just referred will be considered at this hearing.
+
+I'm now going to ask Amanda to put up the March 2025 disclosure update and go to the annexure, please, at the end.    Thank you very much.
+
+By looking at the update, we can see from it the wide range of organisations that have been contacted. They are listed alphabetically from Autism Action -- and could you just scroll down, please, to the bottom -- to West London NHS Trust there and including many in between, including both Oxehealth and Stop Oxevision.
+
+Could you take that down, please.
+
+That disclosure is in addition to the important information that was obtained during the non-statutory phase of this Inquiry, when it was the Essex Mental Health Independent Inquiry.     This includes, for instance, transcripts and recordings of evidence sessions with family members and others.     That information has been reviewed and will be incorporated as appropriate into the Statutory Inquiry. As I've previously mentioned, in many cases members of the Inquiry team are working with families who attended evidence sessions with the Non-Statutory Inquiry to use the transcripts of those sessions to form the basis of their witness statements to this Inquiry.
+
+During February and March, the Inquiry received thousands more documents in readiness for this April hearing.   The Inquiry intends to publish disclosure updates periodically, with the next one being in June 2025, ahead of a hearing in July.
+
+The Inquiry appreciates the engagement of all the organisations that have worked hard to make full and timely disclosure.   Work is ongoing regarding future requests, which will extend beyond the themes currently highlighted, and which will continue to be relevant to the Terms of Reference and matters in the List of Issues.
+
+As I mentioned, certain organisations and individuals have received multiple Rule 9 requests reflecting the complexity and breadth of the Inquiry's investigations.   In instances where responses have not been forthcoming or do not include sufficient detail, and the information is deemed critical to the Inquiry's progress, Section 21 Notices have been issued to compel the submission of evidence.
+
+This underscores the Inquiry's determination to obtain the necessary information to fulfil its Terms of Reference.    Some healthcare providers, and indeed other organisations, have so far expressed difficulty in making the full disclosure the Inquiry has requested. They have suggested to the Inquiry that they are experiencing various problems which broadly include that earlier records were created as paper documents that have not been kept in good order and take time to access and review.
+
+Electronic documents are held in different places and in poor order.   Documents, both paper and electronic, are missing because physical locations have since closed down, or private health organisations have changed hands.   Identities in certain documents should not be disclosed to the Inquiry, for privacy and data protection reasons, and that the Inquiry has not given the organisations sufficient time to make the relevant disclosure.
+
+As we have previously said, the Inquiry has repeatedly been told that records and documentation relating to the earlier stages covered by the Inquiry -- and our Terms of Reference go back to the start of 2000 -- will be more difficult to obtain, and will be scarcer.
+
+The Inquiry has concerns arising from the reasons given by some organisations for failure to make relevant disclosure.   We have been unimpressed with the significant number of requests for deadline extensions. The number of late disclosures, and the number of occasions where providers have not given the Inquiry the material it has expressly asked for.   Where we have felt it appropriate, we have worked with those providing documents who have reasonably sought further time or information about what they should be providing to the Inquiry.
+
+We recognise and appreciate that many providers have made every effort to comply.   Unfortunately, in too many instances, reasonable disclosure requests from the Inquiry were not fully complied with or came late, sometimes very late.   We expect providers to address now any teething problems that they have encountered.     We have indicated that we also expect them to be properly resourced to engage with the Inquiry, and to make timely disclosure.   As I mentioned, in certain instances, Chair, you have felt it necessary to rely on the powers you have by virtue of this now being a Statutory Inquiry.
+
+Some providers have been issued with Section 21 Notices to compel the production of documents and information.   For example, in one case, a notice was issued by the private provider NEST, this was because of an inexcusable delay in providing evidence we had requested.   That evidence has now been handed over to us.
+
+One provider and one regulatory body proactively requested the issuance of Section 21 Notices to facilitate their own internal processes and to ensure compliance with legal, procedural requirements in respect of particular categories of evidence.    In those circumstances, the issue of the Notice does not reflect a failure by those organisations.
+
+The Inquiry will continue to use its statutory powers as necessary to obtain the information requested to ensure a full and transparent examination of the issues under consideration.    I make it clear now that the future work of the Inquiry, including its future hearings, must not be delayed because of disclosure failures by providers or others.
+
+With good reason, the Inquiry, the families, those with lived experience and the public would not tolerate that.
+
+Moving now to a new topic.   The Inquiry has been reviewing its procedures to ensure it is able to obtain best evidence from those involved.   The Inquiry is working to ensure its processes take account of the trauma suffered by those who are participating and seeks advice from its Chief Psychologist in that regard.     The Inquiry has also extended assistance to legal representatives in the form of a trauma-informed awareness session.   Chair, you have already indicated that the Inquiry will not force any family member or person with lived experience to provide evidence to the Inquiry.
+
+Moreover, you have granted anonymity or are minded to do so to all persons with lived experience of mental health inpatient services.
+
+The Inquiry has updated various protocols.   This is with the aim of assisting those who wish to engage with the Inquiry in providing the best possible evidence in a way that ensures they are supported throughout the process.   These include the protocols for the April hearing, on restriction orders, redaction, anonymity and special measures, on vulnerable witnesses and on witness statements.   We have already recently amended some of these protocols, for example the Protocol on Restriction Orders, Redaction, Anonymity and Special Measures has been amended to clarify the Inquiry's approach to special measures and their interaction with restriction orders.
+
+Chair, you have a wide discretion to put in place measures to support witnesses giving evidence.   We will take an individualised approach, as far as is reasonably possible.   The Inquiry also offers emotional support to all engaging with it.    The Inquiry is liaising currently with Core Participants with lived experience about how the Inquiry is going to take their evidence.    We intend to finalise the lived experience framework after this April hearing has concluded.
+
+I would now like to provide an update on the work that has been done to identify the deaths in scope of the Inquiry's Terms of Reference.   Since the hearings in September and November last year, the Inquiry has developed a deeper understanding of the scale of the challenges involved in this work.    This has come through careful consultation with providers and Core Participants and with input from the Inquiry's Independent Assessors.   As you emphasised in September, Chair the Terms of Reference and Inquiry's definition of inpatient death are broader than those of the Non-Statutory Inquiry.    They include those who were assessed but not admitted to inpatient care.    This element, in particular, significantly increases the complexity of the work required to identify all relevant deaths.
+
+During the timeframe of the Inquiry, the vast majority of mental health care was delivered in the community.    So the number of those who were assessed but not admitted is potentially extremely large.       The Inquiry has had to make some careful decisions to ensure that its investigations properly include deaths that occurred soon after an inpatient admission would or should have been considered without distorting the necessary focus of the Inquiry on inpatient deaths. These issues have led the Inquiry to clarify its scope.
+
+Chair, last year you provided an explanatory note along with the amended Terms of Reference, and I'm going to ask now, please, for the amended explanatory note to be put up.
+
+Could you highlight the top, please.    Or expand the top.
+
+Not to worry.   If you'd unexpand that, please.
+
+As you can see, the slightly longer title of this document is "Explanatory Note in relation to Scope". Would you reduce the expansion, please.       As you can see just under the title, it makes clear that “it does not form part of the Terms of Reference but indicates how the Chair is minded to interpret them.”
+
+Amanda, would you mind expanding from the Inquiry's definition of inpatient death down to the bottom of the page, please.
+
+As we can see here, from (a) to (f) and at the top of the page -- would you just expand that, please -- (g) and (h), Chair, you've set out how you intend to define "inpatient death".   I'm just going to read out (g):
+
+"Those who died within 3 months of a mental health assessment provided by the Trust(s), or on behalf of the Essex Local Authorities, which did not result in admission as an inpatient.   This will be primarily focused on assessments within A&E and initial assessments by crisis teams or other teams with a gatekeeping role over inpatient admissions, as well as assessments under the Mental Health Act, but may include other cases at the Chair's discretion."
+
+You have now clarified the entry at (g) in this amended version of the explanatory note that was provided on 10 April.   The definition at (g) now emphasises that the Inquiry's primary focus is on the mental health assessments which are most closely connected to inpatient admissions.   The main change is in the second sentence, the new wording identifies the focus by naming the relevant assessment types.    They are those occurring in A&E, those undertaken by crisis teams or other teams with a gatekeeping role over inpatient admissions and those which take place under the Mental Health Act.
+
+Incidentally, earlier in the text of (g), there is a new reference to "local authorities".    You can see it on the second line.   To recognise the statutory responsibility they hold for the Mental Health Act assessments, we now understand that these can take place without the involvement of the Trusts.
+
+Returning to the second sentence.    The phrase "initial assessments" is used in relation to the crisis teams, to make clear that it makes the assessment undertaken after a new referral is made to a crisis team.   This is rather than the repeated ongoing assessments which may take place under home treatment.
+
+It is not just the number of deaths in scope that is important, although that is very important.    It is also that the information obtained about those deaths will need to enable reliable and robust findings to be made about the themes and patterns revealed by the data. This includes, for example, conclusions about the proportions of deaths which were or may have been preventable.
+
+Could you take that down now, please.
+
+We also now have the assistance of the Inquiry's Expert Health Statistician, Professor Donnelly.     She has begun work analysing the information about those who have died.   Once that initial work is complete, Professor Donnelly's guidance will be sought on how best to optimise the data provided.    This will strengthen the conclusions that can be drawn from the data and which will facilitate comparison with other parts of the country, bolstering the weight of the findings and recommendations that are made.
+
+It will be clear from what I've just said that we do not yet have a number for the deaths that come within the scope of this Inquiry.   The Inquiry is keenly aware of the interest in that number.   We will provide the most accurate number that we can when we have, with expert assistance, collected the data we need and analysed it appropriately.
+
+Could you put up the Explanatory Note first page again, please, and thank you, yes, expand that.     While we're looking at the Explanatory Note, can we stay with the definition of "inpatient death" and look at (a).
+
+We can see it says:
+
+"... those who died on an NHS mental health inpatient unit or in receipt of NHS funded inpatient care within the independent sector (whether detained under scrutiny [sic; should be section] or informally). Units within scope include:
+
+"Adult mental health units
+
+"Psychiatric intensive care units (PICU)
+
+"CAMHS [Child and Adolescent Mental Health Services] units (acute and PICU)
+
+"Mental health assessment units
+
+"Mother and baby mental health units
+
+"Older adult mental health units
+
+"Eating disorder units
+
+"Forensic/secure units
+
+"Learning disability units
+
+"Drug and alcohol units."
+
+Chair, you've decided to amend this part of the definition: the section lists the types of mental health units which are included within the scope of the Inquiry's investigations.   However, the previous wording suggested that the list was exhaustive.   This led some providers to conclude that some types of units which were not named, such as learning disability units and drug and alcohol units, were not to be considered. Later in the Explanatory Note, learning disabilities and drug and alcohol addiction are included amongst the particular circumstances that you will consider during your investigations.   It would be anomalous and inappropriate to omit the mental health care that individuals in those circumstances received within units dedicated to the management of those issues.       Therefore, section (a) has been amended, as you can see the last two bullet points, to add "learning disability units" and "drug and alcohol units" to the list.
+
+The wording above the list has been changed to, "Units within scope include", in order to clarify that the list should not be considered exhaustive.        The former wording was "Units to be included are".
+
+Would you take that down, please.        Thank you.
+
+Before I leave the topic of the Explanatory Note I'd like to say this: I've talked a lot about statistics. As an investigative progress, we of course have to look at the figures in an analytical and objective way in order to see trends, spot issues and make findings.
+
+However, we recognise that behind the staggering figures, each death was of a person with their own life and their own individual circumstances that led them there.
+
+Chair, I'd like to use that moment to break for an hour, so that means we will reconvene at 1.30, please.
+
+**The Chair**: 1.30.
+
+*(12.30 pm)*
+
+*(The Short Adjournment)*
+
+*(1.30 pm)*
+
+**The Chair**: Mr Griffin?
+
+**Mr Griffin**: Thank you very much, Chair.
+
+I would like to provide an update now on Relativity. During my opening statement in November, I explained that the Inquiry procured Relativity as its document review platform and that it would be used for document management and for internal purposes during our disclosure processes.   Legal representatives have not needed access to Relativity in order to engage with our disclosure processes.
+
+The Inquiry is now using Relativity to review documents.    Relativity enables the Inquiry to tag documents for themes and issues and easily collate material for witnesses and for disclosure.    The Inquiry will keep under review whether or not Relativity is to be used more widely, for example whether limited access should be granted to Core Participants and their representatives as a means by which to receive and review material disclosed by the Inquiry.
+
+I'd like now to talk about this hearing, which runs from today up to 15 May.     The first point to make is that the evidence we will be hearing is introductory. The purpose of this hearing is to introduce important contextual evidence relating to the provision of mental health inpatient care in Essex and to explore some specific issues concerning the provision of care.
+
+In other words, this hearing is setting the scene for the work of the Inquiry and the hearings that will come later.   That's a point you've already made, Chair.
+
+The second point relates to the status of the written witness statements that have been provided for this hearing, this includes from healthcare providers. The witness statements stand as the evidence from the particular individuals giving them or the organisations on whose part they have been provided.
+
+The inclusion of these statements in the written evidence for this hearing does not mean that the Inquiry accepts that they are accurate in all regards.    In some cases, we already know of inaccuracies and this evidence will, of course, be augmented by the oral evidence we will be hearing and the points made at a later stage, including in later hearings.
+
+The third and final preliminary point is this: we are at an early stage in an inquisitorial process.   Core Participants and their lawyers are not, at this stage, committing themselves to a particular stance by suggesting questions to the counsel team to be asked, by making submissions or in any other way.
+
+It may be that, as more evidence is provided, different points will emerge and the points they and the Inquiry wish to advance will evolve or change completely.
+
+New points will inevitably arise.    That is understood.    At this hearing, we are setting the foundations for the evidence to follow and Core Participants and their lawyers will have the opportunity in the future to revisit the issues raised.
+
+Moving now to the timetable.      The Inquiry will sit on Mondays to Thursdays during the hearing.     However, will not sit on Bank Holiday Monday, 5 May, nor on Wednesday, 7 May.    We will generally start our hearings at 10.00 am and finish by 4.30 pm.     There will be a short break in the morning and in the afternoon in which teas and coffees will be provided free of charge for those who are attending.
+
+There will be a one-hour break for lunch which will normally be at around 1.00 to 2.00.    Chair, we will be flexible with all of our timings as is appropriate for an inquiry of this nature.
+
+Our hearings are taking place here at Arundel House in London.    The hearing room we are now in has been deliberately laid out to allow the families, those with lived experience, and others engaging with the Inquiry to sit at the front.   Lawyers have been provided with desks equipped with appropriate technology, situated at the back of the room.
+
+It is not necessary to attend the hearing in person to follow the Inquiry's proceedings.     Core Participants and their lawyers who are not attending in person can watch the hearing live on a secure weblink.     The hearing will also be live streamed on the Lampard Inquiry YouTube channel for anyone who wishes to watch us remotely.   But please note that this will be streamed with a time delay of ten minutes.     So if you're watching on YouTube, there will be a 10-minute delay.
+
+The Inquiry will be considering different forms of evidence at this hearing.     It breaks down into the following broad categories:
+
+First, we have the written evidence.     This is in the form of the witness statements, exhibits to those statements and reports.      They form part of the Inquiry's body of evidence to which you, Chair, will have regard in reaching conclusions and considering recommendations.
+
+Certain evidence is being summarised and synthesised in papers that will be presented at this hearing by members of the Counsel to the Inquiry team.      Core Participant legal representatives have been given the opportunity to comment on these papers in writing with counsel for the family Core Participants being given the opportunity to respond in oral presentations to you, Chair.   I should add that the counsel team will provide some further brief summaries during the hearing of a couple of other areas covered by the written evidence, and these won't be subject to the same process of response by the Core Participant teams.
+
+We will also be seeing evidence in the form of video footage and we will, of course, be hearing evidence directly from certain witnesses.   Whilst witnesses will be asked questions by Counsel to the Inquiry on behalf of the Chair, those questions will have been informed by suggestions provided by the Core Participants.     This approach is covered by the Inquiry's protocol on the questioning of witnesses in oral hearings under Rule 10 of the Inquiry Rules.   Chair, you will also ask questions yourself, as you feel appropriate.
+
+For those family Core Participants who are unrepresented, I invited them to meet with me and other members of the Inquiry team informally following receipt of the bundles for this hearing.   This was with a view to them raising any points that they would like to be considered with the witnesses and that meeting took place earlier this month.
+
+Chair, I would like now to provide an introduction to the evidence that will be presented at this hearing. A schedule of the witnesses that you'll be hearing from will be available on the Inquiry website and we've divided the topics to be covered into different categories.
+
+The first category is, significantly, some of the issues of concern that led to this Inquiry.
+
+On 10 October 2022 Channel 4 broadcast a Dispatches documentary entitled Hospital Undercover -- Are They Safe?   The programme showed footage from a year-long undercover investigation and highlighted concerning practices on various wards run by EPUT.   It's an important piece of reporting.   It covers issues of great relevance to this Inquiry, including concerning ligatures, the behaviour of those working on the unit, the use of restraint and absconding from wards.   We will be showing this tomorrow.
+
+Chair, the Inquiry is working with the producers of the documentary to obtain further unaired footage which may be relevant.
+
+Staying with issues of concern that led to the Inquiry, I come now to the Health and Safety Executive's prosecution of EPUT in 2020 -- I may refer to the Health and Safety Executive as the HSE.   It concerned failures between 1 October 2004 and 31 March 2015 in relation to ligatures and the tragic deaths of 11 patients at the North Essex Partnership University Trust, a predecessor trust to EPUT, and which I'll refer to as NEPT.    The HSE prosecution began as an investigation by Essex Police in 2016.   In 2018 that investigation was formally handed over to the HSE.   As I mentioned in September last year, the outcome of that case was that EPUT pleaded guilty on 20 November 2020 to a charge that it had failed, as far as was reasonably practicable, to manage the environmental risks from fixed ligature points within its inpatient mental health wards across various sites under its control, thereby exposing vulnerable patients in its care to the risk of harm by ligature.
+
+EPUT received a fine of £1.5 million during sentencing on 16 June 2021.
+
+In 2014, NEPT had also been investigated and prosecuted following failures at the Derwent Centre in Harlow, where a patient fell from a window that was not adequately restricted.   These are the only two prosecutions of any kind of providers of mental health care in Essex that the Inquiry is currently aware of during the relevant period.
+
+The Inquiry has received and disclosed to Core Participants the witness statement of EPUT's CEO, Paul Scott, which addresses these prosecutions.
+
+The Inquiry will be hearing from the HSE's Director of Regulation, Jane Lassey.   She will explain how the HSE works in partnership with co-regulators to inspect, investigate and, where necessary, to take enforcement action.    The HSE is the national independent regulator for health and safety in the workplace.   This includes private or publicly owned health and social care settings in Great Britain.    As an HSE publication explains, there are many other bodies responsible for regulating different aspects of health and social care. They may be in a better position to respond to patient incidents or complaints.
+
+In England, the CQC is the independent regulator for the quality and safety of care.    This includes the care provided by the NHS, local authorities, independent providers and voluntary organisations in registered settings.    They are also professional regulatory bodies who aim to ensure proper standards are maintained by health and social care professionals and act when they are not.
+
+Ms Lassey will explain where the HSE fits in this picture.
+
+At this stage, it is helpful to look at two of the slides provided with The King's Fund presentation and, Amanda, would you put up slide 23, please.
+
+I've already mentioned the presentation provided by The King's Fund, and here we see one of the slides and we can see in the slide reference to the Health and Safety Executive and other regulators I've referred to. They include the Parliamentary and Health Service Ombudsman.    I'll come on to talk about him in a moment.
+
+Thank you.   Would you take that slide down, please, and put up slide 22.   So the former slide was "Non-NHS regulatory and investigatory bodies", and here we see "NHS regulatory and investigatory bodies".    We can see the CQC at the bottom, as well as bodies such as the Health Services Safety Investigations Body.    Overall it's quite a crowded picture and it's not clear how everyone fits in.
+
+Would you take that down, please.
+
+Consequently, the Inquiry is interested in the multiplicity of regulators and other relevant bodies operating within the sector.    Questions arising may include: to what extent were there uncertainties about jurisdiction between these various bodies?    Did some incidents fall through the gaps between them?    And what certainty do we have now that inpatient deaths are always being properly investigated and, where necessary, prosecuted?
+
+In June 2019 Sir Rob Behrens CBE, who was then the PHSO, published his report entitled Missed Opportunities.    It found that there had been a series of significant failings in the care and treatment of two vulnerable young men who died shortly after being admitted to NEPT.    The report considered the death in 2008 of a person referred to as "Mr R", and the death in November 2012 of Matthew Leahy.    It identified multiple failings surrounding both deaths.    The report also identified systemic issues at the Trust, including a failure over many years to develop the learning culture necessary to prevent similar mistakes from being repeated.
+
+Sir Rob was PHSO, the Ombudsman, from 2017 to last year, and we'll be hearing from him on a range of matters.    As I've said, this includes the deaths of Mr R and Matthew Leahy.    These are cases that the Inquiry will be considering in more detail at a later hearing, but I will ask Sir Rob about some aspects of these cases at this hearing arising from the Missed Opportunities Report.     Whilst he was not Ombudsman at the time of the investigation and investigation report into Mr R's case, Sir Rob oversaw Ms Leahy's complaint about her son Matthew from 2017 to 2019.
+
+We will hear about the maladministration that was exposed at NEPT.    There were 19 different instances. These included in relation to care planning, risk assessment and the physical availability of ligatures. They also included the failure properly to look after Matthew's physical care and the loss and falsification of paperwork.
+
+We will also learn about the role of the PHSO, its processes and the extent of its powers.   The PHSO considers complaints about care and treatment commissioned or delivered by the NHS in England. Broadly speaking, a complaint about a mental health trust is probably within the PHSO's jurisdiction.     We'll need to understand where the PHSO fits into the complex picture of the bodies and regulators that look into the serious problems with which we are concerned.    As we've just seen, other organisations considered different types of complaints.
+
+It's important also to note that the PHSO can only look into issues that have been complained about.     That means that it cannot act of its own motion.     It is also a point of last resort, in that a person has to try to resolve their case by other available means first. Sir Rob will provide figures for complaints received relating to mental health and complaints relating specifically to EPUT and its predecessor trusts, NEPT, and the South Essex Partnership University Trust -- or SEPT -- and NELFT.   We will look at those figures and see what we can learn from them.
+
+The Inquiry has received a number of statements from the regulators and other relevant bodies.   They will form part of the Inquiry's body of evidence and the most relevant parts of this evidence will be summarised for you, Chair.
+
+Evidence has been received from the bodies who regulate the individual professions, who together have provided the mental health inpatient care subject to this Inquiry.   Those bodies, as we've just seen from the King's Fund slide, are the General Medical Council, who regulate doctors including psychiatrists; the Nursing and Midwifery Council, who regulate nurses and mental health nurses; and the Health and Care Professionals Council, who regulate a number of professionals, including practitioner psychologists and occupational therapists.
+
+Collectively, I will refer to these as the healthcare professional regulators.   Although responsible for different professions, the way in which they operate and the key principles which inform their work are broadly the same.   Each seeks to ensure that their professionals are safe to practise, to declare and uphold their profession's standards and to maintain the public's confidence in their profession.    To do this, they will act against individual professionals where concerns are raised and where they are sufficiently serious to call into question their fitness to practise. The ultimate sanction available during these proceedings will be to erase or strike off an individual from that profession's register.
+
+It is of note that where there is an alleged failing by a healthcare professional, such a failing must be sufficiently serious in order to merit fitness to practise proceedings.    Further, their jurisdiction only extends to their respective individual profession and they are not designed to deal with cases where failings are said to span a number of professions or where failings are systemic, rather than individual.   The Inquiry has sought details from each of the healthcare professional regulators of cases against registrants in Essex Trusts which are linked to the provision of mental health inpatient care.
+
+Although there have been challenges in obtaining historic data and it is currently incomplete, initial responses indicate the following:
+
+At the GMC, the General Medical Council, a review of cases since 1 April 2006 has identified 29 complaints or concerns in respect of doctors.   None of these have to date resulted in any action being taken against the registered doctors concerned, although some remain subject to ongoing investigation.    A number of cases fell short of the threshold for investigation where concerns were not considered sufficiently serious or were not considered to be directed against an individual doctor, but rather concerned overall care.
+
+The NMC, Nursing and Midwifery Council.      From materials which it has been possible to review from 2008 onwards, the NMC have identified 149 referrals concerning 133 nurses.    146 received an initial assessment and this has resulted in 65 cases being closed at initial screening and 81 progressing for further investigation.    36 were referred for a hearing, and 29 have concluded.    Of those concluded, fitness to practise was found impaired in 24 cases.     There have been four cautions, four orders for conditions of practice, 13 suspensions and six orders for striking off.    24 cases remain open.
+
+The HCPC, Health and Care Professionals Council. From the data available from 2003, there have been referrals concerning 12 professionals: eight psychologists and two occupational therapists.      This has resulted in one case where the registrant was voluntarily removed from the register on health grounds and 11 cases which were closed without referral to fitness to practise proceedings.    The information so far underlines the high threshold for taking action against individual healthcare professionals.    Some of the available cases illustrate that healthcare professional regulators will not be the appropriate avenue to deal with systemic or low-level but widespread concerns.
+
+This perhaps highlights the importance of others being able to manage concerns arising within mental health inpatient care.
+
+For present purposes, let me talk about the Care Quality Commission.   This is the body which, since 2009, has been responsible for regulating health and adult social care in England.     This means that it was responsible for the registration, monitoring and inspection of the Trusts and their mental health inpatient care provision.    Its duties included review of these services, assessing their performance and publishing reports of its assessments.
+
+The CQC also describes itself as the primary enforcement body at a national level for ensuring that people using health and social care services receive safe care of the right quality.
+
+Fundamental standards introduced following the Mid Staffordshire NHS Foundation Trust Public Inquiry, and against which healthcare providers were assessed as part of the CQC's function are:
+
+Regulation 9, person centred care; Regulation 10, dignity and respect; Regulation 11, need for consent; Regulation 12, safe care and treatment; Regulation 13, safeguarding service users from abuse and improper treatment; Regulation 14, meeting nutritional and hydration needs; Regulation 15, premises and equipment; Regulation 16, receiving and acting on complaints; Regulation 17, good governance; Regulation 18, staffing; Regulation 19, fit and proper persons employed; Regulation 20, duty of candour; and Regulation 20A, requirement as to display of performance assessments.
+
+Relevant CQC inspections and the reports which followed will, in due course, be considered by the Inquiry.   Recent inspections included the May 2023 assessment which downgraded the rating of EPUT adult mental health wards and psychiatric care units to "inadequate", and a July 2023 report, following an inspection between November 2022 and January 2023, which gave EPUT a rating of "requires improvement".
+
+The CQC also has statutory responsibility under the Mental Health Act 1983 for monitoring and reviewing how services use their powers of detention and in respect of community treatment orders.   This ought to include visiting wards and identifying concerns which might trigger further monitoring or inspection.   In addition, and distinct to its role in registering and inspecting healthcare providers, the CQC has substantial statutory powers to take both civil and criminal enforcement action against registered persons who failed to comply with conditions of registration and CQC regulations aimed at ensuring safe and adequate care.
+
+Civil enforcement powers include cancelling or suspending registration, imposing conditions or serving a warning notice.   Criminal enforcement can also be undertaken by use of a fixed penalty notice, cautions and prosecutions.   The Inquiry has been made aware of a warning notice issued to NEPT in 2016.
+
+However, set against their considerable responsibilities and powers, it is of note that, during the relevant period, there are apparently no other recorded instances of the CQC having used civil or criminal enforcement action against the Trusts in Essex and we'll look into that more deeply.
+
+Whilst it is too early to draw any conclusions from the absence of any enforcement action, the Inquiry will wish to understand this more fully when set against the extremely serious concerns that gave rise to, and are the subject of, this Inquiry.
+
+Chair, I turn now to the topic of Ligature and Absconsion Incident information and data.
+
+I've already highlighted the considerable concern regarding ligature deaths that led to the HSE prosecution.   There is also real concern about the risks arising from absconsions.    The Inquiry asked EPUT, other Trusts and private providers for various information and data in respect of ligature and absconsion-related incidents in Essex over the period covered by this Inquiry.
+
+The purpose of obtaining this information for this April hearing was this: to enable the Inquiry to investigate what was happening within these providers in relation to ligature and absconsion incidents during the relevant period.    It was also to inform any further lines of investigation and disclosure that the Inquiry might wish to seek.    The providers responded in varying levels of detail.     Not all of the providers responded in time for their evidence to be considered within this April hearing.
+
+The evidence that was received by the Inquiry by 27 March this year, including witness statements and exhibits, has been considered by Counsel to the Inquiry, who have provided papers covering these matters.     Kirsty Lea of the CTI team will present them to you.     You'll also hear from lawyers on behalf of the family Core Participants about this.
+
+For present purposes, I'd like to address two points in relation to the data that has been provided so far: firstly, requests for extensions of time to provide finalised evidence; secondly, the limitations to the data that has so far been provided by some of the providers.
+
+EPUT and Priory provided disclosure data in time for their evidence to be considered within this hearing. Cygnet Healthcare and St Andrew's Healthcare requested deadline extensions from 25 February to 28 March.     The Inquiry granted these extensions and it's therefore not been possible to consider information from these sources for the purpose of Counsel to the Inquiry's paper.
+
+Their responses in relation to ligature and absconsion incident data were both received by 28 March.
+
+Both EPUT and Priory acknowledge that there are limitations to the data they have provided so far.      In short, searches in relation to relevant incidents are ongoing, particularly in relation to hard copy documents and where manual searches of documents and entries are required.    It has therefore been impossible for the Inquiry to come to any meaningful conclusions at this stage.   There have been challenges in comparing the data provided by EPUT and Priory, including that they do not use the same definitions of key terms, such as "absconsions".
+
+Following liaison between Priory and the Inquiry, we confirmed the absconsion definition that should be used. Priory, in fact, went on to apply a different definition.   It therefore appears to the Inquiry that within the data so far provided by Priory, they have underreported the number of absconsion incidents.
+
+Chair, upon receipt of limited and incomplete data, the Inquiry originally intended to publish snapshots of that data within the CTI papers, making it clear that no firm conclusions can be drawn from the data at this stage.   However, the Inquiry has taken on board comments from some Core Participants regarding concerns that this incomplete data should not be presented at the Inquiry and, as such, has redacted any reference to any figures from the CTI papers on ligature and absconsion data and the accompanying PowerPoint and oral presentation.
+
+The Inquiry will consider analysis of the data once it is as complete as it can be.   Analysis will be conducted if it is deemed appropriate and likely to assist in fulfilling the Inquiry's Terms of Reference. Chair, the ligature and absconsion data papers conclude by setting out suggested next steps to the Inquiry. This includes any clarifications that are required and potential further lines of investigation that the Inquiry may wish to consider, in line with the Terms of Reference and list of issues.
+
+Inquests, adverse findings and Prevention of Future Deaths reports is another area which will be summarised in a presentation by Counsel to the Inquiry, and about which, Chair, you'll hear from lawyers on behalf of the family Core Participants.   The paper prepared by Counsel to the Inquiry provides a general overview of inquests and the coronial process.   It is deliberately at a high level, consistent with the purpose of this introductory hearing.   It then summarises the responses from EPUT and other providers in terms of their engagement with the inquest process.   This includes their responses to coroners' conclusions, including where there have been findings of neglect, and the receipt of and response to Prevention of Future Death reports issued by the coroner.   I will refer to those as PFD reports.
+
+Some of the key points arising from the paper, which will be given by Charlotte Godber of the CTI team, include that the Inquiry has so far received only some of the information that we would expect to be available about inquests carried out during the relevant period. This information does not appear to have been comprehensively collated and monitored.   I'll return to that point in a moment.
+
+From the current data, we know, for example, that looking at the most recent statistics available, in 2023, over a third of deaths that occurred in England and Wales were referred to the coroner.   Of those, 20 per cent were deemed to require an inquest.    That amounts to nearly 37,000 inquests opened in 2023.     492 of which followed deaths that occurred in state detention, which includes individuals compulsorily detained by a public authority, and that includes hospitals, where the deceased person was detained under mental health legislation, and instances where the deceased person was on a period of formal leave.
+
+Further statistical analysis will be carried out on this data but first the Inquiry will need to be satisfied that all efforts have been exhausted by EPUT and the other providers to locate all relevant information.
+
+Recordkeeping is an ongoing theme in this Inquiry. It has featured in the responses from some providers in respect of locating PFD reports issued to their organisations and locating them within their own records.   It may be significant that logging and retaining reports that were written and issued with the sole purpose of preventing future deaths does not at the moment appear to have been a priority for some providers.   The Inquiry is concerned that not enough was being done to monitor PFD reports, the concerns raised and the changes required, both within the providers concerned and more widely.    This may again point to a gap in the regulatory framework.
+
+The Inquiry will also be hearing from Deborah Coles, the Executive Director of the charity and NGO INQUEST. It was founded in 1981 with the aim of reducing and preventing state-related deaths.     It provides support to bereaved people, as well as sharing experience and advice with lawyers, support agencies, the media, and parliamentarians.
+
+INQUESTS's specialist casework includes deaths in police and prison custody, immigration detention and mental health settings.    Ms Coles will talk about the stark difference in state monitoring of deaths in prison and police custody, compared to mental health deaths. There is no central comprehensive source of authoritative data of either mental health inpatient deaths or the deaths of those who have died in the community following contact with or under the care of mental health services.
+
+Ms Coles refers also to the significant problems with investigatory processes where they relate to people who have died in mental health detention.
+
+INQUEST takes on cases across England and Wales. Since 1981, they've worked on 1,843 mental health-related cases.   39 of these were connected to Essex Trusts and INQUEST has determined that a number of those fall within the Inquiry's Terms of Reference.
+
+It's notable that Ms Coles says in her statement that nowhere has the effect of institutional defensiveness on patient safety been more clearly illustrated than in Essex.
+
+Chair, the Inquiry has The King's Fund presentation, which I've mentioned already, and it covers the national legislative and regulatory landscape for the provision of NHS mental health inpatient care during the relevant period.
+
+We will also be hearing about relevant local structures and services in Essex.   This is another of the sections of the evidence that will be summarised for you in a presentation by Counsel to the Inquiry, and about which you will hear from lawyers on behalf of the family Core Participants.    The CTI presentation will be given by CTI member, Dr Tagbo Ilozue, and it will provide an overview of what the Inquiry has learnt from the evidence that we've received so far about the type of mental health services that were delivered to inpatients under the care of the Essex NHS Trusts, the locations where those services were delivered and the providers that were responsible for delivering them.
+
+The Inquiry's Terms of Reference are focused on the inpatient care delivered by NHS Trusts in Essex.    We already knew those Trusts included EPUT and NELFT.    We have learned that it also includes Hertfordshire Partnership University NHS Foundation Trust.   I'll refer to it as HPFT, which has operated specialist inpatient and community learning disability services in North Essex since 2010.   This included an inpatient unit in Colchester called Lexden Hospital.
+
+The predecessors and previous names of these three Trusts are identified in the evidence we have received and will be set out in the presentation.   The only NHS Trusts with inpatient mental health facilities in Essex by the end of the relevant period -- so by the end of 2023 -- were EPUT and HPFT.   However, the Inquiry must look beyond the inpatient services provided by the Essex NHS Trusts.   There are elements of the definition of inpatient death in the Explanatory Note on the Terms of Reference, which make clear that the scope of the investigation extends beyond them.
+
+It encompasses NHS-funded inpatient mental health services delivered by independent providers and by NHS Trusts outside Essex, as well as to certain outpatient mental health services provided by the Essex Trusts.
+
+To date, the Inquiry has sent Rule 9 requests for information to 46 different organisations to try to identify all of these services.    The recipients include NHS Trusts and independent providers from all over the country.   We also requested information from the commissioners of NHS services, NHS England and the Essex Integrated Care Boards.    The information obtained has been analysed so that an overview of the data can be presented in an accessible form.
+
+The presentation will identify 34 different inpatient facilities and 120 different wards in which inpatient mental health services have been delivered within Essex during the relevant period.    It will show how these changed over time, rising to a peak of 27 facilities in 2009 and then reducing to 16 in the final five years of that period.
+
+Amanda, would you put up the Essex facilities video at the beginning and pause after one second.
+
+This map shows the location of those 16 facilities across Essex by the end of the relevant period.     As we can see, they were in the following towns and cities: Colchester in the north; Clacton-on-Sea by the coast; Chelmsford in the centre of the county; Harlow and Epping in the west; and further south, Billericay and Wickford, then Rochford, Basildon and Grays.
+
+Would you now continue the video and pause it at the end.
+
+What we can see now with these bar charts are the mental health services delivered in each of those facilities by the end of the relevant period.     The evidence that we have obtained shows that these are the mental health specialities or bed types that were provided by Essex NHS Trusts throughout the relevant period: adult mental health, long and short stay; older mental health, long and short stay; mental health assessment unit; adult Psychiatric Intensive Care Unit; CAMHS or Child and Adolescent Mental Health Services; forensic, low secure; forensic, medium secure; learning disability.
+
+Additional bed types which have been added more recently are: a mother and baby unit in 2010; a CAMHS Psychiatric Intensive Care Unit in 2012; and a drug and alcohol detox unit in 2022.
+
+On the map some of these services have been grouped together, for example, adult mental health with adult Psychiatric Intensive Care Unit, PICU, as shown on the legend, to make the charts easier to read.
+
+The height of the bars reflects the number of beds for each service at each location.    The presentation will show how provision of these services across the Essex facilities varied through the relevant period.      It will also outline the relevant non-inpatient services that the Essex Trusts have informed us about.
+
+Thank you.     Would you take that down, please.
+
+Some key specialised inpatient services, which have never been delivered by the Essex NHS Trusts at any time during the relevant period, are specialist eating disorder services, personality disorder services and high secure forensic services.    Essex patients have had to be placed with either independent providers or with NHS Trusts outside Essex if they required these services.    Other reasons for such placements included a lack of capacity in Essex Trust facilities or if patients presented to mental health services as an emergency whilst away from home.
+
+The current evidence indicates that Essex NHS patients were admitted into 215 different non-Essex NHS facilities spread across the country over the relevant period.     As the presentation will explain, this evidence is currently incomplete, so this is very likely to be an underestimate.
+
+Amanda, would you put up the whole country facilities video, please.
+
+We can see here a map showing the postcode location and unitary authority region for those 215 mental health facilities, alongside the 34 NHS facilities in Essex.
+
+Could you take the slide down, please.
+
+At the moment, the evidence we've received is not sufficient to reach any conclusions about whether and to what extent these placements were appropriate.   As part of the Inquiry's ongoing work, we will obtain as complete a record about all the providers and services as possible, and enlist the assistance of the Inquiry's Expert Health Statistician to complete the analysis. This will provide important context to the care received by those within scope of the Inquiry's investigations. Moreover, each of the providers will be asked to provide information about any deaths in scope of the Inquiry's investigations amongst the patients they treated.
+
+Finally, the data may also be used to inform selection of other areas of the country to compare with Essex.
+
+Chair, those slides will be part of the papers of Dr Ilozue's presentation and will become available via the Inquiry's website.
+
+We'll then, Chair, move on to expert evidence obtained by the Inquiry.
+
+The evidence of Dr Davidson and Ms Nelligan seeks to capture the practical considerations of providing mental health inpatient care during the relevant period from a psychiatric and mental health nursing perspective. Whilst both experts approach their evidence through the lens of their respective profession, their reports substantially overlap and, for that reason, their evidence will be heard together.
+
+Necessarily, both reports are high level, and serve as no more than an introduction.    Further, there are some areas which are simply too large to incorporate at this stage.     One of these is neurodiversity and an expert will be instructed to prepare a standalone report for consideration at a future hearing on neurodiversity.     The Davidson and Nelligan expert evidence gives an overview of what happens when an individual becomes an inpatient and focuses on what good care should look like where there is a significant degree of consensus within the professions.     Given that their reports are addressed at a national level over a 24-year period, they do not seek to explain or apply standards to every aspect of care which they comment on.
+
+What falls below the appropriate standard can only properly be explored on a fact-specific basis within its full context.     That type of assessment is not the purpose of this evidence.    Their evidence is intended to bridge the gap between written policies and standards and what was happening in practice.    In doing so, it seeks to draws out some of the challenges of working within mental health inpatient care.    This evidence should be considered alongside the background presentations provided by The King's Fund and the National Collaborating Centre for Mental Health, which I've referred to.
+
+Dr Davidson begins his report by highlighting the move in the early 2000s from the general psychiatry model to new specialities and the abolition of the one local mental health team model.   He notes that there was a significant increase in numbers accessing mental health services by 2023, compared to 2000.    During this period, there was fragmentation of services between inpatient and community care and treatment, meaning that care could lack continuity and joined-up planning.      One common issue was waiting too long before admitting a person in crisis as an inpatient.
+
+Dr Davidson and Ms Nelligan explain the balance to be struck between reducing the risk of harm and therapeutic intervention to promote recovery.     In Dr Davidson's view, at times a focus on risk management dominated over the provision of effective care and treatment.   He describes how, despite use of more restrictive practices, available information does not suggest that these resulted in a decline in suicide rates.
+
+Dr Davidson also points out that in decisions concerning discharge and leave, there would be no entirely harm-free or safe options.   Ms Nelligan explains the pressure to manage risk of harm within a least restrictive practice framework.   She shares Dr Davidson's view that no environment can be risk free and any environmental modifications cannot be a substitute for therapeutic interventions and engagement from the nursing team.
+
+Over the relevant period, registered nurses had less time to complete psychological and nursing interventions with patients.   This was due to the demands of the ward, shortage of registered nurses and the increasing requirement to utilise a variety of IT systems to record various information.
+
+In addressing incidents requiring review, Dr Davidson stresses the importance of looking not just at the actions of the last treating clinician but of understanding their wider context and relevant systemic factors.
+
+At the same time as obtaining evidence from Dr Davidson and Ms Nelligan, the Inquiry also sought evidence from the main providers of mental health inpatient care in Essex.   In the same way as Dr Davidson and Ms Nelligan were asked to explain the process from assessment through to discharge during the relevant period, the providers were also asked via Rule 9 requests to set out how care had been provided.     Given the Inquiry's Terms of Reference span a period of 24 years and there have been considerable changes over this period of time, this was no small task.
+
+The Inquiry has received information back from some but not all of the providers.   The Inquiry will hear oral evidence about these matters from Dr Milind Karale, the Chief Medical Officer at EPUT.   Other evidence received will be summarised as appropriate.
+
+EPUT and NELFT were asked to identify and characterise the different types of mental health assessments carried out on patients under their care, which may have resulted in admission to an inpatient facility.   The request required the providers to identify the key distinguishing features of each type of assessment and the key features they had in common. Particular emphasis was placed on eliciting how and to what extent a patient's personal circumstances needed to be considered when undertaking the assessments.
+
+The providers were also asked to describe the pathways by which admission could occur following assessments, the environments in which the assessments took place and how they monitored and evaluated their assessment processes.
+
+Dr Karale's witness statement sets out a clinical overview of assessments, describes the evolution of assessments over the relevant period and outlines general features of the assessment process.    The statement then gives some specific detail about ten different types of assessment: initial assessments, clinical risk assessments, gatekeeping assessments, Mental Health Act assessments, diagnostic assessments, memory assessments, assessments of neurodivergence, forensic assessments, eating disorder assessments and psychological assessments.
+
+These matters will be explored with Dr Karale in his oral evidence.
+
+The Inquiry's request for information from those providing mental health inpatient care in Essex extended to the inpatient pathway.    The Inquiry sought a broad explanation of the systems and processes involved in providing mental health inpatient care over the relevant period, from admission right through to discharge.    The aim of the Inquiry's requests at this stage was to obtain an overview of how those systems and processes were designed and intended to function, rather than to obtain details about specific incidents.
+
+The Inquiry asked for information about the arrangements in different settings and whether or not there were particular units which had substantially different systems in place.
+
+The Inquiry also asked for an explanation of the guidance, policies, operational guidelines, et cetera, in place at the relevant times and we'll hear from Dr Karale about this.
+
+We were particularly interested to learn how and to what extent assessments and other decision-making processes were tailored to accommodate diverse patient needs, including adjustments for language, cultural considerations and specific characteristics such as neurodiversity or physical or cognitive disabilities.
+
+In summary, as part of this request, the Inquiry asked a number of questions about the following topics and issues amongst others: assessments at the time of admission and ongoing assessments on the ward; decision making; diagnoses and comorbidities; patients' interactions with staff; treatment, including medication versus psychological treatment; observations; coercive treatment and restrictive practices; opportunities for recreation and arrangements for leave; transfers to other units and providers; engagement with other agencies; involvement of the patient and their support network in decision making, planning and care; the Multi-Disciplinary Team, the MDT, and second opinions; recordkeeping, monitoring; and raising concerns.
+
+Another area of particular interest is the question of how risk management was and is balanced with therapeutic care.    We're keen to understand how potential tensions are resolved between the objective of protecting a patient from harm and the objective of improving their clinical condition.
+
+This will be one of the matters we continue to look at very carefully.
+
+As I've mentioned, during the course of this hearing, we will hear evidence in relation to the use of vision-based digital observation technology.    This will include Oxevision, CCTV, and Bodyworn footage, although the focus in this hearing will be evidence relating to Oxevision.
+
+We will hear from witnesses from Oxehealth, the provider of the technology itself, from EPUT, and from the national campaign, Stop Oxevision.
+
+Oxehealth is a health technology company and the manufacturer of Oxevision.    Laura Cozens is the Head of Patient Safety and Quality at Oxehealth Limited, and has provided a statement.     She gives evidence about how the technology works in practice and its various functionalities and the evidence base that demonstrates its value.
+
+She furthermore sets out its collaboration with and consideration of guidance from other organisations, such as the National Mental Health and Learning Disabilities Nurse Directors Forum, NHS England and Rethink, to support the care and treatment of mental health patients.
+
+Oxehealth and EPUT have been in discussions since 2019 and the technology has been rolled out amongst EPUT wards since April 2020.      We understand it has been deployed across half of all NHS Trusts and, during the relevant period, was live in at least 29 EPUT wards.
+
+We will then hear from Zephan Trent, who will give evidence about the use of this technology from EPUT's perspective.   He discusses the basis upon which Oxevision was introduced and how it was implemented.     He provides the Trust's standard operating procedure for Oxevision and sets out the Trust's position on the consent process for Oxevision specifically.
+
+He confirms that there is an ongoing review into the use of Oxevision to ensure the Trust has considered the matters raised in NHS England's February 2025 Principles for Using Digital Technologies in Mental Health Inpatient Treatment and Care report.
+
+He sets out how EPUT evaluated the use of Oxevision, including by way of patient feedback and also independent studies of its vision-based patient monitoring system.
+
+Finally on this topic, you'll hear evidence from Hat Porter, a representative of Stop Oxevision.    This is a network of former and current NHS patients who, in spring 2023, founded this national campaign to raise awareness of the serious harms it suggested the technology has caused across England.   Stop Oxevision has analysed research and collated an evidence base of individuals' firsthand experience of the technology, and raises key concerns with its use.
+
+Among these, it refers to significant invasion of the privacy of patients, the impact of the technology on the patient's health and recovery and staffing issues, describing it as a "superficial quick fix for wider systemic issues".    Stop Oxevision is also concerned about the lack of oversight and the risk of discrimination in the use of this technology.
+
+Hat Porter describes many patients' experiences of the technology as being "intrusive, undignified, dehumanising and traumatising", and suggests there is a lack of transparency about the technology's use.
+
+As I have already said, we will also be hearing from the CEO of EPUT, Paul Scott.   He will be asked questions arising from the position statement provided on behalf of his organisation.   He will not be asked about other matters at this hearing but he will be invited back to a future hearing when we will have received and heard more evidence and when questions can be directed at more specific and substantive issues.
+
+The request issued by the Inquiry to EPUT sought a broad, candid narrative providing the Trust's own accounts of events which acknowledged where things went wrong and explained why those failures occurred.    The Inquiry made clear that the position statement should reflect the Trust's duty of candour and stated commitment to supporting the Inquiry in delivering answers to patients, families and carers, and that they should not simply restate policies or past submissions but instead offer a clear-eyed assessment of what happened, what went wrong and what has or has not changed as a result.
+
+EPUT was also asked to address a number of specific areas linked to the Inquiry's Terms of Reference, namely EPUT's role and responsibilities, patient care and safety, patient and family engagement, staff management and conduct, leadership, governance and culture, incident investigations and responses, and data management and recordkeeping practices.
+
+Mr Scott's addresses each of the areas I've just outlined, his approach overall is perhaps best summarised by his explanation that:
+
+"Since its creation in 2017, EPUT has focused on efforts to improve care for patients.    Much has been achieved, but I also recognise that much remains to be done to improve mental health services, and the work to create a single Trust from NEP and SEPT, providing safe and effective care across all of its services has been challenging."
+
+We will hear more from Mr Scott about this and about the EPUT position statement generally.
+
+Chair, before I move on to future hearings and further observations, I would like to make reference to the Inquiry's engagement with mental health charities. So far, the Inquiry has obtained statements and information from a number of charities, including MIND and Rethink Mental Illness, whose statements appear in the bundle for this hearing.   The statements summarise the charities' purposes and their involvement in inpatient care generally and, more specifically, their involvement with Essex-based Trusts.
+
+The Inquiry has also received information and evidence from charities such as Healthwatch Essex and Autism Action.   Their evidence will feature in future hearings.
+
+Moving on.   Preparations are underway for the next hearing which runs from 7 to 24 July.   The July hearing will include evidence from family members related to the circumstances of those who died whilst under the care of SEPT and NEPT.   We will provide further information about the July hearing after the conclusion of this hearing.
+
+Chair, it's clear that serious issues with mental health care in Essex continue, which underlines the significance and urgency of the work of the Inquiry.
+
+The Secretary of State for Health and Social Care announced a series of investigations into mental health inpatient settings in June 2023.   These investigations launched in January 2024 and concluded in January this year.   They were conducted by the Health Services Safety Investigations Body, HSSIB, and appear to be directly relevant to the work of this Inquiry.
+
+HSSIB investigates patient safety concerns across the NHS in England and in independent healthcare settings, where safety learning could also help to improve NHS care, and we saw HSSIB on one of The King's Fund slides earlier.
+
+It carried out four directed investigations under the mental health inpatient settings theme: creating conditions for the delivery of safe and therapeutic care to adults in mental health inpatient settings, which was published in January this year; out of area placements published in November last year; supporting safe care during the transition from inpatient children and young people's mental health services to adult mental health services, published in December last year; and creating conditions for learning from deaths in mental health inpatient services and when patients die within 30 days of discharge, which was published in January this year.
+
+Across the four investigation reports, HSSIB issued 17 safety recommendations to national bodies.     They also made 23 safety observations and included specific learning points for mental health providers and integrated care boards to encourage improvement across health and care locally, regionally and nationally.     In summarising their findings, HSSIB state that, across all four investigations, it was clear that patients and families often felt their voice was not heard and that they were not involved in crucial decision making about care.   The reports emphasised that lack of patient and family involvement often contributes to psychological and physical harm.
+
+Patients are regularly cared for in environments which are deemed not to be therapeutic and do not meet their needs.
+
+Collaboration between services was found to be an ongoing concern.
+
+The Inquiry notes the findings of HSSIB, which are on a national basis, and will be considering these reports as part of its own investigations.
+
+Chair, it was only last month that the area coroner for Essex issued a Prevention of Future Deaths report to EPUT that is also of considerable relevance to the Inquiry.   This was in relation to a tragic death towards the end of 2023.   It followed an inquest in which the coroner recorded that the deceased took their own life in the context of multiple failures in the care, management and treatment provided to them by EPUT, and that those serious failings amounted to neglect.     The Prevention of Future Death Report listed failures in care planning, documentation, risk assessments, the allocation of a care coordinator, communication and discharge planning and execution.
+
+An inquest into a further relevant and equally tragic death that also occurred in 2023 concluded last month with a further finding of neglect.     The coroner found that the deceased's deteriorating mental health, that included recent overdose, suicidal thoughts and plans, remained untreated.     The deceased had made multiple contacts requesting a review in the two months prior to their death and did not have the required mental health risk assessments or a medication review, and the coroner found this contributed to their death by neglect.
+
+These are all issues that the Inquiry is investigating to varying degrees and, worryingly, there are other relevant recent inquests in which there have been findings of neglect.
+
+Furthermore, the Inquiry is aware of deaths occurring in 2024 and even this year, which appear to raise similar issues.   Chair, the Inquiry was deeply sad to note a death as recently as last Tuesday, 22 April.
+
+The Inquiry's Terms of Reference relate to deaths taking place up to the end of 2023 but, Chair, I would suggest that these further tragic deaths after that time are relevant in this way.    They may point to serious and ongoing issues in Essex.     This in turn may be relevant when you consider the success of the steps that the Trust has taken to improve services and also in the framing of your recommendations.    The Inquiry will therefore continue to monitor these further deaths with care, insofar as they are relevant to the Terms of Reference.
+
+Chair, I am coming now to the end of my opening statement.   In doing so, I would like briefly to consider the changing mental health landscape, and we're certainly entering a period of change.    I'd like to give three examples of what I mean.
+
+First, in October last year the Government announced the development of a 10-year health plan for England. It is to reform the health system and will be structured around three shifts.   These shifts are: moving care from hospitals to communities; making better use of technology, which will include digital transformation; and focusing on preventing sickness, not just treating it.
+
+These may have major implications for the delivery of mental health services in Essex and nationally.
+
+Second, the Mental Health Bill which was introduced in the House of Lords in November last year with the aim of:
+
+"... modernising mental health legislation to give patients greater choice, autonomy, enhanced rights and support, and to ensure everyone is treated with dignity and respect throughout treatment."
+
+The Bill is intended to give effect to the policy outlined in Sir Simon Wessely's independent review of 2018.   The review set out four guiding principles. These are: choice and autonomy, that is respecting people's views and choices by listening to what they want in their mental health care; least restriction, that is limiting freedom as little as possible and using the law appropriately to prevent people being detained if they do not need to be; therapeutic benefit, that is giving people the help they need to feel better and helping them get the right treatment; and the person as an individual, that is treating patients with the respect and understanding that they need.
+
+Again, these are all areas of interest to the Inquiry and we will monitor the Bill's passage through Parliament.
+
+Thirdly, there is the announcement last month that NHS England will be abolished.   Many of its current functions will be returned to the DHSC and there will be a longer-term programme to bringing NHS England back into the Department.   NHS England and DHSC are, of course, both Core Participants in this Inquiry.
+
+Which brings me back to the importance of the Recommendations and Implementation Forum.   Chair, you will wish to understand the environment into which your recommendations will be delivered and that means taking account of important changes that have been announced or are underway.    This will be part of the Forum's role. In order to make recommendations that land well and are implemented, the Inquiry will wish to work with our Core Participants and key stakeholders.    That will be whether they are health or other bodies, or the individuals who have been so badly affected by the matters into which the Inquiry is looking.
+
+I am at the end of my opening remarks.     A written version of this opening statement will be available on the website containing links to the documents that I've referred to.    We will be covering a wide range of evidence and issues at this introductory hearing.     This will clearly show the extensive work that the Inquiry is undertaking and this is just the beginning, Chair. Working with the Inquiry's Core Participants and others, you are determined to make appropriate findings of fact, to ensure accountability and to make robust recommendations for change where necessary.
+
+The Inquiry continues to meet with its family Core Participants and I'd like to end with the words of two people I met last week.     They spoke courageously and compellingly about pain, hope and change.    Pain in the loss of family members they adored, and pain afterwards, in their words, when they were treated "disgracefully", brushed under the carpet and when they and their loved ones were shown an utter lack of respect.   Hope, now, in the knowledge that they are not alone and that they are being listened to.   Hope, too, that their loss has not been in vain and that others will not need to go through what they have.   And change that will spring from hope: real and lasting change, in honour of those who died.
+
+Chair, that's the end of my opening remarks, and that brings us to an end of today's proceedings.    We will start again tomorrow at 10.00 am when the Inquiry will be showing the documentary Dispatches Hospital Undercover: Are They Safe? which I mentioned earlier. We'll then hear a summary of some important evidence before we hear from our first witness, Jane Lassey from the Health and Safety Executive.
+
+So Chair, that is an end of today, and we start again tomorrow at 10.00.
+
+**The Chair**: Thank you very much indeed, Mr Griffin.
+
+Until 10.00 tomorrow.
+
+*(2.50 pm)*
+
+*(The hearing adjourned until 10.00 am the following day)*
+

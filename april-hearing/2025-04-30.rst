@@ -1,0 +1,1016 @@
+.. raw:: html
+
+   <a id="hearing-link" href="https://lampardinquiry.org.uk/hearings/hearing-day-14-april-hearing/">Official hearing page</a>
+
+Hearing Day 14
+==============
+
+.. raw:: html
+
+   <details id="hearing-meta" open>
+        <summary>
+            <span class="open">Hide video</span>
+            <span class="closed">Show video</span>
+        </summary>
+   <lite-youtube videoid="fv6wNXyssRo" params="rel=0"></lite-youtube>
+   </details>
+
+*(10.04 am)*
+
+**The Chair**: Good morning.
+
+**Mr Griffin**: Thank you, Chair.   Today we will be hearing a summary by Counsel to the Inquiry, Kirsty Lea, on two topics: the first is on absconsion incident data; and the second is on ligature incident data.     After Ms Lea has given both presentations, we will be hearing from Brenda Campbell, King's Counsel, who will present a response on behalf of the bereaved Core Participants represented by Bindmans, Bhatt Murphy, Irwin Mitchell, Leigh Day and Bates Wells.     We will also be hearing from Steven Snowden KC on behalf of the Core Participants represented by HJA.
+
+I'd like to make two points.     The first is to repeat something I said in my opening statement on Monday. We'll be talking today a lot about statistics.     As an investigative process, we of course have to look at the figures in an analytical and objective way in order to see trends, to spot issues and to make findings. However, we recognise that, behind the figures, each death was of an individual with their own life and their own circumstances that led them there.
+
+Ms Lea, in her presentations, will not be referring to individual people or cases but I understand that Ms Campbell KC will refer to some individuals and their deaths in the context of ligature and absconsion.
+
+So the CTI presentations and responses may be distressing and difficult to listen to and, for some, it may not be possible to sit through the whole session, and anyone in the hearing room, as I've said before, is welcome to leave at any point.
+
+I'd like, again, to remind people that emotional support is available for all who require it.   The wellbeing of those participating in the Inquiry is extremely important to the Inquiry.   We have support staff from Hestia, an experienced provider of emotional support, here today and each day for this hearing -- would you raise your hand, please, just to show -- as before, wearing orange scarf and orange lanyard.
+
+So you can speak directly to them or you could speak to a member of the Inquiry team and we can put you in touch with them.   Just to remind you, we're wearing purple lanyards.
+
+If you're watching online, information about available emotional support can be found on the Lampard Inquiry Website at lampardinquiry.org.uk, and under the support tab near the top right-hand corner.
+
+You can also contact the Inquiry team's mailbox on contact@lampardinquiry.org.uk for this information.
+
+We want all of those engaging with the Inquiry to feel safe and supported.       Thank you.
+
+Chair, that's all I want to say by way of introduction and I'd like now to hand over to Ms Lea.
+
+**The Chair**: Thank you.
+
+Ms Lea? Presentation on ligature and absconsion information by
+
+Ms Lea
+------
+
+**Ms Lea**: Good morning, Chair.     On behalf of the Counsel to the Inquiry team, I was tasked with reviewing the material that the Inquiry has received so far from various providers in relation to absconsion and ligature incident data.   As you will have seen, I have prepared two papers for you, Chair.       One in relation to absconsion incident data and the other in relation to ligature incident data.       I am grateful to Fergus Spence, solicitor to the Inquiry, for assisting in preparing the paper in relation to absconsion incidents.
+
+Chair, I will present both papers to you now on behalf of your Inquiry team.
+
+The Inquiry sought absconsion and ligature incident data and information from Essex Partnership University NHS Foundation Trust (EPUT), North-East London Foundation Trust (NELFT), the Priory Group (Priory), Cygnet Healthcare and St Andrew's Healthcare.
+
+I will collectively refer to these as "the providers" within these presentations, as I have done within the papers.
+
+I don't intend to read out the papers in their entirety.   Instead, I will go through key sections, summarise the points within the papers and use the PowerPoint presentations that have been prepared to assist with presenting the information to you.
+
+In relation to both absconsion and ligature incident data, you will have seen, Chair, that there are too many limitations to the data that has so far been provided to enable any reliable conclusions to be drawn at this stage.
+
+However, what we have been able to achieve is to suggest next steps and further lines of investigation for the Inquiry to consider.    You will also note that any errors that are contained within the information provided by the providers are necessarily replicated within the paper.    The fact that information has been summarised within the papers, PowerPoint presentations or this oral presentation today does not mean that the Inquiry accepts it as accurate in all regards.
+
+Chair, as you will hear repeatedly today, the data provided in relation to absconsion and ligature-related incidents is so incomplete that no meaningful analysis could be undertaken for the purposes of this hearing.
+
+However, the Inquiry originally intended to publish snapshots of that data within the papers to demonstrate some of the figures so far and to suggest the type of analysis that can potentially be undertaken once the data is as complete as possible.
+
+However, some Core Participants were concerned that presenting any incomplete data at this stage is premature, as it could be misleading or could be misunderstood, even if the Inquiry explains that the data is incomplete and this isn't a final analysis.
+
+The Inquiry has taken on board this concern and has therefore redacted any reference to anything that could be perceived as data analysis by the Inquiry from the papers and the accompanying PowerPoint and this oral presentation.   Therefore, the purpose of the papers and presentations is now to summarise the witness evidence received by 27 March in relation to absconsion and ligature incident data, and to suggest next steps and further lines of investigation.
+
+Chair, for complete transparency, you and the Core Participants were provided with the original version of the paper, including the data snapshots of the incomplete data received so far.   Core Participants then received a redacted version of the paper on Friday. After I have given this presentation today, a shortened version of the papers will be published on the Inquiry website with no references to figures within the data so far.
+
+Chair, before I begin, I will set out where you can find the material in relation to absconsion and ligature incident data for completeness at the outset.      The papers themselves can be found within the Counsel to the Inquiry paper bundle.    The absconsion incident paper is page 2 through to 59 and the accompanying presentation, page 60 through to 92.
+
+The Ligature Incident Paper is page 108 through to 160, and the accompanying presentation, page 93 to 107 and page 161 to 175.
+
+The witness statements that were provided by EPUT and Priory can be found in the core bundle at pages 41 through to 106, and the exhibits that have so far been disclosed to Core Participants can be found within the exhibits bundle, page 130 through to 139.
+
+I will deal firstly with absconsion incident data and information, as that comes first within the bundle containing the CTI papers.     Chair, given that a shortened version of the papers will be published, I will not now refer to paragraph numbers or pages as I present the papers.    Once I have presented both papers, I will conclude by addressing some of the points raised by Core Participants.
+
+The absconsion incident paper starts by setting out the information and data that the providers were asked to provide.   The Inquiry requested data in relation to the total number of absconsion incidents per facility per year and a breakdown of those incidents that resulted in death, a "near miss", whereby no harm resulted, or a serious incident requiring lessons to be learned.
+
+The Inquiry also sought information in relation to any internal and external investigations that followed such incidents, any actions arising from any such investigations and what training was available to staff in relation to absconsion risks.
+
+Turning firstly to the information provided by EPUT in relation to absconsion related incidents.   Chair, Rule 9(13) was sent to EPUT on 22 January this year requesting information in relation to absconsion incidents over the relevant period.   EPUT responded by way of witness statement of Alexandra Green and 23 accompanying exhibits, one of which was the template that the Inquiry had asked EPUT to populate with the data in relation to absconsion related incidents.
+
+Within the witness statement, EPUT stated that they internally define an "absconsion" as a patient who absents themselves from an inpatient unit, and an "incident" as an event or circumstances which could have resulted, or did result in, unnecessary damage, loss or harm to a patient, resident, member of staff, visitor or member of the public under their care or on their premises.
+
+The Inquiry informed EPUT on 19 February that, for the purposes of collecting absconsion incident data, an absconsion incident should be considered as any incident or occasion when a person has been absent from a ward or unit, either expectedly or unexpectedly, in circumstances where that absence could or should be considered worrying.
+
+Please can we put up slide 1 of the absconsions PowerPoint presentation, Amanda.   Thank you.
+
+Please can you move through to slide 2.     Thank you.
+
+Here we can see EPUT's definition of absconsion incident for the purposes of providing the data requested by the Inquiry.   Within their figures, EPUT have included all incidents where a patient absconded from a unit or did not return as planned from escorted or unescorted leave.   They have not included attempted absconsions.
+
+Next slide, please, slide 3.
+
+Chair, we turn now to look at the sources of data that EPUT have relied upon in providing their absconsion incident data.   As you can see, they collected the data from six sources.   This slide sets out the sources of the data and the years that they relate to.    They are:
+
+Archive boxes containing paper incident forms from South Essex Partnership NHS Foundation Trust (SEPT) and North Essex Partnership NHS Foundation Trust (NEPT), covering incidents between 2000 and 2009.   This information will be provided in June this year following a completion of manual searches.
+
+SEPT's formerly used Risk Management System, Ulysses, covering incidents between September 2000 and March 2011.   Again, Chair, this information will also be provided in June.
+
+NEPT's formerly used risk management system, Respond, covering incidents between January 2002 and September 2015, also to be provided in June.
+
+NEPT's Datix system, covering incidents between June 2009 and April 2017.
+
+SEPT's Datix system, covering incidents between April 2010 and April 2017.
+
+Finally, EPUT's Datix system, covering incidents between April 2017 and 31 December 2023.
+
+The first thing to note is that searches are ongoing in respect of all of the sources of data identified by EPUT as containing relevant information.   In relation to the three Datix systems, EPUT have stated in their witness statement that some abscond incidents have been categorised using other categories on Datix, such as "death" or "self-harm" and, therefore, further searches and reviews are being undertaken by EPUT in respect of that Datix data.
+
+The second thing to note, Chair, is that some of those sources overlap in time.   EPUT have not yet been able to confirm to the Inquiry whether or not that overlap means that a single incident might have potentially been counted twice within the figures.    For example, if we look at the slide here, if an incident occurred within SEPT in 2001, would it have been recorded on paper and thus in an archive box, and also on SEPT's Ulysses system?   EPUT have stated that, after conducting further reviews, they will be able to confirm.
+
+Thank you, Amanda.   Please take down that slide.
+
+Chair, I pause here for a moment as EPUT's legal representatives wrote to the Inquiry on 3 April to inform us that when collating the data to respond to Rule 9(13) they accidentally omitted the data that was on the NEPT Datix system in relation to absconsion incidents involving formally detained patients, which is in the region of a further 480 incidents currently being reviewed by EPUT.    EPUT have confirmed that these incidents will be included within the updated figures, and information that is to be provided by June.    The Inquiry is grateful to EPUT for candidly identifying and flagging this issue with us immediately.
+
+Returning to the paper.   For the data provided to the Inquiry so far by EPUT in relation to absconsion incidents, EPUT state that they have used the three Datix systems to extract that data.
+
+EPUT state that the most recent system, their own Datix system, had a category 4 "Abscond".    Likewise, SEPT's Datix system had that category since 1 April 2011 and NEPT's Datix system since 1 September 2011.       EPUT state they then manually reviewed incidents before those dates to determine whether or not they were relevant.
+
+As I have said, Chair, those searches in respect of the Datix systems are ongoing, as some abscond incidents were categorised under different categories.
+
+Next slide, please, Amanda, slide 4.
+
+Chair, I turn now to the categories of absconsion incident that the Inquiry sought information in relation to.   The Inquiry asked providers to include the total number of absconsion incidents per facility per year, as well as several categories of incident.    Where Datix recorded death, EPUT have recorded this on a template provided by the Inquiry.
+
+Where Datix recorded no harm, EPUT have recorded this on the template as a "near miss".     Where Datix indicated that the incident was the subject of a serious incident or Patient Safety Incident Investigation, EPUT have recorded this on the template as a serious incident.
+
+Next slide, please, slide 5.
+
+We have already been through some of the limitations to the data so far provided by EPUT.     Notably in many respects, manual searches are ongoing as set out again here on this slide.
+
+Thank you.   Please take down that slide, Amanda.
+
+It is unclear to the Inquiry whether or not incidents resulting in harm but that have not been the subject of a Serious Incident or Patient Safety Incident Investigation have been recorded in the template provided by EPUT.     It is possible they have been included within the total number of absconsions but not the serious incident figure.     I will say more about this, Chair, once we get to the next steps section of the paper.
+
+I turn now to absconsion-related training.
+
+In their witness statement, EPUT set out various aspects of staff training in relation to the management of absconsion risks.   This appears to be current practice as at March this year and, therefore, the Inquiry will likely seek further information as to practices that were in place across the relevant period. EPUT do state within their witness statement that they will undertake further investigation of the records to attempt to provide a clearer picture of available training in SEPT and NEPT, depending on the documentary evidence that has been retained and can be located.    The Inquiry hopes that this disclosure will clarify what training policies were in place throughout the relevant period.
+
+Next slide, please, slide 6.
+
+Chair, this slide sets out some of EPUT's current practices as per their witness statement:
+
+Mandatory clinical risk training, delivered for non-qualified and qualified staff, which provides an overview of potential risks associated with patients.
+
+Local inductions are completed in clinical areas and will be specific to the area in which the staff member works.    EPUT state this includes the physical environment, such as airlocks, which are double exit doors whereby only one door can be opened at a time, thus creating an airlock.
+
+EPUT state that their security training for secure services and acute inpatient care includes the physical and environmental security factors such as airlocks and the risk of tailgating, whereby patients follow members of staff or visitors through secure doors.
+
+Thank you.   Please take down the slide.
+
+Chair, I turn now to absconsion management and policies.
+
+EPUT has set out within the witness statement current absconsion management and policies.     As with staff training, they have not set out the position over the entire relevant period and the Inquiry may wish to seek that information.
+
+The Inquiry is concerned that EPUT state they are working with the police and system partners to develop a Memorandum of Understanding for escalation when a person has gone missing.   It is concerning that such is not already in place and the Inquiry may wish to investigate this further, including any steps that have been taken to develop such a policy following any absconsion incidents to date.
+
+In relation to learning responses and the dissemination of learning from absconsion-related incidents, EPUT give an example of their response to an absconsion incident in October 2020, whereby they introduced an airlock at the Linden Centre, Chelmsford. As I have said, Chair, this is where one door cannot open until the previous door is completely closed and this is operated by staff in reception with a video intercom out of hours.
+
+Please can we have slide 7 in relation to dissemination of learning.   Thank you.
+
+This slide sets out various methods by which EPUT state that they currently disseminate learning:
+
+Once an incident is registered on their Datix system, they state there is a requirement for the Datix handler to review the incidents to determine if there are any new learning opportunities.
+
+Where a recorded incident involves a Serious Incident Report, that triggers communication with the Care Quality Commission or CQC and Integrated Care Board, ICB, and the report will capture lessons learned.
+
+The Central Trust Wide Learning Forum is the Learning and Oversight Subcommittee whose role is to assure the Safety of Care Group that learning identified through different workstreams has been reviewed and implemented across EPUT.
+
+EPUT state that there are various methods to cascade learning across the Trust, including:
+
+Lunchtime virtual events.
+
+Discussions with senior managers.
+
+Through the Lessons Team, who capture learning and encourage the embedding of learning in daily practices.
+
+Safety learning alerts shared with managers via Datix.
+
+Please take down the slide.     Thank you.
+
+EPUT have stated in their witness statement that they identified an increase in absconsion incidents at two sites -- Cedar Ward, Rochford Hospital, and Finchingfield Ward, Linden Centre -- between 2022 and 2024 and undertook a review to understand the contributory factors to the overall increase in incidents and to develop actionable recommendations. This may be something the Inquiry wishes to investigate further.
+
+Chair, that concludes the paper and PowerPoint presentation in relation to the data provided by EPUT so far.
+
+I turn now to the data and information provided by Priory in relation to absconsion incidents.
+
+Rule 9(5) was sent to Priory on 28 January 2025 and they responded by way of witness statement from Gary Stobbs and 10 exhibits, including the template that the Inquiry asked providers to populate with absconsion incident data. Chair, as with EPUT, Priory states that they have searched hard copy physical records and electronic data sources in responding to this request.   They point out that a merger occurred in 2016 between Priory and Partnerships in Care (PiC), meaning that limited records are available before 2016, although archive searches are ongoing. Prior to 2012, Priory state they operate a paper-based incident reporting system utilising IR1 forms, in respect of which searches are ongoing. Amanda, please can you put up slide 8 of the absconsion incident PowerPoint, thank you, and the next slide, please, slide 9. Turning to additional sources of data that have been searched by Priory. As well as physical IR1 forms, they state that they have searched: Local and shared drives at all hospital sites and within centrally saved folders, Ex-employee personal local drives, and Searches have been undertaken both on site and in central archiving locations for any historical paper records. Thank you, please take down the slide.
+
+In respect of electronic data, Priory state that the relevant data has been received from three incident reporting systems:
+
+Datix.
+
+eCompliance, used by Priory between 2012 and 2019.
+
+IRIS, used by PiC sites between 2014 and August 2019.
+
+Next slide, please, Amanda, slide 10.
+
+Chair, as with EPUT, we can see that Priory had overlapping sources of data recording at times and, therefore, Priory will need to consider whether a single incident may have been recorded more than once across two sources.   By way of example, would an incident at a PiC site in 2019 have been recorded on both IRIS and Datix?
+
+As I have said, searches are also ongoing in respect of paper records and there are limited records for PiC sites prior to 2016.
+
+Thank you, Amanda.   Please take down that slide.
+
+Chair, I turn now to the definition of absconsion.
+
+The most important thing to note here, Chair, is that, for the purposes of compiling absconsion incident data, the Inquiry expressly defined an absconsion incident as any incident or occasion where a person is absent from a ward or unit, either expectedly or unexpectedly, in circumstances where that absence could or should be considered as worrying.
+
+It is therefore concerning to the Inquiry that, despite this definition being provided, Priory have used an inconsistent definition of absconsion incident when providing their data.
+
+Amanda, please can you put up slide 11, addressing Priory's definition of absconsion.
+
+Chair, here you can see Priory has defined an absconsion incident as a patient leaving the hospital grounds without permission or, during a period of escorted leave outside the hospital grounds, left their escort without permission.
+
+It therefore appears extremely likely that Priory have underreported the number of absconsion incidents to the Inquiry when responding to this request.   I will say more on this later, including how the Inquiry may wish to address this issue.
+
+Thank you, Amanda.   Next slide, please, slide 12, dealing with the definition of serious absconsion.
+
+As you can see, Chair, Priory have categorised an absconsion incident as "serious" on the template provided, essentially when someone has left the hospital grounds or their escort outside hospital grounds without permission, and has come to or caused serious harm, such as being admitted to general hospital or attacking a third party.
+
+Thank you.    Next slide, please, Amanda, slide 13, dealing with Priory's definition of a "near miss" incident.
+
+Chair, it is presently unclear how Priory have defined a near miss absconsion incident for the purposes of providing this data.
+
+They have stated in their witness statement that this covers the situation where a patient returns voluntarily and there has been no harm following their leaving the grounds or their escort outside grounds without permission.
+
+However, paragraph 12 of their witness statement indicates that a near miss has been included where "near miss" or "no harm" has been recorded on Datix, which appears slightly broader.
+
+Priory appear to acknowledge this discrepancy in their statement, and confirm that they are ready to provide further information and data sets if so required.   Chair, you will want to ensure consistency of definition across the providers to enable a useful cross-comparison of the data, if indeed that becomes possible.   As such, this is likely to be something the Inquiry will address with Priory.
+
+Next slide, please, slide 14, addressing Priory's current practice in relation to responding to an absconsion incident.
+
+Chair, the current practice is represented within this flowchart as per Priory's witness statement.     You can see it starts from an incident being reported on Datix and goes all the way through to the preparation of various reports and, ultimately, an action plan being drafted where areas for improvement are identified.
+
+I won't go into further details for the purposes of this presentation but it is worth noting that, again, Priory haven't provided this information in relation to the relevant period.   The Inquiry is likely to seek further information from Priory in relation to practices that were in place throughout the relevant period and any changes over time.
+
+Next slide, please, slide 15, dealing with learning from absconsion incidents.
+
+Priory state that they use information from absconsion incidents across all sites and have mechanisms for sharing knowledge and licence learned, including:
+
+Policies and procedures on their intranet.
+
+Nine channels and forums for communication.
+
+Clinical governance frameworks.
+
+Weekly huddles where immediate lessons from learning are shared amongst the region.
+
+Again, Chair, the means for disseminating learning within the witness statement as set out here on this slide, appear to relate to recent or current practice and, therefore, the Inquiry is likely to seek further information in relation to dissemination of learning throughout the relevant period.
+
+Thank you, Amanda.   Please take down the slide.
+
+Chair, in relation to staff training, Priory has provided information regarding current training surrounding absconsion incidents.
+
+They state that:
+
+All nursing and Healthcare Assistant staff receive mandatory training in identification, assessment and management of patients and their risk profiles, which includes absconding risk.
+
+All staff receive supernumerary days on the wards before being allowed to be included in the staffing complement for each shift, which includes awareness of the physical environment of care, including areas where a risk of absconding may require specific management.
+
+All nursing staff are required to undergo observation and engagement training and a competency assessment, before they are able to complete observations on a patient.
+
+All sites complete local security training as part of their site induction plan.
+
+As part of local inductions, all staff are subject to local procedures and policies in relation to leave procedures and the management of absconsions.
+
+Finally, all agency staff are required to complete an agency induction checklist which covers local security procedures, environmental awareness, observation competency, location of emergency equipment, garden and courtyard access arrangements and current risk of patients on the ward for the shift they are working.
+
+Amanda, please can you put up the final slide, slide 16.
+
+Chair, we have set out the current practice here for ease of reference as per Priory's witness statement, and I've just been through this information with you now.
+
+Thank you.   Please take down the slide.
+
+Chair, within their witness statement, Priory has provided evidence in relation to the nature of the services provided within each of their facilities.    This will be important once the data is complete, and the Inquiry will be able to compare the type of facility as against the number of absconsion incidents to see if any patterns emerge.     For example, did secure facilities have notably less absconsion related incidents as compared to non-secure facilities, as one may logically expect?
+
+Chair, that concludes the presentation in relation to Priory's absconsion incident data.
+
+Cygnet Healthcare and St Andrew's Healthcare did not provide material in time to be considered within this hearing, though, of course, any relevant material provided by them will be considered during the Inquiry's investigations.
+
+At the end of the paper, there are next steps that the Inquiry may wish to take in investigating absconsion-related incidents.
+
+The first issue to address is ensuring that the providers are adopting consistent definitions for the purposes of providing this data.     In other words, the providers must follow the definitions provided by the Inquiry.
+
+I have already highlighted some of the issues in respect of definitions as I have been through the paper today but, Chair, in short, the matters to be addressed are:
+
+1.   The definition of absconsion -- Priory appear not to have used the Inquiry's definition.
+
+2.   Near miss incident -- it is unclear what definition at present that Priory have used.
+
+3.    Serious incident -- it is unclear whether EPUT or Priory have included incidents within their figures that did not result in an investigation or resulted in what could be classified as "minor" or "low" harm.    It appears to the Inquiry that such have been included within the total number of incidents, but this will need to be clarified with providers.   An easy way to address this, Chair, is by adding a column to the template for incidents that fall between near miss, ie no harm, and serious incident.
+
+The paper sets out further investigations that the Inquiry may wish to undertake in relation to absconsion related incidents in line with the list of issues, and to fulfil the Terms of Reference.   I will go through them now, as I think it is important to see that this is just the beginning of the Inquiry's investigations into absconsion related incidents:
+
+To what extent was consideration given to the ward environment?
+
+Overall, were wards fit for purpose?
+
+How was risk assessed and managed and how was this balanced against other care philosophies and principles, such as least restrictive practice and the need for care to be therapeutic and recovery focused?
+
+Can any conclusions be drawn as to differences between ward types, for example secure or forensic, and the number of absconsions in that regard?
+
+Can any conclusions be drawn as to the differences between absconsions in relation to voluntary and involuntary inpatients?
+
+How did patients abscond from inpatient wards?    Were safety precautions and preventable measures sufficient? If not, what were the reasons for this?
+
+What policies and procedures applied and how did these change over the relevant period, in relation to absconsion incidents and training in respect of absconsion management?
+
+To what extent were policies and procedures adhered to?   Where they were not adhered to, were there any reasons for this?
+
+Where a patient absconded from a ward, how were decisions made to involve the police?   When the police were involved, what was their role?
+
+Have the providers complied with any data recording requirements that were in force during the relevant period, particularly in relation to absconsion incidents?
+
+Were appropriate steps taken in response to absconsion incidents, including lessons learned?
+
+Have the providers consistently defined an absconsion incident, attempted absconsion and near miss, for the purposes of providing the Inquiry with absconsion incident data?
+
+Have they consistently defined these matters for the purposes of recording absconsion incidents on Datix?
+
+Was appropriate training given to staff at all levels in relation to the prevention of absconsion?
+
+Which wards had the highest number of absconsion incidents in a given year and across the entire period? Can any further conclusions be drawn from this?
+
+Which wards had the highest number of absconsion-related deaths in a given year and across the relevant period?   Can any further conclusions be drawn from this?
+
+Which wards had the highest number of absconsion-related near misses in a given year and across the relevant period?   Can any further conclusions be drawn from that?
+
+Which wards had the highest number of absconsion-related serious incidents in a given year and across the relevant period?   Can any further conclusions be drawn from this?
+
+Finally, did any wards see a large increase in absconsion incidents year on year?    Can any further conclusions be drawn from that?
+
+Evidently the list of avenues for exploration that is set out within the paper, and as I have just presented to you, is by no means exhaustive and, given that we are dealing with data, you will likely seek the assistance of your experts and assessors, particularly Professor Donnelly, the Inquiry's Expert Health Statistician.
+
+Chair, you will want to be robust in ensuring the provision of complete and accurate absconsion incident data insofar as that is possible.    Not only to potentially allow useful cross comparison as between the providers, but also to ensure that the Inquiry obtains the complete picture as to such incidents across the entire relevant period, if that is even possible.
+
+This will allow you to make reliable findings and appropriate recommendations.
+
+Chair, that concludes the paper and my presentation in relation to absconsion-related incidents.
+
+We have received comments from Core Participants in relation to the paper on absconsion incidents but I propose to address those at the conclusion of the ligature incident presentation.
+
+**The Chair**: Thank you.
+
+**Ms Lea**: Chair, I will now turn to the topic of ligature incident data, the paper can be found at page 108 through to 160 of the Counsel to the Inquiry paper bundle.
+
+Chair, the start of the paper sets out the information sought by the Inquiry in relation to ligature-related incidents across the relevant period.
+
+In short, the Inquiry was seeking to obtain data in respect of the number of ligature-related incidents per facility per year that resulted in death, harm short of death and a near miss, ie no harm.
+
+The Inquiry also sought information in relation to any internal and external investigations arising from such incidents, including outcomes and lessons learned. Finally, the Inquiry sought information in relation to the providers' annual programme of ligature audits and ligature-related training.
+
+As with the data that has been provided so far in relation to absconsion incidents, the ligature related incident data from all providers is incomplete and has limitations, therefore we cannot come to any reliable conclusions at this stage but, once again, this exercise has allowed us to see what further investigations the Inquiry may wish to undertake and possible next steps in relation to this data. Rule 9(8) was sent to EPUT on 9 January this year and they responded by way of witness statement of Ann Sheridan and 37 accompanying exhibits, one of which was the template provided by the Inquiry in relation to ligature-incident data. Chair, turning to the limitations to the data so far provided, which have been expressly set out by EPUT in their witness statement. EPUT are collecting data from six overlapping sources, as with absconsion incident data.     For completeness, they are: Archive boxes containing paper incident forms. SEPT's Ulysses risk management system. NEPT's Respond risk management system. SEPT's Datix system. NEPT's Datix system. EPUT's Datix system. Amanda, please can we bring up slide 2 of the ligature incident data presentation, setting out EPUT's missing ligature incident data.   Thank you. Chair, as I have already said, reviews of three of the historic sources are ongoing.   The results are expected next month as we can see from this slide. Again, as with absconsion incident data, there is an overlap in sources and therefore EPUT will confirm next month whether the same incident has been recorded across multiple sources.
+
+Thank you, Amanda, please take down that slide.
+
+Continuing with the limitations to the data so far provided by EPUT, as identified by them in their witness statement:
+
+Where Datix has identified incidents that were subject to a Serious Incident or Patient Safety Incident Investigation, manual searches are ongoing.
+
+EPUT are reviewing archive boxes to find complaints to the CQC that pre-date the introduction of Datix.
+
+Further searches in respect of investigations by the Health Services Safety Investigations Body (HSSIB) are ongoing.
+
+EPUT need to undertake manual reviews to document actions from before the adoption of Datix for SEPT ligature audits.
+
+EPUT is manually reviewing NEPT files to list out the actions from NEPT ligature inspections.
+
+EPUT state that they will use their best endeavours to populate the audit columns of the template provided by the Inquiry.
+
+They further state that they will include detailed actions from ligature audits and changes to policies and process and environmental improvements.
+
+Chair, in relation to all of those things, EPUT hope to provide those by June.
+
+Finally, in relation to limitations identified by EPUT, they state there will be ligature-related training delivered on the job that isn't captured in the witness statement, and that it isn't possible to break down the training delivered by ward and attendance rate.
+
+Amanda, please can we have slide 3 on the screen.
+
+Chair, in the top left-hand corner I have simply illustrated here the ongoing searches that I have just referenced and that we hope will be provided by June.
+
+Thank you, Amanda.    Please take down the slide.
+
+Chair the paper goes on to set out EPUT's approach to ligature-related incident data collection for the purposes of responding to this Rule 9.   They state they have searched their electronic sources using specific relevant search criteria, and then have undertaken a manual review of some incidents to determine whether they are within scope.
+
+They state they have included all incidents involving material that was used or could have been used to bind or tie a person's neck.   This includes incidents involving a fixed point and those that did not.   They have not included incidents where pressure to the neck was applied using the patient's or another patient's hands.
+
+Chair, the Inquiry may wish to consider whether it further refines the data to distinguish between incidents involving a fixed ligature point and those that do not.
+
+If Datix indicated the cause of harm was death, EPUT put that on the template.
+
+If Datix recorded no harm, EPUT have recorded a near miss on the template.   They have expressly stated that this includes occasions where material that could potentially have been used for ligature was found and the ligature had not yet occurred.
+
+Chair, it is evident to the Inquiry that there is data missing from the template partially completed by EPUT.    Just to highlight some omissions without referring to the figures provided, Amanda, please can we have slide 4, headed "Data period of time by EPUT". Thank you.
+
+As one example, where we have a red question mark in a circle here, we can see that, so far, EPUT have not provided data in respect of Crystal Centre for 2010, 2011, 2013, 2016 or 2018.
+
+Next slide, please, slide 5.
+
+Here again, just one example is that we are missing Landermere Centre 2018, 2020, 2021 and 2023.
+
+Next slide, please, slide 6.
+
+Again, one example on this slide, Chair.     We are missing St Margaret's 2011 through to 2015, 2017 and 2018.
+
+Chair, these are just a few examples.     You will have seen from these slides that there are further blank spaces and, therefore, missing years within the data received so far.   The Inquiry hopes that these evidential gaps will be filled once further disclosure is received next month.
+
+Thank you.   Please take down the slide.
+
+Turning to investigations by the CQC.
+
+EPUT have so far not identified any CQC investigations due to ligature incidents that did not result in death.   EPUT have so far identified three CQC inspections where concerns were received about the environment in general.     They have stated the majority of CQC inspections did make recommendations for improvements around ligature with later inspections acknowledging reduced numbers of ligature points and focusing more on refinements to ligature safety.    This may be something the Inquiry wishes to investigate further.
+
+EPUT have so far identified 11 complaints raised to them by the CQC within the relevant period.     This is not necessarily the final figure, and caution must be exercised as searches are ongoing in respect of CQC complaints that predate Datix.   However, the Inquiry may wish to investigate any complaints further, including the nature of those complaints and any follow-up actions that occurred, or otherwise.
+
+Turning to the Health and Safety Executive (HSE). Chair, you have heard already during the course of this hearing about the HSE's investigations.   For present purposes, EPUT were asked to review all cases reported to HSE involving ligature incidents that did not result in death.   They have so far identified one case on Ardleigh Ward in April 2013 that did not result in death.
+
+Chair, EPUT have identified three incidents that resulted in investigations by the Parliamentary and Health Service Ombudsman.   As with the CQC complaints, the Inquiry may wish to investigate these incidents further, including any follow-up actions that occurred, or otherwise.
+
+EPUT have stated that they engaged with the East London Foundation Trust to conduct a peer review of ligature safety on EPUT wards.   They state that this review concluded that they had a clear ligature process in place to manage environmental risks of ligature. They further state there were recommendations for improvement, in governance and working practice, environment, workforce and training and learning.     EPUT state they completed the resulting action plan to address the recommendations.    Chair, this has been provided at exhibit AS02-10 and can be found at page 131 of the exhibits bundle.   It appears to show that all actions were completed or closed by August 2022 from site visits undertaken in May 2021.
+
+Chair, as with absconsion incident data, within their witness statement in relation to ligature incident data, EPUT have provided current practice in respect of their annual programme of audits and annual risk assessment audits.
+
+The Inquiry may wish to seek information in relation to practices that were in place across the relevant period and any changes thereto.
+
+Please can we put up slide 7 in relation to ligature inspection data.   Thank you.
+
+The Inquiry asks EPUT to provide ligature inspection data for the relevant period.    As you can see, Chair, EPUT's Datix data is available from 1 April 2017 onwards but, prior to that, searches are ongoing and the Inquiry hopes that information will be provided in June, as indicated by EPUT.
+
+Thank you, Amanda.    Please take down that slide.
+
+The paper sets out EPUT's evidence in relation to how they currently monitor environmental risks, given that this relates to current practice, I won't go into the details now within this oral presentation.
+
+The paper also sets out EPUT's ligature-related training, which appears to relate to EPUT practices from 2017 onwards.
+
+Please can we have slide 8, Amanda, dealing with EPUT's ligature-related training.    Thank you.
+
+Chair, here the slide sets out five forms of ligature-related training that EPUT state they have had in place.   As you can see from the dates that we have so far, it doesn't appear to cover training pre-2017, in other words under NEPT and SEPT.
+
+Amanda, please can we turn to the next slide.
+
+We have two more forms of ligature-related training that again appear to the Inquiry to be current practice.
+
+Please can we take the slide down.    Thank you.
+
+Chair, as requested by the Inquiry, EPUT provided a table outlining key materials and documentation used by the Trust to aid and record the monitoring of ligatures and associated exhibits.    Again, this appears to relate to current practice.
+
+Amanda, please can we have slide 10 on the screen, addressing whether EPUT have fully responded to Rule 9(8).
+
+Chair, as I have explained and as you can see, EPUT searches are ongoing and further disclosure is expected next month.
+
+Please take down the slide.
+
+Chair, that concludes the presentation in relation to EPUT's ligature incident related data.
+
+I turn now to Priory.
+
+Rule 9(4) was sent to Priory on 28 January and they responded by way of witness statement of Gary Stobbs and two exhibits, including the template the Inquiry asked them to populate containing the ligature incident data.
+
+Within their witness statement, Priory have set out various limitations to the data and searches so far undertaken.   They are:
+
+Priory merged with Partnerships in Care in 2016 and there are limited records available to review in respect of PiC sites prior to that, as per absconsion incident data.
+
+Priory needs to undertake a manual review of each individual audit template and analyse each audit to complete the template provided by the Inquiry in relation to ligature inspections.
+
+There is limited information in relation to Oaktree Manor, which ceased operations and closed in September 2019, but searches are ongoing.
+
+Finally, Priory are continuing to search for information relating to training, including hard copy and electronic drives.
+
+Turning to Priory's approach to data collection.
+
+In their witness statement, Priory confirmed that prior to 2012 both PiC and Priory operated a paper-based incident reporting system utilising IR1 forms, as with absconsion incident data.
+
+Priory then have three electronic sources of data that they have searched for ligature incident data in response to this Rule 9 Request.     Again, Chair, the same three sources as with absconsion incident data:     Datix, eCompliance and IRIS.
+
+Amanda, please can we have slide 12, showing Priory's data sources.
+
+As with absconsion data, we can see Priory had overlapping sources and, therefore, they will need to confirm whether a single incident could have been recorded on two sources.
+
+Thank you, Amanda.    Please take down the slide.
+
+Priory confirm they have recorded near misses on the template where an incident is reported as "no harm" on the electronic systems.      As with EPUT, we must treat Priory's data with caution at this stage, as there are clearly gaps within the data provided.
+
+Amanda, please can we have slide 13.
+
+As we can see here, Chair, one example indicated by the red question marks is that data is missing for Priory Hospital Elm Park from 2006 to 2015, 2017 to 2020 and 2022.
+
+Next slide, please, Amanda, slide 14.
+
+Chair, in relation to ligature audits, Priory state they have audits for Chelmsford, Suttons Manor and Elm Park for 2017 to 2023.   They are undertaking a manual review of each audit template and an analysis of each audit, as I have said.
+
+Enquiries are ongoing in respect of audit data for Oaktree Manor.
+
+Turning to ligature-related training.
+
+Chair, as with EPUT, Priory have provided current practice in relation to ligature-related training.
+
+Amanda, please can we have slide 15 on the screen.
+
+This slide sets out training that Priory state they currently provide:
+
+Immediate life support -- including training specific to ligature management for qualified nursing and medical staff completed annually.
+
+Site Inductions -- all nursing staff receive mandatory training in the management of suicide and self-harm as part of their induction to all sites.
+
+Prevention of Suicide webinars for all staff, available on Priory's intranet.
+
+Ward Orientation, including awareness of ligature heat maps and where ligature cutters are stored.
+
+Over to the next slide, please, slide 16.
+
+We see here two more sources of training that Priory state they require staff to undertake:
+
+Webinar training regarding ligature audits -- hosted by either an Associate Director of Quality or Quality Improvement Lead to ensure they are competent to complete the role.   Audits are completed by two staff, including one senior clinician.
+
+Training drills -- all staff are required to complete drills for varying scenarios over a 12-month period, including ligature scenarios.
+
+Next slide, please.     Slide 17, setting out immediate life support and basic life support training.
+
+Priory have partially completed the Training and Documentation tab of the template provided by the Inquiry.   They have stated that immediate life support training was offered from 2016 to 2023 at Chelmsford, Suttons Manor and Elm Park, and basic life support training was offered from 2016 to 2023 at Chelmsford, Suttons Manor and Elm Park, and from 2018 to 2019 at Oaktree Manor.
+
+In their witness statement, they state that, whilst in the first 12 weeks of position, nursing staff are required to complete ILS training and Healthcare Assistant staff are required to undertake basic life support training, including the management of non-responsive persons and familiarisation with ligature cutters, and this is refreshed annually.
+
+As with EPUT the Inquiry may wish to seek further information in relation to ligature-related training that was available in the earlier part of the relevant period.
+
+Next slide, please, Amanda, slide 18, addressing whether Priory has responded to Rule 9(4).
+
+As we can see from the slide, hard copy searches are ongoing in respect of a lot of the information requested by the Inquiry in relation to ligature-related incidents and therefore, at present, disclosure is not complete.
+
+Please take down the slide.   Thank you.
+
+Chair, the paper goes on to set out that, as per their absconsion incident data, Cygnet Healthcare and St Andrew's Healthcare did not provide their ligature incident data in time for it to be considered within the paper and therefore this presentation.
+
+Turning to next steps and further investigations in respect of ligature-related incidents.   The paper sets out potential further lines of investigation for the Inquiry to pursue, in line with the list of issues and to fulfil the Terms of Reference.   As with absconsion incident data, once the data is as complete as it can be, the Inquiry may wish to investigate matters such as:
+
+Were wards fit for purpose?
+
+How did decisions in relation to risk and observation levels affect patients, in particular in relation to individuals who made more than one attempt to ligature?
+
+What preventative measures were put in place to safeguard patients from harming themselves or others on mental health inpatient wards?   In particular:
+
+Have the providers complied with any ligature audit requirements that were in force during the relevant period?
+
+Were appropriate actions taken in response to ligature incidents, including any internal and external investigations, or audits that occurred over the relevant period?
+
+Have the providers complied with any data recording requirements that were in force during the relevant period?   In particular:
+
+Was the data collected adequate, accurate and up-to-date?
+
+What data was available to the providers to help them to understand the patient's history?
+
+How was data used to make an informed decision about treatment?
+
+What analysis was undertaken of the data by the provider?
+
+Was appropriate training given to staff at all levels in respect of the prevention of ligature incidents?    If not, what other training could or should have been given to staff, whether permanent, temporary or agency staff?
+
+Was there sufficient regulatory oversight of ligature-related incidents across the providers during the relevant period?   For example, was sufficient enforcement action taken by regulatory bodies such as CQC, if wards were repeatedly recording high numbers of ligature-related incidents?
+
+Can any meaningful cross-comparison be undertaken across the providers or other data collections?      For example, a comparison of the ligature related data as against the wards list, to provide information as to the average number of incidents per bed per year across the providers, or comparison between the security of the wards and the number of ligature-related incidents?
+
+Can any conclusions be drawn as against the wards that had:
+
+The highest total number of ligature-related incidents per year or across the relevant period?
+
+The highest number of ligature related deaths per year or across the relevant period?
+
+The highest number of ligature related repeat attempts per year or across the relevant period?
+
+The highest number of different people making at least one attempt to ligature per year or across the relevant period?
+
+The highest number of near miss ligature-related incidents per year or across the relevant period?
+
+Chair, as per the absconsion incident data paper, the list of avenues for exploration set out in the paper is by no means exhaustive and, again, given that we are dealing with data, you will likely seek the assistance of your experts and assessors, in particular Professor Donnelly, the Inquiry's Expert Health Statistician.
+
+Chair, you will want to be robust in ensuring the provision of complete and accurate ligature incident related data, insofar as that is possible.   Not only to potentially allow a useful cross comparison as between the providers, but also to ensure that the Inquiry obtains the complete picture as to such incidents across the entire relevant period, if indeed that is even possible.
+
+This will once again allow you to make reliable findings and appropriate recommendations.
+
+Please can we put up the final slide, Amanda, slide 19.
+
+As I have said, going through this presentation, the Inquiry is still waiting for significant disclosure in relation to ligature-related incidents.
+
+The Inquiry is likely to be guided by its experts and assessors and there are many potential avenues for further exploration.
+
+Thank you very much, Amanda.   Please can you take down the slide.
+
+Chair, that concludes my presentation in relation to ligature incident data.
+
+Before I conclude, I would like to address some of the points raised in advance of this hearing by Core Participants.
+
+The Inquiry disclosed the Counsel to the Inquiry papers to Core Participants in advance of this hearing, and invited them to provide comments on the papers in writing by 22 April.
+
+Some Core Participants have also been invited to make an oral presentation after I have concluded my presentation, should they so wish.
+
+Some Core Participants have raised concerns in relation to Datix as a data source.   The concerns raised include:
+
+Not all ligature and absconsion related incidents have been reported by Datix.
+
+Datix reports are subject to human error, in that they may be inadequately completed.
+
+Human error includes the fact that Datix reports are not consistently completed.    For example, sometimes an incident description is blank or does not include a keyword term, and sometimes incidents are miscategorised.
+
+Some Core Participants are also concerned about the extent to which providers can manually search through Datix records for keywords.    For example, do they need to be contained within a particular part of the records for an electronic search to return accurate results?
+
+Some Core Participants have therefore asked the Inquiry to consider alternative methods for providers to identify data or to provide an overview of incidents from 2017, which would not solely be reliant on Datix. The Inquiry welcomes suggestions as to any such alternative methods.
+
+Some Core Participants have further suggested that providers should conduct manual searches of Datix, including by utilising different keywords or term searches, and have requested that they provide suggestions as to terms that can be used.
+
+The Inquiry intends to work collaboratively with Core Participants and its experts and assessors.    This is therefore something that the Inquiry will consider very carefully.
+
+Some Core Participants have raised concerns in respect of definitions used, either by the Inquiry, by providers, and the fact that there isn't a universally recognised definition across providers of key terms such as "absconsion".
+
+Turning firstly to the definition of absconsion, the matters that the Inquiry has been asked to consider fall into three groups:
+
+Firstly, should specific examples be expressly included within the inquiry's definition of absconsion? One example provided by a Core Participant is where a voluntary inpatient signs an "irregular discharge against medical advice" form.
+
+Secondly, should the Inquiry adopt a broader definition of absconsion incident?
+
+Thirdly, is the fact that there is not a commonly adopted definition of "absconsion incident" across the providers in itself of significance or concern?
+
+In relation to ligature-related incidents, as with absconsion incidents, the Inquiry has been asked to consider including specific examples as to what constitutes a ligature-related incident, for the purposes of this data retrieval.
+
+In relation to its definition of absconsion and ligature incident the Inquiry intends to work with its experts and assessors and to define such incidents as accurately and precisely as possible.   The Inquiry will also consider the fact that the providers may have adopted differing definitions when recording such incidents, and the implications that may have on data retrieval and analysis.    The Inquiry may clarify its definitions of absconsion and ligature-related incidents for the purposes of this data collection, if deemed necessary, after further consultation with its experts and assessors.
+
+Some Core Participants have raised further matters for the Inquiry to consider, including points raised directly within the papers, such as whether or not providers should delineate between fixed and non-fixed ligature points when providing their data.
+
+The Inquiry is extremely grateful to those Core Participants who have provided helpful written comments on the papers clearly setting out further matters for the Inquiry to consider that they feel are of importance.   The Inquiry will consider all further matters for consideration that have been put forward by Core Participants in response to these papers and will act upon them where deemed relevant and necessary.
+
+Given that the papers exclusively deal with the data provided by the providers, Chair, some Core Participants have asked the Inquiry to consider the extent to which comparative information is available nationally, and therefore how the Essex data fits into the national picture.   The Inquiry is already carefully considering this and is currently investigating whether it is possible to obtain comparative information in relation to the national picture.   As Counsel to the Inquiry, Mr Griffin King's Counsel, indicated in his opening on Monday, the extent to which available data will allow such conclusions remains to be seen.
+
+This exercise of requesting absconsion and ligature data and preparing Counsel to the Inquiry team papers and presentations has enabled the Inquiry to identify problems that have been encountered so far in retrieving this data, ranging from historic archives to subjective and inconsistent recording practices, to differences in definition.
+
+This exercise has provided an opportunity for engagement and collaboration with Core Participants in identifying potential solutions to these problems, evidential gaps to be filled and further lines of investigation.
+
+The Inquiry intends to work collaboratively with Core Participants and, of course, its experts and assessors, to ensure that, ultimately, the most complete, reliable and meaningful analysis of this data can be undertaken.   The Inquiry welcomes the suggestions as to how this can be achieved.
+
+Only once the Inquiry is satisfied that it has the fullest available data will it be able to conclude whether or not a comprehensive review across the entire relevant period is even possible.
+
+If the conclusion is that such a review is not possible, that in itself will be informative.
+
+Ultimately, Chair, this task will inform your decision as to whether or not any recommendations are needed in respect of changes to be made to data capture, interpretation and use across the providers.
+
+Chair, that concludes my presentations to you this morning.   Thank you.
+
+**The Chair**: Can I thank you and Mr Spence, very much indeed, for these very helpful papers and your extremely clear presentation.    Thank you.
+
+**Ms Lea**: Thank you, Chair.
+
+**Mr Griffin**: Chair, we'll break now for 15 minutes until 11.35, and then we'll hear counsel for the family Core Participants in response.
+
+**The Chair**: Thank you.
+
+*(11.19 am)*
+
+*(A short break)*
+
+*(11.45 am)*
+
+**Mr Griffin**: Chair, we now hear from Steven Snowden KC on behalf of the Core Participants represented by HJA.
+
+**The Chair**: Morning, Mr Snowden.
+
+Response to presentation by MR SNOWDEN
+
+**Mr Snowden**: Good morning, Chair, everyone.
+
+We welcome this opportunity to engage with the work of the Inquiry to date and particularly in relation to these two papers and on the matters that have triggered this Public Inquiry.
+
+We are very grateful for this public update that your counsel team have been able to give of where we've got to so far, and what is yet to be done.    We, like they, recognise that we are very much at the beginning of detailed work to be done.     We recognise the difficulties that are faced and we recognise -- but won't dwell on because it has already been dwelt on -- the lack of compliance, timely or otherwise, from providers of some of the material that your entire Inquiry team have sought.
+
+At the outset of what I'm going to say -- and Chair, I'm going to take no more than I hope the 30 minutes allowed to me, and hopefully less -- I want to say two things, if I may, about collaboration.   The first is that we are grateful for the conversations that have taken place last week about the contents of these papers and we're very grateful for the Inquiry's willingness to amend the CTI papers, as delivered today and as published, in light of comments received from us and from other Core Participants.
+
+As a matter of fact, we regret that that conversation took place only last week and we do urge upon you and your Inquiry team that, going forward, collaboration is most effective if it takes place sooner rather than later.   We appreciate some of the exigencies of time and we appreciate some of the exigencies of meeting a fixed timetable for hearings but, again, I'll come back to that in a moment, if I may.   So the first point is grateful for the cooperation.
+
+The second point, dealing with collaboration is this: from the comments we've seen from family Core Participants represented by others in this room -- so Bindmans, Leigh Day, Irwin Mitchell, Bates Wells, Bhatt Murphy -- those comments all demonstrate the rigour and invaluable perspective that you can gain and the Inquiry team can gain, by engaging with the family and the patient and the survivor Core Participants and recognised legal representatives.
+
+So at the very outset of these comments, what I'd like to do, if I may, is press for more engagement and earlier engagement with all of those groups of Core Participants.
+
+I say this in two ways: first, is as to the extent of engagement thrown up by some of the issues over these papers; and second is the manner of engagement, again thrown up by some of the issues in these papers.   We suggest, with respect, that these can be improved in a couple of ways.
+
+So dealing first with the extent.   What I'd like to flag, if I may, is the Inquiry's approach of giving us selective disclosure.   Now, we appreciate we're at an early stage of this Inquiry process, material has only really just started to be assembled, if we understand it correctly, by the Inquiry legal team.   We've been told we have been given information that isn't relevant for these hearings, and essentially not much more than that. But we do observe there are some obvious gaps, they've been highlighted by some of the Core Participants in their notes to you, they will, I think, be highlighted by those who follow me speaking today and tomorrow in response to these helpful papers but there are obvious gaps in what has been disclosed by the Inquiry to the Core Participants: considerable amounts of material have been redacted, considerable amounts of material have been said not to be relevant, when we consider that they almost certainly are.
+
+I'll give you some examples later, briefly in these papers, if I may, but I hope you'll forgive me if I give one real example from yesterday's proceedings, from the evidence of Jane Lassey.     In respect of the HSE, we've been given one witness statement and some disclosure but the disclosure touched only on policies and principles, as did the substance of Ms Lassey's witness statement. There wasn't any disclosure on the decisions about prosecution, which you, Chair, began to ask about yesterday: what happened in 2014; what happened in 2015; what was done sooner?
+
+We would have wanted to have questioned Ms Lassey about that but had no disclosure.    We put some questions but were told now was not the time for those questions, but yesterday the witness was taken to and touched on some of those matters, and then questioning ended and no opportunity was afforded to Core Participants to follow up on some of the issues which have arisen for the first time orally in the evidence yesterday, in respect of which no disclosure had been given.
+
+By way of an analogy, Chair, we want to invite you to think of it this way: what happened yesterday, illustrated through Ms Lassey, was lifting the lid of a box very slightly without telling us what might be in it, peeking in and then, without any opportunity to lift the lid further, closing the lid again.   That, we hope, is not going to be the way that witnesses are questioned in the future, going to unforeshadowed topics and us not given an opportunity to engage on issues for which we haven't had disclosure.
+
+So, Chair, I mention it not in, I hope -- forgive me, I hope in a way that can be understood as constructive criticism of what happened yesterday but it illustrates my proposition that, throughout these papers and throughout the approach so far, we've had selective rather than full disclosure, and it would help us to engage, more to the point it will help our Core Participants to engage through us if we know more, if we can see more, if we can understand more, at an early stage, rather than at the last minute.
+
+Second, as to the manner of the engagement with our Core Participants.   The CTI presentations for which, as I've said, we're grateful, were disclosed as part of a voluminous hearing bundle.     Now it doesn't lie in the mouths of lawyers to complain about the numbers of documents, Chair, you know that.    That's our job to deal with those things but we were given about 20,000 pages of material and about 40 spreadsheets, with about three weeks to comment, and those three weeks ran over Easter, when it could, I think, reasonably have been anticipated that not only lawyers but the clients, the Core Participants, from whom instructions have to be given, who have a right to see and consider and understand material, could reasonably have anticipated they might be having a break over Easter.
+
+Key material in this form, pdf bundles, is not easily managed or interrogated or understood.     Changed bundles become very difficult to deal with, illustrated by the fact my learned friend Mr Griffin was referring to page numbers from the first bundle not the revised bundle through the course of his opening yesterday.
+
+This isn't just, as, Chair, I emphasise, a moan from lawyers.   It does, as we say, hamper the ability, of Core Participants to participate properly, to have time to see what the issues are, to understand how they can then invite us to participate on their behalf in these hearings.
+
+So as to the manner of deeper collaboration, which we welcome and encourage, we respectfully suggest that Core Participants should be afforded the opportunity to engage with the Inquiry's work on an ongoing basis as it progresses.
+
+As I say, for instance, we and, so far as we know, the Inquiry's experts, including the statistician, have not had an opportunity hitherto to comment on the template the Inquiry has used, to gather data on ligatures and absconsions.   I hope, Chair, you will have seen from us and you will have seen from the other Core Participant families, had we been asked to comment earlier, it may be that different forms of template, different forms of questions might have been put; more reliable data might have started to have been gathered.
+
+I hope it's not unkind to describe it this way but this hearing feels very much like the Inquiry has done a lot of work, for which we are grateful, but has only suddenly lifted the curtain to show us what has happened in these three weeks of hearings.   It is, we suggest, a slightly more costly and less effective way of working than could be achieved and we do invite you and CTI, as we've had discussions and hopefully will continue to have discussions, to give us rolling disclosure of material and ongoing input into the Inquiry's work, and we do say, out loud and today, this is going to be best achieved through uploads of disclosure, not just before a hearing starts but as your work proceeds.
+
+It's going to be achieved by those documents being disclosed on a sensible platform, such as Relativity, and I won't explain what that is, so, Chair, you'll know what it is, but an e-disclosure platform that we can all use and sensibly, quickly, effectively interrogate documents, and it saves bundles then having to be reconstituted later.
+
+We hope, Chair, more importantly, that there will be continued contact or perhaps forums or meetings, less formal than hearings, in which the views of CPs can be sought into the way the Inquiry is proceeding and what the questions are that the Inquiry is asking, of those providers of documents, and of those to whom it is putting Rule 9s.
+
+So with those comments on collaboration first, I am going to make, if I may, five preliminary points that apply across both of these papers, so the ligatures paper and the absconsions paper and then just a couple, if I may, of detailed points on each paper.
+
+The first of those five points is about the content of the papers.   Now, it is absolutely vital the Inquiry proceeds on correct factual basis, and the reasons are obvious.    You have to do your job fully, thoroughly and come to an unimpeachable conclusion.    So we absolutely agree that raw data is needed and raw data should continue to be pursued so that it can be considered by your expert statisticians and others.
+
+But what we do emphasise and I appreciate it's already been mentioned twice by your counsel who presented the submissions this morning, for which we're grateful, is that no matter what the importance of the data is, it's the lack of the patient's voice in these presentations so far that is their weakness, and we suggest that can be corrected only by continuing engagement with the Core Participants.    None of the papers so far has suggested that attempts have been made or might be made to verify or cross-check the data from NHS and other providers with patient experience because we haven't had time to do so.    I'll come in a moment to the fact that you haven't had, yet, substantial evidence from the Core Participants.
+
+Of course, the Inquiry cannot test the providers' evidence in the absence of contradictory or corroborative factual evidence from the families and patients.    Some critical thinking was applied, of course, as it should have been, in the original CTI papers, to some of the data but we do encourage your team to continue to think that family and patient Core Participants can highlight issues of importance in this data and in your data collection process.     We can give you emphasis, we can bring the reality of lived experience to the data that's being gathered.      We can provide qualitative perspective on what may still be limited, quantitive data.
+
+We suggest it's by focusing on the cohort of Core Participants and their experience and their evidence that the data gathering can only be seen in its proper context.
+
+So that was point one.   The content to the papers so far.
+
+Point two, if I may, and if I may be so bold as to put it this way: what is the right order of doing things in relation to ligatures and absconsions and other enquiries that your legal team are making?
+
+We do agree that it is premature, or was premature, to have tried to embark on analysing the data because, and the five points here: the Inquiry has yet to receive Rule 9 statements from the vast majority of the patients and families.     So you do not yet, and your team do not yet, have the details of what those who have been personally affected by this say went wrong.
+
+The second is that of course the Inquiry has yet to receive disclosure of medical records and other medical evidence relating to those who are CPs, again which would provide a cross-check to some of the data.    Those medical records themselves will contain details or should contain details of absconsions and ligatures, ligature attempts, which will corroborate or contradict some of the raw statistical data that you're achieving. You still have numerous Core Participant applications outstanding.
+
+The Inquiry has yet heard no impact evidence from survivors about the current situation, and we note that some of that had been hoped to have been heard last year but has been postponed.
+
+Finally, Chair, we've had no indication yet -- and again we hope to collaborate with you on this -- about how you will gather evidence from non-core Participant witnesses.   You yourself having said that the personal accounts and experiences of those who are not CPs are of no less value in your eyes than those provided by persons who are CPs.   Again, those are all crucial preliminary steps or concurrent steps to building the picture from the data to assist you to answer the questions you must answer.   So we do emphasise that it is important to get that material too before we proceed further.
+
+Third preliminary point arising out of both of these papers I've called expedition.   The Inquiry is clearly and rightly concerned to expedite matters as far as possible but we suggest that a focus on speed over detail, collaboration and corroboration of material is going to prove counterproductive in the longer term. For instance, we've been told that some witnesses who are giving evidence over these three weeks will need to be recalled in later hearings because it is not going to be possible yet, of course, for the reasons you understood, to put questions to them about individuals' cases in these hearings, April and May this year.
+
+We've also been told that some material is not included in the bundle because it's not relevant for these hearings but may become relevant later.     Now, Chair, we again say -- and we say it carefully and we say it with respect but we say it firmly -- that a decision to act in that way is going to elongate the duration of your Inquiry by pushing matters off, witnesses to be re-called, issues to be reconsidered, and we respectfully suggest that that is not expedition and it will not avoid delay.
+
+So, in our submission, more progress could be made by assembling the families' real tangible concrete evidence of what happened, continuing the progress of the Inquiry through meetings and continuous disclosure, before holding further hearings, rather than holding on to a fixed date for the next hearing, which may prove to be less effectual, more ineffectual, than if it was postponed and considered a few months later with more evidence.
+
+So those are my comments in relation to these papers and others on the need for expedition and how it can be best served.
+
+Fourth preliminary comment is how are we going to get this information?   Now, again, we're very grateful to the CTI for explaining this morning what's going to be done and the questions that arise and what might be done but, at the moment, there is no concrete resolution to the problems identified by the material providers. One is referred to 20,000 boxes of paper records, as, Chair, you know.   One is referred to microfiche archives which need to be referred and reviewed one by one.    The majority, it's said, of those organisations who have responded to your enquiries so far have reported limitations mainly arising out of their difficulties obtaining historical information from paper-based records.    Some have said that data may be impossible to obtain.
+
+In our submission, again, that indicates too that the right thing to do is to pause after these hearings and take stock, to consult with all the interested parties about how best to expend our and your, and your Inquiry team's, resources of time and funds so that our next set of hearings proceed with optimal information at our fingertips.
+
+So that was the fourth point: how do we get information and what does that lead us to do?
+
+The fifth general point is this, and it is a question about engagement of families again, but it's the balance between statistics and factual evidence.
+
+We agree that it is obviously right the Inquiry should, as these papers have begun to do, endeavour to achieve a picture which is as complete as possible, giving proper regard to considerations of proportionality, so that's the avowed aim of these two papers, and paragraph 58, forgive me, of one of them in its first draft.   But it shouldn't do that in a vacuum. There needs to be, we respectfully submit, the greatest focus on the issues which have actually affected the patients and families who are participating.
+
+Again, I suggest that consultation with those families as to what is and what is not proportionate, the issues that need to be investigated in greater detail, will help, and, Chair, your understanding from their evidence of the issues, the things that have gone wrong, will help inform the focus of your data collection.
+
+Particularly, Chair, as you mentioned on Monday of this week, and your CTI, Mr Griffin KC, mentioned on Monday of this week, talking about illustrative cases. We agree that it is right, statistical evidence can help the Inquiry identify trends, and that may be part of your function and it may help us identify systemic issues, but the value of statistics on its own, we say, is limited, unless it's put in the context of the examination of those illustrative cases which are concrete and reliable evidence of what has gone wrong over the period.
+
+So those are our general observations on the papers, on the strengths and weaknesses of pursuing the data, and of how it -- concurring that it needs to be done but it needs to be seen in its context of individuals.
+
+May I turn very briefly then to make a couple of observations in the few minutes I've got left on the ligature incident paper.   We are, again, grateful for the opportunity to make representations, which we've done and, Chair, you'll appreciate and Mr Griffin may have told you, we've put more in writing than I intend to say orally today and we're grateful the Inquiry now recognises it is difficult and would be wrong to try to draw well-reasoned conclusions from the data now for the following key reasons: the data is incomplete, as we've heard clearly articulated again this morning; it contains errors and inconsistencies and there are flaws in the data gathering process, we think; and more to the point, the Core Participants, those I represent, and those others in this room represent, haven't yet received complete disclosure, so we can't really engage back with you, even on the limited data you've got at the moment.
+
+So in terms of those three things, first the ligature data is incomplete.   There is missing data. You've received less than half of the story from fewer than half of the protagonists from whom you've sought information, and it's not in the right form.    Not all providers have responded in time.   I don't need to repeat the points your CTI have already made.    Some providers appear not to have responded at all, as far as we know.
+
+There are clear gaps.   We understand that EPUT can't provide ligature data from 2000 to 2011 for SEPT or from 2000 to 2013 from NEPT, and there are significant gaps. Again, I won't go through the detail because your Counsel to the Inquiry has helpfully illustrated them and on the papers, in the gaps that the Priory, for instance, have provided to you already.
+
+But we do observe again, in the context of time and expedition, those providers appear to have been given about five weeks to assimilate 24 years' worth of data, and those questions which your Inquiry team have put to them appear to group together both qualitative and quantitative data, and it may not be surprising that we are at an early stage.
+
+So we are grateful for and we urge continuing caution in trying to analyse partially complete data, when the vast majority is missing.
+
+First of all, if it were to have been deployed publicly it would have clothed it with a dignity that it didn't deserve.   The second, of course, is the risk that, even internally amongst the legal teams and CTI, starting to draw conclusions from only some of the data may set hares running in the wrong direction, may start erroneous working assumptions.
+
+We respectfully submit that the best course is to gather as much data as you can and then give it to your statisticians to see, with input from the Core Participants.
+
+In terms of the data gathering process we recognise, as your Inquiry team do, that there are errors in the information that's given by the providers, those will be replicated in the data.    Again, as others have done, we urge real caution in this.    We have identified, in writing, and I'll just summarise briefly, at least three points that give a flavour of some of the errors in data gathering, arising out of the Datix process.
+
+The first is, as your Inquiry have rightly noted, inconsistent dates have been provided by some of the providers by reliance on Datix.
+
+The second observation to make is, for instance, that Ann Sheridan in her witness statement sets out a very narrow search scope for the Datix systems. Keyword searches have only been applied to particular periods and over particular sections of the data input. Worse, when one looks at the keyword searches which appear to have been done, paragraph 20 of Ann Sheridan's second statement, it seems to us that no searches have been conducted for certain words which one would expect searches to have been done for.
+
+Now again, some of those are possibly triggering expressions, so I won't say them all out loud now but, again, we've tried to assist your Inquiry with a number of words that might have been looked for in data as entered by nursing and administrative staff to describe the horror of what happened.   There are a number of misspellings of words that might also have been searched for so we are not confident, as we understand your Inquiry team are also not confident, that we're getting all the data even out of the incomplete system that's there.
+
+Of course, what we do also emphasise is that there will be plenty of instances where data simply has not been input at all.   We emphasise, in respect of one of my clients, in the case of Matthew Leahy, that records were found to have been falsified.   So, again, over-reliance on records that have been created itself is likely to paint a picture which is incorrect and needs to be approached with caution and can only be approached in light of the factual evidence that you will receive in due course.
+
+So those, again, are some of the issues in the data gathering process.
+
+We are grateful for the indication that Professor Donnelly is going to be involved in the future.   What we haven't heard clearly but we hope is the case is that Professor Donnelly and her team will have been involved in formulating the questions that have been put, so that the shape of the data that the Inquiry receives is in a shape which your expert statistician feels she will be able to work with in the future.
+
+What we think would be helpful, and we suggest would be helpful, would be, in due course, an update not in a formal hearing like this, but an update from Professor Donnelly in an informal meeting or by way of a pre-recorded session, telling us what has been done and where the data-gathering analysis process is getting to.
+
+Finally, in relation to the issue of ligatures, I do come back more specifically to the need for full disclosure to Core Participants of what the Inquiry has got already because, as I say, we are grateful for what the team has done but our ability to engage with it is limited by not having seen all of the material you've got so far.
+
+For instance, in the case of the two witness statements principally dealing with ligature information, Ann Sheridan from EPUT and Gary Stobbs from Priory, only three of Ann Sheridan's 37 exhibits have been disclosed to us, and of Gary Stobbs two exhibits, only one has been disclosed.    We understand, the Inquiry tells us they may not all be necessary for these hearings, but that partial disclosure of exhibits curtails our ability to comment helpfully on this update from your counsel team of what's happening.
+
+That comment applies to both papers, ligatures and absconsions, and it also applies to the extent to which we can put useful, sensible, helpful, we hope, Rule 10 questions to those witnesses.    If we can't see what their exhibits are, we are very much handicapped in how we can engage in the process.
+
+Again, the original draft of your Counsel to the Inquiry's paper on ligatures references a number of exhibits that aren't disclosed.    We've identified in writing for your team at least 27, which we believe the Inquiry is currently taking into account, but haven't yet been disclosed to CPs.     So there is a limit to how we can engage with you.     There is a limit to how we can be able to engage with you, if we don't have that better disclosure.
+
+So the overwhelming picture for the ligatures paper, if I may summarise it this way, is we are grateful for where your team have got to, and there is a lot more collaborative work to be done.
+
+Can I turn very briefly then to the absconsions paper.   Again, we recognise the Inquiry is at the beginning of a large and complex task and, again, an update from Professor Donnelly at the earliest possible opportunity would be welcomed because you've seen, I hope, Chair, the input that all the Core Participants and the recognised legal representatives of the families can bring to investigating issues of statistics.
+
+We come across them in our legal practices, we didn't just deal with facts, we don't just deal with law, we do have to deal with statistics, but there is always a concern in our own legal practices that we don't supplement our own view of statistics over those of experts.    So, again, an update from your experts of where they've got to in respect of the data would be helpful.
+
+Again, in respect of the absconsions data, we observe that you have, again, had less than half of the story from fewer than half of the protagonists.
+
+There are, we've seen from the statements you've been given, some absconsions for which the providers say they can't identify the person who was involved in, a manual check needs to be done, and again that can be, we hope, better illustrated through the factual evidence before we delve much deeper into obtaining the data.
+
+We repeat again, in this context, that engaging with the family Core Participants we hope will give you insight and perspective on the data that you're gathering.    We do emphasise two aspects, though, that we would have wished to have collaborated in, and hope that we may yet.    The first is the definition of "key terms", and we recognise the Inquiry has chosen the terms that it wants to ask for data from these providers, which is any incident or occasion when a person has been absent from a ward or unit, either expectedly or unexpectedly, in circumstances where that absence could or should be considered worrying.
+
+We just have concerns, if you'll forgive me for expressing them this way, about the use of the word "worrying".    It's a very subjective term, it can be interpreted in different ways by different individuals giving care.   The absconsion of a patient may be a source of immense worry to their families, of course it is, but a staff member, perhaps hard pressed, working inpatients services may not describe an absconsion as a source of worry.   So, as a term, it's a subjective term and it's not perhaps the most helpful term to have used and it's not a term which fits with the way the data is kept by the providers.
+
+Again, in circumstances, the Inquiry's definition of absconsion is those absences that could or should be considered worrying.   We're not quite sure what "could" brings to that party: either absconsion is worrying or it should be worrying.   "What could" adds a further level of subjectivity upon an already subjective question so, again, we have some concerns that perhaps the question the Inquiry is asking, whilst understandable and phrased in everyday terms, is not necessarily going to produce statistical data that's going to assist your statistician and, again, we would hope that, if these terms are refined, if the searches and requests are refined, as CTI indicated they may be, that there will be significant input from your statistician as to the precise question that should be asked that will be most helpful for her.
+
+We observe, and I mention it only to pass over briefly, again, the lack of data, it seems, on attempted absconsions, the conflicting definitions that those who have provided material for you already use as to absconsions, as to what seriousness is, as to what harm might be, and the inconsistencies in the data.   We absolutely concur with your Counsel to the Inquiry that further, clear, focused, enquiries need to be made, with a clear strong insistence from you, Chair, that these enquiries are answered swiftly.   But, again, what we need is time for us all and your statisticians to consider that material before you, Chair, can decide what happens next.
+
+Again, Chair, we mention only in relation to the absconsions paper, the handicap that Core Participants face in engaging with it by reason of the lack of disclosure and the extent of redactions.   Again, we mention, without criticism but as a matter of fact, that it was only on 24 April that we received another 724 pages of exhibits to the second statement of Dr Karale from EPUT, giving us some more details about what a procedure might be, how they define an absent without leave procedure.
+
+Again, it's difficult for us to engage with disclosure that is in part redacted or disclosure that comes late.   Again, we hope, Chair, that those concerns can be taken into account in the future.
+
+So, to draw together in one minute, if I may, conclusions on absconsion and your ligature papers. First, we suggest the Inquiry should avoid trying to unearth themes or patterns until at least a substantial body of relevant data and factual evidence is assembled.
+
+Second, we caution that working off incomplete data does carry significant risks of starting an erroneous assumption running.
+
+Third, we encourage the Inquiry to scrutinise and challenge the adequacy of the searches being done by the institutional Core Participants as, Chair, we know you're doing.
+
+Fourth, we encourage you to have your statistician have early input into the data searches that will be made.
+
+Finally, if the Inquiry does, as you do, and we're grateful for it, invite us to provide meaningful engagement or comments on Rule 10 questions, we're going to need full and further disclosure.
+
+Chair, we're very grateful for the time you've afforded us, we're very grateful that, albeit in the context of a public hearing, this is a continuing conversation between your team, your Counsel to the Inquiry and the Core Participants, and we hope that continues.    Thank you.
+
+**Mr Griffin**: Chair, I'll allow Mr Snowden to go back to his desk and ask next that we hear from Brenda Campbell KC.
+
+As she takes her place, I'll just remind you, Chair, that Ms Campbell is giving a joint response to the CTI Counsel to the Inquiry papers on behalf of the bereaved Core Participants represented by Bindmans, Bhatt Murphy, Irwin Mitchell, Leigh Day and Bates Wells.
+
+**Ms Campbell**: Chair, you may just have to give me a moment whilst I --
+
+**Mr Griffin**: Can I just ensure that Ms Campbell has some water?
+
+**Ms Campbell**: I have some, thank you.
+
+**Mr Griffin**: I suggest you take your time and let us know when you're ready.
+
+**Ms Campbell**: Thank you.   I'm just trying to get my document back on my screen.      I'm afraid when I closed my laptop it ... thank you.
+
+**Mr Griffin**: Whilst Ms Campbell is doing that, why don't I use the time just to explain that we'll hear from Ms Campbell but then the day will come to an end, so we will finish today's proceedings before lunch, and we'll reconvene tomorrow morning, as I'll again remind you after Ms Campbell has spoken.
+
+**Ms Campbell**: Thank you.
+
+Thank you, Chair.
+
+**The Chair**: That's all right.   Take your time.
+
+**Ms Campbell**: It's not the first reminder of the sometimes preference to have things printed out but we are almost there.    Thank you.
+
+Response to presentation by MS CAMPBELL
+
+**Ms Campbell**: Chair, you have requested joint oral submissions in response to both the absconsion and ligature paper on behalf of Core Participant bereaved families represented by Bindmans, by Bhatt Murphy Solicitors, by Irwin Mitchell Solicitors, Leigh Day Solicitors and Bates Wells, and can I say at the outset, that I'm very grateful to all my colleagues for their assistance in identifying the issues that we would wish at this stage to bring to your attention on behalf of those families and individuals whom we collectively represent.
+
+In the written opening statement to this Inquiry on behalf of the families represented by Bindmans, the importance of data analysis and recordkeeping as a fundamental aspect of patient safety was stressed to you and we forewarned you in that written document that you would undoubtedly encounter, in the course of your Inquiry, a paucity of recordkeeping and analysis as a common thread across Essex Mental Health Services.    If I may say so, it comes as no surprise to many bereaved families that here we are on Day 2 of commencing to hear evidence in Week 1 of the evidential phase of your Inquiry that we have already hit that buffer.
+
+We reminded you in our written opening that in February 2020, following their inspection of care and quality at St Andrew's Healthcare, the CQC then noted that staff were, and I quote, "not completing intermittent observation records" in line with the provider's policy and procedures, that they did not record levels of observations accurately, that they had not completed sections on forms, they "did not record all risks", and did not always report incidents appropriately.
+
+Likewise, following various EPUT inspections of EPUT wards in 2022 and 2023, the CQC found gaps in recordkeeping in respect of risk assessments, care plans, consent to treatment forms and administration of medicines.
+
+It has been a remarkable fact that in collaborating in relation to these joint oral submissions, it has become apparent that those grave concerns about gaps in records have been echoed in the experiences of the bereaved families represented by each team.
+
+Careful recordkeeping and retention of data is important.   NHS England guidance is clear that, firstly, high quality patient data records are the foundation of good clinical care delivery.   Delivery of safe and efficient patient care depends on having high quality patient records and therefore the right information available when clinical decisions are made, and they are clear that missing, inaccurate or non-standard information can lead to inconsistent care or risk the quality and safety of care delivered.
+
+Chair, where some individual records are incomplete or are inaccurate, the cornerstone has been laid for failures in care, risk, and safety management which can place vulnerable individuals at serious risk and tragically fatal risk.
+
+But where records are routinely incomplete, inaccurate, inconsistently completed or in some cases falsified, in ward after ward, hospital after hospital, year after year, notwithstanding NHS guidance or CQC recommendations, or coroners' Prevention of Future Deaths reports, from the perspective of the families that we represent, that enables a cover-up.
+
+I say that because it enables systemic issues of patient safety to be hidden; it covers up repeated failures in staff training and care; it masks poor management and gaps in accountability; it obscures issues of preventability and responsibility; it hides failures in learning and in implementing change; and it obscures the grossly high numbers of absconsion or ligatures that apply.
+
+It enables family after family and coroner after coroner to hear the same platitudes of sorrow and regret, and the same promises for change, absent any real mechanism to test their sincerity or authenticity, and against a background in which individual deaths are presented as unavoidable or isolated, or the blame is shifted on to the illness of the deceased, or even the role of their family, rather than acknowledging failings in the system that ought to have kept them safe.
+
+At its core, it is the very gaps in data and the failure to draw links and learn lessons from recurring incidents that have required so many bereaved families who are Core Participants to this Inquiry to come together in sorrow but also in anger, and to point out the far too many commonalities that they have identified across individual deaths to reveal the systemic faults and failings, and to demand that changes are actually implemented against a background of false promises and a death toll that we know continues to mount.
+
+Data matters, recordkeeping matters, staff training matters, and learning lessons matters, as does individual and organisational accountability, because they are all important steps in the rubric of keeping people safe, which is why we welcome the Inquiry's request for the fullest available data from mental health care providers who participate in this Inquiry and it is also why we welcome the caution that the Inquiry has recently applied in resisting too early an interpretation of that data, but to seek to analyse in due course the fullest available data.
+
+I say the fullest available because the reality is whatever data is ultimately provided to this Inquiry in relation to absconsion and ligature, it will always be a significant under-representation of the true picture, as is apparent from the presentation from your counsel this morning, the Inquiry has, as yet, only a snapshot. You were reminded by my learned friend Mr Snowden, King's Counsel, that you have only partial responses from two providers and non-responses or late responses from three others, meaning that, when it comes to absconding, the Inquiry is missing data from more than half of the providers for more than half the relevant period, and the picture for ligature is little better.
+
+So we urge you, Chair, to ensure that the data providers are thorough in their task and that they meet your deadlines in the coming weeks, so that, from as early a stage as possible, we are all working from the most representative data picture.
+
+But we also urge you to keep under review the data that is provided and, where necessary, to consider expanding the requests for disclosure so that the data can be better understood because it is already plain that your Inquiry will need to better understand these incidents and the reality that underlies the statistics.
+
+Bates Wells Solicitors, in their written comments to you, question whether you will seek out the criteria, for example, that the Priory apply when determining that none of the ligature incidents that they have identified so far required offsite medical attention.
+
+Do those statistics reflect a low level of harm or do they reflect the subjective determination of harm by staff who lacked training, or who lack insight, or who lack compassion?
+
+Similarly, the data requests that have been obtained by you to date does not appear to include any protected characteristics of the patients involved in those incidents.   On behalf of Bindmans we raised our concerns in both written and oral submissions to you in opening about the disproportionate impact of inpatients based on race, sex and gender.
+
+We urge you, Chair, to be alert to the need to obtain data in relation to absconsion and ligature, but also in relation to all other datasets that will be necessary, that can easily be disaggregated according to protected characteristics.
+
+Echoing the submissions that you have just heard, we urge you to disclose all relevant material to us so that all with a sufficient interest in the matters under scrutiny can consider the evidence and effectively participate in these proceedings.
+
+As things stand, only one of 20 exhibits appended to the EPUT statement on absconsion has been disclosed to Core Participants; one of ten of the Priory exhibits relating to absconsion; two of 32 or perhaps three of 37, as you've just heard, exhibits from the EPUT statement in relation to ligature; and one out of two from the Priory.
+
+It is inevitable that the ability of bereaved Core Participants to effectively participate in analysing and responding to the evidence is materially hampered as a result.
+
+Again, as observed by Bates Wells Solicitors in their written comments, Core Participants will be much better able to participate and engage with the issues under investigation by your Inquiry if withheld exhibits are shared and shared promptly, and we would be grateful for disclosure of the outstanding material as soon as possible.
+
+Chair, we heard from Mr Griffin, King's Counsel, in opening on Monday that the Inquiry has a cause to issue Section 21 Notices requiring providers to produce material to your Inquiry.   Against a background of failures to engage in the Non-Statutory Inquiry, the apparent unwillingness of some providers to engage with you does not come as a complete surprise to the families on whose behalf I speak.    Whilst it is, of course, reassuring that the Inquiry has taken prompt action faced with non-engagement, it is important to the bereaved families that those examples of dismissive or obstructive behaviour are made public, to expose those who continue to shirk their obligations and to ensure maximum transparency on the part of your Inquiry so that there is continued confidence of the Core Participants in the Inquiry processes.
+
+It would be, we contend, entirely possible to publicise a list of those in receipt of Section 21 Notices whilst simultaneously making clear those notices that have been issued off the back of a positive request for such a notice from providers, and we urge you to do so.
+
+Chair, a word on scrutinising the material that has been disclosed.    It's already plain that the material held by providers will be voluminous.    It's also already plain that the material will require a close scrutiny both for accuracy and completeness.    As I've already indicated, the inadequate recordkeeping of providers and particularly EPUT has long since been exposed and criticised in inquest proceedings and has been a source of frustration and anger for the families that I speak on behalf of.     In almost all of their cases, inquest proceedings revealed incomplete records and/or a failure to record incidents of ligature or absconsions properly or at all.
+
+We note that in written submissions, INQUEST has raised similar concerns to you, bringing to your attention several Essex cases in which Datix reports were not completed following absconding or ligature incidents, and cases in which, even when Datix reports were completed, they were incomplete or too limited details were provided.
+
+The observations that we note in the providers' statements, that the task you have set is resource intensive or that the systems and records to be interrogated are many and varied, understandably garner little sympathy from the bereaved.   EPUT and other providers have known, not least because they have been repeatedly told of the importance of recordkeeping of analysing and acting upon issues revealing systemic failures or requiring urgent change, and yet statements to this Inquiry give the distinct and undoubtedly true impression that in responding to your Rule 9 requests, providers are undertaking this first deep dive into records to provide a full understanding of what the data reveals very much for the first time.
+
+Chair, three points arise as a result.    Firstly, it's instructive that, despite far too many deaths arising from absconsion or ligature and notwithstanding the CQC reports, PFD reports, prosecutions, notwithstanding mergers, new management apparently intent on taking root and branch improvement, and notwithstanding the requirements of this Inquiry in its previous iteration, the tasks of retrieving, analysing and categorising the data appears to be underway, as I say, very largely for the first time.    That there appears to have been no earlier internal attempt to carry out this analysis from the perspective of the families whom we speak on behalf of, undermines any suggestion of a genuine desire on the part of Essex Mental Health Services to learn lessons.
+
+Secondly, at least when it comes to absconsion, EPUT claims in 2022, and followed up in 2024, that there was a review of absconsion events in inpatient services. That review included incident reports, albeit limited to those on the Datix system, of which we have heard prior to 2022, and then between 2022 and 2024.    It's not clear to us, on the disclosure that we have currently been provided with, that the Inquiry has full details of that initial review and follow-up.   But, plainly, Chair, you will want to obtain that and consider it with care, not only in terms of outcomes and learning but in terms of the extent to which any data analysis by EPUT reveals a thorough interrogation of what was and what wasn't recorded on the Datix system, and what that says about EPUT's ability to learn lessons or implement change internally.
+
+Thirdly, but of no less importance, many have reasons to doubt both the ability of the providers to properly internally audit the records and to produce reliable results.   That doubt is grounded in past experiences of incomplete data searches or missing disclosure, but it's also grounded in a fundamental concern as to whether the Datix system is being used appropriately to record incidents of absconding or ligature, or indeed other incidents.
+
+As raised in the written observations from Bindmans and echoed in the submissions from INQUEST and those on behalf of Irwin Mitchell Solicitors, data extracted from the Datix system and any analysis of it needs to be approached with a high degree of caution.
+
+That's not just because of the risk of, as we've heard this morning, human error.   It's because of the risk of systemic failings in recordkeeping, in staff training, in ward culture, and so on.
+
+So, Chair, we suggest that you may wish, in consultation with the bereaved Core Participants, to identify a means to carry out a more detailed interrogation of the use of Datix reports by reference to specific case examples in order to explore whether the data disclosed by providers in reliance on Datix is in fact accurate or presents a true picture of all relevant incidents because we have reason to believe it won't.
+
+I'll elucidate that, if I may, by some of our own family experiences.   In Sophie Alderman's case, there was a failure to update her care plan and risk assessment with the information that she disclosed in respect of flashpoints in her symptoms or other irritability or incidents involving other patients.
+
+We have pointed out in our written observations on the CTI papers that, in Sophie's case, although all three of her absconding incidents were recorded on Datix incidence forms, in each case, the incident description is blank, recording simply "nil".   None of them, none of those three, include the term "abscond", or "escape", or any other term that might currently be thrown up by a manual search within the framework identified by the Inquiry.
+
+Of Sophie's four incidents of ligature in Basildon Mental Health Unit, only three were recorded on Datix, again with "nil" being recorded against the incidents’ description.   Two ligature incidents on Willow Ward -- which is the subject, of course, of much of the Dispatches programme -- the second incident of those two being fatal, although recorded in Datix forms, also had "nil" recorded against the incident description.
+
+In Edwige Nsilu's case, her care plan was not updated at all in the month preceding her death, though numerous serious and dangerous incidents including ligature attempts took place.   Worse still, in Edwige's case there were well founded concerns exposed at the inquest about the inclusion of inaccurate and outrightly false information on her record after her death.   It's a stark example of possible manipulation of patient records and raises real concerns about the accuracy of other records and the reliability of the data that you will be in receipt of.
+
+Edwige ligatured nine times on Colne Ward of St Andrew's Healthcare, including when she died.   Six of those were within two weeks of her death.   They were recorded on Datix, but while the Datix incident log appears to have categories, as we've heard this morning, in relation to the nature of the event, in Edwige's case three are recorded as self-harm -- in fact, on other occasions, the event was recorded as "physical aggression" -- six of the incidents were recorded as "level 2, low" in terms of harm, one "no harm", one "moderate harm", for a ligature incident which resulted in Edwige falling unconscious and having a seizure, and the only incident recorded as serious was that which resulted in her death.
+
+Christopher Nota absented himself from Rochford Community Hospital, whilst a voluntary patient, on 26 May 2020, signing, as he did so, an "irregular discharge against medical advice" form.   48 hours later he was re-hospitalised, having overdosed.   This happened again on 29 June 2020, when he again signed the same form, discharging himself against medical advice as a voluntary inpatient.
+
+That admission had arisen from an incident where a member of the public had contacted emergency services, so concerned about the risk that Chris posed to himself. We have not seen any evidence of these incidents being recorded on Datix.
+
+Christopher ligatured once in Cedar Ward of Rochford Community Hospital and there's no evidence that this was reported on Datix; his mother only learned of the incident after Chris's death when her lawyer spotted an entry in his daily medical records.
+
+Chair, just three patients on as many as five different wards in 2020 and 2022, and the gaps or risk of gaps in data are already plain to see.
+
+That's why we say that whatever figures are ultimately obtained and considered by this Inquiry, they are bound to be a significant under-representation of the true picture, and it's also why we caution against an over-reliance on Datix forms, and we urge you to work with the bereaved to identify where there are gaps and why.
+
+You will also have noted, Chair, that in Irwin Mitchell's written comments on your papers, made on behalf of Michelle Booroff, the physical and security vulnerabilities of the ward in question, on which her son was detained, was highlighted.    We saw yesterday on the Dispatches programme, Ms Booroff's son Jayden absconded from the Linden Centre on 23 October 2020, where he was detained.    He was able to follow a member of staff through three secure locked doors and out of the facility.     Within two hours of leaving, devastatingly, he was struck by a train and died.
+
+In addition to a host of other shortcomings, both the Trust's internal investigation and the subsequent inquest into Jayden's death identified weaknesses in the physical security of features of the Linden Centre as a contributory factor to his absconsion and to his death, including ward layout, poor nursing sight lines, the absence of any airlock system in the doors.
+
+In her opening statement to you, Mrs Booroff also highlighted the failure to share Jayden's risk of absconsion with staff, a stark reminder of the failures in staff training and in lesson learning, amongst other issues.
+
+Lydia Fraser-Ward, represented by Bates Wells Solicitors, remains concerned that her family have seen no notes, records or data for any treatment her sister, Pippa Whiteward, received whilst in the care of Essex Mental Health Services.     To the best of their knowledge, no such information was made available to the coroner either.
+
+Set against a background in which the family is concerned that in other settings, there was retrospective updating of Pippa's wider records, both in relation to a serious ligature incident and the decision to send her home on leave, during which time she would go on to take her life, the lack of documentation continues to generate concern and understandable mistrust.
+
+In relation to definitions and absconsions, the analysis of the experiences of those who died re-enforces the need for clarity on terms such as "absconsion", and indeed "ligature", and "harm", and "near miss".
+
+In relation to the definition of absconsion, concerns are really to be found in the experience of Chris Nota.    Would an irregular discharge, in his case against medical advice, count as an absconsion, under your definition?   In relation to Pippa Whiteward, would the work referencing circumstances in which Pippa was sent home on leave, rather than be transferred to a local hospital, as was planned, fall within the Inquiry's definition of absconsion?   And, if not, how will those ill-advised discharge decisions or leave decisions be examined and captured by the Inquiry?
+
+We also share the real concerns raised in INQUEST's response about the Inquiry's current definition of absconsion, including, as you've heard this morning, the requirement that the absence could or should be considered worrying.
+
+We echo the submission that you've just heard that that's an entirely subjective criterion, and it appears inconsistent with definitions historically applied by the Trusts held under scrutiny and so might well, on a review of the records, require someone to apply a personal view or a subjective test on the basis of what is likely to be limited information.   It might well therefore exclude incidents that were objectively absconsions because they were, or are, deemed not to be worrying.
+
+We endorse to you INQUEST's suggested definition of "absconsion" at paragraph 14 of their written submissions but observe that it could be expanded to cover a wider range of incidents.   We suggest and we will put this in writing, that an absconsion is any situation where any patient is absent without agreement or planned leave, or has not returned from leave at the agreed time, or, in the case of voluntary patients, have absented themselves from the ward, contrary to medical advice.
+
+We further endorse but don't repeat in these oral submissions INQUEST's observations that thereafter, the form -- the results could be examined under three broad categories: those that resulted in death; those that resulted in some harm, whether physical or emotional; and those that resulted in no harm.
+
+In terms of the definition of "ligature" we again commend to you the written observations of INQUEST at paragraph 27 to 30 of their written submissions.   We suggest it is important for this Inquiry to provide clarity on the definition of a ligature, for the reasons raised by INQUEST, as well as the reasons raised in the written submissions of Bates Wells Solicitors.
+
+In order for the fullest data to be provided, it is incumbent on the Inquiry to provide clarity on the definition of "ligature" and "harm", and to give clarity on the requests for identification of low level, high level ligature points and fixed and non-fixed points.
+
+It is also going to be important, as stressed by Bates Wells Solicitors, to seek information on the nature of items used to ligature, and to delineate results, as I've said, in relation to fixed and non-fixed ligature points, so as we can best assess risk management and lessons learned.
+
+Chair, we are told by EPUT that when it comes to staff training on ligature risk, some will be delivered "on the job" but it's not possible, at least for staff training in the past, to break down the training delivered by ward and attendance rate.   The picture is not dissimilar for the Priory.
+
+Staff training is a matter of significant concern to the bereaved, albeit our opportunity to explore it further in these submissions is limited by an absence of disclosure at this stage.
+
+CTI note, at paragraph 4 of their paper on ligature, that any assessment of the level of harm reported against a ligature incident is subjective and up to the interpretation of the staff member completing that report.   That's undoubtedly true but we ask you to interrogate how staff are trained to recognise harm or potential harm, and to what extent does ward culture contribute to that assessment?
+
+The position statement of Paul Scott tells us that the culture in inpatient services needs to be addressed when implementing lasting reform.   That much is also evident from the Dispatches programme that we watched yesterday, and your Inquiry must not shy away from looking behind the figures and assessing and exposing negative ward culture, if it is to contribute to that reform.
+
+We remind you that in Edwige Nsilu's case, of the ligature incidents in the two weeks prior to her death they were recorded as level 2 "low", level 1 "no harm" or moderate, and the only incident recorded as "serious" was that which resulted in her death.
+
+What, Chair, does "low level harm" or "no harm" mean in these escalatingly serious circumstances?   How does low level harm or no harm feature in any risk analysis? Is it used to lower a perceived risk that a patient presents to themselves?    And how are staff trained to assess the level of physical or emotional harm?    How does staff training guard against the risk of compassion fatigue in staff, given the grossly high numbers of ligature already revealed in the partial figures available to you?
+
+The answers to these questions are not going to be found in a spreadsheet containing figures alone.
+
+We note with concern the indication in the EPUT position statement that the Trust currently operates seven separate patient record systems, and they expect to replace these seven with one single electronic patient record system to be implemented by 2026 or 2027. The need for a simplified single system is unarguable but, of course, it must be a system that works for all patients, operated by staff trained to identify and select categories of incident where appropriate, and to input the relevant details comprehensively, and it must ensure that all relevant data is captured not limited, of course, to absconsion and ligature, but to restraint, isolation, therapeutic support, pharmacology and a range of other issues.
+
+It must be capable of analysis according to the protected characteristics of the patients, subject to these incidents, and we very much hope that the lessons learned in this Inquiry by the interrogation of the facts and figures and what happened beneath them, which should start now, will contribute to the effectiveness of that system.
+
+Chair, briefly touching on lessons learned before my concluding remarks.   As part of your request for information on absconsion and ligature, you asked for disclosure of a range of internal, external and independent investigations, as well as evidence of corporate action and learning.   Much remains to be provided to your Inquiry, and nothing has as yet been disclosed to the bereaved Core Participants, so there is a limit to the extent to which we can engage at this stage.
+
+But we observe that the impression given in Paul Scott's position statement at paragraph 60, that inquests and Prevention of Future Deaths reports, that internal and external audits or inspections or incident reports and investigations, have been reviewed and considered as part of EPUT's 2023 to 2025 Patient Safety Incident Plan, and have in turn contributed to the ten ongoing safety improvement plans, will need to be considered with care by this Inquiry.
+
+On the face of it, that assertion appears to be undermined by the apparent difficulty that EPUT and others are having in retrieving many of those reports and investigations within the time afforded by the Inquiry.   But we also observe, with very considerable concern, given what we already know from the limited data that has been produced, that there appears to be no safety improvement plan in relation to absconsion.
+
+So, in conclusion, we recognise that the questions raised by your counsel, concluding both the ligature and absconsion papers, are deliberately broad, are deliberately non-exhaustive, and it is right, of course, that your Inquiry should approach these topics broadly and with an open mind as to where they will lead, and what conclusions can be drawn and therefore what changes must be implemented.
+
+But we do remind you, in light of the position statements that you have received so far and will continue to receive, that in looking closely at what happened in the past, current practice must also be scrutinised to determine whether it is adequate and what more can and must be done to keep patients safe in a therapeutic environment, that provides patients with the necessary support and treatment to enable them to go on to live full and happy lives.
+
+It was, in part, for that reason, the analysis of past versus current practice, that you were urged, in fact by me, in opening, to obtain the position statements, not as a platform for individuals or organisations to paint a rosy or an improving picture, but so that the current position can be tested so that lines of accountability are clear and so that your Inquiry can make recommendations that can and will be implemented, and it's for that reason that we remind you that within the next steps questions that are quite rightly set out in your absconsion and ligature papers, it's important not to lose sight of the next steps in terms of current practice, and we urge you to examine how the providers' current practices, procedures and ward environments ensure that failings, which very sadly we know are ongoing failings, are identified and addressed so that current and future patients are safe in their care.
+
+Thank you.
+
+**The Chair**: Thank you.
+
+**Mr Griffin**: Thank you, very much.
+
+Chair, that is the end of our proceedings today. The hearings will start again tomorrow morning at 10.00 am when we'll be hearing about inquests.
+
+**The Chair**: 10.00 am tomorrow.
+
+*(1.00 pm)*
+
+*(The hearing adjourned until 10.00 am the following day)*
+

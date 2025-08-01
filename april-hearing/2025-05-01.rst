@@ -1,0 +1,563 @@
+.. raw:: html
+
+   <a id="hearing-link" href="https://lampardinquiry.org.uk/hearings/hearing-day-15-april-hearing/">Official hearing page</a>
+
+Hearing Day 15
+==============
+
+.. raw:: html
+
+   <details id="hearing-meta" open>
+        <summary>
+            <span class="open">Hide video</span>
+            <span class="closed">Show video</span>
+        </summary>
+   <lite-youtube videoid="meY-zMFlslw" params="rel=0"></lite-youtube>
+   </details>
+
+*(10.00 am)*
+
+**The Chair**: Morning, Mr Griffin.
+
+**Mr Griffin**: Thank you very much and good morning, Chair. Today we'll be hearing a summary by Counsel to the Inquiry, Charlotte Godber, in relation to inquests. After that, we'll have a short break of about 15 minutes, and we will then be hearing from Fiona Murphy KC, who will present a response on behalf of the bereaved Core Participants represented by Bhatt Murphy, Bindmans, Leigh Day, Irwin Mitchell and Bates Wells. Then we'll be hearing from Steven Snowden KC on behalf of the Core Participants represented by HJA.
+
+Chair, Ms Godber's presentation is described as a "high-level introduction" and will not consider individual deaths.   However, this morning, there may be reference to individuals who have died, and consideration of bereaved families’ experience of inquests and the difficulties there, and those may, in themselves, be distressing and difficult to listen to. For some, it may not be possible to sit through this session, and I want to make clear again this morning that anyone is welcome to leave the hearing room at any point.
+
+I'd like to remind people that emotional support is available for all of those who require it, the wellbeing of those participating in the Inquiry is extremely important to the Inquiry.      We have support staff from Hestia who are in the room, I'm asking them to raise their hands, they're wearing orange scarves and have orange lanyards, and there's a private room downstairs where you can talk to the Hestia support staff if you require emotional support at all during this hearing. Or, if you need to, you can speak to a member of the Inquiry team and we can put you in touch with them, we're wearing purple lanyards.
+
+If you're watching online, information about emotional support can be found on the Lampard Inquiry website at lampardinquiry.org.uk, and under the support tab near the top right-hand corner.
+
+We want all of those engaging with the Inquiry to feel safe and supported.
+
+Chair, with that, I will hand over to Charlotte Godber.
+
+**Ms Godber**: Good morning.
+
+**The Chair**: Good morning, Ms Godber. Presentation on inquests and Prevention of Future Death
+
+reports by MS GODBER
+
+**Ms Godber**: Thank you.   This paper is a high-level introduction to and overview of the inquest procedure. It is not intended to provide a detailed analysis of the coronial process in England and Wales.
+
+Where possible this paper engages again at a high level with areas that are likely to have been relevant to inquests arising out of inpatient deaths that come within the scope of this Inquiry.   The Inquiry is grateful to those Core Participants who have engaged with and responded to this paper, providing helpful clarifications and assistance with what is a somewhat complex area of law.
+
+The Inquiry notes the expertise, particularly of some of those who represent Core Participants, and the real-life experiences of many Core Participants.
+
+This paper does not seek to provide a detailed analysis of the particular issues relating to specific inquests or the actual real-life experiences of family members and loved ones who have attended and participated in inquests.   That evidence is important to the Inquiry but it is not explored here in this paper nor does this paper seek to delve into complex legal arguments.   That might defeat its purpose of providing hopefully a helpful overview.
+
+Later in these public hearings, the Inquiry will hear from the Chief Executive of the charity INQUEST, Deborah Coles.   She has provided a statement and exhibited several reports, including submissions made to Parliament and summary reports of the listening days facilitated by INQUEST, all of which are of interest to the Inquiry.   Ms Coles is well placed to give a broad picture from her experience of providing support to the families and the bereaved who have attended inquests.
+
+It is worth noting at this juncture, the Inquiry's Terms of Reference and how inquests will be relevant to the Inquiry's work, particularly 2(j), 2(k) and 8, which state that the Inquiry will consider:
+
+2(j) the quality, timeliness, openness and adequacy of any response by or on behalf of the Trust(s) in relation to concerns, complaints, whistleblowing, investigations, inspections and reports (both internal and external); and
+
+"(k) the interaction between the Trust(s) and other public bodies, (including but not limited to the commissioners, coroners, professional regulators and the Care Quality Commission).
+
+"8.   In undertaking its investigations the Inquiry may consider information which is available from the various published and unpublished reviews, court cases and investigations which have so far concluded."
+
+The majority of deaths in England and Wales are not referred to His Majesty's Coroner.   Of those that are referred, even fewer will result in an inquest.
+
+To put this into context, the latest "accredited official statistics" published on the Ministry of Justice website were published in 2024.   They record that in 2023, 581,367 deaths were registered and of those, 34 per cent were referred to a coroner and, of those, less than 20 per cent required an inquest.     This means that in 2023, there were 36,855 inquests.   Those figures can be further broken down to reveal that in 2023 across England and Wales, 492 deaths in state detention were reported to coroners.   This was down from 534 in 2022 and is reported to be driven by a 24 per cent fall in deaths of those in Mental Health Act detention.   The Inquiry will approach these statistics with caution, noting that, for example, the Care Quality Commission also publish annual coronial data but adopt a different methodology and use the financial year.
+
+The Coroners and Justice Act 2009 sets out in what circumstances the coroner has a duty to investigate a death.   In England and Wales, an inquest is required where the coroner has reason to suspect that:
+
+The death was violent or unnatural;
+
+Where the cause of death is unknown; or
+
+Where the deceased died while in custody or otherwise in state detention.
+
+These types of deaths are called "reportable deaths".   They are referred to the coroner by the police, a doctor or the Registrar for Births and Deaths.
+
+To break that down a little more, "state detention" includes those who died while detained under the Mental Health Act 1983.   The Inquiry's definition of "inpatient death" is broader than that and includes deaths that occurred when the deceased was not physically detained at a unit or when the deceased had absconded or was on leave, whether that was supervised or otherwise.     Deaths that occurring in these circumstances should still be referred to the coroner, either by virtue of the Ministry of Justice guidance, or by reference to the relevant case law.
+
+The Ministry of Justice guidance for registered medical practitioners on the Notification of Deaths Regulations states that a person's death should always be notified to the coroner where there is reasonable cause to suspect that the death was due to -- and here "due to" meaning "more than minimally, negligibly or trivially caused or contributed to by" -- any to the following:
+
+Poisoning including by an otherwise benign substance;
+
+Exposure to or contact with a toxic substance;
+
+Use of a medicinal product, the use of a controlled drug or psychoactive substance;
+
+Violence, trauma or injury;
+
+Self-harm -- which is further defined as "trauma or injuries inflicted by themselves or their actions";
+
+Neglect, including self-neglect;
+
+The person was undergoing any treatment or procedure of a medical or similar nature;
+
+An injury or disease attributable to any employment held by the person during the person's lifetime.
+
+Each of the above are further defined in the guidance but not repeated here, and many will not feature in the types of inquest the Inquiry will hear about but the full list is provided for completeness.
+
+The Ministry of Justice guidance explains that "state detention" relates to individuals being compulsorily detained by a public authority, including hospitals where the deceased person was detained under mental health legislation.    The guidance expressly includes instances when the deceased person was on a period of formal leave.    As to the relevant case law, the 2009 Court of Appeal case of Savage v South Essex Partnership NHS Foundation Trust made it clear that a death that occurs when an inpatient has absconded from the inpatient facility, whether on leave or not, will be treated as a reportable death within the "state detention" definition.
+
+That is not to say that all deaths that occur in custody, in state detention, are treated equally.     In September 2023, the Independent Advisory Panel on Deaths in Custody (IAPDC) published a report called "'More than a paper exercise' -- Enhancing the impact of Prevention of Future Deaths reports".   The IAPDC drew attention to the fact that, unlike deaths in other areas of detention, those under mental health legislation do not automatically attract an independent investigation, and never by a dedicated independent body.   The IAPDC describe this as an "anomaly" and made recommendations to the Department of Health and Social Care that serious consideration was given to the creation of an independent body for investigating the deaths of those both formally and informally detained in mental health settings.   This is an area the Inquiry intends to explore in more detail.
+
+Save for those inpatients who died of natural causes, for example older patients who may have suffered from other physical health conditions not directly related to their mental health, all of the deaths that fall within the scope of this Inquiry should, certainly under the current legislation, guidance and case law, have been referred to the coroner and ought to have resulted in an inquest.   Owing to the significant difficulties in determining the number of deaths in scope, it may never be possible to verify which deaths resulted in an inquest and which did not.
+
+Not every inquest that was conducted would have required the coroner to provide narrative findings in terms of how the deceased died.   It is also not possible to assess whether the coroner would have been obliged to provide a Prevention of Future Deaths report.   I will return to narrative findings or conclusions, as they are called, and Prevention of Future Death reports shortly, to provide a little more detail on what they are.
+
+It is of note that, despite the significant number of deaths that tragically come within the scope of this Inquiry and the likelihood that those deaths would have resulted in inquests, so far the Inquiry has only been provided with copies of 32 Prevention of Future Deaths reports and eight findings of neglect, seven from EPUT and one from St Andrew's Healthcare.   The Inquiry will continue to seek more information on the inquests that did occur and for which there must be available data.
+
+The next sections of this paper will consider the practice and procedure for inquests in England and Wales, funding for representation at inquests, when a jury is required, when Article 2 of the European Convention on Human Rights is engaged, conclusions and the procedure for Prevention of Future Death reports (PFD reports).   A summary of the evidence the Inquiry has received so far is then set out.
+
+While all inquests in England and Wales are conducted within a singular statutory framework -- the Coroners and Justice Act 2009 and a framework of regulations -- the practice and procedures for inquests varies in different areas of the country and between different coroners.    In Essex, there is some information available on the Essex County Council Coroner's website but it is often an area of mystery for the bereaved who suddenly find themselves involved in the coronial process.
+
+There are currently approximately 453 coroners in England and Wales.    They are appointed by but independent of the local authority and their jurisdiction is determined by geographical area.    There are currently 81 coroner areas across England and Wales. Where the deceased's body is found will determine which coroner area is responsible for conducting the investigation.
+
+A coroner is an independent, judicial office holder, they must be a legally qualified barrister or solicitor. It is also possible to become a coroner if you are a fellow of the Institute of Legal Executives and satisfy the judicial appointment eligibility condition, which means having five years of experience whilst holding that qualification.    Coroners should be under the age of 75 and are subject to the appointment and eligibility conditions set out in the Coroners and Justice Act.    Some coroners, as well as being legally qualified, may also be medically qualified but this is not a requirement for the role.    Coroners work with assistant coroners and coroner's officers who assist the coroner in managing administrative tasks related to the inquest.   Many Core Participants will have liaised most directly with the coroner's officer who is responsible for corresponding with relatives and witnesses, collecting evidence and overseeing the running of the proceedings.    In a complex inquest, the coroner may also appoint counsel to the inquest and solicitors to the inquest.
+
+When a death is reported to the coroner, an inquest should be completed within six months of the coroner being made aware of the death or "as soon as reasonably practicable".    In reality, most inquests take much longer than six months to complete.   A final hearing can sometimes be over a year after the initial report of the death and, in some cases, significantly longer than a year.   The latest Government statistics available for 2023 record the average time taken to complete an inquest is 31.5 weeks, this represented an increase of 1.3 weeks from the 2022 average.     Those averages must, however, be treated with real caution, especially in respect of the types of inquests that follow an inpatient death.    Core Participants' legal representatives would wish to bring to your attention, Chair, inquests that have not been concluded, five, seven and eight years after the inquest was formally opened.   As mentioned earlier, some of the legal representatives for Core Participants have significant experience as inquest practitioners.     They and the families they represent know all too well about the intolerable wait endured by those who are grieving, which, as you can imagine, compounds the distress and anxiety experienced.
+
+Returning to the procedure for an inquest.     When a death is reported, the coroner must first consider the information available at the time and determine whether an inquest is required.      Where there is insufficient information to make a decision, the coroner may open a preliminary investigation before opening an inquest. Where there is sufficient information and the coroner determines that an inquest is required, they may open the inquest and then adjourn for further investigations.
+
+When an inquest has been opened and it is deemed necessary to establish the "medical cause of death", a post-mortem examination, or autopsy, will normally be carried out in order to establish the probable medical cause of death.   After the post-mortem the coroner may determine that an inquest is not necessary.
+
+If, after receiving the post-mortem report, an inquest is still required, the coroner will consider whether or not they are required to suspend the inquest. The Coroners and Justice Act 2009 requires the coroner to suspend an investigation on the request of a prosecuting authority, such as the Crown Prosecution Service, the Health and Safety Executive or the Care Quality Commission.   The inquest will normally be suspended until the outcome of any other proceedings. A police investigation or prosecution does not always require the inquest process to be put on hold, however. It may be possible, in certain circumstances, for the inquest process, especially the preliminary stages, to proceed alongside an investigation, including a criminal investigation.
+
+If a criminal investigation results in a criminal conviction for murder or manslaughter, then the inquest may be concluded without a formal hearing, unless "the senior coroner thinks there is sufficient reason for resuming [their investigation]".     When a death has occurred in custody, the Chief Coroner's Guidance notes that the state has a "particular duty to conduct a public investigation before an independent judicial tribunal, in which the deceased's relatives can participate", meaning that an inquest is more likely to be resumed.   The outcome of an inquest resumed in these circumstances must be consistent with the outcome of the criminal proceedings.   For example, where there has been a conviction for murder or manslaughter, the death will be recorded as "unlawful killing".    The coroner or jury may also provide a narrative conclusion which supplements the short form conclusion of "unlawful killing", and/or they may determine that a conclusion of "unlawful killing" was contributed to by neglect.       Where there is no conviction, the coroner will resume the inquest process.    It is recognised by the Inquiry that whenever a referral is made to a prosecuting authority, no matter the outcome of an investigation and/or prosecution, the impact on the families and loved ones of the deceased will inevitably involve a further intolerable wait.    The Inquiry has heard from families about how incredibly distressing this can be.
+
+Moving to the scope of the inquest.
+
+The sole purpose of an inquest is for the coroner to determine:
+
+Who the deceased was;
+
+Where they came by their death;
+
+When they came by their death; and
+
+How they came by their death.
+
+It is often this last question, "how", that requires detailed investigation and consideration by the coroner, in order to understand and draw conclusions about how the death came about.   In Article 2 inquests, which are considered in more detail shortly, the question of "how" is expanded to "how and in what circumstances the deceased came by their death".
+
+In respect of each of these questions -- who, where, when, and how -- the coroner will determine the scope of the inquest.
+
+The scope will determine what evidence will be required, who will provide that evidence and how that evidence will be presented, for example in person, by way of an expert report or a written statement.     The coroner can appoint "interested persons" and expert witnesses.
+
+An interested person is broadly comparable to a Core Participant at a statutory inquiry, such as this. An interested person is someone the coroner is considered to have a "sufficient interest" in the investigation.   That may be anyone the coroner considers may have relevant information about the deceased and how they died.   Section 47(2)(f) of the Coroners and Justice Act 2009 expressly includes, "a person who may, by an act or omission have caused or contributed to the death of the deceased, or whose employee or agent may have done so".   An interested person would normally be legally represented at the inquest.   For family members, however, this is often not possible, due to the lack of state funding.
+
+The coroner will often invite the family members of the deceased person to provide a witness statement. Coroners may also invite the family to provide a pen portrait to tell the coroner or jury more about the life of the person at the heart of the inquest.    This Inquiry has adopted a similar approach to receiving commemorative and impact evidence.
+
+State funding, called "Legal Aid", is rarely available for families in inquest proceedings, leaving the bereaved to fund legal representation themselves or find a legal representative who is able to provide legal representation for free.    Some families may be able to rely on insurance policies but the charity INQUEST tells the Inquiry that this is incredibly rare and that the majority of bereaved families engaging in inquests are left without any representation.
+
+The charity INQUEST has campaigned on the issue of Legal Aid funding for bereaved families in inquests where the state is represented.    In January 2022 the availability of non-means tested Legal Aid in inquests was extended but the circumstances where Legal Aid funding is available to bereaved families remains limited.
+
+The House of Commons Justice Committee's report on the Coroner Service commented on the limited provision of Legal Aid for the bereaved.     The Committee drew attention to what they described as an unfair distinction between the bereaved and public bodies in terms of representation and suggested that the Ministry of Justice ensure "equality of arms".    The Government response to the Committee in September 2021 indicated that this issue would be further considered in response to Bishop James Jones' report called “The patronising disposition of unaccountable power” a report to ensure the pain and suffering of the Hillsborough families is not repeated.   The previous Government responded in December 2023 and committed to providing Legal Aid for the bereaved following public disasters.    A Government policy paper committed to "seeking to further understand the experience of bereaved families at other inquests where the state is represented".   At this time, we understand, there have been no changes to the availability of funding for families and the bereaved.
+
+Moving now to the inquest timeline and procedure.
+
+The coroner may arrange a pre-inquest review with interested persons, including family members, and, at that pre-inquest review, the coroner will determine what the relevant issues are, what evidence is required and when that evidence should be provided by.    A date for the inquest is then fixed and witnesses are notified. In more complex inquests, including "Article 2 inquests", there are likely to be several lengthy pre-inquest review and preliminary hearings required.
+
+Where a pre-inquest review is not required, the coroner/coroner’s office will communicate the scope of the inquest to interested persons, witnesses and family members either directly or via their legal representatives.
+
+Section 7 of the Coroners and Justice Act 2009 sets out when a jury will be mandatory, including when the senior coroner has reason to suspect:
+
+That the deceased died while in custody or otherwise in state detention, and the death was either violent or unnatural or the cause of death is unknown;
+
+That the death result from an act or omission of a police officer in the "purported execution of the officer's duty"; or
+
+That the death was caused by a "notifiable accident, poisoning or disease".
+
+A coroner may also call a jury where they think there is sufficient reason for doing so.
+
+Where a jury is empanelled on an inquest they will be responsible for determining the conclusions of the inquest.   The jury do this by hearing all of the evidence and with guidance from the coroner.    The coroner will set out the conclusions that are open to the jury and set the out the legal tests which must be met before they document their conclusions on the Record of Inquest form.
+
+Article 2 inquests.
+
+Article 2 of the European Convention on Human Rights (ECHR) is enshrined in UK law by the Human Rights Act 1998.   It imposes substantive obligations on the State "not to take life without justification and also to establish a framework of laws, precautions, procedures and means of enforcement, which will, to the greatest extent reasonably practicable, protect life".
+
+An Article 2 inquest, also called a "Middleton inquest", is held when the State or its agents may have failed in its negative obligation to refrain from taking life, or in its positive obligation to take appropriate measures to safeguard life.
+
+Whether an inquest should be an Article 2 inquest or not is a decision normally taken at the pre-inquest review stage.   The coroner may hear submissions on the issue before deciding whether or not to make the inquest an Article 2 inquest.   Throughout the inquest, it remains open to the coroner to make the inquest an Article 2 inquest if there are reasons to do so.
+
+The case of Middleton v West Somerset Coroner held that, in order to comply with the State's obligations under Article 2, the statutory question "how" is extended to "by what means and in what circumstances the deceased came by their death".    The Coroners Benchbook notes that "because of the wide discretion afforded to coroners, even an inquest where Article 2 procedural obligations are not engaged, may investigate the broader circumstances of the death if the touchstone of possible causation is met".   As with a non-Article 2 inquest -- sometimes referred to as a Jamieson inquest -- the findings, determinations and conclusion of the coroner or jury are recorded on a Record of Inquest form and may include a narrative conclusion.
+
+Article 2 may be engaged where, on the evidence, there are grounds for suspecting that a death may involve a breach by the State by one of the substantive obligations imposed by Article 2 -- often referred to as an "arguable" breach of a substantive Article 2 ECHR obligation.   This may be in circumstances where the State or its agents knew or ought to have known at the time, of a real and immediate risk to the life of the individual and failed to take reasonable steps to preserve life.   Those reasonable steps must have been within its powers and considered reasonable in order to prevent that risk.
+
+"Risk" is defined as a significant and substantial risk, rather than a remote or fanciful one.   The risk will be immediate if it is present and continuing.     It is not necessary for the risk to be apparent just before death.   It must be a risk to life, rather than a risk of harm or serious harm.
+
+"Real" is defined by what was known or ought to have been known at the time.
+
+Where an individual was detained by the State, in custody or under the Mental Health Act 1983, and their death was an "unnatural death", Article 2 will automatically be engaged and it is not necessary to consider whether there has been an "arguable breach" of the Article 2 substantive duties.
+
+As you can see, Chair, whether an inquest is an Article 2 inquest or not is not always straightforward and may involve complex legal submissions.   You may think this is relevant then to the issue of whether or not families are legally represented at inquests.   While some of these issues fall beyond the scope of your Terms of Reference, it is necessary to outline them here to assist with the Inquiry's understanding of the different types of inquest and the types of findings that are open to the coroner or jury to consider and record on the Record of Inquest form.
+
+Once the coroner has determined whether a jury is required, whether the inquest engages Article 2, the scope of the inquest, who the interested persons are, what evidence is required and has set a timetable for receiving evidence, the next step is to conduct the inquest hearings.
+
+Inquest hearings are normally held in public, that is to say that members of the public are free to attend the hearing and listen to the proceedings.   Since the Covid pandemic, many inquests can be attended remotely via a video link, there are rare occasions where it may be in the interests of justice or national security for an inquest to be held in private.
+
+The coroner's court is one of investigation and enquiry.   The process for hearing evidence is inquisitorial.   In an inquest, there are no formal allegations or accusations.   While the hearings should not be adversarial, we understand from listening to family members and the bereaved who have attended inquests, that unfortunately this has not always been their experience.   Again, that may be a matter that is beyond the scope of this Inquiry but it is important nevertheless to acknowledge those experiences which add to the trauma of the bereaved.
+
+During the inquest, statements and reports are provided to the coroner and shared with interested persons.   Under Rule 23 of the inquest rules, the coroner can admit some documentary evidence without calling a witness to give the evidence in person.     Other evidence will be given "live" by witnesses.
+
+The order in which witnesses give evidence is not prescribed but the coroner will often hear evidence first from the pathologist before then going through the evidence and the witnesses in the most logical way, often in chronological order of the events leading up to the death.   Where the coroner asks questions of witnesses, the witnesses will swear an oath or affirmation to tell the truth.   After the coroner has asked their questions, an interested person may also ask questions of a witness, normally this is done by the legal representative of the interested person.     Where there is a jury, jurors are also permitted the opportunity to ask questions of a witness.   All questions must be directed towards assisting the coroner.   The purpose of the questions is not to apportion blame or raise accusations.   Finally, the witness may be asked questions by their own legal representative, unless a different order of questioning has been agreed by the coroner.
+
+After hearing all of the evidence, the coroner will hear submissions from the interested persons' legal representatives on the law, including representations as to which conclusions should be considered by the coroner or left to the jury.   Submissions on the facts of "who the deceased was and how, when and where the deceased came by his or her death" are not permitted.
+
+It is a common misconception that a coroner or an inquest jury arrive at a verdict and/or that the coroner has the power to apportion blame for the death. At the end of the inquest there will, instead, be conclusions.
+
+After hearing all of the evidence and legal submissions, the coroner or jury will then make their findings on each of the four questions: who, where, when and how.   All conclusions will require the form of words, some conclusions will simply require more words a "narrative conclusion", and some will require fewer words and may be dealt with by way of a "short form conclusion".   A short form conclusion may record one of the following: Accident or misadventure; Alcohol/drug related; Industrial disease; Lawful or unlawful killing; Natural causes; Open, meaning that there is insufficient evidence to record another conclusion.    This does not mean however that the case is left open, in case further evidence appears.   An open conclusion is a "final conclusion". It should be noted that an open conclusion is to be discouraged save where strictly necessary; Road traffic collision; Stillbirth; Suicide. Some conclusions may include more than one of the above list and may also reference neglect, for example "natural causes contributed to by neglect".    Neglect is not, however, considered a primary cause of death and is not in itself a conclusion.
+
+In a non-Article 2 or Jamieson inquest the coroner may provide a "narrative conclusion" to enable the coroner to briefly describe the circumstances by which the death came about.   This must be brief, neutral and factual, avoiding expressing any judgement or opinion.
+
+Whereas in an Article 2 or Middleton inquest it would be unlawful for the coroner to direct a jury so as to prevent them from entering a "judgemental conclusion of a factual nature".   Permitted judgemental words in an Article 2 inquest include "inadequate", "inappropriate", "insufficient", "lacking", "unsuitable", "failure", "because" and "contributed to". An Article 2 narrative conclusion will not necessarily be lengthy, its purpose is to briefly summarise the jury's factual conclusions, as stated in the case of Middleton.
+
+After completing the Record of Inquest and any other necessary paperwork, the death can be registered.     The findings and conclusions of a coroner's inquest can be challenged by way of Judicial Review or via Section 13 of the Coroners Act 1988.
+
+We are told by our Core Participants that the absence of a satisfactory appeals process is a matter which causes real distress and frustration amongst families and the bereaved.
+
+Turning now to the Prevention of Future Deaths reports.
+
+The coroner has a duty to make a Prevention of Future Deaths report where anything revealed by the investigation gives rise to a concern that circumstances creating a risk of other deaths will occur or will continue to exist in the future, and, in the coroner's opinion, action should be taken to prevent the occurrence or continuation of such circumstances, or to eliminate or reduce the risk of death created by such circumstances.   The coroner must, as per paragraph 7 of schedule 5 of the Coroners and Justice Act 2009, report the matter to a person who the coroner believes may have power to take such action.   A Prevention of Future Deaths report is then made to a person, organisation, local authority, Government department or agency.     All reports and responses must also be sent to the Chief Coroner.
+
+Prior to the Coroners and Justice Act 1989, PFD reports were called "Rule 43 reports" in reference to Rule 43 of the Coroners Rules 1984.   The decision by Parliament to enshrine Prevention of Future Deaths reports in legislation placed a duty on coroners not only to decide how somebody came by their death, but also, where appropriate, to report about that death with a view to preventing future deaths.
+
+The Inquiry's Rule 9 Request to providers for PFD reports included a request for any Rule 43 reports.
+
+It is worth noting the Chief Coroner's Guidance which has recognised the importance of PFDs to bereaved families and the public at large.   The Guidance states:
+
+"PFDs are vitally important if society is to learn from deaths.    Coroners have a duty to decide how somebody came by their death.    They also have a statutory duty (rather than simply a power), where appropriate, to report about deaths with a view to preventing future deaths.    And a bereaved family wants to be able to say: 'His death was tragic and terrible, but at least it's less likely to happen to somebody else'.   PFDs are not intended as punishment; they are made for the benefit of the public."
+
+A PFD report is sent to the person or authority which is deemed to have the power to take appropriate steps to reduce the risk of further deaths.       That person or authority then has a mandatory duty to respond to the report within 56 days, unless the coroner agrees to an extension.    The Coroner's (Investigations) Regulations 2013 (Regulation 29(3)) requires that the written response contains:
+
+Details of any action that has been taken or which it is proposed will be taken by the person giving the response or any other person whether in response to the report or otherwise, and set out a timetable of the action taken or proposed to be taken; or
+
+An explanation as to why no action is proposed.
+
+The coroner can also refer an individual to their regulator, for example a doctor can be referred to the General Medical Council and nurses can be referred to the Nursing and Midwifery Council.    If there is a criticism, then the professional person has a duty to refer themselves to their regulatory body.
+
+The Office for National Statistics provides annual reports on data provided by coroners in England and Wales.   In 2023, of the 195,000 deaths reported to coroners, 1 per cent of those inquests, 569, resulted in PFD reports being issued.   This represented an increase of 41 per cent compared to 2022.     These figures provide a current picture, further work will be done by the Inquiry to analyse the coroners' statistics which go back to 1995.
+
+It is also worth noting the Preventable Deaths Tracker, which since 2013 has collated a database of all PFD reports in England and Wales.    The Inquiry is aware of this valuable resource, and will consider how best to use this and other sources of information on PFD reports.
+
+PFD reports are now published on the judiciary website and, where provided, responses are also published.   It is noted that in 2025, for the first time, the coroner published a table of "non-responses to PFD reports" for the previous year.   The Inquiry is seeking responses and other relevant inquest material.
+
+Moving now to the evidence that has been received by the Lampard Inquiry.
+
+Rule 9 letters on the subject of "Inquests -- PFD reports and neglect findings" were sent to EPUT, NELFT, the Priory Group, St Andrew's Healthcare and Cygnet, to ascertain what material they held in the first instance.
+
+The EPUT response is 37 pages long.   It includes a 25-page statement and three appendices.   The statement is provided by Ann Sheridan, Executive Nurse at EPUT. She has been in post since 9 February 2024.
+
+There are 269 exhibits to the statement.
+
+EPUT states that, "the Trust does not hold a central record of all PFDs and ROIs issued for the entire relevant period".   Ms Sheridan's statement then sets out the history of data management systems used by the Trust and its predecessors.   She accepts that, "It is possible that the Trust would have received other PFD/Rule 43 reports, however we have been unable to locate the PFD or find indications that further reports were received within our records".   The searches that have been run on the Trust's electronic devices have "relied upon the documents being saved with the patient's correct spelling of name".
+
+EPUT has located 32 PFD reports.    They have provided the PFDs and responses for the 32 identified; supporting material for 30 out of the 32; and Records of Inquest for 22 of the 32.    Some material is missing and Ms Sheridan states that the Trust is continuing to search for this information.
+
+The number of PFD reports found by EPUT and provided to the Inquiry is far smaller than the inquiry had anticipated.   The Inquiry has adopted a trauma-informed approach to disclosure of this material and will disclose the PFD reports, the responses and supporting material where available to the families before disclosing this material to all Core Participants.   This will allow the families to discuss these materials with their legal representatives.    What is set out in this paper, Chair, is necessarily limited to a summary.
+
+The first PFD report provided by EPUT dates back to May 2001.   The next PFD report is from March 2010, then September 2011, there is also a report from February 2013 and another in June 2014.    The numbers of reports then increase.   There are three PFD reports in 2015; three PFD reports in 2016; five in 2017; one in 2018; two from 2020; one in 2021; then seven in 2023; and five in 2024.   The Inquiry is of course mindful that the numbers may be more reflective of EPUT's recordkeeping and archiving of PFD reports than they are of the true number of PFD reports received by EPUT since 2001.
+
+The Inquiry is aware of a recent PFD report issued in March 2025, which was after the response received from EPUT to the Inquiry's Rule 9 Request.    This recent PFD report notes that a significant number of the "serious causative failings" identified in it have featured in previous PFD reports issued to EPUT, namely: Communication; Training and Supervision; Recordkeeping; Discharge Planning; Care Planning; Risk Assessment.     The coroner noted that these issues arose as recently as October 2024 and February 2025.
+
+A similar list was identified by EPUT in their review of the 32 PFD reports.    In a table, EPUT has identified the following recurring themes:
+
+Recordkeeping -- arose in 14 reports;
+
+Communication -- arose in nine reports;
+
+Clinical risk management -- arose in eight reports;
+
+Referrals -- arose in six reports; Involvement of family -- arose in six reports.      For the avoidance of doubt, the phrase "involvement of family" is used by EPUT.     The Inquiry understands this to mean failure to engage with family members and loved ones of the deceased; Risk assessment management -- arose in four reports; Medication -- in four reports; Risky item -- in four reports; Policies -- in four reports; Care planning -- in four reports; Environment -- in three reports; Mental Health Act assessment -- arose in two reports; Electronic patient records -- arose in two reports; Security -- arose in two reports; Training -- arose in two reports; Staffing -- in two reports; Disengagement -- in two reports; Observations -- in two reports. EPUT have also provided information in respect of a deceased patient whose death resulted in correspondence with the coroner but not a PFD report. 70 narrative conclusions have been reviewed by EPUT to identify adverse findings.    39 included adverse findings against EPUT and/or its staff.    Appendix B to Ms Sheridan's statement details the 21 ROIs where an adverse finding was made but there was no PFD report. Seven returned a rider of neglect.
+
+Themes across the seven conclusions were identified by EPUT:
+
+Failures in monitoring and observation protocols -- arose in three;
+
+Inadequate risk assessments both at admission and/or throughout care -- identified in all seven;
+
+Lapses in care planning were also identified in all seven.
+
+EPUT set out the history so far as it is recorded of their approach to responding to and learning from PFD reports and to findings of neglect and other adverse findings by the coroner.
+
+EPUT have also set out their current approach to learning lessons.
+
+The Priory Group response is five pages long.   It is provided by Mark Rice-Thomson, Senior Investigations and Inquest Manager.    There are no exhibits.
+
+In summary, after a review of all digitally held records and paper-based archives, the Priory can confirm that they have not received any PFD reports or Rule 43 reports, and there have been no findings of neglect and/or adverse findings made at inquests in respect of the Priory Group or its staff.
+
+The Priory Group's statement outlines their general approach and the processes they follow when they receive a PFD report and/or a finding of neglect.
+
+St Andrew's Healthcare's response is five pages long.   It is provided by Stuart Wallace, Data Protection Officer/Senior Lawyer.   There is one exhibit.
+
+In summary, St Andrew's state that they have not received any relevant PFD reports.   There has been one case where findings of neglect were recorded.     This is the case of Edwige Nsilu.   The Record of Inquest and statement provided to the coroner in response is provided.   The Inquiry has taken the same approach in respect of this material, which will be provided to the family before it is disclosed more widely.
+
+St Andrew's have outlined their current approach in respect of PFD reports in relation to other hospitals not in Essex.
+
+The Cygnet response is four pages long.      It is provided by Christian Joseph Young, General Counsel of Cygnet Health Care Limited.   There are two exhibits.
+
+In summary, there were PFD reports identified during the relevant period within the scope of the Inquiry. When a PFD report is received by Cygnet, they follow the "PFD process map", which is exhibited to their statement.    The current approach taken by Cygnet is also set out in their statement.
+
+Finally, Chair, some themes arise in respect of inquests, the coronial process, data retention and the need for oversight and monitoring of inquest findings and PFD reports.
+
+I opened by setting out the most recent data from 2023 concerning the number of inquests in England and Wales and noted that of those inquests, 1 per cent resulted in Prevention of Future Deaths reports being made.
+
+The Inquiry will consider the available data over the relevant period and explore the approach to making PFD reports and then how those reports are responded to, not only by the relevant trusts, bodies and individuals, but also by the regulators.   Whether there is a gap in the regulatory framework in terms of ongoing monitoring and accountability is an issue this Inquiry is particularly interested in.
+
+**Mr Griffin**: Thank you.
+
+Chair, we'll rise now, please, until 11.15.
+
+**The Chair**: Before we do, can I thank you very much, Ms Godber, for your paper and your statement today, both of which I have found really helpful and admirably clear.     Thank you very much indeed.
+
+*(10.55 am)*
+
+*(A short break)*
+
+*(11.15 am)*
+
+**Mr Griffin**: Chair, we now hear from Fiona Murphy KC.
+
+**The Chair**: Thank you.
+
+Response to presentation by MS MURPHY
+
+**Ms Murphy**: Chair, hello.   I am, as you are aware, instructed with Sophy Miles by Bhatt Murphy Solicitors on behalf of the families bereaved by the tragic and avoidable loss of Bethany Lilley and Edward Jackson in the care of EPUT, and X4, a patient who will assist your Inquiry with his lived experience of mental health services in Essex.
+
+This morning I will also address the perspectives of those Core Participants who are represented by Bindmans, Leigh Day, Irwin Mitchell and Bates Wells Solicitors.
+
+Chair, you will have had sight of the detailed written submissions responding to your team's initial paper in relation to inquests, from my learned friends Ms Sikand, King's Counsel, and Ms Profumo, on behalf of the Core Participants instructing Leigh Day and Irwin Mitchell; from Ms Campbell, King's Counsel, and Mr Stoate, on behalf of those instructing Bindmans Solicitors; and from Ms Morris, King's Counsel, and Ms Lewis on behalf of INQUEST, who separately instruct Bhatt Murphy.
+
+It is no doubt apparent to you from those documents, as it will be to your team, that the families' perspectives and those of their champion, INQUEST, informed by the skill and experience of colleagues at the Bar and in the solicitors' firms instructed before you, will prove an invaluable resource to your Inquiry, and that those papers stand as a testament to the importance of guaranteed rights of access to independent information, advice and representation from families in relation to any inquest involving public bodies, a topic to which we will return.
+
+We warmly welcome your Inquiry's consideration of bereaved families' experience of inquests, touching upon the deaths of their loved ones and your team's prompt revision to its initial paper, in light of the corrections as to the law, the procedure and the bereaved families' experience, set out by my team and colleagues.
+
+We entirely support your team's intention to seek out more information about the inquests that have occurred and invite particular scrutiny of the evidence placed before coroners in respect of lessons purportedly learned at the point in time when each of those inquests occurred, a topic to which we will also return.
+
+This morning, we will address within the allocated time, five topics.   Firstly, the experience of bereaved families participating in complex inquests where issues of systemic and/or individual failings in mental health services arise; secondly, the process towards and issuing of Prevention of Future Deaths reports, PFDs; thirdly the obstacles to timely identification of issues of concern and achieving reliable datasets in relation to inquests; fourthly, the need for an internal coronial appeal process; and, finally, we will collate the topics that we consider should be the focus of this aspect of your investigations and recommendations that ought clearly to be made, and which, in our view, are apparent even at this very early stage.
+
+In this presentation, we will, at times, offer brief examples from the families' experiences, but note that your Inquiry has sought extensive evidence from families and it is also anticipated that your Inquiry will ensure that evidence is placed before it in relation to the providers' and oversight bodies' participation in the relevant inquests.   We will of course wish to offer fuller observations when that material is available.
+
+So our first topic, the bereaved’s experience of the inquest process.
+
+We now know that there were an extraordinary and shocking number of deaths of patients receiving mental health treatment and/or seeking to access mental health treatment in Essex over the last 25 years, and we now know that far, far too many of those deaths arose from the very same individual and system failings.   From neglect, and from a systematic failure to deliver a safe service in Essex.
+
+As your Inquiry has fully acknowledged, identifying the scale of this tragedy remains a challenging and important responsibility, and in your opening remarks last September, Chair, you noted, "The tragedy is that [your] Inquiry may never have a definitive number of deaths that fall within the remit".   Equally important, as you have also fully acknowledged, is determining why there was such horrendous delays in this systematic pattern of failure being brought to light.
+
+You will want to consider the barriers the families faced in relation to their inquests, the providers' conduct in relation to those inquests, especially whether they discharged their duty of candour, the providers' responses to inquest outcomes and the role of the oversight bodies.
+
+Chair, as your counsel, Mr Nicholas Griffin, King's Counsel, also identified in his opening statement last September, it was only through the determined campaigning of bereaved families that this scandal was brought to light and your Inquiry initiated.   That campaign ought never to have been necessary and it ought never to have to happen again.   The responsibility for protecting the lives of others did not rest with those families.   We all share an enormous debt of gratitude for their selfless and brave determination to save others from the suffering they have endured.
+
+The responsibility for protecting lives lies not with the bereaved families but with the providers and the oversight bodies, especially the Care Quality Commission, whose responsibility it was to use the powers vested in them to identify and remedy the providers' deficiencies.
+
+As I have mentioned, your Inquiry has sought evidence from families concerning their experience. Your Inquiry will learn of the barriers that were placed in their path, of how their determination to seek the truth was obstructed.
+
+Sadly, the experience of bereaved families in relation to mental health inquests in Essex is not unique but there are particular characteristics of their experience from which your Inquiry will derive significant assistance, especially in understanding the true causes of how this scandal came to be perpetuated. All of this we know is at the forefront of your considerations and that of your team.
+
+The families experienced being unrepresented.     Our own clients, the family of Edward Jackson, who was just 18 years old at the time of his death, were unrepresented in relation to his inquest.    Others experienced restrictions on securing Legal Aid, many were not signposted to INQUEST, many were not assisted at all with finding lawyers.
+
+Lydia Fraser-Ward, represented by Bates Wells, presses the important point that, "All families should be made aware of their rights from the outset and directed proactively to those who are best placed to give effect to their rights".   She felt "very largely excluded" from her sister's inquest.
+
+The families' experience has been of the death of loved ones, "falling under the radar", and of distressing and at times appalling delays.
+
+Chair, my learned friend Ms Charlotte Godber has helpfully highlighted some of the complexities associated with identifying, especially at an early stage, whether the investigative duty under Article 2 arises in relation to the deaths of those accessing or seeking to access mental health services.    As will be immediately appreciated, with public funding for families -- it is, of course, automatically available to public bodies but, so far as families are concerned, currently limited, in essence, to those inquests where Article 2 is found to be engaged -- bereaved families are placed in a cruel Catch-22.   Without legal representation, they cannot hope to navigate the complexities of the legal landscape and, when this is allied with a culture of institutional defensiveness, families are rendered impotent when their voice and their concerns ought to be at the heart of the inquest process.
+
+The institutional defensiveness of the providers has taken many forms: in failing to place evidence of system failings before the coroners' courts, in unreasonably disputing the relevance of Article 2, in delaying and in failing to provide disclosure.
+
+The Guille family's experience was all too typical. EPUT provided the disclosure in relation to Bethany Lilley's inquest after the evidential phase of the inquest was up and running.
+
+There have also been shameful misrepresentations that lessons have been learned when they have not.    We will return to the impact of this culture upon the issuing of Prevention of Future Deaths reports in our next topic.
+
+These defensive behaviours caused real harm.    They caused the re-traumatisation of grieving families, they obstruct the truth, they obstruct lesson learning and they act as a fundamental bar and barrier to change.
+
+An inquest, even, and perhaps especially, where the death arises from systematic failures in the delivery of mental health services, has the potential to have real meaning for the families and to deliver important learning and change.   But the essential characteristics of such inquests are too often absent.
+
+Those essential characteristics are, first, the legal representation of the bereaved enabling them to seek out answers to their questions; secondly, genuine discharge of the duty of candour on the part of provider participants and oversight bodies; thirdly, early and effective investigation of the death; and, fourthly, the retention and early disclosure of all pertinent records, including those held by oversight bodies.
+
+A family's right to question witnesses before an inquest is a longstanding and highly treasured element of the inquest process.   It is a right that raises families from a position of impotence and silence and places them, in this respect, on an equal footing with the Trusts, with the providers, with the oversight bodies and indeed the coroners.
+
+Your counsel, Ms Godber, has highlighted the similarities between Core Participants before a public inquiry and interested persons before an inquest.    The families and those with lived experience urge your Inquiry to afford them the opportunity to ask questions before this Inquiry through their own lawyers: focused, appropriate and non-repetitive questioning, of course; questioning that would be in every way consistent with your laudable goals of expedition and efficiency.
+
+Chair, you will see that when the process works, the content of records of inquest include truly meaningful expanded narratives, often benefiting from the extremely impressive perspectives of juries who bring the benefits of paradigm fact finders and who can frame a record of the inquest that most directly aligns with the public's perspective.
+
+You will wish to examine how the characteristics of effective inquests can more consistently be applied in relation to mental health deaths, as inquests offer the potential to deliver a critically important check and balance, where, as here, the extent of systematic failings does not come to light from the providers or from the oversight bodies' reporting, investigation, auditing and inspection mechanisms.   These are processes that ought to complement and reinforce one another, but that has not been the experience of the families we represent.
+
+Our second topic: reports to prevent future deaths.
+
+Too often, institutional defensiveness and complacency, failures to discharge the duty of candour, and the submission of evidence that appropriate action has been taken since the death, when it has not, mar the bereaved's experience of inquests and obstruct their effectiveness.
+
+As identified by your counsel, in the event that a coroner is satisfied by evidence that appropriate action has been taken, the preconditions for the making of a PFD report will not be considered to have been met. Where that evidence is, in fact, inaccurate, the opportunities for public accountability and the prevention of future deaths will thereby be obstructed.
+
+The position statement of EPUT's CEO Paul Scott to this Inquiry, dated 27 March 2025 exemplifies this stance of institutional defensiveness and complacency. This was a statement sought by your Inquiry to afford EPUT an opportunity to "reflect openly and candidly on its practice and responsibilities during the relevant period", to acknowledge where things went wrong, and to explain the lessons learned.
+
+The position statement is, by contrast, replete with attempted justifications and excuses, and with vague and generalised statements of confidence in an improved service.
+
+It serves your Inquiry ill for Mr Scott to state at paragraph 25, when addressing the situation in September 2000 that, "The Trust already had, and continues to have, a clear focus on safety".
+
+Chair, we invite you to consider whether Mr Scott's complacent recitation of policy change, allied with bold assertions of improvement, without offering detail, and the failure to address your Inquiry's request to identify operational deficiencies is precisely the sort of evidence that is too often placed before coroners and which obstructs the discharge of their vital preventing future deaths responsibilities.
+
+There is an important current context to this position statement.   First, we have had our attention drawn by your counsel to a PFD dating from as recently as March 2025, which records, in relation to the standard of care delivered by EPUT in October 2024 and February of this year, a significant number of "serious, causative failings", failings that had featured in previous PFD reporting and which related to communication, to training and supervision, to recordkeeping, to discharge planning, to care planning and to risk assessment, themes with which you, Chair, will be fully familiar.
+
+Secondly, we have learned from the evidence placed before this phase of your Inquiry of EPUT's failure to even maintain a centralised depository of records of inquests and PFDs; you will note my learned colleagues' expressions of a total lack of surprise about that.
+
+The PFD process does, of course, have significant limitations.    There is an inconsistency in coronial approach with variations in practice and it is dependent upon the coroner's assessment as to whether, in his or her opinion, action should be taken.   As my learned friend Ms Sikand, King's Counsel, and Ms Profumo explain in the Leigh Day/Irwin Mitchell paper at paragraphs 27 and following, this is an entirely subjective exercise and the duty does not crystallise until the coroner is so satisfied.    The experience is one of different decisions on the same evidence, with Trust-interested persons too often unreasonably weighing in to seek to prevent the making of a report.
+
+On this aspect the solution, we submit, and which we will return in our fourth topic, is to enact the intended internal appeal process.
+
+A further limitation is the absence of any power authorising a coroner to take any steps upon receipt of an inadequate or vague response to PFD reports.     For all these reasons, the absence of a PFD cannot be taken as evidence of an absence of a continuing risk to life, one continuing since the original failing or failings and, regrettably, your Inquiry can derive limited if any, assistance from the absence of a PFD report in respect of any particular death.
+
+Preventing Future Deaths reports offer essential opportunities for learning and for action.   Their usefulness has been undermined by institutional defensiveness before coroners and inaction upon receipt of reports.   We look to you to make findings and recommendations that will serve to strengthen the effectiveness of this vital tool.
+
+Our third topic: capturing issues of concern in reliable datasets.
+
+Chair, we acknowledge that you have identified that reliable datasets are an essential driver in the effecting of meaningful change.   My learned friends Mr Snowden, King's counsel, and Ms Campbell, King's Counsel, powerfully addressed you on aspects of this topic yesterday.
+
+In relation to inquests, we have observed in our paper that there is no cross-referencing in His Majesty's Governmental statistics between deaths reported to the CQC under CQC Regulation 17, that adopts a term "detained or liable to be detained" and notifications to the senior coroner pursuant to the Notification of Deaths Regulations, Regulation 3(d), which refers to the deaths of those "otherwise in state detention".
+
+As the CQC notifications pursuant to Regulation 17 capture patients under community treatment orders only where they have already been re-called, there is, on the face of it, no ready or adequate explanation for the disparity in statistics between the two datasets. Governmental statistics record 147 deaths in 2023 and the CQC statistics record 264 in the financial year 2022 to 2023, and not even the reporting periods align.
+
+Further, particular concerns arise regarding the identification and notification of deaths to both the CQC and senior coroner falling outside the Regulation 17 and Regulation 3(d) definitions, where either an issue arises with regard to compliance with the systems and/or operational duties under Article 2, in respect of informal patients and those seeking to access services in the community or, where an issue arises in relation to the adequacy of a risk assessment prior to patients being admitted, whether by reason of a decision being arrived at not to detain, or through a bed not being available.
+
+Failures to reliably identify arguable breaches of Article 2 compound the weaknesses in the inquest system for the reasons already discussed and, as such, qualitative and quantitative failings in CQC, HSE and Serious Untoward Incident mechanisms have serious impacts.   Not only are bereaved families shut out from non-means tested public funding, thus depriving them of the means to remedy deficiencies in the inquest, but the process is itself deprived of the benefits of an expanded Article 2 inquiry.
+
+Further, Section 5(2) of the Coroners and Justice Act requires the expansion of the matters to be ascertained, identified at Section 5(1) to include avoiding a breach of any Convention rights.     So we urge careful scrutiny of the extent to which the Trusts, the providers and the oversight bodies, adequately identify and initiate Article 3 compliant investigations, in respect of arguable breaches of the prohibition on torture, inhuman and degrading treatment.
+
+Of course, that is a duty that ought to be discharged in all such circumstances and not only where a death reveals a potential violation, and examples here include circumstances where issues arise regarding excessive restraint, restrictive practices, neglect, and so on.
+
+Our fourth topic: an internal coronial appeals process.
+
+Section 40 of the Coroners and Justice Act envisaged an internal coronial appeals process.   This provision was not implemented at the time and was subsequently allowed to lapse and eventually repealed.   The intention was to achieve consistency in coronial approaches, including, significantly, in relation to Preventing Future Deaths reports.
+
+In our view, that appeal process ought reasonably to include an opportunity for reconsideration of contentious pre-inquest review hearings, including whether Article 2 is arguably engaged -- too often a highly contentious issue -- scope, disclosure, whether the coroner will exercise discretion to sit with the jury, all matters that lead to protracted argument and delays, fuelled by institutional defensiveness and a lack of consistency in coronial decision making. A fast and efficient appeal process would make a significant contribution to remedying those deficiencies.
+
+Our final and concluding topic: the matters for the Inquiry's investigation and recommendation.
+
+First, matters for your Inquiry's careful evidential investigation.   The quantitative and qualitative failings in CQC, HSE and Serious Untoward Incident mechanisms, and the contribution of those failings to undermining coronial outcomes.
+
+Secondly, the current structural failings in relation to the capturing of issues of concern and achieving reliable datasets.
+
+Thirdly, the extent to which inquests are failing to dovetail effectively with reporting, auditing, investigation and inspection mechanisms.
+
+Fourthly, identifying the structural barriers to the identification and prioritisation of death clusters, by which we mean those arising in concerning numbers, or those arising from similar failings or from failures to learn lessons identified in earlier inquests, and those arguably arising from systematic failings.
+
+Finally, scrutiny of the providers' discharge of their duty of candour in their role as interested persons before inquests, especially with regard to the submission of evidence regarding remedial action and the impact of such evidence upon the exercise of coronial powers and duties to issue Preventing Future Deaths reports.
+
+My learned friend Ms Campbell, King's Counsel, addressed you yesterday concerning the challenges to testing the sincerity and authenticity of the provider's promises for change.   We urge you to carefully scrutinise the providers' evidential contributions to the Essex inquests.
+
+In our view, that exercise will be probative, not only of the structural barriers to effective inquest processes but, more broadly, to the cultural and institutional drivers for the systematic collapse of acceptable service delivery in Essex.
+
+As to recommendations, and with the important caveat that our observations are necessarily preliminary at this stage: first, implementation of Section 40 of the Coroners and Justice Act, the internal appeals process; secondly, endorsement of the Independent Advisory Panel on Deaths in Custody's recommendation for the establishment of an independent body to investigate deaths of both informal and detained patients in mental health settings; and, thirdly, INQUEST's call for a national oversight mechanism.
+
+Chair, we are grateful for the opportunity to address you this morning and look forward to offering the fullest possible assistance to the important work of your Inquiry.
+
+**The Chair**: Thank you very much for a very thought-provoking presentation.   Thank you very much.
+
+**Mr Griffin**: Chair, we will now hear from Steven Snowden KC. We will just give him a moment to install himself.
+
+Response to presentation by MR SNOWDEN
+
+**The Chair**: Good morning, Mr Snowden.
+
+**Mr Snowden**: Chair, good morning again.   We are very grateful for a second opportunity to address you in respect of, this time, of different papers from your Counsel to the Inquiry.
+
+I'm going to address you, it seems, to be the fashion today, in five stages.
+
+**The Chair**: Yes.
+
+**Mr Snowden**: First, a short introduction; second, some comments on the evidence you've received so far as described in that paper; third, suggestions of evidence that could and should be obtained; fourth, some brief comments on disclosure as between the Inquiry and the Core Participants; and, fifth, some comments on the regulatory framework looking forward to the sort of recommendations you may in due course make.
+
+So first by way of introduction, we follow my learned friend Ms Murphy, King's Counsel, and we are very grateful for and we endorse the views that you have heard from INQUEST and all the other Core Participants who we alluded to yesterday in the various papers they've put before you.      We specifically endorse and echo their concerns at the responses of EPUT to the Inquiry's Rule 9 requests.
+
+We repeat their observations that the Inquiry should not overlook the expertise of those recognised legal representatives -- and I make it clear I'm not one -- who sit as assistant coroners, who can bring a unique perspective to this aspect of your Inquiry.
+
+We hope that our comments that I'll make in a moment on the inquests paper will complement what you've heard in the last 20 or 30 minutes and we hope they will assist.
+
+We note the comments from CTI, Counsel to the Inquiry, earlier that the paper you've received this morning and heard summarised is not intended to be a detailed guide to the coronial process.   So my observations this morning will focus on those sections of the paper that relate to the activities of the Inquiry and the information received by it.
+
+So, moving from the introduction to point 2: comments on the evidence received so far.
+
+Chair, like the other parties, we comment that it is surprising that EPUT have no central records of all of the Prevention of Future Deaths reports, and their predecessors, Rule 43 reports from coroners, for the relevant period.   For EPUT, we point out this is all the more surprising, given that Paul Scott, in his witness statement, and Ann Sheridan, in her witness statement, Chair, which I'm sure you've both read, say as follows -- Ann Sheridan says:
+
+"Since May 2023 [and we pause to wonder rhetorically why so recently] the Trust has had in place a central record of Prevention of Future Deaths reports which consists of a catalogue and the storage of key documents within the Inquest team shared drive."
+
+Now, we pause to observe it's not obvious what that catalogue of documents contains.     We haven't seen it yet.     Your team has not yet disclosed it to Core Participants, if indeed your team has yet received it. We see no reason why it should not include all the collected, historic Prevention of Future Deaths reports, and their predecessors Rule 43 reports, but, more importantly, why it should not also include EPUT's responses to all of those going back and including the Rule 43 reports.
+
+Taken together, the position statement of Paul Scott, the witness statement of Ann Sheridan and the second witness statement of Dr Karale, all three identify different committees, different policies, different processes for audit and quality control but none of those statements goes into any real detail about what, in practice, is being done to learn lessons from inquests or change things on the ground.    It is not immediately clear that the various new measures they outline are being adhered to, or whether they are more effective than the policies or leadership processes of the past, and those, Chair, are matters which must acutely concern you.
+
+Chair, I hope you'll forgive me if I emphasise what we said to you in our opening, and it's paragraph 31 of our written opening, where we pointed out to you that, so far as we could ascertain, whenever the Trust had responded to a coroner's report in a way which was publicly available then to us, the same mantra, invariably appeared, which was:
+
+"I would like to begin by extending my deepest condolences to [the patient's family].     This has all been an extremely difficult for them.    I hope my response provide [the patient's family] and you [the coroner] with assurance the Trust has taken their loss seriously and has taken action to address the issue of concern raised in your report."
+
+Chair, we pointed out in our opening that that response is repeated again, and again, and again.       Very clearly, that is an issue that you will be concerned about, to see whether any of those actions have ever translated into words or, more importantly for the future, whether, if those words are repeated again, they will translate into actions.
+
+Chair, in passing, we note that Ann Sheridan exhibited EPUT's responses to coroners to her witness statement but we, as Core Participants, have not yet seen those.   We have not had those disclosed to us.    In fact, of 269 exhibits to Ms Sheridan's statement, we have seen only three, so far.
+
+She summarised them, and summarised her responses to the Prevention of Future Deaths reports, at Appendix A of her statement but, as disclosed to us as Core Participants, that has been entirely redacted.
+
+Now, we do want to help, we do want to engage but we do need to see the underlying material to do so properly.
+
+Chair, so those are my comments on the evidence so far, insofar as described to us in your CTI paper.
+
+Evidence to be obtained, and we hope this will be of assistance to you and your Inquiry team.
+
+In our opening submissions -- in the appendix to our opening submissions, we set out links to each of the Prevention of Future Deaths reports that we had been able to find publicly before this Inquiry began, each of those pertaining to our clients, at least.   Not only this but we also provided links to the Trust's response because some of the Trust responses are provided publicly.
+
+Now, before publication, our chronology was, to an extent, edited or redacted by your team, for reasons we understand, but we have nonetheless hoped that our unedited chronology would be helpful to the Inquiry and that it could mean a message of triangulating or verifying the sort of material you would receive back from the Trusts in due course, which you have now received.    We hope it may still be so.
+
+We hoped also it might have formed the basis of particular Rule 9 questions to the Trusts, for instance where we identified that a response to a particular PFD report wasn't available, your team may have asked Rule 9 requests, or whether one was made, and, if so, could we see it?     Indeed, we hope that that's been done but, again, as Core Participants, we don't know that it has, so we encourage it to be done if it hasn't yet.
+
+Sidestepping slightly, we accept, of course, it will be useful to know, as a matter of what my learned friend Mr Griffin, King's Counsel, describes as "high-level detail", what processes the Trusts had and now have to learn from Prevention of Future Deaths reports.     But again, we emphasise as we did yesterday, we suggest, Chair, that that evidence can only be meaningfully interrogated, you can only assess whether they are doing it or not doing it, in the context of the illustrative cases which you and your team will be choosing, hopefully in collaboration with Core Participants.    Did the Trusts in fact do what they said they would do?     Can we see recent changes in their behaviour and, if not, that typifies the examples of the concern that you need to express.
+
+So that again, Chair, we suggest, underlines the need for careful selection and investigation of your illustrative cases with the views of the families and the patient perspective incorporated.   Again, I pause to make the point I made yesterday, if you'll forgive me: that emphasises the need for this Inquiry to take time, to be fully prepared, to use my earlier expression, to triangulate the material you're receiving from different sources, factual evidence, disclosure from the Trusts, and to make optimal use of the next hearing.   Chair, again I repeat what I said yesterday, that delaying a hearing would be our preferred course, so as to enable it to take place more efficiently and to dig deeper during the time that is allowed.
+
+One final observation on the evidence received so far is that your CTI paper noted that the number of PFD reports submitted from EPUT was far smaller than you'd anticipated.   We pause to say we're not sure how you formed your expectation in the first place but we all concur it's a surprisingly small number over that number of years.
+
+But at paragraph 93 of your CTI paper, it is said that you, the Inquiry, will explore the approach first of all to making PFD reports, and then to how those reports are responded to.
+
+So we pause on the first part of that sentence and, Chair, we encourage you to liaise with coroners, to liaise with the Chief Coroner -- and it may be that this is already in hand and, again, we'd welcome encouragement to do so -- with the Coroners' Society, to which all judicial office holders of coroners belong; and with INQUEST itself, for information that will inform you more clearly as to the making of PFD reports, perhaps zoned in more closely the making of PFD reports in a medical context, even closer in a mental health context.    We suggest that would be a useful exercise to be undertaken providing helpful, we hope, evidence.
+
+So that was point 3: observations on evidence we suggest could usefully be obtained.
+
+Fourth of my five points: disclosure from the Inquiry to Core Participants.   I'll be brief on this, if I may.
+
+We note that the Inquiry stated that it will disclose the PFD reports to the families before disclosing them to all Core Participants.   We accept that course, of course we do.   But we do note that our clients have not yet had such disclosure, either as a family affected by that particular report or as Core Participants generally.
+
+These Prevention of Future Deaths reports are public material and they are public material in the form in which they appear in public.    So, to an extent, we therefore concur with the comments of Irwin Mitchell and Leigh Day, which we've already read, namely that they say, "Whilst conscious of the rationale for the approach to redactions and disclosure adopted by the Inquiry legal team, we are limited in our ability to provide any informed input as to the quality and significance of such evidence".
+
+Indeed, we will go just a little further, if we may, with the greatest of respect, and say, while we are conscious of that rationale, the approach to redactions seems to us potentially to border on excessive.    These are public documents and should be released and considered by this Inquiry and by the Core Participants in their public form.
+
+We say importantly, the perceived need to make redactions ought not to trump the need for Core Participants to engage fully with the Inquiry, and that enough time ought to be allowed between disclosure and hearings to allow issues over redactions and disclosure to be ironed out.
+
+So, Chair, I move now to my fifth and final point which is simply to assist, to look to the future and your consideration as a regulatory framework, which your CTI paper suggests you will be undertaking.
+
+It is said that you're particularly interested in whether there is a gap in the regulatory framework in terms of ongoing monitoring and accountability.   Again, we say this is a key issue on which it's imperative the Inquiry engages with all of the Core Participants.    For instance, we note that INQUEST, who are a Core Participant, the Independent Advisory Panel on Deaths in Custody, as noted in your CTI paper, and the Commons Justice Committee have all expressed public support for an independent body to monitor the uptake of coroners' recommendations.
+
+As against that, Chair, you will already know and you will already have seen, that that should be considered against other evidence gathered by your Inquiry in the round, for example the Public Health Service Ombudsman does not necessarily think that more is better in terms of regulatory bodies and enforcement bodies, and the experts you've instructed in this Inquiry so far have expressed some preliminary hesitation about regulation.
+
+Sir Robert Behrens says more than a dozen different health and care regulators all play important roles in patient safety but there are significant overlaps in functions which create uncertainty about who is responsible for what, this means the patient's safety, voice and leadership are fractured.
+
+Paul Scott, we note, on behalf of EPUT says:
+
+"As a Trust we faced a large number of recommendations and actions from a wide range of sources over a significant period of time.    This led to numerous action plans all delivered in isolation, with an impact on the way in which change was sustained."
+
+So, Chair, we see the tension between needing to ensure that coroners' recommendations are heeded and abided to, but also we see the risk that yet another regulatory body, of itself, may not be the answer, and it is a difficult question, Chair, with which you will grapple in due course and, for our part, we simply say we have an open mind at this stage of that issue and we hope to work with you as the evidence develops.
+
+But if this Inquiry does, and we know you do, want to make meaningful actionable change, you need to consider why the existing regulatory framework hasn't worked and, if a gap does exist, identify the precise nature of that gap, and the way best to fill it, and that will require a lot of evidence and some very careful thought.
+
+So, Chair, if you'll forgive me, I'm just going to summarise the five points -- four points in fact -- my five paragraphs.
+
+First, we look forward to ongoing engagement, and we hope that you will hear from the recognised legal representatives further in this area.   We do want to collaborate on work, particularly relating to inquests and the enforcement of coroners' recommendations.
+
+Secondly, we hope we will have full, early and usable disclosure to the Core Participants from the Inquiry itself.
+
+Thirdly, mentioning briefly the point about redactions, we understand some are necessary but not too many, please.
+
+Fourthly, I repeat our suggestion of vacating July, moving things back and taking time so that we can dig deeper and more effectively at the next hearing which is convened.
+
+Chair, I hope those observations are helpful.
+
+**The Chair**: Thank you.
+
+**Mr Griffin**: Chair, that's the end of our day today.   We will reconvene on Tuesday next week, as Monday is a Bank Holiday, at 10.00 am, when we will hear from the PHSO, the Ombudsman that Mr Snowden just mentioned, Sir Rob Behrens, in the morning and you'll hear some information in the afternoon about local wards and services.
+
+So it's until 10.00 on Tuesday.
+
+**The Chair**: Thank you very much.   Thank you.   10.00 am on Tuesday.
+
+*(12.06 pm)*
+
+*(The hearing adjourned until 10.00 am on Tuesday, 6 May 2025)*
+

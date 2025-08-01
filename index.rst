@@ -33,5 +33,7 @@ Contents
 .. toctree::
    :maxdepth: 3
 
+   july-hearing/index.rst
+   april-hearing/index.rst
    commemorative-and-impact-accounts/index.rst
    opening-statements/index.rst

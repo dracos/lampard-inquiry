@@ -1,0 +1,2823 @@
+.. raw:: html
+
+   <a id="hearing-link" href="https://lampardinquiry.org.uk/hearings/hearing-day-13-april-hearing/">Official hearing page</a>
+
+Hearing Day 13 – Jane Lassey
+============================
+
+.. raw:: html
+
+   <details id="hearing-meta" open>
+        <summary>
+            <span class="open">Hide video</span>
+            <span class="closed">Show video</span>
+        </summary>
+   <lite-youtube videoid="me4DRCAtwHk" params="rel=0"></lite-youtube>
+   <lite-youtube videoid="JvZIOsZofw4" params="rel=0"></lite-youtube>
+   </details>
+
+*(10.00 am)*
+
+**The Chair**: Mr Griffin, good morning.
+
+**Mr Griffin**: Thank you, Chair, and good morning.
+
+Chair, I'm joined this morning by my colleague on the counsel to the Inquiry team, Kyan Pucks.     Today we will be viewing the Dispatches documentary, we will then hear a summary of a number of witness statements, provided on behalf of various regulators, including the CQC, and later, we will be hearing from my colleague, Rebecca Harris KC, who will provide a summary of evidence concerning the Health and Safety Executive prosecutions which I referred to yesterday, and will then be asking questions of Jane Lassey of the HSE.
+
+On the 10 October 2022, Channel 4 broadcast a Dispatches documentary entitled “Hospital Undercover: Are They Safe?”    The programme shows footage from a year-long undercover investigation and highlights concerning practices on various wards run by EPUT.     It covers issues including: concerning ligatures; the behaviour of those working on the unit; the use of restraints; and absconding from wards.     Some of this may be harrowing to watch.
+
+The details that will be provided about the HSE prosecutions will include an overview of the prosecution of EPUT -- again, I referred to that yesterday -- and the summary makes reference at a high level to the 11 tragic deaths.   The evidence of Jane Lassey, our witness this afternoon, may include questions about that prosecution and questions about investigating suicide.
+
+Chair, I understand that all or some of these topics will be distressing and difficult to hear and that, for some, it may not be possible to sit through the session. Anyone in the hearing room is welcome to leave at any point.   I'd like to remind people also that emotional support is available for all of those who require it. The wellbeing of those participating in the Inquiry is extremely important to the Inquiry.    We have two support staff from Hestia, an experienced provider of emotional support, here today.
+
+May I ask that they raise their hands, please?      One of them is in the room.     Thank you very much.   As you've heard before, they're wearing orange scarves and orange lanyards.
+
+There's a private room downstairs where you can talk to the Hestia support staff if you require emotional support at all throughout this hearing.    The Hestia support staff are there and ready to speak with you if you need them, or you can speak to a member of the Inquiry team and we can put you in touch with them. We're wearing purple lanyards.
+
+If you're watching online, information about available emotional support can be found on the Lampard Inquiry website at lampardinquiry.org.uk, and under the "Support" tab near the top right-hand corner.     You can also contact the Inquiry team's mailbox on contact@lampardinquiry.org.uk for this information.          We want all those engaging with the Inquiry to feel safe and supported.
+
+Chair, what we will do now is to play the Dispatches documentary and, after it, we will break and then come back for the summary of the regulators' evidence.      So that's the plan for this morning.     But with your leave, I'll ask that the documentary is now shown.
+
+**The Chair**: Thank you.
+
+**Mr Griffin**: Thank you.
+
+*(The Dispatches documentary video was played)*
+
+**Mr Griffin**: Thank you very much.   Chair, we'll break now for half an hour until 11.25.
+
+*(10.56 am)*
+
+*(A short break)*
+
+*(11.29 am)*
+
+**The Chair**: Mr Griffin.
+
+Summary of regulators' evidence by MR GRIFFIN
+
+**Mr Griffin**: I'm now going to provide a summary of the evidence of the healthcare professional regulators and Care Quality Commission evidence.    This is a summary of the evidence provided to the Inquiry by the General Medical Council, or the GMC, the Nursing and Midwifery Council, or the NMC, the Health and Care Professions Council, the HCPC, and the Care Quality Commission, the CQC.
+
+That evidence in the form of the statements and exhibits has already been disclosed to Core Participants.    This is a summary and does not represent the totality of the evidence provided.    It should be noted that the Inquiry anticipates receiving further evidence from these bodies in the course of the Inquiry and that there are further enquiries which remain outstanding.    Where practical, these are identified in the summary.
+
+At this stage, the Inquiry will not be going into the detail of any specific case identified by these regulators.     However, this will be revisited as the Inquiry's investigation progresses.
+
+The purpose of this summary is therefore limited to providing an initial overview of the roles of these regulators and steps taken in respect of healthcare professionals or providers of mental health inpatient care at the Essex Trusts during the relevant period.
+
+As set out, the information provided is not complete and should not be taken to represent the final picture.
+
+Starting, then, with the GMC and the witness statement of Shaun Gallagher, Director of Strategy and Policy, and this is in the core bundle at page [254]:
+
+The GMC is the independent regulator of doctors within the UK.    Their powers are provided by the Medical Act of 1983.   Under the Act, the GMC must act to protect, promote and maintain the health, safety and wellbeing of the public, promote and maintain public confidence in the profession, and promote and maintain proper professional standards and conduct for members of the profession.
+
+A concern relating to a doctor can only be taken forward if it falls within one of the following categories: misconduct; deficient professional performance; a criminal conviction or caution in the British Isles or elsewhere for an offence which would be a criminal offence if committed in England or Wales; adverse physical or mental health; not having the necessary knowledge of English; a determination or decision by a regulatory body either in the UK or overseas to the effect that fitness to practise as a member of the profession is impaired.
+
+The GMC will only take action where the concern raised is sufficiently serious to raise a question about the doctor's fitness to practise.   Concerns can be raised by anyone, including patients, families, employers or other doctors.
+
+In 2012, the GMC set up a team of employer liaison advisors or ELAs, to enable more effective working between the GMC and healthcare providers.   ELAs work with employers and offer advice on whether thresholds for referral of concerns to the GMC are met.
+
+Many local concerns can be resolved without referral to the GMC.   On receiving a concern, the GMC will triage this against their threshold for investigation.    This will include consideration of the doctor's overall fitness to practise, the seriousness of the concern, its context, and how the doctor has responded.
+
+Where a matter is investigated, a decision on whether to refer the matter for a hearing before the Medical Practitioner Tribunal Service, or MPTS, is made by the GMC's case examiners.    If a case is not referred by the case examiners for a hearing, the case can be closed with no action, a warning or with undertakings agreed with the doctor about their future practise.
+
+The MPTS is a tribunal service created in June 2012 to separate the GMC's adjudication function from its investigations.    Where a doctor's fitness to practise is found to be impaired, the MPTS has the power to restrict a doctor's practice by imposing a sanction of conditions, suspension, or erasure.
+
+Since 2015, the GMC has used provisional enquiries to obtain limited and targeted information at triage, in order to help inform a decision about whether a full investigation is required.   This includes where a doctor, subject to a complaint, has a history of whistleblowing and where concerns relate to a single clinical incident or course of treatment.
+
+From 2010, the GMC assumed responsibility for setting and maintaining the standards of post-graduate medical education and training.   In response to the Inquiry, the GMC carried out a search of their electronic management system, introduced in April 2006, for complaints with a recorded connection to the Essex Trusts and relevant to mental health inpatient care.
+
+There have been limitations to the ability to search that material and further searches are being conducted using a list of known providers of inpatient care by unit location.   The results initially provided had been where there is a recorded connection to the Trusts by way of a referring body, incident location, doctors' designated body or employment history.     The initial search has identified 29 complaints or concerns in respect of doctors.
+
+None of these have to date resulted in any action being taken against the registered doctors concerned, although some remain subject to ongoing investigation. In summary, these complaints took place between 2013 and 2024, 14 cases were closed at the inquiry stage without a further investigation.     Reasons for this included: concerns not being sufficiently serious to call into question a doctor's fitness to practise; issues being of a systemic, rather than individual nature; and failings or concerns not being attributable to an individual doctor.
+
+15 cases were investigated after meeting the relevant threshold.   Of those which are not ongoing, ten cases were closed by case examiners.    Reasons for this commonly included: expert evidence and the care provided either did not fall short of the relevant standards or, if it did, that it did not fall seriously below the relevant standards such as to reach the threshold for misconduct; two cases where undertakings were deemed appropriate; and one case was referred to hearing, but then reviewed and closed with no further action.
+
+Next, the NMC and the witness statement of Paul Rees, Interim Executive and Chief Registrar, and this is in our core bundle at page [273]:
+
+The NMC is the independent regulator responsible for nursing and midwifery professionals in the UK.    This includes responsibility for mental health nurses.     The NMC is a statutory body established and governed by the Nursing and Midwifery Order of 2001.     Their overarching objective is protection of the public and the 2001 order requires that the NMC protect, promote and maintain the safety and wellbeing of the public, promote and maintain public confidence in the nursing and midwifery professions, and promote and maintain proper professional standards and conduct for members of the nursing and midwifery professions.
+
+In regulating the nursing profession, the NMC seeks to set, monitor and promote high educational and professional standards in nurses and midwives across the United Kingdom.
+
+When a concern is raised about a nurse's conduct, health or competence, this will be investigated through the NMC's fitness to practise process.     Similar to the GMC, the NMC has power to take action where a nurse's fitness to practise is alleged to be impaired by misconduct, lack of competence, criminal conviction or caution, physical or mental health, not having the necessary knowledge of English or where other relevant organisations have determined that their fitness to practise is impaired.
+
+Concerns can be raised by patients, their families and members of the public.    Information is provided publicly to support those wishing to raise concerns. Employers can also raise concerns and can engage with the NMC through their employer link service.    The NMC advises that referrals should be made to them where concerns pose a serious risk to people who use services and would be difficult to put right.     Local action cannot effectively manage any ongoing risks to people who use services.   Concerns require the NMC to take action to protect public confidence in the professions and uphold standards.
+
+The NMC can also investigate matters of its own volition without concerns being raising by a third party.   In outline, the NMC's fitness to practise process contains the following stages:
+
+Screening.   This will consider whether the concern relates to a nurse, whether the concern is sufficiently serious and whether there is clear evidence to show whether a nurse is fit to practise.    This stage can include further enquiries to enable a decision.
+
+Next, investigation.     Evidence will be gathered and the nurse will be asked to respond to the concerns.
+
+Then, case examiner decision.     This will involve reviewing the information gathered during an investigation and deciding whether it's likely to be found by the Fitness to Practise Committee that there is a case to answer based on the facts alleged and that the nurse's fitness to practise is currently impaired.       If it is found that there is no case to answer on facts or impairment, the case will be closed with no further action.   If it meets the threshold, it will be referred to the Fitness to Practise Committee or undertakings can be proposed and agreed.     Prior to 2015, this function was performed by the Investigating Committee.
+
+Next, adjudication.     Cases referred by the case examiners will be adjudicated on by the Fitness to Practise Committee at a meeting or hearing.     Factual allegations will be decided on the balance of probabilities before impairment of fitness to practise is then decided.   If a nurse's fitness to practise is found to be impaired then the following sanctions are available: caution order, this lasts between one and five years; conditions of practice order, these last between one and three years; suspension order, these can be between one and 12 months; erasure or striking off order, this removes a nurse from the NMC's register, meaning that they are no longer allowed to practise.
+
+In response to the Inquiry, the NMC have provided details of fitness to practise cases thought to relate to mental health nurses and provision of mental health inpatient care by the Essex Trusts.
+
+Challenges in providing that data have meant that the information provided may not be complete for the following reasons: employer data was not recorded in fitness to practise referrals prior to 2017; prior to 2008, cases were not recorded on the current system, meaning that it has not been possible to provide details of cases from this period; recording systems do not include a specific marker for mental health care provision which means that care from mental health nurses and at inpatient units cannot easily be identified; and the data often does not show the context and nuance relevant to decisions taken in all fitness to practise cases.
+
+The current list provided has also not been cross-referenced against the list of specific locations and hospitals identified to the NMC by the Inquiry as providing inpatient care.   It is therefore not clear that all those referrals listed necessarily relate to mental health inpatient care.   The Inquiry therefore recognises that further analysis will need to be undertaken to refine those cases which will fall within its scope and which may be relevant.
+
+Set against those caveats, the current data provides the following information from 2008 onwards:
+
+There have been 149 referrals concerning 133 nurses between 2010 and 2023.
+
+146 received an initial assessment and this has resulted in 65 cases being closed at initial screening. Across the cases that were closed at screening and did not progress to investigation, the NMC recorded reasons for the case closure in 50 cases.   The remaining 15 cases do not have reasons recorded.
+
+Of those with reasons recorded, 49 cases were closed either due to insufficient evidence to substantiate the concerns or because the concerns were not considered to be serious enough to meet the threshold for potential fitness to practise impairment.
+
+In six cases the investigation was not progressed either because the individual subject to allegations could not be identified or was not on the register.
+
+In three cases, the concerns were seen to have been remedied, meaning that the NMC considered there was clear evidence to show that the individual was currently fit to practise.
+
+Of those cases which progressed to investigation, three await an assessment decision, in 30 cases the case examiners or the Investigating Committee acted as the final decision maker and did not refer the case on to the Fitness to Practise Committee, 36 were referred for a hearing and 29 have concluded.
+
+Of those concluded, fitness to practise was found impaired in 24 cases.    This has resulted in four cautions, four orders for conditions of practice, 13 suspensions and six orders for striking off.
+
+Overall there remain 24 cases which remain open awaiting a decision at some stage within the fitness to practise process."
+
+Moving now to the HCPC and the witness statement of Bernie O'Reilly, Chief Executive, which is in our core bundle at page [304]:
+
+The HCPC is the statutory regulator of 15 health and care professions within the United Kingdom.      The HCPC, previously the Health Professions Council, was established in April 2022 with its register coming into effect on 9 July 2003.
+
+Its role and functions are substantially governed by the Health and Professions Order 2001.   The HCPC maintain a register of professionals, set standards for entry to the register, approve education and deal with concerns that a professional may not be fit to practise. Their main role is to protect the public.
+
+Each of the following professions is regulated by the HCPC and must be registered to legally practise under the following titles: arts therapists; biomedical scientists; chiropodists and podiatrists; clinical scientists; dietitians; hearing-aid dispensers since 1 April 2010; occupational therapists; operating department practitioners, since 18 October 2004; orthoptists; paramedics; physiotherapists; practitioner psychologists, since 1 July 2009; prosthetists and orthotists; radiographers; and speech and language therapists.
+
+Between August 2012 and 2 December 2019, the HCPC also acted as the regulator for social workers who are now regulated by Social Work England.   Where concerns are raised, fitness to practise can be found impaired on a similar basis to doctors and nurses by reason of misconduct, lack of competence, a criminal conviction or caution, physical or mental health or a determination by another health or social care regulator or licensing body.
+
+Similar to the GMC and NMC, any concern must be sufficiently serious to establish that a HCPC registrant's fitness to practice is impaired and that they require restrictions on their practice.
+
+Since 2020, the HCPC has used the Professional Liaison Service to work with employers to assist their decision making in respect of referrals of local concerns.    Following a concern being raised about an HCPC registrant, the following procedure is followed:
+
+Stage 1.    Concern received.   A decision is then made whether this falls within the types of cases which the HCPC consider.
+
+Stage 2.    An investigation begins.   Where a case falls within the HCPC's remit, information is gathered and the registrant is notified.
+
+Stage 3.     Threshold assessment.   This is carried out against the relevant grounds for establishing fitness to practise.    As with the GMC and NMC, this includes an assessment of the seriousness of the complaint.
+
+Stage 4.    Investigating Committee Panel.   If the concern meets the threshold for referral, allegations will be drafted and the Investigating Committee will decide if there is a case to answer or whether further investigation is needed.
+
+Stage 5.    Health and Care Professions Tribunal Service, or HCPTS hearing.     This will be where the Investigating Committee determines there is a case to answer.     The HPCTS will determine the allegations and whether fitness to practise is currently impaired.       If impaired, the HCPTS has available to it similar sanctions to the NMC which are a caution order, conditions of practice order, suspension order or striking the registrant off the register.
+
+The Inquiry requested that the HCPC provide details of fitness to practise cases concerning relevant providers of mental health inpatient care in Essex during the relevant period.   The HCPC conducted a search using relevant locations identified by the Inquiry to match location name against details held of employer name, address, current employer and previous employer.
+
+Cases unrelated to mental health, solely related to the registrant's health, not related to their work environment or from outside Essex were excluded.    From the data available from the HCPC's commencement in 2003, there have been referrals concerning 12 professionals: eight psychologists and two occupational therapists. This has resulted in one case where the registrant was voluntarily removed from the register on health grounds and 11 cases which were closed without referral to fitness to practise proceedings due to failing to meet the relevant threshold.
+
+It should be noted that this data does not include records from pre-2005, which are paper based and have not therefore been electronically searchable.     The HCPC have also not been able to provide details of cases concerning practitioner psychologists prior to 2009, as the profession was regulated by the British Psychological Society up to this point.
+
+Moving finally to the CQC and the witness statement of Sir Julian Hartley, Chief Executive, which is in our core bundle at page [317]:
+
+The CQC was established on 1 April 2009 by the Health and Social Care Act 2008 as the independent regulator of health and adult social care in England. Since then, it has been responsible for the registration, monitoring, inspection and regulation of services which fall within their regulatory remit.
+
+Providers of regulated activities, such as those providing mental health inpatient care, must be registered with the CQC unless exempt.    The CQC has identified the following as having provided mental health inpatient care in Essex during the relevant period: Mid Essex Hospital Services NHS Trust, registered 1 April 2010, and most recently inspected in November 2019; North Essex Partnership University NHS Foundation Trust, or [NEPT], registered 1 April 2010, most recently inspected in September 2016; South Essex Partnership University NHS Foundation Trust, or [SEPT], registered 1 April 2010, and most recently inspected in June/July 2015; North East London NHS Foundation Trust, or NELFT, registered 1 April 2010, and most recently inspected in June 2022; and Essex Partnership University NHS Foundation Trust, or EPUT, formed by the merger of [SEPT] and [NEPT], registered 1 April 2017, and most recently inspected in December 2024 and January 2025.
+
+The CQC's main objective in fulfilling its functions is set out in Section 3 of the Health and Social Care Act of 2008.    This is to protect and promote the health, safety and welfare of people who use health and social care services.   Further, it has the general purpose of making sure health and social care services provide safe, effective, compassionate, high-quality care and to encourage care services to improve.
+
+The CQC has a duty to conduct reviews of these regulated activities and service providers, to assess their performance following the review and to publish a report of the assessment.   This is further to Section 46 of the Health and Social Care Act 2008.
+
+Outline of predecessor organisations.   Prior to the CQC, the following organisations were responsible for functions now within its remit:
+
+The Mental Health Act Commission.   This was previously responsible for considering the legality of detention and rights of detained individuals under the Mental Health Act of 1983.
+
+The Commission for Health Improvement.     This was the health sector regulator dealing with safety quality and standards up until 2004.
+
+The Healthcare Commission.     This took over the Commission for Health Improvement and operated until the CQC took over this function in 2009.
+
+Approach to regulation.    Central to the way the CQC regulates is the application of fundamental standards. These are identified as the standards which everybody receiving care has the right to expect and below which care should never fall.
+
+These were introduced following the Mid Staffordshire NHS Foundation Trust Public Inquiry and imposed obligations that registered providers must meet in order to be registered with the CQC.   There are 13 fundamental standards which are contained in the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014.   It is against these standards that healthcare providers are assessed as part of the CQC's functions.   They are:
+
+Regulation 9: person centred care.
+
+Regulation 10: dignity and respect.
+
+Regulation 11: need for consent.
+
+Regulation 12: safe care and treatment.
+
+Regulation 13: safeguarding service users from abuse and improper treatment.
+
+Regulation 14: meeting nutritional and hydration needs.
+
+Regulation 15: premises and equipment.
+
+Regulation 16: receiving and acting on complaints.
+
+Regulation 17: good governance.
+
+Regulation 18: staffing.
+
+Regulation 19: fit and proper persons employed.
+
+Regulation 20: duty of candour.
+
+Regulation 20A: requirement as to display of performance assessments.
+
+Between 2010 and 2014 there were previously a set of 28 regulations setting standards of quality and safety, of which 16 related to quality and safety of care.
+
+Since 2013, inspections by the CQC have used five key questions to assess services from registered providers: Are they safe?   Are they effective?    Are they caring?   Are they responsive to people's needs?    And are they well led?
+
+In 2014, the Mental Health Directorate was established to provide specialist inspectors and inspection teams for the purpose of undertaking inspections of mental health services.   All core services at all mental health trusts would be inspected and rated.    Following inspections, 'must do' and 'should do' actions were given to providers.
+
+From 2014 to 2023, the inspection approach fell into three main phases:
+
+Monitoring and information sharing.     This would involve the review of information collected on a service prior to an inspection.
+
+Inspection.    This varied depending on the previous CQC rating following comprehensive inspection.    This would normally be within 30 months of the previous report if 'good' or 'outstanding', or within six months if 'inadequate'.
+
+After inspection.     A report would be drafted including findings on the five key questions.
+
+Different types of inspection included:
+
+Comprehensive inspections, where an in-depth and holistic view across the whole service would be considered.    This resulted in a rating of 'inadequate', 'requires improvement', 'good' or 'outstanding'.     In addition to being to timescales dictated by previous performance, this could be where a risk to safety or a significant deterioration in service had been identified.
+
+Focused inspections.     These would be more targeted inspections in respect of specific information or previous findings.
+
+Combined inspections.   These would be aimed at those delivering services across health and social care sectors.
+
+We now move to information in respect of the Essex Trusts.
+
+At the Inquiry's request, the CQC has provided details of inspections of the Essex Trusts and those services providing mental health inpatient care. Although not possible to summarise all of these at this hearing, it is of note that more recent inspections of EPUT have included the following:
+
+Willow Ward and Galleywood Ward, acute wards for adults of working age and Psychiatric Intensive Care Units, were inspected on 5 and 6 October 2022.   The report dated 23 April 2023 graded the service as "inadequate" and included findings that the ward did not have enough permanent nursing staff to keep patients safe from avoidable harm.   It also found instances where staff were found to be asleep whilst meant to be undertaking observations.
+
+Acute wards for adults of working age and Psychiatric Intensive Care Units were visited between November 2022 and January 2023.   The report, dated 12 July 2023, graded these as "requires improvement". These applied to all areas except for "are services caring?"   It found that previous breaches identified in 2019 and 2022 had yet to be addressed.
+
+Enforcement.   In addition and distinct to its role in registering and inspecting healthcare providers, the CQC also has substantial statutory powers to take both civil and criminal enforcement action against registered persons who failed to comply with conditions of registration and CQC regulations aimed at ensuring safe and adequate care.   Civil enforcement powers include powers to cancel or suspend registration, imposing, varying or removing conditions, or serving a warning notice.
+
+The CQC describes itself as the primary enforcement body at a national level in England for ensuring that people using health and social care services receive safe care of the right quality.
+
+Where breaches of regulations do not constitute a criminal offence, the CQC can enforce the standards using civil enforcement powers.   Failure to comply with the steps required using civil enforcement powers is a criminal offence and can result in prosecution.
+
+There are three enforcement actions which the CQC has available to require a provider to protect service users from harm and the risk of harm.   These are:
+
+Requirement notices.     These are used where there's not an immediate risk of harm.
+
+Warning notices.   These notify a registered person that the CQC consider that they are not meeting a condition of their relevant regulatory obligations. If a registered person does not comply with a warning notice, consideration will be given to enforcement action under the civil or criminal law.
+
+Section 29A Warning Notices.    These are provided for by Section 29A of the 2008 Act and make provision for warning notices to be addressed to NHS Trusts or Foundation Trusts.
+
+It is stated by the CQC in their witness statement that they have not identified any civil enforcement action taken by CQC against any of the relevant trusts. However, the Inquiry is aware of details of a Warning Notice issued to North Essex Partnership University NHS Foundation Trust in 2016.   Clarity as to the extent and reasons for the issue or not of Warning Notices, or other civil enforcement action, will be subject to further investigation by the Inquiry.
+
+Criminal enforcement can also be undertaken for breach of certain regulations and sections of the 2008 Act by use of fixed penalty notices, cautions and prosecutions.    Since April 2015, the CQC has been able to bring criminal prosecutions against health and social care providers for failing to provide treatment in a safe way.     In their witness statement, the CQC confirm that they have not identified any prosecutions brought by CQC against any of the relevant trusts.    The CQC acknowledges that cases may be identified where prosecution was considered but the relevant threshold was not met.
+
+As with the civil enforcement action, the Inquiry will seek to obtain further information and clarity as to the extent of use of criminal powers and the basis of any decisions concerning these.
+
+Notifications and reporting of patient safety incidents.    Under the Care Quality Commission Registration Regulations of 2009, registered providers and/or registered managers are required to submit notifications about certain incidents or events which are referred to as Statutory Notifications.       These are set out in Regulations 12, 14 to 18 and 20 to 22.       These regulations are said to be relied on by the CQC to be aware of activity within a service, identify issues of concern, to inform whether regulatory action is needed and to monitor trends.    Failure to notify the CQC of certain incidents, changes or events will be an offence.
+
+In overview, Regulation 16 requires notification of the death of a person accessing their service, Regulation 17 requires notification of unauthorised absences and deaths of those detained or liable to be detained under the Mental Health Act 1983 and Regulation 18 requires notification of a range of incidents, including serious injuries to service users, abuse or allegations of abuse of a service user, any event which prevents or appears likely to threaten or prevent safe carrying out of the regulated activity. This would include staff shortages, issues relating to the physical premises and malfunctioning of alarms or safety devices, the placement of a service user under the age of 18 in the adult services where this lasted over 48 hours.
+
+Up until autumn 2023, when replaced by the Patient Safety Incident Response Framework, any cases which met the criteria of a serious incident were required to be reported on the Strategic Executive Information System. Serious incidents were governed by the NHSE -- NHS England -- Serious Incident Framework which describes the circumstances in which a heightened response would be required.
+
+Monitoring the Mental Health Act 1983, from 2009 to date.   Since its creation in 2009, the CQC has had a duty under the Mental Health Act 1983, the MHA, to monitor how services exercise their powers and discharge their duties when patients are either detained in hospital, subject to community treatment orders or subject to guardianship orders.
+
+The CQC also have duties to review and powers to investigate complaints raised by or on behalf of individuals, and to provide a second opinion appointed doctor service to review or certify treatment.
+
+Visits from the CQC would focus on monitoring the use of formal MHA powers and this exercise of duties under the MHA.    This is said to include ward visits and speaking with detained patients, seeing the environment in which they would be detained and reviewing records related to detention and treatment.
+
+MHA monitoring visits ought to have been carried out to individual wards treating detained patients on a regular cycle of 18 or 24 months.   There could also be focused or thematic visits in response to identified risks or concerns.    Such visits would result in a report, including a summary of findings, and actions raised during the visit.
+
+The CQC reports annually on deaths of detained patients in its "MHA, Monitoring the Mental Health Act" annual reports.
+
+Chair, that brings me to the end of the summary.         We will break now for lunch and we will resume at 1.30 when we will hear information and evidence relating to the Health and Safety Executive.
+
+*(12.13 pm)*
+
+*(The Short Adjournment)*
+
+*(1.30 pm)*
+
+**The Chair**: Ms Harris.
+
+**Ms Harris**: Chair, we will move shortly this afternoon to hear evidence from the Director of Regulation of the Health and Safety Executive.       However, before we hear that evidence, Charlotte Godber, another member of the Counsel to the Inquiry team, will read a summary of the two HSE prosecutions of EPUT, about which we've heard some reference, during the relevant period.
+
+So before we start to hear evidence, can I turn to Ms Godber to read that summary, please.
+
+**The Chair**: Thank you.   Ms Godber? Summary of Health and Safety Executive Prosecutions by
+
+Ms Godber
+---------
+
+**Ms Godber**: Thank you, the Inquiry is investing circumstances surrounding the deaths of mental health inspectors around the care of NHS Trusts in Essex between 1 January 2000 and 31 December 2023, the relevant period.
+
+To the extent it is necessary to investigate the deaths and fulfil its Terms of Reference, the Inquiry will consider, amongst other matters: serious failings related to the delivery of safe and therapeutic inpatient treatment and care; the quality, timeliness, openness and adequacy of any response by or on behalf of the Trusts in relation to concerns, investigations and reports, both internal and external; and the interaction between the Trusts and other public bodies.
+
+The following summary is provided as part of the evidence to be adduced at this hearing about matters that give rise to the setting up of the Inquiry.   It is taken from evidence provided to the Inquiry by Jane Lassey, Director of Regulation at the Health and Safety Executive (HSE), Paul Scott, Chief Executive Officer of Essex Partnership University NHS Foundation Trust (EPUT) and other material publicly available.
+
+Later this afternoon, we will also hear oral evidence from Jane Lassey.
+
+The Inquiry is aware of two criminal prosecutions of the Essex Partnership University NHS Foundation Trust or its predecessor trust, the North Essex Partnership Foundation NHS Trust (NEPT), during the relevant period. Both prosecutions were brought by the Health and Safety Executive.   The prosecutions related to incidents which occurred prior to EPUT's creation on 1 April 2017, and following the merger of NEPT with South Essex Partnership University NHS Foundation Trust, (SEPT).    As EPUT assumed responsibility for its predecessors, there is no dispute that EPUT is also legally liable for its predecessors' actions.   For ease of reference, the defendant in both cases will be referred to as EPUT or "the Trust".
+
+At the time of these prosecutions, the inpatient units for adult mental health patients operated by the Trust included:
+
+A.    The Linden Centre in Chelmsford.   This contained Galleywood and Finchingfield Wards, which housed a mixture of patients who were either under section or otherwise vulnerable as a result of being in an acute phase of mental illness.
+
+B.    The Lakes Mental Health Hospital in Colchester. This contained Gosfield and Ardleigh Wards, which were also acute adult health inpatient wards.
+
+C.    Clacton Hospital.   This contained the Peter Bruff Ward, which was another acute adult mental health inpatient ward, which has since moved to Colchester General Hospital.
+
+D.   Shannon House and the Derwent Centre in Harlow, which contained Chelmer and Stort Mental Health Wards, each of which provided acute inpatient care for adults with a primary diagnosis of mental health.
+
+E.    The Christopher Unit, Chelmsford, a Psychiatric Intensive Care Unit.
+
+F.    The Severalls House Complex in Colchester, which focused on long-term rehabilitation and included Maple Ward, part of a low-secure unit at the Willow House site.
+
+G.   The Crystal Centre in Chelmsford, which included Ruby Ward, an older persons' mental health inpatient ward.
+
+The two prosecutions were:
+
+Firstly, an HSE prosecution of what was then NEPT in 2014.    The prosecution followed an investigation at the Derwent Centre in Harlow, where an 18-year old female patient had fallen from a window and was badly injured. The Trust was prosecuted for failures to protect service users from falls from windows that were not adequately restricted from opening.    That will be referred to hereafter as the "2014 prosecution".
+
+Secondly, in 2020 the HSE prosecuted EPUT for failures in respect of ligature points which resulted in 11 deaths and one "near miss" between 1 October 2004 and 13 March 2015, hereafter referred to as the "2020 prosecution".
+
+EPUT's Chief Executive, Paul Scott, has confirmed that he is not aware of any other prosecutions that have been brought against EPUT or its predecessors by the HSE or any other criminal prosecutor since 1990 and up to the present day.   Paul Scott's witness statement, Rule 9(14), dated 20 March 2025, can be found at page 18 of the core bundle.
+
+Turning to the 2014 prosecution.
+
+In respect of the 2014 prosecution, it is relevant that prior to the incident, which occurred in 2013, guidance and health alerts had been issued in relation to the issue of window restraints.   Window restraints, when working, should prevent windows that are within reach of patients from opening more than 100 millimetres.   Health Technical Memorandums (HTMs) give comprehensive advice and guidance on the design, installation and operation of specialised building and engineering technology used in the delivery of healthcare.    HTM 55 sets out guidance with respect to new building work for health buildings and recommended that new or replacement windows within reach of patients should not open more than 100 millimetres, particularly in areas for the elderly, those with learning disabilities, mental illness and for children.
+
+HTM 55 was replaced with the Health Building Note 00-10 in December 2013.
+
+On 31 October 2007, the Department of Health issued an Estates and Facilities Alert (DH(2007)09), recommending that trusts assess the need for window restrictors in patient locations when none currently exist.
+
+On 19 January 2012, another Department of Health Estates and Facilities Alert (EFA/2012/001) was issued, this time dealing specifically with restrictors with plastic spacers, which, it was advised, could deteriorate.
+
+On 23 January 2013, the Department of Health issued a further Estates and Facilities Alert (EFA/2013/002), requiring an inspection of all windows, following an incident where a patient had forced one open.    The alert required consideration of window restrictors replacements by May 2013.   It was after May 2013 that an 18-year old patient fell out of the window at the Derwent Centre.
+
+After the incident at the Derwent Centre in 2013, the HSE opened an investigation.   On 19 December 2013 the then Chief Executive of the Trust, NEPT, as it then was, Mr Andrew Geldard, was interviewed under caution. Four months later, the Trust was issued a summons to attend a hearing at Chelmsford Magistrates Court on 30 May 2014.   At that hearing the Trust pleaded guilty to an offence under section 33(1)(a) of the Health and Safety at Work Act 1974 (the HSWA 1974).
+
+By their guilty plea, the Trust accepted that between 1 July 2011 and 27 July 2013, they had breached the duty under section 3(1) of the HSWA 1974 by failing to protect service users at the Derwent Centre from falls from windows which were not adequately restricted. The Trust accepted that some windows within the Derwent Centre were not restricted in line with the recommendations set out in HTM 55, and that there was no evidence of a review having taken place as required. The Trust accepted that the work could and should have been done sooner, following the Health Estates and Facilities Alert in January 2013.
+
+On 21 October 2014 the Trust was sentenced at Chelmsford Magistrates Court and fined £10,000.     The Trust also had to pay HSE's costs.   There is no record of the sentencing remarks and that is not unusual for hearings in a Magistrates Court.
+
+Paul Scott's statement lists various actions that have been undertaken since this serious incident.
+
+Now, moving to the 2020 prosecution.
+
+The investigation that led to the 2020 prosecution by the HSE was launched by Essex Police in 2016.    The police investigated 25 deaths in relation to possible corporate manslaughter charges.   It became a joint investigation with HSE, who were already looking into related matters.
+
+In November 2018 after a police/Crown Prosecution Service decision not to charge, the investigation was taken over by the HSE.
+
+The HSE then investigated inpatient ward environments under the control of the Trust, with a specific focus on the management of fixtures from which ligatures could be attached.
+
+The HSE identified 11 inpatient deaths and one "near miss" event between 2004 and 2015.   Details of each of the deaths and the "near miss" incident are not set out in this summary.   There are further details to be found in the statements and exhibits provided by Jane Lassey of the HSE and Paul Scott of EPUT.   Some of the issues are referred to below and include failures to remove known ligature points and/or remove previous methods of creating a ligature and/or mitigating identified risks.
+
+The HSE investigation learned that shortly after each death, the Trust carried out a review, a serious incident (SI) or a serious untoward incident (SUI), investigation.   In some cases, a full serious incident internal investigation panel report and action plan followed.     The HSE investigation identified that ligature point audits and risk assessments were carried out, but these reports and reviews often didn't result in actions.    Time after time, opportunities were missed and lessons appear not to have been learned.    In at least one case, even after a death, the ligature point was not removed.
+
+On the 12 July 2019, the HSE wrote to EPUT identifying alleged breaches of duties under Section 3(1) of the HSWA 1974.    EPUT was invited to provide a written response under caution.
+
+On 4 November 2019, EPUT provided its written response to the HSE.
+
+On 20 December 2019, the HSE wrote to EPUT confirming it had considered its response and intended to prosecute the Trust for failing to discharge the duty imposed by Section 3(1) of the HSWA 1974.
+
+On 19 September 2020, EPUT was charged with failing, so far as reasonably practicable, to manage the environmental risks from fixed ligature points within its inpatient wards across various sites under its control in Essex, thereby exposing vulnerable patients to the risk of self-harm by ligature, contrary to Section 33(1)(a) of the HSWA 1974.
+
+The HSE's case was that the evidence available demonstrated a clear risk to the health and safety of patients.   The deaths and "near miss" clearly proved that risk, but the risk applied to other patients during the period which formed the basis of the charge, ie from 1 October 2004 to 31 March 2015.
+
+It should also be noted that the 2020 prosecution went beyond the 11 tragic deaths and the features of the "near miss" incident to which this summary has referred. We must also acknowledge the significant findings of the HSE investigation and prosecution, which identified pervasive risk to vulnerable patients at mental health inpatient units under EPUT's management for over a decade.
+
+The investigation revealed that during this time, EPUT was on notice of the risks presented by fixed ligature points and the need of action to be taken to remove them.   Steps taken by EPUT were inadequate and/or failed to mitigate the risks.
+
+Specific failings, identified by the HSE, included:
+
+Failure to comply with national standards and guidance, including the Department of Health's National Suicide Prevention Strategy launched in 2002, which considered ligature risks, sometimes referred to as environmental risks.
+
+Failure to act in a timely manner when environmental risks were brought to the Trust's attention.   Throughout the period covered by the HSE investigation numerous alerts were issued, drawing the attention of NHS organisations, including EPUT, to the risks from ligatures within mental health settings, and the need to take action to remove them.
+
+Failure to act in a timely manner on recommendations made by the Trust's own internal audits including a number of risk management policies and strategies in place at the Trust.
+
+Failure to act appropriately after serious incidents had occurred, by failing to make appropriate environmental changes to reduce suicide risks.
+
+Flaws in the SUI reports, including that they were inconsistent, inadequate, they did not follow a set pattern, and recommendations were not followed.     The reports often failed to reference previous audits or environmental issues.   The HSE found that the majority of SUI reports did not result in the necessary reduction of risk.
+
+Lack of formal training in 2012/2013 around conducting Patient Safety Environmental Audits and a lack of standards and guidance for the ligature audit. The same risks were repeatedly identified with no identified actions being taken to reduce the risks, even after a patient death and when the action required was relatively simple.   Risks were not assigned a risk level and/or risk levels changed despite no action being taken.    Control measures weren't identified, the same risks appeared in multiple locations.
+
+Repeated failures in the Annual Patient Safety Audit Reports.   Failures to act with sufficient speed or to allocate sufficient resource to resolving issues led to the same actions being repeatedly identified.    Risk levels of wards did not reduce over time.
+
+The HSE also relied on findings from the Care Quality Commission inspections.    The issuance of requirement and Warning Notices demonstrated that by mid-2019 the Trust still had not taken sufficient action to remove the risks from ligature points across its estate.
+
+On 20 November 2020 EPUT entered a guilty plea at the Chelmsford Magistrates Court, the case was committed to the Crown Court for sentence.    On 16 June 2021 the Honourable Mr Justice Cavanagh sentenced EPUT at Chelmsford Crown Court.
+
+On 16 June 2021, the honourable Mr Justice Cavanagh sentenced EPUT.
+
+One further death, which occurred in May 2015, post-dated the indictment period but was considered when sentencing.   The fact of EPUT having a previous conviction, the 2014 prosecution, was also relevant to sentencing.
+
+When passing sentence, the judge had regard to the sentencing guidelines, the only available sentence was a fine.
+
+There was a dispute between EPUT and the HSE about where the case fell within the sentencing guidelines. Ultimately, the judge agreed with the prosecution.
+
+The full sentencing remarks can be found at page 77 of the exhibits bundle that was disclosed for this hearing.
+
+The judge found that the level of culpability was "High" (the second most serious category after "Very High") on the following basis:
+
+The Trust failed to put in place measures that are recognised standards in the industry.
+
+The Trust failed to make appropriate changes following prior incidents, exposing risks to health and safety.
+
+The Trust allowed breaches to subsist over a long period of time.
+
+There were serious and/or systemic failures within the organisation to address risks to health and safety.
+
+When categorising the "Harm", there was disagreement between the HSE and the Trust about the likelihood of that harm arising.   The judge put the offending within "Level A", because the risk and likelihood of death occurring was high, and also found that the following factors were present:
+
+The offence exposed a number of workers or members of the public to a risk of harm; and
+
+The offence was a significant cause of actual harm.
+
+Therefore the "Harm" fell within "Harm Category 1".
+
+In determining the level of the fine, the judge found that the Trust was a Large Organisation (with a turnover or equivalent of £50 million and over), as opposed to a Very Large Organisation (whose turnover very greatly exceeds the threshold for Large Organisations).    Its most recent annual review, from various sources, which was the closest equivalent to a turnover, was £325 million.
+
+The appropriate starting point and category range for the Trust, therefore, was that which applies to Large Organisations in "High Culpability" "Harm Category 1".   The starting point was £2.4 million, the category range was from £1.5 million to £6 million.
+
+There were a number of mitigating factors, including the Trust's cooperation and the remedial work that had been undertaken (it was noted that there had been
+
+significant progress after the indictment period).
+
+These actions have been listed at paragraph 44
+
+onwards of Paul Scott's statement to the Inquiry, which
+
+is at page 35 of the core bundle.
+
+The fact that the Trust was a public body and a fine
+
+would take resources away from others was a very
+
+relevant factor and the Trust was entitled to the full
+
+one-third credit for having entered a guilty plea at
+
+an early stage.
+
+The Trust was fined £1.5 million.     It would have
+
+been £2.25 million before the one-third discount for
+
+a guilty plea.    Costs in the sum of £86,222.23, ie the
+
+full amount, were also ordered.
+
+**The Chair**: Thank you very much, Ms Godber.    Thank you.
+
+**Ms Harris**: May I call Mrs Jane Lassey, please.
+
+Jane Lassey
+-----------
+
+*JANE LASSEY (sworn).*
+
+Questioned by Ms Harris
+^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Harris**: Good afternoon, Mrs Lassey, can you see me and
+
+hear me okay?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I can, yeah.
+
+**Ms Harris**: I'm grateful.     Please can you state your full name for
+
+the record?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, Jane Elizabeth Anne Lassey.
+
+**Ms Harris**: I think it's Mrs Lassey, am I right?
+
+.. rst-class:: indented
+
+**Jane Lassey**: It's Ms, actually.
+
+**Ms Harris**: Ms Lassey, I'm sorry.
+
+.. rst-class:: indented
+
+**Jane Lassey**: It's all right.
+
+**Ms Harris**: You're the Director of Regulation at the Health and
+
+Safety Executive, which we've been saying in shorthand
+
+as the HSE?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's right, yeah.
+
+**Ms Harris**: Having received a request for evidence, you have made
+
+a witness statement for this Inquiry?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: For anyone following the documentation and for the
+
+record, this is page 10 of the core bundle, which was
+
+disclosed for the purposes of this hearing, and I hope
+
+and believe you have a copy of that witness statement
+
+with you?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I have, yeah.
+
+**Ms Harris**: If we look at it, I think we see it's dated 13 March
+
+this year?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: Again, for the record, if we look at the last page of
+
+your statement, which is I think 8 on the internal
+
+numbering, or page 17 of the core bundle --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- we can see that you made a statement of truth --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: -- and then signed the witness statement?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: Before we go on, are there any corrections, amendments, clarifications you wish to make to that statement?
+
+.. rst-class:: indented
+
+**Jane Lassey**: No, I think we have provided some clarity on a couple of issues for you prior to today but nothing in particular.
+
+**Ms Harris**: I'm going to ask you some questions about your witness statement in a moment.   I'm not going to take you through it line by line.     But again, for the record, do you ask that your statement be taken as your evidence to the Inquiry at this stage?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: In addition, can you confirm that you provided 12 exhibits to the Inquiry along with your witness statement?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: Thank you.   We are going to look at some of those shortly, not all of them, but they were documents provided by you to support or illustrate some of the points you were making within your statement?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Thank you.   I'm going to begin then, if I may, by asking you just some preliminary questions about the HSE.    The HSE, I think, for the record again, is what's known as a non-departmental public body but it's sponsored by the Department of Work and Pensions?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's correct.
+
+**Ms Harris**: Thank you.    Just putting it shortly, this means it's not
+
+a Government Department?
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded)
+
+**Ms Harris**: It operates at arm's length from ministers?
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded)
+
+**Ms Harris**: It carries out regulatory functions?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: Now you're nodding, and I know that I've been reminded
+
+that for the transcript, if you could say, "Yes," other
+
+than nod, that would be helpful, thank you.
+
+So it carries out regulatory functions and works
+
+within a strategic framework which is set by Government.
+
+That's what an arm's-length body does?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: One short question on that point: a public body's review
+
+in 2022 examined the HSE as an organisation and
+
+recommended that its status as an arm's-length body
+
+should be reviewed by the Government by 2025?
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded)
+
+**Ms Harris**: You're nodding?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: You know about that?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Do you know if that review has been undertaken?
+
+.. rst-class:: indented
+
+**Jane Lassey**: No, but just to clarify, that recommendation was on --
+
+.. rst-class:: indented
+
+although it's part of the Gill Weeks review that looked
+
+.. rst-class:: indented
+
+at HSE, the recommendation is for the sponsoring
+
+.. rst-class:: indented
+
+Department to look at that, which is the DWP and I know
+
+.. rst-class:: indented
+
+they have got that in hand but it's not concluded.
+
+**Ms Harris**: All right, thank you very much.   Moving then on to your
+
+evidence to this Inquiry, as we've heard and as you
+
+know, the Inquiry is investigating the deaths of mental
+
+health inpatients in Essex --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: -- between the year 2000 and 2023.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: You are aware, as part of the Terms of Reference, that
+
+the Inquiry is considering the interaction, in
+
+particular, between the Trusts and other public bodies
+
+like yourselves, the HSE, the professional regulators
+
+and the Care Quality Commission, to name a few?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: You are aware that the Inquiry is examining how the
+
+Trusts or others that were providing mental health
+
+inpatient care were being regulated and by whom they
+
+were being regulated in the relevant period --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: -- and that the Inquiry will be looking at how they are
+
+regulated now?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: Again, to put shortly, the Inquiry is looking in particular at who is responsible for investigating when matters go wrong?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: We have just heard evidence about a case of those who tragically died in a healthcare setting.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: So dealing, if I may, then, with the role of the Health and Safety Executive, I think as you state clearly in your statement, it is the UK's national regulator for workplace health and safety?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: I think the key feature there is the word "workplace"?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: Again, just to lay the groundwork, it was established some time ago now, back in the 1970s, by the Health and Safety at Work Act --
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded)
+
+**Ms Harris**: -- and its purpose is to prevent workplace-related death and injury and ill health through enforcing workplace health and safety?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Again, I'm just taking you through some of the matters in your statement briefly.     There is a mission statement
+
+from the HSE --
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded)
+
+**Ms Harris**: -- and according to your paragraph 2, and I think we
+
+would find it on the website as well, you're dedicated
+
+to protecting people and places and helping everyone
+
+lead safer and healthier lives?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: In terms of workplaces, as we've established, this
+
+Inquiry is concerned, amongst other matters, with mental
+
+health inpatient facilities --
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded)
+
+**Ms Harris**: -- and mental health inpatients.
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded)
+
+**Ms Harris**: It's right to say, and it may seem an obvious statement,
+
+that, whilst the HSE is responsible for regulating the
+
+workplace, its responsibility isn't just limited to
+
+workers, to employers --
+
+.. rst-class:: indented
+
+**Jane Lassey**: No, that's --
+
+**Ms Harris**: -- employees, sorry.
+
+.. rst-class:: indented
+
+**Jane Lassey**: No, that's correct, so the Health and Safety at Work Act
+
+.. rst-class:: indented
+
+means that there's a duty on employers towards their
+
+.. rst-class:: indented
+
+employees, but also to those that could be impacted by
+
+.. rst-class:: indented
+
+the work activities.    So that effectively means --
+
+**The Chair**: I'm sorry by?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Could be impacted by the work activities.   So that means that not just employees, but it could be contractors in workplaces, it could be visitors or, indeed, in the case of the Trusts, obviously there's the patients that are in healthcare settings.
+
+**Ms Harris**: Again, to be clear, that's Section 3, I think, of the Health and Safety at Work Act, which imposes that duty.
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's the duty -- yeah, Section 2 is for employees. Section 3 is all other persons.
+
+**Ms Harris**: That's it.   That's the --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- the non-workers --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- the persons not in employment.
+
+So, as you say, that means that the HSE is concerned in certain circumstances, which come under your remit, which we'll come back to, to ensure that patients, visitors and other service users are not put at risk in mental health facilities, say?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Before we come on to the question of who should investigate when things go wrong, as you have already confirmed, your main aim as a regulator is to prevent workplace death, injury or ill health?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's correct.
+
+**Ms Harris**: That's the ideal?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: In terms of regulation generally, and the Inquiry
+
+already heard some evidence about the professional
+
+regulators this morning and about the CQC, in terms of
+
+regulation and preventing serious incidents, you do so
+
+in the same ways: providing advice and information to
+
+employers and workplaces --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: -- by raising awareness of issues and --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- carrying out targeted inspections and investigations
+
+of workplaces to ensure compliance --
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's correct.
+
+**Ms Harris**: -- to check on compliance, taking enforcement action if
+
+need be to prevent harm taking place --
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded)
+
+**Ms Harris**: -- and, of course, in the event of harm and serious
+
+incidents, holding those who have been non-compliant or
+
+broken the law to account?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: So whilst the investigation of serious incidents is
+
+an important part of your work, your regulation means
+
+firstly doing all of those things, putting systems in
+
+place, inspecting, acting on concerns, and so on, to try to prevent serious incidents taking place?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, that's correct.    We like to think that, as an enabling regulator, you do everything from that information given, standard setting, right through to that, you know, asking people to make improvements, stepping into stop activities if there's a risk, but also holding people to account.    So it's that whole chain that we're involved in.
+
+**Ms Harris**: Before we move on, can I ask what your role as the Director of Regulation involves?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, sure.   So as Director of Regulation, my primary role is I've got oversight of six of the operating divisions within HSE, so within HSE we have got -- I'll just very briefly say what those are -- we've got Major Hazards Division, so that's onshore major hazards, that's industries like oil refineries, chemicals, explosives, et cetera.   We've got an Offshore Division, which looks at things like oil rigs, wind farms that are at sea.   So that's our Major Hazards Division.
+
+.. rst-class:: indented
+
+I've got oversight of those, as well as we've got a division that looks after things like, biocides and pesticides that are put onto the land and crops, et cetera, make sure that those are appropriate and we permission those, and then we have what I would say is, in our conventional health and safety space, we have got an Inspection Division and an Investigation Division and a Specialist Division that offers support to those.
+
+.. rst-class:: indented
+
+So I've got operational oversight of the delivery of regulation and objectives across those divisions, as well as there's also a Director of Regulations Division, which I am also responsible for, which is really looking at that operational policy to make -- and making sure that, as a Director of Regulation, that I have got oversight of the competence and capability of our staff, making sure that the training that we deliver is appropriate and fit for purpose, making sure that we're looking at emerging risks and that we've got those covered.   But, predominantly, working with other parts of our organisation which is our Policy Division, Science Division, et cetera, and it's our Legal Services Division, so it's sort of having oversight of that.
+
+.. rst-class:: indented
+
+And within DOR, then there's some oversight of what we mean by regulating, Section 2 and Section 3, and making sure we're being consistent across the board.    As well as doing that, then I also sit on the Executive Committee, I'm a member of the Executive Committee of HSE and do attend the HSE Board as well.
+
+**Ms Harris**: Thank you.   I return, then, to the regulatory landscape, both during the relevant period and to a certain extent now because, of course, the Inquiry will be looking forward to today.    The Inquiry, as you know, is looking to understand how the HSE works both alongside and collaboratively with other organisations.
+
+At paragraph 4 of your statement, you set out immediately -- and I think it's fairly well known -- that the HSE is not the primary regulator for health and social care in the UK.
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's correct.
+
+**Ms Harris**: In England, as we heard this morning, it's the Care Quality Commission, also known in shorthand as the CQC.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: At paragraph 5(a) of your statement, you clarify, which we heard in summary form this morning, that the CQC regulate healthcare services which include hospitals and mental health services, as we know --
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded).
+
+**Ms Harris**: -- and you clarify at 5(c) that you regulate services for people whose rights are restricted under the Mental Health Act?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's correct.
+
+**Ms Harris**: In order to try to explain the position as to who does what, you have provided the Inquiry with a document called "Who Regulates Health and Social Care" and before we look at it, I think it's a document that's available on the HSE website; is that right?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's correct.
+
+**Ms Harris**: It's your JL1, and can I ask that that be put up, it's page 1 of JL1.    Hopefully this works.   Have you got it on the screen in front of you?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I have, yeah.
+
+**Ms Harris**: Yeah, and just to set the scene, we can see it's a document called "Who regulates health and social care", as I've already outlined, it's available on your website, and if we look down to the bottom, and I think it's been helpfully highlighted in yellow, that there is a section that describes, "Our role [the HSE role] in patient and service user incident investigation"?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: So this is the latter part, this is when things go wrong?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Before we look at it in detail, this is on the website currently.   Is this the current version, therefore?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, this is the current version.
+
+**Ms Harris**: Were there previous versions?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, and I'll have to get further information for you about when -- I think this is -- has been around for quite some time and also just to clarify that the precursor to this was actually a Healthcare Commission document, that was a concord act between bodies who regulate healthcare.   So I think that's -- as previously said, this is HSE's description of who regulates healthcare but in the past there'd been this document that existed and there were various signatories to that including HSE, Care Quality Commission, National Audit Office, NHS, et cetera.      So that was in around 2004 onwards.
+
+.. rst-class:: indented
+
+What I haven't got with me today is actually the detail of how we've gone from that document to what we've got today.    So I just wanted to clarify that.
+
+**Ms Harris**: But that is no doubt something you could provide the Inquiry information about --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Absolutely, yeah.
+
+**Ms Harris**: -- in due course.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: All right.   Thank you.   But looking then at this document and looking at that part which describes this is headed "Our role in patient and service user incident investigation", do we see, and I'm looking at the third line down, halfway in, it says:
+
+"Where those regulators have patient or service user safety within their remit [this is the other regulators], and have powers to secure justice, we [the HSE] will not, in general, investigate or take action. However we may investigate, in accordance with our selection criteria (as set out below), where other regulators do not have such powers."
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: So in short, that declares -- and we'll come on to the timing in a moment -- that where other regulators have the powers to investigate, you won't?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes, that's correct.
+
+**Ms Harris**: Is that putting it too simply?
+
+.. rst-class:: indented
+
+**Jane Lassey**: No, that's absolutely it.
+
+**Ms Harris**: If we go, then, over to page 2, please, and a little way down, I think we're looking at the third paragraph?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: It describes how you set out on your website where you will investigate now, and that you will only investigate where an accident or incident is reportable under the Reporting of Injuries Diseases and Dangerous Occurrences Regulation (RIDDOR), and falls within your incident criteria -- and we'll come back to that in a moment -- or you will investigate where the accident or incident is not RIDDOR reportable but has clearly been caused by well-established standards not being achieved and the failure to meet them arises principally from a systemic failure in management systems, and:
+
+"We will only investigate such incidents where a death has occurred or where the harm was so serious that death might have resulted, and where admissible evidence is likely to be available."
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes, that's correct.
+
+**Ms Harris**: Moving down, you say a little more, the document says a little more about the established standards, and that you will consider -- in deciding whether investigation is appropriate, you'll include widely recognised, followed and expected practices for dealing with a particular issue, NHS Department of Health or other safety alerts or similar warnings that are widely known across the sector, or duty holders, healthcare providers, internal guidance or well established external guidance from others.
+
+Then you go on to talk about what established standards does not include, and that includes standard of care, quality of care --
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded)
+
+**Ms Harris**: -- we'll come back to -- but systemic failures in management systems may include absence of wholly inadequate arrangements for assessing risks to health and safety, inadequate control of identified or well recognised health and safety risks or inadequate monitoring or maintenance of the procedures or equipment needed to control the risk.
+
+But you won't investigate -- and then you go on again to reiterate -- where there's been poor clinical judgement -- I say "you", I'm talking about the HSE -- the incident is associated with standards of care, the incident is associated with quality of care or it arose of a disease or illness of which the person was admitted.
+
+So in short, what this person seeks to do is to set out where you will investigate deaths or serious incidents in healthcare settings and where you won't.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, and I think it's probably fair to say that the reason for that is, and the way it's -- it's to make it very transparent and clear about what -- the circumstances that we would investigate, and I think the areas where we're not investigating is where, really, I think we feel that there are others that are better placed to investigate those areas.
+
+**Ms Harris**: If we move to page 4, please, there is specific reference in the document to the other regulators and to the CQC.   I can see that; do you see that?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes, I can see that, yeah.
+
+**Ms Harris**: It says as you've set out in your statement:
+
+"... the CQC is the independent regulator for the quality and safety of care.   This includes the care provided by the NHS, local authorities, independent providers and voluntary organisations in registered settings.   CQC register most but not all types of care."
+
+Then you go on to set out what they regulate.      In fact, I think that is text that you have replicated in your statement, which I've already identified.
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's correct.
+
+**Ms Harris**: Again, if we look a little bit further down on that page, our page 4, you explain that there is an agreement between the HSE and the CQC, and there's a paragraph that reads that details of that agreement with the CQC is contained within a Memorandum of Understanding and, in general, this document states, the CQC, rather than the HSE, will deal with the majority of patient and service user serious Health and Safety incidents?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's correct, yeah.
+
+**Ms Harris**: As it happens, and we won't do it now, if we clicked on that link that's underlined, the Memorandum of Understanding, it would take us to a memorandum which I think is dated March 2024 --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- which is the most recent one?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: But it's right, isn't it, significantly, that the first Memorandum of Understanding took effect in April 2015?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: You touch on this in your statement, so before we look
+
+at that very first memorandum, can we go back to 2015
+
+and before 2015, and understand some of the background.
+
+I think you deal with this at paragraph 7 of your
+
+witness statement.   You explain that HSE's published
+
+approach to enforcement action prior to 2015 was that it
+
+did not deal with matters of clinical judgement or
+
+clinical governance?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's correct.
+
+**Ms Harris**: That's, I think, the same now?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: You go on to explain in your paragraph 7 that this gap,
+
+ie that wasn't a matter that you dealt with, was
+
+identified by the Mid Staffordshire NHS Foundation Trust
+
+Public Inquiry in 2013, surely, that there was nobody
+
+that appeared to be dealing with matters of clinical
+
+judgement or clinical governance; is that right?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That is the conclusion of the Mid Staffs Inquiry.
+
+**Ms Harris**: I think it's been referred to as a regulatory -- or the
+
+regulatory gap.
+
+.. rst-class:: indented
+
+**Jane Lassey**: The regulatory gap, yeah.
+
+**Ms Harris**: It was a gap between systems regulators --
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded)
+
+**Ms Harris**: -- and professional regulators and, by that, I mean
+
+those who were regulating individuals, such as doctors
+
+and --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, I think that's correct and I think this goes back to when we always said we didn't do clinical judgement issues because we felt that there were other -- this is prior to 2015 -- we felt there were other regulators who were better placed to do that.    So, for example, it might be General Medical Council, it might be Nursing and Midwifery Council, it may have been CQC.   So the same approach, really, would be transparent and consistent, I think, around the fact that we didn't do the clinical judgement areas.
+
+**The Chair**: If there were systemic failures, though, beyond an individual doctor or nurse, or whatever it might be, are you saying that there would have been no one to regulate systemic failures of clinical judgement, clinical governance, prior to 2015?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I think that is the Mid Staffs conclusion.
+
+**The Chair**: Thank you.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**The Chair**: Sorry.
+
+**Ms Harris**: No.   Thank you, Chair.
+
+You go on to explain, I think in your statement, just picking up on the Chair's question, that the gap was resolved by the extension of the role and the powers of the CQC?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That is correct.
+
+**Ms Harris**: So they became, then, the regulator for patient safety matters in that context?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That is correct and I think they've got additional powers in 2014, in order to take that on in 2015.
+
+**Ms Harris**: Yeah.     So I think you repeat it at your paragraph 8, you say that the CQC was granted additional powers to regulate and enforce standards for patient and service user safety in health and social care.    As you say, they were put in place in 2014 by the Health and Social Care Act regulations?
+
+Put shortly, what were those additional powers or what did those additional powers involve for the CQC?
+
+.. rst-class:: indented
+
+**Jane Lassey**: My understanding is that they -- the powers that they got were such that they were then allowed to -- it was very clear that it was within their remit and also that they were given powers to investigate and hold people to account for those -- any failures.
+
+**Ms Harris**: I'm sorry I asked you but I'm talking, as far as the HSE were concerned, that was what they were now doing?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, that was our understanding.
+
+**Ms Harris**: You say again, in your paragraph 8, that since April 2015, which was a real turning point, as we understand your evidence --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: -- that the HSE has continued to act as the regulator for worker health and safety?
+
+.. rst-class:: indented
+
+**Jane Lassey**: In those settings, yeah.
+
+**Ms Harris**: Yes, and that the CQC has become the regulator for all patient issues relating to the delivery of registered health and social care services?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.    So I think -- just to clarify that, so I think what we're saying is that, from that point, the things that -- we didn't use to do the clinical judgement issues but they were picking those up but we did use to do the systemic failures, which were on the non-clinical judgement, and things like the prosecutions that were taken, the areas that those covered, and some others. They were now also going to be taken on board by the CQC, from April 2015.
+
+.. rst-class:: indented
+
+So that's one thing.   But also, there are probably some other areas where other regulator bodies or -- you know, like GMC, et cetera, may have a role in some of these areas.    You know, if it's about the training and standards of a doctor and making, you know, decisions, that might be the GMC and not the CQC.     So I think I said all issues --
+
+**Ms Harris**: You did.
+
+.. rst-class:: indented
+
+**Jane Lassey**: -- so -- it's not quite all, that's not what I meant, yeah.
+
+**Ms Harris**: No, I was going to ask you to clarify that because, as you say, some may be down to individuals which might go to their regulator?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: We'll come back to it, but there is still a pathway, isn't there, where appropriate, for certain matters to be investigated in terms of the selection criteria relating to Section 3 of the Health and Safety at Work Act?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's correct, so there are some situations where -- and I think it comes back to what we said earlier -- where a body has not got that remit, so there are some circumstances that this -- for example, the CQC, for patient care would not be able to -- it's better with an example, it may come to that -- but there are some areas that HSE might still pick up.   So if it was a non-registered provider, the CQC can only act in registered providers.    So if it's a non-registered provider and there is a failure, then that may come back to ourselves or local authorities who we work alongside, but we may come back on to that.
+
+**Ms Harris**: Right.   We will in a moment.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Sure.
+
+**Ms Harris**: Can we then look at the very first Memorandum of Understanding that was put into place.   I think that is -- if I've got this right -- our -- it's our JL2.
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded).
+
+**Ms Harris**: At page 8.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Is that the right document?    We can see, we've already established from the introduction that it came into effect on 1 April 2015 --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: -- to reflect as you've described, the new enforcement powers granted to the CQC by the regulations in 2014. And at 2 we can see that the purpose was to help ensure that there was effective, coordinated and comprehensive regulation of health and safety for patients, service users, and this document itself identifies that it is one of the measures taken by the Government to close the regulatory gap that was identified --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- by the Francis Report into failings of the Mid Staffordshire NHS Foundation Trust.
+
+I think we've already established, if we look at the little footnote at the bottom, it says that:
+
+"The regulatory gap was due to the restrictiveness of HSE's health and social care investigation policy and the CQC lacking the necessary powers [prior to 2015] to secure justice at that time."
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: There's the regulatory gap.    This memorandum, if we look at paragraph 3 again, outlines the respective responsibilities to the CQC, the HSE and the local authorities, to which you have referred.    We see at the bottom of paragraph 3 the principles to be applied where specific exceptions to these general arrangements may be justified, it also describes the principles for effective liaison and for sharing information more generally.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: We'll come back to that in a moment.     It acknowledges at paragraph 4 that other organisations also have roles or responsibilities for investigation, prosecution and/or oversight, and advocates appropriate liaison with other prosecutors, regulators, oversight bodies, such as the police, CPS, safeguarding adult boards, et cetera.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: It makes reference there to the work related deaths protocol.    You haven't provided that but, in a sentence, could you explain what that is please?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, I mean, effectively, the work related death protocol has got a number of signatories to it and it's for all deaths in -- all work-related deaths not just in healthcare and effectively that sets out -- very similarly, it sets out the collaboration, the coordination, the sharing of information, and how that -- how the different regulators, whether that's police, HSE, all the bodies who have some link to work-related deaths, it affected how we worked together, how we go about investigations, et cetera.
+
+.. rst-class:: indented
+
+So it's bringing some rigour and robustness to the approach to make sure, hopefully, that we are all working in collaboration.   A bit like the memorandum -- this Memorandum of Understanding is between HSE and the Care Quality Commission, the work related death protocol is wider and there are more signatories --
+
+**Ms Harris**: It also explains, I think, who comes first and who takes primacy, et cetera?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, and it explains that handing over of primacy from one body to another.   So I think the principles in the work related death protocol are principles that actually, I think, all regulators when working together should be following and I think that -- this memorandum sort of reflects some of that, as well, and, just to say, HSE has Memorandum of Understanding -- Memorandum of Understandings with a whole range of regulators so that we're very clear.
+
+**Ms Harris**: I think they're listed, in fact, on your website?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Can we move to page 9, please, because it's helpful, I think, to see in 2015 how you were dividing the responsibilities or that you considered they were being divided, and we see that the heading "Respective responsibilities for dealing with health and safety incidents", and there it says at paragraph 5 that:
+
+"The CQC [this is post-2015] is the lead inspection and enforcement body under the Health and Social Care Act 2008 for safety and quality of treatment and care matters involving patients and service users in receipt of a health or adult social care service from a provider registered with the CQC."
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: But that HSE and the local authorities are the lead inspection and enforcement bodies for health and safety matters involving patients and service users who are not in receipt of health or care service providers -- sorry, who are in receipt of a health or care service from providers not registered with the CQC, which I think you've already identified?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Then the document refers to Annex A, which gives examples of the incidents typically falling to the CQC and those typically falling to HSE, and we'll come to those in a moment.   They're not actually a very long list in that annex, are there?
+
+.. rst-class:: indented
+
+**Jane Lassey**: No.
+
+**Ms Harris**: In paragraph 9, the document identifies that in a small number of cases, more specific criteria may be applied --
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded)
+
+**Ms Harris**: -- and that's Annex B and, at the bottom of page 9, that there is liaison in relation to individual incidents as in when there's uncertainty about jurisdiction or where paragraph 9 above applies, the relevant bodies -- I suppose that's you and the CQC --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- will determine who should have primacy for any regulatory action and whether any joint or parallel regulatory action will be conducted and keep a record of that decision?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's correct.
+
+**Ms Harris**: If we move on to page 10 it goes over the page.     The memorandum dictates or expects that you designate appropriate contacts within each organisation to establish and maintain any necessary dialogue throughout the course of the regulatory action.   So pausing for a moment, it's expecting or anticipating good, clear, two-way communication --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: -- as to what's going on and who's doing what, and to keep duty holders, providers, injured parties and relatives, where appropriate, informed about what's going on?
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded)
+
+**Ms Harris**: We'll come back to RIDDOR in a moment but it identifies that the existing statutory arrangements for the notification of incidents will continue at that time, that's 2015.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: Again, paragraph 12 anticipates or expects collaborative working --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: -- and sharing information.
+
+Just moving, then, on to page 11 very briefly, we won't look at them but I think 2015, it's rather a short list of illustrative examples?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, and I think this, obviously, it was first MoU under the new arrangements.     It was about setting clarity and, as time go on, then other situational examples come up and I think that's why you see some updates in the next one.
+
+**Ms Harris**: If we then go, please, to page 12, here we have incidents where more specific and exceptional criteria may apply, and we see that it says that:
+
+"In a small number of cases, more specific criteria may be applied to ensure that the most appropriate regulator takes charge of the investigation and/or any related action.     This may be because of more applicable legislation or because of an absence of applicable legislation (CQC [for example] does not have enforcement powers, equivalent to section 7 ...)     In such cases these circumstances will be considered on their individual merits, and a mutually agreed decision reached, in line with our published policies.     These examples are not exhaustive and they do not take into account the police/CPS potential involvement."
+
+There is then just some examples again.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: Factors tending towards the CQC taking the lead, if we look at that, in this MoU, which obviously follows their additional powers, included incidents which may have exposed staff to harm, but the principal concern is the greater risk of harm to patients/service users.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: So this is I think how you're describing this shift of responsibility in 2015, you say, to the CQC?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes, and I think it's probably just fair to say the MoU is there to help both parties really understand the roles and making sure that, you know, in doing this, that we've worked through what the situations are and the various scenarios, and that we're all very clear about who does what.
+
+**Ms Harris**: Which perhaps brings us on to Annex C, which is at page 13, which is entitled "The arrangements of sharing intelligence to support the MoU", and it says, second paragraph down:
+
+"The Annex sets out the mechanism for sharing the information with the other parties where it is clearly in the interest of the workers and patients and service users.   The following has been agreed as the operational means of information sharing over and above the normal working level arrangements."
+
+So we've already looked at those.   Then it agrees that:
+
+"The HSE and local authorities will request intelligence from the CQC or share concerns on a case-by-case basis contacting the National Customer Service Centre [that]
+
+"The CQC will share concerns with the HSE via the Public Services Account.
+
+"The CQC will request intelligence from, or share information with the local authorities on a case-by-case basis by contacting those [authorities]
+
+"That the HSE will share the outcomes of its health and social care RIDDOR and concerns investigations, including enforcement notices and prosecutions in England with CQC on a quarterly basis and that the CQC will share intelligence with the police and/or CPS by contacting the relevant local service."
+
+Whilst I take on board what you say about it being a Memorandum of Understanding and setting out how it should work, those are fairly stark and simple and I don't know if I say mandatory, but firm expectations as to what is to happen.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes, yeah.
+
+**Ms Harris**: I think as you've already touched upon, that memorandum was updated in 2017 and, as we have already established, certainly in 2024 again?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, and just to clarify, in 2024 I don't think anything has changed other than there's reference to the GDPR and other things in there.
+
+**Ms Harris**: I think, as you say, there's expansion earlier on of some of the examples and we'll come back to that in a moment.
+
+Can I ask you however, to turn to JL4, it's page 24. This is a slightly separate document.   It's the "Priorities for enforcement of Section 3 of the Health and Safety at Work Act 1974", which started life in July 2003 but was then again revised, and this was revised in April 2015, do we understand correctly, to take into account of this change --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: -- in position, the changing of responsibilities and the new powers to the CQC.    This document -- well, you explain in a sentence what this document is designed to do, please?
+
+.. rst-class:: indented
+
+**Jane Lassey**: So this is really just -- the development of this document was to make sure that, in particular -- the focus really here was for our inspectors to understand, when they're applying Section 3, what situations we would investigate and what we wouldn't, and to sort of give our operational staff steers to say it's likely that in this case you would investigate because -- it might be because there's clear benchmark standards or it's an area that we know or we could collect the evidence for, et cetera, et cetera.    So it's sort of just making sure we develop this in order to bring that consistency for our staff, so that we were -- we didn't have people doing pockets of what they thought they should be investigating.
+
+.. rst-class:: indented
+
+It was to try to bring that Section 3 policy together.     So it sets out, really, the -- giving examples of different areas, not just to do with healthcare, but to -- if you can imagine Section 3 of the Health and Safety at Work Act is so wide it can apply to every workplace from an oil refinery to, you know, I don't know, a garage, and it's a way of just making sure that we are clear about how we use that power, where we -- to investigate, and where we focus, as opposed to focus what we were prioritised to look at, but it's making it really clear where we should be making sure that we investigate.   It's to get consistency, I think, across our operational teams. That's where it started.
+
+**Ms Harris**: Picking up, though, from that last part of your answer, this revised version is also starting -- or attempting to be clear on what you're no longer picking up. I think that was --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes, and that's why it was revised, to make sure that our operational staff recognised that change with the CQC, we're not now doing areas that we used to do, the non-clinical -- sorry, clinical judgement areas within patient settings, we're not now doing that because that's CQC.   So in a way it reflected that change.
+
+**Ms Harris**: So if we went down through the document, and you've already explained what the document's purpose was.    If we look at page 26, lots of descriptions of other regulatory bodies but, right in the middle there, and this, I think, reflects what has happened because it says:
+
+"The HSE does not in general investigate matters of clinical judgement or matters related to the quality of care."
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: That was always the position?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: But it goes on to make clear that:
+
+"From 1 April 2015 very few new incidents causing harm to hospital patients or social care service users in England will fall to HSE to investigate as the Care Quality Commission (CQC) will be a more appropriate regulator.     CQC will deal with the major non-clinical risks to patients such as trips and falls, scalding, electrical safety, etc.       HSE will continue to be the health and safety regulator for workers in health and social care in England."
+
+That's a statement, isn't it, of the change?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes, and that's -- really this document is a document that's used by our operational colleagues, and so that's why it's important to make sure that they -- you know, it's there and it's clear to them that they don't do areas that they used to do and it's now for CQC.
+
+**Ms Harris**: So I think you've answered my next question, which your operational colleagues would look at this and it would confirm to them that they are now passing what they might have looked at across to the CQC?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Absolutely.
+
+**The Chair**: When did this come into effect?
+
+.. rst-class:: indented
+
+**Jane Lassey**: This is 2015.
+
+**Ms Harris**: '15.   So this was a 2003 document, I think we saw, that was --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes, revised.
+
+**Ms Harris**: -- revised in 2015.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: This statement that we're looking at there was from that 1 April?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Just to clarify, and we'll come back to RIDDOR in a moment, it says:
+
+"All incidents continue to be reportable to the HSE under RIDDOR."
+
+We'll come on to RIDDOR reportable incidents in a moment.     So a lot of reports would still come to you, is that right; you would still be given a lot of information?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, RIDDOR didn't change so the requirement to report would still come to us.
+
+**Ms Harris**: Then you would look at the RIDDOR reports, which we'll look at in a moment, in accordance with your selection criteria of what you would and wouldn't investigate? Have I got that right?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: In the case of incidents in England, if appropriate, you would then forward those reports to the CQC?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, clearly when we -- when this change occurred, we had to discuss the route in for RIDDOR reports is through HSE and it was just making sure we had a clear procedure to send those on to CQC.   We do the same with the Office of Nuclear Regulation, who used to be with HSE and are now a separate body but the RIDDOR reports come to us, so we are used to doing that.   But this is setting that out, so it's making that's very clear that that is what we do, we send those RIDDOR reports directly on to them or, indeed, not just RIDDOR reports, any concerns that were raised by it -- raised with HSE, whether it's through RIDDOR, or just somebody contacting us, if it now is in an area that is enforced by CQC, we send that information.   So that's part of that information sharing but it's obviously really clear that we need to do that.
+
+**Ms Harris**: As I say, we'll come back to RIDDOR and non-RIDDOR in a moment.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, sure.
+
+**Ms Harris**: In paragraph 9 of your statement -- I think we've finished with that document now -- but at paragraph 9 you reiterate that the HSE doesn't investigate or prosecute matters of clinical judgement or the training systems of work to deliver those to doctors or matters relating to the level, provision, or quality of care.
+
+As I say, you make reference again that it's the CQC that is the appropriate regulator.
+
+You also repeat in your paragraph 9 that which we just looked at, which is that the CQC would then be dealing with, after 2015, the major non-clinical risks.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.    Which prior to that we had done, but yeah.
+
+**Ms Harris**: Can I ask you this, we've looked now at a number of documents which really underline how there was a shift.
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded)
+
+**Ms Harris**: There was a shift of responsibility from 1 April 2015. So, in light of what is set out in that document we've just looked at, the priorities for enforcement and the observations that you make in your statement that it was the CQC, rather than the HSE that would be dealing with the majority of patient and service user serious health and safety incidents, can I ask you this: were there any transitional arrangements?     This was a big move --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- you were moving cases, you were moving caseloads --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- you were moving investigations?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Were there any transitional arrangements or agreements, first of all, for you to move cases to the CQC and/or to help the CQC?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, so firstly you can see we've gone through some documentary changes.
+
+**Ms Harris**: Yes.
+
+.. rst-class:: indented
+
+**Jane Lassey**: So there's MoUs, making sure that we reflect those changes in our internal documents and in anything, you know, so that we're clear.   But what we did do during that period is HSE worked quite closely with CQC in order to share, first of all, our practice, so clearly we had investigated the non-clinical judgement failures for many years in those sort of environments, and so we had quite a lot of experience, both -- we had policies and procedures, and we wanted to share that with CQC and, in fact, there was quite a lot of training.    We did some -- delivered -- and the details I can probably give at a later date, or we can provide, but there was certainly to my knowledge, being in that area then, we did do joint visits, so CQC inspectors came out with our inspectors --
+
+**Ms Harris**: Can I just pause you for a moment?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Sorry.
+
+**Ms Harris**: Was that so you could train or inform or show the CQC inspectors what you'd been doing?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, some training -- sharing, training, we also -- if my memory is correct, we also embedded a couple of people with them.   So something about sharing relevant regulatory practice, to show that -- what we had done, and making sure that, obviously, if we can share what we've done and they can use that to inform their training, et cetera, then that's what we did.     So there was quite a lot of activity in preparing for that change because, clearly, we didn't want it to sort of fall off a cliff edge.
+
+.. rst-class:: indented
+
+So over a period of time, prior to that 1 April, there was work in between, not just operational inspectors but in our centre we've got operational policy and there we've got contacts with their centre, so to speak.    So there was work done on that.
+
+**Ms Harris**: So not only operational -- sorry, going on from what you've just said, was there -- was there also contact, you say, and liaison in terms of policy and process and --
+
+.. rst-class:: indented
+
+**Jane Lassey**: We have contact points.     We still do, but in -- then we did between us and CQC.     So there was some of that going on.   The details of that I haven't got all the details of absolutely that.    What I'm -- but we can provide that.    But certainly, from an operational point of view, I was operational, in charge.    I know we had that joint working between inspectors and it was really to upskill CQC.     You know, we'd written -- we served improvement notices, prohibition notices, had done prosecutions in non-clinical areas over a number of years across this area, so we were wanting to share that information because, obviously, it's helpful for them.    Yeah, and being really clear about the standards were.
+
+.. rst-class:: indented
+
+I think we even delivered some briefing sessions so we were able -- for example, we talked about things like window restrictors where people had fallen out of windows, and the importance of that.    So being able to be really clear with them what the benchmark standard was et cetera.    So we did a lot of that and trying to also give them an insight into our investigation skills and experience.
+
+**Ms Harris**: Two questions arising.    The first, you said it was in the run-up, the run-up to the change in April 2015, do you --
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's my recollection --
+
+**Ms Harris**: Do you remember how long, prior to that, would it have been over a year --
+
+.. rst-class:: indented
+
+**Jane Lassey**: I'd have to -- I'd have to clarify.    My recognition is that was for quite, you know, probably a year before and leading up to that, but I'd have to come back to the Inquiry on the details.
+
+**Ms Harris**: A second separate question, was that country-wide?    Was it located in any particular area or would that have included --
+
+.. rst-class:: indented
+
+**Jane Lassey**: That would have been across --
+
+**Ms Harris**: Included Essex, for example?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, I mean, it was CQC so we would have offered -- we offered training, we offered joint visits, we offered that.   Which inspectors came from CQC, I'm not sure if it was all of them, some of them, but we certainly offered that.     And it wasn't -- yeah, it wasn't just one trust or one area.    No.
+
+**Ms Harris**: Jumping ahead two years, just for a moment, we've already established that the MoU was updated in 2017, so you'd been going for a couple of years by then --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- with this new arrangement, and I just want to focus on a couple of changes that had been -- or additions that were made.    So can I ask that your JL3 is put up, which is at page 15, or page 15 of the document itself.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: It begins at page 14 but can we just look at page 15. Because there's a new section put in, which is headed, "The general considerations for enforcement responsibilities"; do you see that?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: That's an additional section and it just underlines:
+
+"When considering the circumstances of a specific incident the primary consideration is whether the injured person is a patient/service user and whether the service provider is registered with the CQC.   If that is the case then the responsible authority will normally be the CQC, unless the police have primacy."
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes, so --
+
+**Ms Harris**: So that's just --
+
+.. rst-class:: indented
+
+**Jane Lassey**: -- it's just underlining it, isn't it, really.
+
+**Ms Harris**: It goes on to say, at paragraph 10:
+
+"An enquiry will generally commence with the CQC because a patient/service user is injured."
+
+Then it goes on to say that, during the investigation, other -- you know, there may be a change because other information may emerge --
+
+.. rst-class:: indented
+
+**Jane Lassey**: (The witness nodded)
+
+**Ms Harris**: -- but it should start with the CQC, I think is what that's saying?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, unless it's clear that it was a non-registered and then, you know, I think it was saying that they would start, and then -- and they would be -- at that point they would be getting all what we thought was in their remit, so if it wasn't for them, we'd expect them to come back to us.
+
+**Ms Harris**: It goes on to expand at paragraph 11, that's because:
+
+"The Health and Social Care Act 2008 (Regulated Activities) Regulations 2014 are broad in their concept of the duty to provide care and treatment in a safe way. This duty includes ensuring that the premises used by the service provider are safe to use for their intended purpose and ensuring that the premises and equipment are suitable, properly used and properly maintained.   The definition of 'premises' is very broad and includes any building or other structure or machinery physically affixed to the building, any surrounding grounds or a vehicle."
+
+Over to the top of page 16, it identifies that Regulation 12 relates to the need to provide safe care and treatment and that it includes a duty to ensure that the premises used by the service provider are safe to use for their intended purpose.
+
+All of this, as far as the HSE was concerned, is now with the CQC.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, and I think it's for everybody involved making sure it's crystal clear, or as clear as it can be, that they have powers to deal with the areas that have been transferred to them.
+
+**Ms Harris**: In this updated MoU, if we go forward, I think, some way, we have a new annex, I think it's at page 23.    So this was a new introduction, which is "Operational working arrangements"; do you see that?
+
+It stresses, I think similarly, that there needs to be, and I'm looking at the bottom of the first paragraph:
+
+"... effective operational working arrangements brought about by effective collaborative working."
+
+I won't read through the whole annex because it sets out what is expected, but it does identify that there may be issues.   I'm looking at the last paragraph:
+
+"In the event of agreement not being reached, the matter should be escalated through the operational management chain.   Advice may be sought at any stage from HSE's Health and Social Care Services operational policy and strategy team via the Public Services Sector account."
+
+Can I ask you, is that anticipating disagreement between you and the CQC or between people internally at the HSE or?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I think that's around disagreements between us and CQC and I don't think it's unusual, when -- I mean, I think probably, as you say, is why is it in here, that we may have had -- or situations that had come to light where, whilst it was new to CQC, we may have been discussing is it you, is it us.   So I think it's just making sure we had arrangements in place should disagreements, as it says, arise, that we've got a way through that so that it's escalated and dealt with, rather than neither party are doing what they need to do and I don't think it's unusual.
+
+.. rst-class:: indented
+
+Certainly, when we look at the work-related death protocol, which is between the police and quite a number of bodies, what we do there is there's a framework for resolving -- and escalating and resolving any -- when I say "disagreements", I don't mean, you know, you've fallen out.   It's more just where, if there's a lack of clarity about an area of who should be doing what.    So for me that's why I think that was just again, you know, as you introduced new arrangements, things come to light and that was probably from -- I would imagine from experience, that we wanted just to clarify for both CQC employees but also HSE employees that's what you do if there's an issue.
+
+**The Chair**: When you say from experience, do you mean the experience of tensions or specific issues --
+
+.. rst-class:: indented
+
+**Jane Lassey**: I haven't got any of -- I can only -- I'm just surmising, I think, that, you know, when you start anything new you learn lessons, don't you?     So if things have come to light then it might be what do we do if there's a disagreement?    Well, let's nail that and make sure it's in, you know, the -- you know, our working arrangements.
+
+**The Chair**: Remind me of the date of that?
+
+.. rst-class:: indented
+
+**Jane Lassey**: This is 2017.
+
+**Ms Harris**: December 2017.
+
+.. rst-class:: indented
+
+**Jane Lassey**: So we'd been going for about two years with CQC.    So it was -- I think probably we were just reviewing how things were going and you update obviously the MoU.
+
+**Ms Harris**: I think it speaks for itself that somebody thought it was necessary to add some operational working arrangements to the MoU.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, and I don't know any of the background to that but I'm just surmising.
+
+**Ms Harris**: Can I ask you to help us very quickly with RIDDOR, and very quickly.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Sure.
+
+**Ms Harris**: I'll try it again, it's the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013, and we've already touched on it and seen reference to it. Just picking up on your paragraph 10, you set out that, dependent on the nature of an incident, it may be reportable to HSE under RIDDOR.   So a RIDDOR-reportable incident has to come to you or be reported to the HSE?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That is correct.
+
+**Ms Harris**: As I said, I don't want to go into huge detail but, just to clarify, RIDDOR requires employers and other people in charge of work premises to report and keep records of, amongst other things -- this isn't the full list -- work-related fatalities --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: -- work-related injuries, and certain dangerous occurrences, incidents with potential to cause harm. I mean, there are others, for example diagnosed cases of reportable occupational diseases.    But those three, that I mentioned, fall under RIDDOR?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That is correct.
+
+**Ms Harris**: RIDDOR sets out that the following -- and I'll list them -- are reportable if they arise from a work-related incident:
+
+So the death of any person is reportable if it's a work-related incident?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I think the phrase is "work-related accident", in the regulations.
+
+**Ms Harris**: In the regulations.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Specific injuries to workers, I think that's Regulation 4, are reportable?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Again, there are injuries to workers which result in them being incapacitated --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: -- and I don't need to dwell on that.    But also non-fatal injuries to people other than workers are RIDDOR reportable if they result in them being taken directly to hospital or --
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's correct.
+
+**Ms Harris**: -- there are specified injuries?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's correct.
+
+**Ms Harris**: So these are all reportable to the HSE under RIDDOR?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, so -- yeah.   It's -- it's again setting out very clearly the responsibilities of employers for anything that occurs as a result of -- at work, that they're very clear about what they need to report.
+
+**Ms Harris**: Let's just deal very quickly with work related and at work, because they need to be work related, don't they, to be RIDDOR reportable.     "Work related", I think the definition is an accident arising out of or in connection with work?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: An accident, I think, is considered work related if the following -- again, the list includes -- played a role: how the work was carried out, including how the work was organised, supervised or performed by an employer or any of their employees or by a self-employed person; if any machinery, plant, substances or equipment used in connection with the workplace or work processes played a role; if the condition of the workplace where the accident happened was a feature; or if the state of the structure or the fabric or building or outside area forming part of the workplace played a role in an accident; or if the stated design of the floors or paving or stairs or lighting, et cetera, at work played a role.     There's quite a long list of things --
+
+.. rst-class:: indented
+
+**Jane Lassey**: There is.
+
+**Ms Harris**: -- that would make an accident work related?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's correct.
+
+**Ms Harris**: However, in your paragraph 11(c), you state that:
+
+"Patient suicides are exempt from RIDDOR and are entirely a matter for the CQC."
+
+.. rst-class:: indented
+
+**Jane Lassey**: Mm.
+
+**Ms Harris**: Can I just take that in stages, please?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: Firstly, what is the basis, do you say, legal or regulatory, for saying that patients' suicides are exempt from RIDDOR?
+
+.. rst-class:: indented
+
+**Jane Lassey**: So, I think the word "exempt" is probably the wrong word, and we have -- in some of our documents, we talk about “being excluded”, which is a different word.    But if I can just try and put it this way.    RIDDOR applies if a person dies or is injured because of a work-related accident.   Work related is defined in RIDDOR as you've already explained, and that's very clear.   What's an accident?    There's a limited definition.   So we've taken that historically as being the dictionary definition of when -- an accident is an unintentional -- something that's unintentional or without deliberate cause.
+
+.. rst-class:: indented
+
+So when we look at suicides, inpatient suicides, it would be (1) that is not -- that is not unintentional by the person who has taken their life, and it would be difficult -- it's sometimes difficult to say that that's work related.    Sometimes, you know, we have -- if I think of -- RIDDOR applies to all workplaces, so if we start with that first, you know, there might be a suicide that's occurred in a workplace and sometimes it's very difficult to show that it's work related. I think it's slightly different with patient care, there's different issues there.
+
+.. rst-class:: indented
+
+So for us, then it's -- doesn't necessarily follow that there's been a suicide that RIDDOR would apply to it, that it would be RIDDOR reportable.   But -- there's a really important "but" here -- the -- so it might not be reportable under RIDDOR, and there are many not just suicides but there are other things that might not be reportable under RIDDOR, but the Health and Safety at Work Act might apply to it.
+
+.. rst-class:: indented
+
+So although a suicide, you might say "Well, it doesn't follow the strict definition of what needs to be reported under RIDDOR", under our Section 3 policy, we would be saying that if that suicide has occurred and it's been allowed to occur, let's say, because of some serious management failures in the environment that somebody is in, then I think that's where our Section 3 policy allows us to say, actually, although it's not RIDDOR reportable, we are still going to investigate, which is why, prior to 2015, in the non-clinical judgements, because that's where we felt we had a place, where we found systemic failures or serious management failures, where somebody had committed suicide, we felt that that came under not only came under our Section 3 policy but it was something that we should investigate, which is hence why we've had those, prior to 2015, prosecutions.
+
+**Ms Harris**: I'm --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Sorry, I might have lost you there.
+
+**Ms Harris**: No, you didn't.   In fact, you've jumped and covered my next couple of questions.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Sorry.
+
+**Ms Harris**: No, that's very helpful.    I'm just going to take it back, just for a couple of minutes because, as I think you've split up, if an incident is RIDDOR reportable it may be investigated by the HSE in accordance with your selection criteria?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: But, in practical terms, and we've got three versions of that, which we can go back to if we need to, that if an accident is not reportable under RIDDOR, which you say the HSE consider is the case with suicides, it may still be investigated, and I think -- because you've got pathways in order to investigate it -- and I'm mindful of the time, and that we've been going for a little while now, but could we just have a look at -- and I'm jumping ahead a bit -- to your JL09 which is our page 42, which I think is the document you've been referring to -- or the information, I should say, that you've been referring to.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes, so this is guidance to our Field Operation Division, as it was called, now it would be our Inspection and Investigation Divisions but really, where we've got a public safety incidence where Section 3 applies.   So it's a way of, really, this is guidance for our staff to ensure they are really taking into account when something is -- in particular if it's not RIDDOR reportable -- well, whether it's RIDDOR reportable or not -- what our Section 3 -- what our approach is to Section 3, and it's to make sure that we are again being consistent about what we cover here.
+
+**Ms Harris**: Perhaps we can -- it's easier if we --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Take it through, yeah.
+
+**Ms Harris**: -- look at it very briefly, looking at paragraph 4, which is under "Overarching criteria for selecting incidents", going back to what you said initially:
+
+"If an incident is reportable under RIDDOR, or reportability is initially unclear, Principal Inspectors should follow [the] published incident selection criteria ..."
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Which you've provided, which we haven't yet had a look at.   But at paragraph 5 with a non-RIDDOR reportable incident which has caused death, which is how the HSE, we understand, considers --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- cases of suicide, or where the injuries are so serious that death might have resulted:
+
+"... Principal Investigators should only initiate an inspection if all the serious incident criteria in paragraph 9a-d are met."
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: You also acknowledge that you might not be able to determine that until you've made some initial enquiries --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: -- and so you have to make some initial enquiries?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: But I think the easiest way to look at it is, if we look down and over on to page 43, which is headed, "Fatalities (or serious incidents) not reportable under RIDDOR which should be considered for investigation", which is where you say cases of suicide would sit, "In these cases, initial enquiries", I'm looking at 9 -- it already acknowledges, as you have, that Section 3 is very broad, and that:
+
+"In these cases, initial enquiries may be necessary, and decisions on whether or not to investigate must be endorsed by a Head of Operations."
+
+There is the criteria, all of which you say need to be met, which is that the incident resulted in death or where the injuries were so serious death might have resulted --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- that:
+
+"There are, in relation to the circumstances that caused the incident, expected health and safety standards that are defined and known by the industry sector in question ..."
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: We've heard about alerts and building notes, and so on and so forth.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: That's the kind of thing we're talking about?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Absolutely, and this criteria, when you talked about the prosecution in 2020 around the ligature deaths, when we looked at that, this is the sort of thing that we would have taken into account to decide they are suicides, they're not reportable under RIDDOR, but let's look at the circumstances and what is the information?   And quite clearly there, there were deaths, there were safe -- clear -- as your colleague mentioned, there were clear standards and safety alerts and the industry knew about it, et cetera.    So that would have gone -- they would have gone through that in coming to that decision: is there a causal link there -- yeah.
+
+**Ms Harris**: Sorry, I didn't mean to interrupt you.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Sorry.
+
+**Ms Harris**: There's a clear and likely causal link, I think that's another assessment, and whether there's going to be evidence available --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Absolutely.
+
+**Ms Harris**: -- in order to investigate.
+
+Just going down and finishing this section then, it says that you will not usually reinvestigate incidents or take over investigations that have been investigated by another usually more appropriate body.   It's set out. Again, reiterates at paragraph 11, which is at the top of page 44, that you do not in general investigate matters of clinical judgement or matters related to the level of provision of care because other legislation and regulatory bodies deal with that, with those -- sorry, with those issues.
+
+Down to the bottom of the page, "Resource considerations and recording decisions not to investigate":
+
+"RIDDORs that meet the selection criteria must be investigated unless there are no reasonably practicable precautions or an investigation is impracticable. A Head of Operations can decide not to investigate a non-RIDDOR incident if they do not have adequate resources available ..."
+
+It goes on to say that the decision should be recorded on COIN, which I think is a data system?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That is a data system, that is, in fact, our Corporate Operations Information System, and it's really important that those decisions -- because for HSE the presumption is, if there's been a work-related death that we investigate and that, if we find evidence, that we would prosecute.   That's the assumption, the working assumption, and clearly we need to make sure that if, for any reason, we're not investigating, and there may be good reason not to do that, or it's not resulted in a prosecution proposal, even when we've investigated a death, we do -- so that's an additional thing -- we do record that and make sure that we capture that information.    So -- and that's -- then that can be subject to review as necessary.
+
+**Ms Harris**: Thank you.
+
+Chair, we've been going for about an hour and a half and the witness has been giving evidence for an hour. I don't know if that would be a convenient moment for a short break.
+
+**The Chair**: Yes.   How long would you suggest?
+
+**Ms Harris**: Fifteen minutes, please.
+
+**The Chair**: Perfect.   Fifteen minutes, then.    Thank you.
+
+*(3.03 pm)*
+
+*(A short break)*
+
+*(3.19 pm)*
+
+**The Chair**: Ms Harris.
+
+**Ms Harris**: Thank you, Chair.
+
+Ms Lassey, just moving away now from RIDDOR for a moment and back to the question of regulation and the regulatory functions of HSE, you deal with this in some detail at your paragraph 11 and you explain that, whilst HSE's regulatory remit is limited to matters affecting worker health and safety -- and we've already explored the caveats surrounding that phrase -- the HSE may undertake a range of regulatory interventions across the healthcare sector.
+
+In terms of interventions, you reference "inspections, pre-arranged or unannounced, normally part of a national campaign".    Can you give us an example of when you might make a pre-arranged and an example of when you might make an unannounced inspection?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.   So I think it depends on the issue, really, but, effectively, sometimes when we might be looking at a concern, we might want to -- we may want to turn up unannounced to see sort of -- if this is what you mean, sorry -- it's sort of a realtime, you know, we'll find -- see what we find when we turn up unannounced. There are some times though when we're wanting to do an intervention.   For example we might be doing a topic like violence and aggression across the Healthcare Trust, for example.   We may want to access documentation, we might want to speak to specific people, we might want to do a slice -- inspect like an audit of a slice down the management chain of the Trust and, to do that, you wouldn't just turn up in -- there are numerous settings where you wouldn't just turn up and expect to be able to just -- you'd want people to be able to prepare for that, as in getting hold of the right people, making the arrangements for those.
+
+.. rst-class:: indented
+
+So that's why it just depends what we're looking at, really.   Sometimes we will make the arrangements so the Trust can get the documentation that we want to see and get the right people in place.    Other times we just want to go and see what might be happening on any particular day without giving any warning, for obvious reasons.
+
+**Ms Harris**: You make reference to concerns, both in your last answer and in your statement.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Sorry, yeah.
+
+**Ms Harris**: No, no, I want to ask you about those.    You received concerns about risk in the workplace and it could be anyone, as we've understood.     It could be for workers, for patients, for visitors?
+
+Just in terms of what happens then, is it assessed internally, to start off with?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, we have a process where all concerns are triaged, and we have sort of a risk-based criteria for looking at all concerns that come into HSE, and there is a team that do that with regulatory oversight and, effectively, what we're doing is prioritising the concerns, how significant they are, what the risks that those concerns are raising, so that we can decide whether or not -- and we get concerns over a whole range of things.    Sometimes it just needs a phone call to deal with it, to a duty holder to clarify something or to get a piece of information.
+
+.. rst-class:: indented
+
+Sometimes it may be something that we consider is so low risk that we just use it as an intelligence source but other times the result of the triage, it will go to frontline inspectors, who will go out and deal with it so, you know, if somebody is -- if we get a concern raised that somebody is working at height or a roof with no edge protection, clearly that's a priority to deal with that, much more than a lower level type of concern that might be raised.
+
+**Ms Harris**: You explain some of that in your statement, including that some concerns, as you say, will give rise to investigation.   You also refer to how concerns are sometimes followed up remotely by customer services. What does that mean, please?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, so our -- Customer Services, it's really a point of -- the people in Customer Services that deal with concerns are trained to deal with concerns and they have regulatory oversight of that triaging.    So we have very specific criteria, what they need to look at when a concern comes in.     So the first thing is, it's like a one point of entry into the organisation.     In the past our concerns used to be people would send letters or ring one of our 27 offices.    Now, what we've done is we've got a team.     Again, it's for consistency and making sure that we track all those concerns.     So they come into the concerns team, they are triaged, it's called our Customer Services Team but anything can come into the HSE through that and that they follow criteria for what to do.
+
+.. rst-class:: indented
+
+So have they got the right -- sometimes they just have -- somebody may have raised a concern and we have to speak to them again to say, "Well, actually, can you give us more information about this?    It's not clear". Sometimes they don't give you the duty holder's name, the right address, they don't give enough details.       So it's really just making sure -- many, many years ago, somebody would ring in the local office and an inspector would deal with it.     Now what we've got is people who are making sure that all that preliminary information is gathered from anybody who is raising a concern, and they do a bit of triaging before, and then we can make sure it goes to the appropriate person.
+
+**Ms Harris**: I'm going to come back to that in a moment --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, sure.
+
+**Ms Harris**: -- as a general but topic.     Just talking about your regulatory interventions, we've already explored how RIDDOR reports will give rise to certain actions and to selection, and you deal also with the responses as appropriate to reports on action to prevent future death, which may have come from a coroner?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: There is one sentence, I think it's in your 11(c), where you deal with RIDDOR, where you say, "Whilst work related patient deaths still need to be reported", and we've been through that a little bit:
+
+"... any reports received by the HSE or local authorities are forwarded to the CQC to investigate as the appropriate regulator."
+
+Can you help us with that?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: You say any reports, are they all sent there?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Are you expecting investigation?   Please expand.
+
+.. rst-class:: indented
+
+**Jane Lassey**: So I think really what we should have said is to consider whether investigation is appropriate, and it will be their policies and procedures.   They will have their own decision making about what they investigate or otherwise.   What HSE -- obviously, as soon as CQC got responsibility for all of this, we were making sure that all -- whether it's RIDDORs or concerns that come into us or our local authority partners, if it's anything that's within the remit, it's to do with patients and it's within the remit of CQC, we want to make sure they get that information ASAP, so we have a process where that is all sent to CQC.
+
+.. rst-class:: indented
+
+Clearly, I've said they’re to investigate, but I think it's for them to consider what would they do with that information.    They may not investigate everything that goes to them.
+
+**Ms Harris**: What happens if they don't investigate?      Does it come back to you; do you hear about it?
+
+.. rst-class:: indented
+
+**Jane Lassey**: No, the only time it would come back to us is if something got -- if our triage had got it wrong and information came to light to say, actually, for example, if it was something that was not a registered provider and we'd told them that it wasn't a registered provider, under our protocol we'd expect that to come back to us because we would investigate.    So -- but if it's something that's within their remit, we don't ask them what they have decided to do with it.      So we wouldn't normally find out what CQC has done with that information.    That's for them to decide.
+
+**Ms Harris**: But --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Sorry, it would only come back after they thought, as our protocol says, that it wasn't for them, that we would expect them to send that back to us.
+
+**Ms Harris**: But that sentence shouldn't be read -- because if it were to be read as, "whilst work related patient deaths still need to be reported, any reports are forwarded to the CQC", that's not to suggest that you don't investigate work-related patient deaths because we've already explored how sometimes you do, depending on the circumstances?
+
+.. rst-class:: indented
+
+**Jane Lassey**: In certain situations we would do and I think it's explained in our situational examples of where we would do that.   So for example -- so post-2015, we're not going to do any patient deaths that's to do with either what used to be just clinical judgement, et cetera, but also the non-clinical stuff because we expect CQC to be looking at those incidents.   But if it's with -- the examples we've got is the non-registered providers, so that's not CQC, it might be things like there might be certain situations where, for example, if there was somebody in a hospital, let's say a patient who were exposed to Legionella because of the water systems, that's probably something which actually they may be able to deal with but we've got very clear standards, we might pick that up.   Or if it was -- you know, we deal with asbestos at work regulations, so if there was an exposure, let's say, to asbestos and that might be something -- so that might be patient -- so there's very specific areas that we have detailed in that -- those situational examples under the MoU to say where we might investigate.
+
+**Ms Harris**: Having been through all this, you're the Director of Regulation, do you consider the arrangements are adequate, currently, to bridge the gap that was identified in 2015?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I think it sounds -- when I'm explaining it here today, it sounds really complicated for people who are trying to understand but I think, with the arrangements we've got in place, we're really clear about where the responsibilities lie, I think, across different regulators and in these particular Trusts, et cetera, I think it's clear what the responsibility is between us and the CQC.   In getting the -- making sure that the -- each regulator understands what their remit is, and gets the information, the intelligence they need, about -- that's been reported to any regulator about what they may need to consider to investigate.
+
+.. rst-class:: indented
+
+I can't comment on whether or not what is done with that investigation, in this case with the CQC -- I do not know what they do with that information.   I don't get sight to know whether or not that's been addressed. I can only look at what HSE do with that information --
+
+**Ms Harris**: Of course.
+
+.. rst-class:: indented
+
+**Jane Lassey**: -- if that makes sense.
+
+**Ms Harris**: It does.    But as far as you're concerned, from the HSE side, you feel that there are good working arrangements in place?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I think we've got arrangements working that make sure that we've got systems to make sure that the right information goes to the CQC, and we've got processes in place that are clearly understood, that should come back to us, if, for example, they disagree.    In my role as Director of Regulation I would expect to know if there were any issues with that relationship or it would be brought to my attention.     In the two years I've been doing my job, I'm not aware that that working relationship is not working.
+
+.. rst-class:: indented
+
+Now, I'm not aware of that, and we can obviously provide information, we can do further work, you know, with the colleagues to see if there is anything in that but, as far as I'm concerned, I've not been made aware of any problems with that working relationship.
+
+.. rst-class:: indented
+
+Do I think it's, as I say, do I think it's -- I think it's -- the system is there but, as I say, it's only as good as what you do with the information that you've got for any regulator.    It's what you do with the -- the intelligence you've got, and what you decide to do with it.
+
+**Ms Harris**: As you say, you can only speak for your side?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I can only speak for HSE, yeah.
+
+**Ms Harris**: Of course.   I said I'd go back to sharing concerns, it's a slightly standalone topic.     We've already talked about --
+
+**The Chair**: Sorry, before you move on, can I --
+
+**Ms Harris**: Yes, of course, Chair.
+
+**The Chair**: You gave us the specific example of the prosecutions which were taken on by HSE because of the very specific concerns about it being suicide and there being circumstances relating to standards of the environment.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**The Chair**: But, equally, you suggested that that could have been done, there could have been action in those cases by CQC because of the handover to them.    Is it the case that then both of you could have looked at those?
+
+.. rst-class:: indented
+
+**Jane Lassey**: No, so I think what has happened -- I think if I just clarify that timeline -- we have taken to account -- the cases that were prosecuted for were all cases that had arisen prior to 2015, so I think it was because they came to light around that time when we'd were handing over to CQC.   Clearly there was a decision -- not clearly.   There was a decision taken that we would, because it was in the scope of when we would have looked at those, we chose to investigate, because there were historical -- I don't know whether -- there was a timeline -- when we found out, we did write a letter to the previous independent inquiry outlining the timelines of when we first -- when the 2020 prosecutions -- when we first became aware of concerns that were raised with us, what we did, and there is a timeline of what we told the CQC.    There was obviously a decision there that we -- in that case, we said "Well, we'll investigate the failures", because they were prior to 2015, even though it was the time when CQC was effectively starting to do that.    I think it's a sensible -- sensible decision.
+
+**The Chair**: I thought that might be your answer, I just wanted to be clear about that.
+
+.. rst-class:: indented
+
+**Jane Lassey**: But also at that time clearly there's holding people to account but, at the time that we heard about those concerns, clearly there was a duty to make sure that --(unclear) not what had happened in the past but also what's happening in the Trust now and making sure we've got compliance now, and that was clearly a decision for CQC, because they'd taken on that role to look at what was happening in 2015 onwards in the Trust.    Does that make --
+
+**The Chair**: Thank you.   Yes, that makes perfect sense, yes.
+
+**Ms Harris**: Could I pick up on that?    We were going to come on to it in a little bit but let's deal with it now because the Chair has raised the question, and let's go to the timeline and the question which is really how the HSE came to be investigating and prosecuting, particularly the 2020 prosecution --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- because the 2014 is clearly well before the change.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Just dealing with it simply by way of timeline, when did the HSE first become aware of concerns, particularly in relation to one of the facilities involved in that prosecution?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.   That was October 2014.   I'm happy to answer your questions and it's all detailed in the letter of 27 January that we sent to the independent -- the previous independent inquiry.    But in October 2014 a family member -- we were given information around a particular incident.
+
+**Ms Harris**: Just dealing with --
+
+.. rst-class:: indented
+
+**Jane Lassey**: That's the first --
+
+**Ms Harris**: -- with the timeline.    That's 2014.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: We appreciate the change came in April 2015, but you were already working towards, from the evidence you've
+
+already given, this transitional -- this was
+
+a transitional period and you were already working
+
+towards the new arrangements?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Did you inform, refer, report, whatever the right word
+
+would be, this information to the CQC at that time?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.   So our records indicate that we discussed the
+
+.. rst-class:: indented
+
+concerns with the Care Quality Commission, as the body
+
+.. rst-class:: indented
+
+thought best -- we thought it was best for them to take
+
+.. rst-class:: indented
+
+the concerns forward, as they were about to take on, you
+
+.. rst-class:: indented
+
+know, in a matter of months they were taking on
+
+.. rst-class:: indented
+
+obviously that responsibility, so we did forward the
+
+.. rst-class:: indented
+
+concerns to them.
+
+**Ms Harris**: Can I --
+
+.. rst-class:: indented
+
+**Jane Lassey**: I haven't got any other details on that and, if we have
+
+.. rst-class:: indented
+
+got anything else, I can come back but --
+
+**Ms Harris**: I just want to explore the timeline for a moment.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, sure.
+
+**Ms Harris**: So you're here in 2014, you pass the information to the
+
+CQC?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: But we know that you came to investigate it?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: So when did you, the HSE, start -- perhaps I can begin
+
+by using the term "start looking into" these issues?
+
+.. rst-class:: indented
+
+**Jane Lassey**: So the next thing on -- our records show that in November 2015, the family members came back again to us but with much more information and more documents and a lot more detail on their concerns and we -- in December of 2015, HSE undertook to review all that material.   There's quite a lot of material that had been given to us.   So we reviewed that and it was as a result of reviewing that that then we decided we would continue the investigation, and that resulted in -- finally, in prosecution.
+
+**Ms Harris**: Again, just picking up on one or two things.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: You decide December 2015 into 2016 --
+
+.. rst-class:: indented
+
+**Jane Lassey**: That there's enough there, we need to keep looking at this.
+
+**Ms Harris**: -- that you're going to look into it.   It may be considered, I appreciate what you've just -- the answer you've just given to the Chair about the date of the incidences that you were looking into, but it might be considered that this was outside of the terms of the memorandum that had been in place since April 2015; what would you say about that?
+
+.. rst-class:: indented
+
+**Jane Lassey**: It could have been, although there's an argument to say that the incidents all occurred before 2015.   So I assume -- and I haven't got that information and the detail, not sure if we can get it, but we can certainly look at that -- my assumption is that we came to an agreement that we would -- or an agreement was come to, for whatever reason, that we would investigate all those pre-2015 deaths and I think there was a "near miss" and I think there was a timeline agreed that we'll look at, which ended up being extended further back.
+
+.. rst-class:: indented
+
+So we agreed to do that and the CQC eventually were going to look at --
+
+**Ms Harris**: We'll come to that in a moment.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: We know then in 2016 that the police start investigating?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: So you are already looking into it, and would it be right to describe it as a joint investigation?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Interestingly enough, our records say that it was separate but coordinated.
+
+**Ms Harris**: Right.
+
+.. rst-class:: indented
+
+**Jane Lassey**: So -- and that it ran in parallel, and we also know from our records that we were sharing -- because a lot of the evidence that -- the police were looking at corporate manslaughter, wider issues, wider than HSE.   So we do know that there was coordination going on between us and the police and, indeed, there was obviously some involvement and discussions with CQC because they were aware of some of the information that was coming from the Trust as well.
+
+**Ms Harris**: You have heard the summary, you were in here earlier, and you know about it in any event, that prosecution involved reference to some CQC material and CQC --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- reports.    Once you had completed -- when I say "you", the HSE -- had completed the investigation and subsequent prosecution, was there any liaison or handover or sharing of knowledge?    So, by that, I mean did you the HSE share the knowledge that you had learned with the CQC, so they could take forward ensuring the remedial action and compliance?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.     So the investigation was commenced but, during that period, we've got records of the CQC also doing inspections of the Trust and, forgive me, I can get the dates for you -- I just can't recall them at this second -- but we have got -- so CQC, we were doing the investigation into historic incidents looking to see whether there's a breach that somebody needed to be held to account for.    The CQC at that time were inspecting the Trust in relation to risks of harm from ligature points.     So they were doing, like, the "What is it like now", because they had responsibility and it was
+
+.. rst-class:: indented
+
+their -- by post-2015 it was their remit to be looking
+
+.. rst-class:: indented
+
+at this.
+
+.. rst-class:: indented
+
+So they were doing that, and I think it was as
+
+.. rst-class:: indented
+
+a result of their inspections, I think it was mid-2019,
+
+.. rst-class:: indented
+
+and I think it's in our case summary it was mentioned --
+
+.. rst-class:: indented
+
+I don't know if it was mentioned in the case summary but
+
+.. rst-class:: indented
+
+we, in 2019, the outcome of the CQC inspections revealed
+
+.. rst-class:: indented
+
+that the Trust had still not dealt with the issues on
+
+.. rst-class:: indented
+
+ligature points across the Trust.
+
+**Ms Harris**: Just so we understand, were you working together on that
+
+or were they leading on that, or was that separate?
+
+.. rst-class:: indented
+
+**Jane Lassey**: No, that was complete -- they were doing that but,
+
+.. rst-class:: indented
+
+clearly, they were telling us what they were finding,
+
+.. rst-class:: indented
+
+and that eventually, obviously, came into our case
+
+.. rst-class:: indented
+
+summary.   And also, clearly we were telling -- they were
+
+.. rst-class:: indented
+
+aware of -- in order to do those inspections, they
+
+.. rst-class:: indented
+
+needed to understand the whole range of stuff that we
+
+.. rst-class:: indented
+
+were looking at in the investigation.   So I think --
+
+**Ms Harris**: So you shared some learning --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- with them --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- or shared the information with them?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Were there any further arrangements, any arrangements after that, for the HSE to work with the CQC in terms of the Trust and going forward?
+
+.. rst-class:: indented
+
+**Jane Lassey**: No, because our remit was to do the investigation of historic events.   Their role by then was to actually look at the here and now and using their powers to hold -- make sure that the Trust made improvements or whatever else.   So we didn't have that role.   So I think there's a clear distinction certainly in our records that they took on the getting compliance now, whilst we looked at the historical events.
+
+**Ms Harris**: So would we take, from that, had there been need for any identification of any further prosecution, that would have been taken forward by the CQC, as far as you were concerned?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.    We only looked at things up to 2015.
+
+**Ms Harris**: While we are on the prosecution, can I ask a very specific question about it.    It relates to some other material, information that the Inquiry has received: another witness statement.     I think you have seen this witness statement within the bundle; it's that of Sir Robert Behrens.   Can I ask that his witness statement, or just a section of it, be put up.     There we go.   It's our paragraph 75.
+
+Can we just have a look at what that says.   It's in relation, as you know, to the investigation that was commenced into the death of Matthew Leahy and the subsequent work of the PHSO into the failings at NEPT. You can see that it says:
+
+"One of the things that was eventually uncovered was that there had been a number of Freedom of Information requests to the hospital to disclose the numbers and circumstances of the suicides that had taken place over a particular period and the Trust said it did not have the information and it would be too expensive to pull it together.   As we knew that the HSE was still investigating and because we had talked to NHS England Improvement about the issues, we felt that the best option, albeit not the preferred option, was to recommend that there be a wider inquiry.   This recommendation was formally made in our 'Missed Opportunities' report publication.   In September 2019, NHS England and NHS Improvement committed to undertaking this review as soon as the HSE concluded their investigation."
+
+The question really is a simple one, in light of that paragraph: are you aware -- and you may not be able to -- in relation to the HSE investigation, which we can see was ongoing at the same time, whether your investigators encountered any difficulties in terms of access to relevant records, to identify the numbers and circumstances of suicides or ligature incidents, or of NEPT's management, or more generally?    Are you aware of any difficulties encountered by the HSE in obtaining information for the purposes of their investigation?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I'm not.   And indeed, in our -- again, I think it's in the case summary for the prosecution, we do talk about the Trust provided information that we required in relation to all the pre-2015 incidents.    So we actually ... just bear with me.    Just bear with me.
+
+.. rst-class:: indented
+
+We said there was a high level of cooperation provided for the historical information.    So I'm not sure whether what's been talked about here is to do with 2015 onwards, or historical information, but certainly from HSE's point of view, for our investigation, we mentioned that, in our case, that the Trust provided that information.    That would be, I assume, the new Trust?
+
+**Ms Harris**: So I don't want --
+
+.. rst-class:: indented
+
+**Jane Lassey**: But we might need to come back to that.
+
+**Ms Harris**: I was about to say I don't want you to speculate, but that might be something you can help us with --
+
+.. rst-class:: indented
+
+**Jane Lassey**: We'll do that.
+
+**Ms Harris**: -- in due course.
+
+Thank you very much.     Can I just go back briefly to two standalone topics.    I was referring to sharing concerns, and can I just go back to sharing concerns, because I want to ask you a couple of questions about what happens.   We've already established that you get concerns in many ways.   Anybody can share a concern. You get members of the public, workers, duty holders, investigations, if an incident happens -- various methods.   But when people share concerns with you, can we look at the effectiveness, if you like, of the arrangements in force.
+
+We looked -- and I won't go back to it unless you want us to, and we can, in Annex C of the Memorandum of Understanding -- that it states that you or you, the HSE, will share concerns on a case-by-case basis by contacting the CQC's National Customer Service Centre.
+
+And furthermore, in an exhibit which we haven't put up, but your exhibit JL12, you have indicated -- or you give a number of matters that are likely to be relevant to patient safety, staffing concerns, and so on and so forth, which would go forward to the CQC.
+
+Do you consider that the system by which you contact the CQC's National Customer Service Centre allows for the effective sharing of the information that you've received in relation to patient safety?
+
+Sorry, that was a lot of words in one question.
+
+.. rst-class:: indented
+
+**Jane Lassey**: No, I think that's clear.
+
+**Ms Harris**: Does that work?     Is it good enough?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I am not aware that -- I mean, our duty, I think, is for information that's coming in to HSE that should be shared with CQC, that we do that and we do it quickly, and we sent it to the right place.       I'm not aware that there's any problem with that.
+
+.. rst-class:: indented
+
+So, as I said before, what, then, the CQC do with that information, I don't know.    And I'm also not aware that there's any -- I'm not aware of, myself personally, of any particular issues we've had in sending them information, or indeed any problems with that relationship.     But I think it's safe to say that within HSE we have, in our policy team, we have people whose responsibility is that stakeholder engagement with CQC. What I would say is that I think, in order to get a view on that, I might need to ask others in HSE whether there's been any issues with that.       I don't think I personally am aware of anything, but that doesn't mean to say -- I don't know what the answer is to that.
+
+**Ms Harris**: Well, that's candid of you to say, but it is something you could assist us with in due course?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Absolutely, yeah.     We can come back to that.
+
+**Ms Harris**: A different topic.    It's about recordkeeping and the records, and you touch on this in your statement under a section which you entitle "HSE's records management policy and approach taken to provide information on prosecutions and investigations".
+
+Can I just clarify, by "approach taken", do you mean approach taken to providing information to this Inquiry about investigations and prosecutions?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Can you just point me to where that is?
+
+**Ms Harris**: Yes, it's your subheading above paragraph 12.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes, absolutely.   It's to provide it to -- yeah, to this Inquiry.
+
+**Ms Harris**: You explain that your investigation and prosecution files are retained for 7 years from closure.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Can I ask you to clarify?   Does that mean any form of closure, as in closure due to no action being taken, as opposed to closure because enforcement action was taken, or closure due to prosecution being completed?   Can you help us?   How does it apply?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, it's at the point that we've stopped doing something.
+
+**Ms Harris**: Right.
+
+.. rst-class:: indented
+
+**Jane Lassey**: So you're absolutely right: if we've decided no further action, then that would be on our system for seven years.   In the likes of a prosecution that might take -- you know, in this case we started looking at it in 2015 and we didn't prosecute until 2020, so that will still be -- you know, there's stuff that will stay on our system for another seven years.
+
+**Ms Harris**: You explain, I think, why that -- and we'll come to it in a moment -- why there were some difficulties, then, in providing some details: because you only have a limited amount of information left in relation to something, say, in 2014?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That is correct.    And also, the way that data is held is such that it's not as simple as pressing a button. Sometimes you have to do some manipulation of the data and then some actual manual looking through.       So hopefully -- and that's an issue across, I would say, the whole of the Civil Service, and there's been a report in January around digitalising and making sure that the information -- that we can mine the information that we have.    You know, I think any regulator does that.     But in this case, you know, I think we set out how we'd got that data.      It's how it's held.
+
+.. rst-class:: indented
+
+So I think, in particular, for any incidents that are in patient care, we have a SIC code that is --
+
+**Ms Harris**: Yeah.
+
+.. rst-class:: indented
+
+**Jane Lassey**: -- so for want -- yeah.
+
+**Ms Harris**: Sorry to over-speak for a moment but can I take it in stages?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Sure.
+
+**Ms Harris**: The information you've provided in paragraphs 15-20 all refers to what I'm going to call completed prosecutions.
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: You explain --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Ah, yeah.
+
+**Ms Harris**: -- you explain that files are deleted from the database and residual information, including formal enforcement actions, notices and prosecutions, is usually retained for longer, due to having appeared on HSE's public enforcement databases?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Sorry, yes.
+
+**Ms Harris**: So it follows from that, does it, that you might have more information about something where action was taken than when no further was taken?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Both those things are true, yes.    So -- clearly.   But I think the issue is that we've got a database that when -- all the way through an investigation, all our information is kept on there, any correspondence, any details.    Once that action is finished, either -- the court case -- then seven years later that information will go off our main database.     However, because -- if we take any formal action, serve any improvement notices on, for example, trusts, or prohibition notices or prosecutions, we put them on a public database, so they stay for longer.   They don't necessarily disappear.
+
+**Ms Harris**: Which is why, then, you can give us some of the detail?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: But not all --
+
+.. rst-class:: indented
+
+**Jane Lassey**: But not all of the -- yeah.
+
+**Ms Harris**: I understand.    But does that also mean, then, that after seven years, say you hadn't taken any action, you can't draw on information that you might have had?    If an organisation came to your attention again, that's not something you'd be able to -- you'd be aware of, necessarily?
+
+.. rst-class:: indented
+
+**Jane Lassey**: That is true.    And there are reasons why we've got the seven years.    It's linked to retention of data, and I think it's quite common, seven-year sort of -- there's also something about the relevance of information after so many years, and whether you could use it.    But you're right, that's true.    Once it's gone, that has gone.
+
+.. rst-class:: indented
+
+However, we don't just -- in terms of knowing what's going on out there, we can't just rely on concerns that are raised by people or RIDDORs.    So when we're trying to identify issues, whether that -- whatever sector we're talking about, we don't just rely on that information.    There are a whole range of intelligence sources.   So, you know, we've got the Labour Force Survey that is -- every year that is done.     We draw on intelligence from that that tells us what a key -- what workers and others think are key issues in different sectors.
+
+.. rst-class:: indented
+
+So we're not just -- but you are right; in terms of specific incidents, once they've gone, we won't have the corporate memory.
+
+**Ms Harris**: In terms of the prosecution files, I take on board what you say about there being some residual information left, enforcement notices, et cetera, et cetera.    Would you agree that investigation files and prosecution files, things that you've done, things that you've learned, the information stored within them are potentially important to lesson learning and going forward?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, so the use that we put -- so the fact that the information about a particular prosecution is not there, you know, the evidence we've collected, et cetera, what's really important is that we, as we are taking action, that we are reflecting that -- sorry, what we are learning, not just about holding somebody to account, but what have we learnt from that?   That that's reflected in our guidance to inspectors as to what they should look at.
+
+.. rst-class:: indented
+
+So from our -- sorry, I should probably explain -- so in terms of investigations, we will feed into our policy teams to say, look, you know, if we've had a number of prosecutions in a certain sector or a certain area, that feeds into, then, our inspections approach going forward.
+
+.. rst-class:: indented
+
+So it's all -- so the fact that we don't have the detail of those, for example, the 2020 prosecution, we might not have all that detail, but we know we took -- it was about ligature points.   We know what the standards are and we know that -- you know, in this case it was the CQC taking some of that forward, but, you know, we can reflect that into our policies and our procedures, and what we might look at for the future.
+
+**Ms Harris**: So you would say that that's your --
+
+.. rst-class:: indented
+
+**Jane Lassey**: It's learning, yeah.
+
+**Ms Harris**: That's your method of ensuring, you say, that sufficient information is retained to enable lessons to be learned from those cases?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, because -- I would suggest, yeah.
+
+**Ms Harris**: Or indeed to inform those who might be looking to prosecute future cases of a similar type?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Possibly, but -- what's important, when we take -- for the future is, for example, if you are -- if the CQC were taking -- let's say they were taking a prosecution today around ligature points and suicides; what's important is that they're able to, when -- in taking that case, that they can refer the court back to any previous prosecutions, because they would take that into account in terms of -- the judge would take that into account.    So they would -- we'd be able to share that.
+
+**Ms Harris**: But if they wanted the details of that further prosecution --
+
+.. rst-class:: indented
+
+**Jane Lassey**: No.
+
+**Ms Harris**: -- you wouldn't have that?
+
+.. rst-class:: indented
+
+**Jane Lassey**: We wouldn't, no.
+
+**Ms Harris**: All right.
+
+You clearly -- I hope you don't mind me saying this -- found that there was a drawback when you were trying to provide information to this Inquiry because you didn't have access to that kind of detail?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I think it was more the way the -- so you asked for trusts, and we were trying to explain that all incidents go against the SIC code for -- certainly for sort of public healthcare settings -- go against a particular SIC code.
+
+.. rst-class:: indented
+
+So what we were unable to do, or we had to do manually, was we were able to look at everything within the Essex area to do with public health settings, but then we had to look through that to see anything in particular to do with the Mental Health Trusts, because we don't have a separate category for incidents that have been reported in relation to specific Mental Health Trusts.
+
+**Ms Harris**: Yes, and dealing with codes, which are the Standard Industrial Clarification codes, aren't they --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: -- that's what SIC stands for?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Sorry, yes.
+
+**Ms Harris**: No, no, just to put it onto the record.     I think the health codes are in section Q, is that right, and you've got the code for hospital activities, which you refer to --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: -- and you have a code for specialist medical practice activities, but nothing that would subdivide, for example, into mental health?
+
+.. rst-class:: indented
+
+**Jane Lassey**: No.    So you -- we wouldn't be able to just pull out things to do with the mental health setting.
+
+**Ms Harris**: Can I ask you a couple of questions --
+
+.. rst-class:: indented
+
+**Jane Lassey**: Unless we do it manually.
+
+**Ms Harris**: -- about that?    I think you did have to do it manually in this case?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yes.
+
+**Ms Harris**: But you also provided the information with a caveat that you couldn't be sure that you had been able to provide all of the information.      So against that background, do you think it would be helpful if you were able to store information subdivided into, for example, different areas such as mental health or mental health facilities?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I think it depends on how far you want to go, in terms of drilling that down.    In this particular instance, it would have been helpful if we'd have been able to do it quicker for you.    The question is what's fit for purpose, I think, for an organisation.
+
+**Ms Harris**: Do you consider the way you're storing that information -- I mean, across the board, using SIC codes -- as fit for purpose?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I think it tends to be, yes.    Yeah.
+
+**Ms Harris**: Can I ask, then, when you say at the bottom of your paragraph 14, and I take on board that you used the SIC codes and did the manual trawl, as you explained.      You say:
+
+"It's important to highlight that due to the limitations of the nature of information that is to be retained by the HSE, and also the systems used, it is not possible to state that all relevant records during the relevant period have been identified."
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Why is it?    What is your reservation about that?    Why are you concerned you haven't been able to find everything?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I think we -- I'll give you an example.    For example, if somebody had inaccurately recorded something on our system and it not ended up in the right -- with the right SIC code, or indeed the right duty holder -- so if there were -- so obviously there's some human error in there that could result in something that we might have even looked at, but it's not sitting in the right place. I think that that caveat -- my understanding is, from my point of view, is that caveat -- is that we can't be a hundred per cent that we've not missed something that's on our system.   It might not be in the right place.   But I'd have to come back to you on some of that.
+
+**Ms Harris**: You might say the same in relation to my next question, which is: if it's stored in this way, and you're unable to interrogate it without the manual input and without the confidence that you're getting everything, what extent do you think that affects the ability of the HSE to identify and monitor trends and concerns around -- well, around any sector, really, but in particular regarding mental health service provision and prosecutions, and so on?
+
+.. rst-class:: indented
+
+**Jane Lassey**: I mean, there's two things that I would say, particularly to do with the mental health provision now. Obviously CQC have got that role going forward, although there are certain situations that we would need to be aware of that.   So my concern is lessened, going forward, but in general, I think it comes back to what I said, as well: is there is some information that comes from trends of incidents that have been reported to us, and concerns.   But actually, when we're looking at what are the key health and safety issues across different sectors, that's really important that we're hearing from individuals and what's reported, but it's also there was information in other intelligence sources.   You know, we've got a Science Division that looks across the world at incidents that are reported, so we're not just looking at it within the UK.   What are the themes, major hazards, you know?   You don't have lots of incidents, you're trying to prevent them, but what are the key themes that you'd be looking at?   There are other ways of getting sort of intelligence around sectors, what's affecting different sectors.
+
+.. rst-class:: indented
+
+So I think -- but let's be honest here, as well. Clearly, we have got systems that are not the most up-to-date systems, but they -- I think they -- generally, what we've got is information that's in buckets, and obviously, more modern systems, you'd be able to mine those buckets a lot more easily because of the type of IT system that you would have.   So it's not easy.
+
+**Ms Harris**: You may not be able to answer this.   Do the HSE have any -- you say that they're not up to date; do you think the HSE have any plans to update those systems?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah, so our current system, which is the system that we currently use, we know it's labour intensive, it's not great.   So what we are doing at the moment is moving to -- and we've -- we're just in the process of, for all our inspections -- that's where we've started -- they will be recorded on a new case management system, which is a more up-to-date system, it's easier to mine the data, it's much easier to get data out of it.     So the first step was to record all our inspection interventions on that, and that's hopefully to be rolled out this year, and then we are picking up -- all our investigations will go onto that and, over time, all of our investigations will move onto this Microsoft 365 system which somebody tells me is a lot easier to manipulate data.
+
+.. rst-class:: indented
+
+So we understand that, you know, some of our systems are old-fashioned.
+
+**Ms Harris**: Picking up on that again, is the plan, then, to move the data you have stored on one system to --
+
+.. rst-class:: indented
+
+**Jane Lassey**: That will all -- yeah.   So any information that we are keeping or for the period of time that we need to keep it, that will either be moved onto the new system or it will be archived, so that we've got it until the point
+
+.. rst-class:: indented
+
+where we -- our procedure says we have to delete
+
+.. rst-class:: indented
+
+information.      So yeah.
+
+**Ms Harris**: So can I put it that way: if the Inquiry were to be
+
+asking you for information going forward, there may come
+
+a time when it would be easier for you to supply it or
+
+certainly interrogate the system to supply it?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Well, it may be that we're keeping stuff archived on the
+
+.. rst-class:: indented
+
+old one and just put new stuff that comes in on the new
+
+.. rst-class:: indented
+
+one, so --
+
+**Ms Harris**: But you're updating the systems nonetheless?
+
+.. rst-class:: indented
+
+**Jane Lassey**: Yeah.
+
+**Ms Harris**: Chair, that is the end of the questions that
+
+I have for Ms Lassey, currently.
+
+**The Chair**: Thank you.
+
+Thank you very much, thank you, Ms Lassey.
+
+**The Witness**: Thank you.
+
+**Ms Harris**: Chair, that is the end of the evidence then for
+
+today.    The Inquiry will sit again tomorrow at 10.00 to
+
+hear counsel for the Inquiry presentations regarding
+
+ligature and absconsion information.    It's anticipated
+
+that we may have a shorter day tomorrow, but we are due
+
+to start again at 10.00 am.
+
+**The Chair**: Thank you very much indeed, Ms Harris, thank
+
+you.     10.00.
+
+*(4.03 pm)*
+
+*(The hearing adjourned until 10.00 am the following day)*
+

@@ -1,0 +1,2616 @@
+.. raw:: html
+
+   <a id="hearing-link" href="https://lampardinquiry.org.uk/hearings/hearing-day-16-april-hearing/">Official hearing page</a>
+
+Hearing Day 16 – Robert Behrens
+===============================
+
+.. raw:: html
+
+   <details id="hearing-meta" open>
+        <summary>
+            <span class="open">Hide video</span>
+            <span class="closed">Show video</span>
+        </summary>
+   <lite-youtube videoid="RoUJX7-4dzo" params="rel=0"></lite-youtube>
+   <lite-youtube videoid="F7vQo8qGgkk" params="rel=0"></lite-youtube>
+   </details>
+
+*(10.05 am)*
+
+**The Chair**: Good morning.
+
+**Mr Griffin**: Good morning, Chair.   Chair, today we will be hearing evidence from Sir Rob Behrens, the former Parliamentary and Health Service Ombudsman.     I will be asking Sir Rob about the PHSO report entitled Missed Opportunities.   It found that there had been a series of significant failings in the care and treatment of two vulnerable young men who died shortly after being admitted to NEPT.
+
+The report considered the death in 2008 of a person referred to as "Mr R", and the death in November 2012 of Matthew Leahy.   It identified multiple failings surrounding both deaths.      The report also identified systemic issues at the Trust, including a failure over many years to develop the learning culture necessary to prevent similar mistakes from being repeated.
+
+Chair, we won't be looking in particular detail at the deaths of Mr R and Matthew Leahy but we will be looking at what missed opportunities the report says about both and it's troubling.     Sir Rob will also provide figures for complaints received relating to mental health and specifically in relation to the Essex Trusts.
+
+Later today, you will hear from my colleague, Dr Tagbo Ilozue, and he will be providing an overview of evidence received on the mental health services provided to Essex patients.   Whilst he won't be referring to specific deaths, he will provide the picture over the period covered by the Inquiry of local wards and services.
+
+So today's evidence may be distressing and difficult to listen to and, for some, it may not be possible to sit through the session.    I would like to make it clear again that anyone in this room is welcome to leave at any point and, again, I would like to remind everyone that emotional support is available for all those who require it.
+
+The well-being of those participating in this Inquiry is extremely important to the Inquiry.     We have, again, support staff from Hestia, an experienced provider of emotional support, here today and for each day of this hearing and there is a private room downstairs where you can talk to them if you require emotional support at all throughout this hearing.    The Hestia support staff are wearing orange-coloured scarves and lanyards and I know there is at least one in the room today.
+
+Would you just mind raising your hand?   Thank you.
+
+Or if you want to you can speak to a member of the Inquiry team and we can put you in touch with the Hestia support staff, and we are wearing purple lanyards.
+
+If you are watching online, information about available emotional support can be found on the Lampard Inquiry website at lampardinquiry.org.uk and under the "Support" tab, near the top right-hand corner.   Chair, we want all those engaging with the Inquiry to feel safe and supported.
+
+So, Chair, we move now, please, to the evidence of Sir Rob Behrens.   I am going to ask that he come and take his place at the table.
+
+Sir Robert Behrens
+------------------
+
+*SIR ROBERT BEHRENS (sworn).*
+
+Questioned by Mr Griffin
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Griffin**: Sir Rob, have you provided the Inquiry with two statements, one dated 21 March and one dated 1 April of this year?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: That's correct.
+
+**Mr Griffin**: Can you confirm that the contents of both are true and accurate?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I confirm that.
+
+**Mr Griffin**: Do you have your statement in front of you?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I do.
+
+**Mr Griffin**: You are welcome to refer to them if you need to.     Your statements and the evidence that you provided by way of
+
+exhibits stand as your evidence and I will not be asking
+
+you about everything in your witness statement or all of
+
+the exhibits as a result.
+
+Can I just make sure that you are comfortably
+
+installed.   There are, to your left, two big binders
+
+with documents in them.       We can remove those if you need
+
+more room.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I can move them.   Thank you.      Can I just check about the
+
+.. rst-class:: indented
+
+sound.   Is it possible to turn it up a little bit?
+
+**Mr Griffin**: I will speak a little bit more loudly but I think we are
+
+arranging for the volume to be increased.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Thank you.
+
+**Mr Griffin**: Please, at any time, if you are having difficulty in
+
+hearing what I say, just let me know?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Sure.
+
+**Mr Griffin**: Sir Rob, were you Parliamentary and Health Service
+
+Ombudsman, or PHSO, between April 2017 and March 2024?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I was.
+
+**Mr Griffin**: Does that mean that you have actually been out of the
+
+role for a little over a year?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: That's correct.
+
+**Mr Griffin**: Did Rebecca Hilsenrath KC take over from you in that
+
+role?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: She became the Acting Ombudsman for a year from the end
+
+.. rst-class:: indented
+
+of March 2024.
+
+**Mr Griffin**: In what capacity are you giving your evidence today?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I am giving it in an entirely personal capacity, though
+
+.. rst-class:: indented
+
+I have had help from the office in obtaining relevant
+
+.. rst-class:: indented
+
+papers.
+
+**Mr Griffin**: I think you have provided some statistics and
+
+information that we will come on to look at later?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: We are at an introductory stage of this Inquiry and part
+
+of that introduction is to look at matters of concern
+
+that gave rise to this Inquiry?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: That includes concerns raised by your work.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: (The witness nodded)
+
+**Mr Griffin**: The intention at this stage of our hearings is not to
+
+consider in detail any of the tragic deaths that fall
+
+within the scope of the Inquiry but I will be asking you
+
+about your report Missed Opportunities --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- which, as we have just heard, addresses significant
+
+failures in relation to Matthew Leahy and the person you
+
+refer to as "Mr R".
+
+Can we start though by looking at the PHSO role?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Can you give a brief outline of what that role entails?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: So there are 150 national ombudsman schemes throughout the world.   The UK was in the second strand of national ombudsman institutions created, and the Parliamentary element was created in 1967 and, a bit later, the health element was created and the two offices, which operate under separate legislation, have been joined together in -- in one post, which is known as the Parliamentary and Health Service Ombudsman.
+
+**Mr Griffin**: So we are interested in the Health Service Commissioner for England role.   Is the relevant law there the Health Service Commissioners Act of 1993?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, there are two Acts.   The Act of 1993 was amended -- this is very significant for this Inquiry -- in 1996 to enable the Ombudsman to look at clinical issues, which a number of my counterparts in other countries can't look at.    And this gives enormous opportunity to look at the clinical failures in cases, which are looked at with the help of independent clinical advisers who brief our case handlers.
+
+**Mr Griffin**: Thank you.   What is the PHSO's relationship with Government and the NHS?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: The Ombudsman is a Crown appointment.    The Ombudsman is appointed by fair and open competition.   The candidate is then selected and has to be approved by the Prime Minister.
+
+.. rst-class:: indented
+
+There is then a Parliamentary hearing -- pre-appointment hearing and, if that goes satisfactorily, Parliament votes on the Ombudsman and the Crown then makes the appointment.   So the key issue is that the Ombudsman is not -- does not report to ministers.   The Ombudsman is independent of both the Government and the National Health Service and is there as an independent and impartial voice to look at complaints by users of the National Health Service.
+
+**Mr Griffin**: Is the PHSO governed by a board?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.   Not -- not a statutory board but, because the principle on which the Ombudsman was founded is the principle of corporation sole.   Now, this gives all responsibility for every decision made to the Ombudsman alone in giving an account to Parliament.   That is a constitutional fiction and it's been recognised as such so that the powers that notionally lie with the Ombudsman have been, with consent, devolved to a Chief Executive who carries financial responsibility and a unitary board which is appointed, again by fair and open competition, which brings in non-executive members, and the board advises the Ombudsman about strategic direction but has no responsibility whatsoever for individual case handling.
+
+**Mr Griffin**: Is the board therefore made up of both executive and non-executive?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, it is.
+
+**Mr Griffin**: Who chairs the board?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: The Ombudsman and, just for the record, when it comes to a review of what the Ombudsman has done, the Ombudsman steps down and the senior non-executive takes over the Chair role to ensure there's proper accountability.
+
+**Mr Griffin**: How are board members appointed?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: By, by an open competition.   But it's a competition run by head hunters under the jurisdiction of the Ombudsman, not by the Cabinet Office or another department.
+
+**Mr Griffin**: You have said that the board scrutinises overall performance but not individual cases.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: How does the board exercise the function of scrutinising overall performance?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, there, there are regular meetings.   There is a requirement that all aspects of the key performance indicators of the office are put before the board. There is extensive scrutiny, so the board has subcommittees: it has a Finance and Audit Committee, on which sits the National Audit Office, to scrutinise the -- the financial and accounting performance of the Ombudsman; there's a Nominations Committee, to look at appointments; there is a People and Welfare Committee. And all of this is used to make sure that the Ombudsman gives a proper account before appearing before Parliament to give an annual account of what the office has done.
+
+.. rst-class:: indented
+
+So each year, the Ombudsman appears before the Public Administration and Constitutional Affairs Committee of the House of Commons in a challenging series of engagements, to make sure that there is proper accountability.
+
+**Mr Griffin**: Is there a subcommittee that looks at risk?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: That's part of the Audit Committee, yes.
+
+**Mr Griffin**: Why does the board not scrutinise any individual cases and who does that responsibility fall to, apart from individual case workers?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: That's a good question, and the answer is that the Ombudsman carries the Constitutional responsibility of making decisions about cases and, in that responsibility, there are mechanisms to make sure that the process is rigorous through the delegation, which we can come on to, to have a look at, but there's also an Expert Advisory Panel, which consisted of experts in the field like, Dr Bill Kirkup, James Titcombe, people well known in the health service field, to advise on how issues are addressed.
+
+.. rst-class:: indented
+
+But there is a strong feeling, or at least I have a strong feeling, that accountability for decisions should lie with the Ombudsman, not with the board.
+
+**Mr Griffin**: Are you saying that there would never be a situation in which a single investigation might be discussed at the board?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I am saying that.
+
+**Mr Griffin**: Can we --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: They would be aware that decisions have been made and, when I was the Ombudsman, there was a very, very serious case involving eating disorders, which is a form of mental health issue, that lasted for over five years and at the end of it I was so concerned about the implications of the case that I went to the board and said that I want to set up a review of how we handled that case, and we asked the Expert Advisory Panel to run it, and the board were in agreement with that.
+
+.. rst-class:: indented
+
+So they were informed but they didn't make -- have responsibility for making a decision.
+
+**Mr Griffin**: Thank you.    Can we move now to --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Sorry, this is very important.
+
+**Mr Griffin**: Yes?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: When I -- when I became the Ombudsman, my predecessor had set up a system in which she was able to commission people from outside the office on very difficult cases to make a judgement to see whether or not we, the ombudsman, had got it right or not.
+
+.. rst-class:: indented
+
+In my view, that was not an appropriate mechanism because it meant that the Ombudsman was not the decision-maker of last resort, and I think that is a very important principle to uphold.
+
+**Mr Griffin**: Moving to the remit of the PHSO: does the PHSO jurisdiction extend across England?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.     But wider than that.
+
+**Mr Griffin**: So what is the extent of the jurisdiction?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: So there -- there are a number of elements to this. First of all, in England, the Ombudsman has responsibility for all matters complained about the National Health Service but, in addition to that, the Ombudsman retains responsibility for all aspects of non-devolved issues that are addressed by the UK Parliament.     So issues that are not devolved, like home affairs, foreign affairs, social security, are also the responsibility of the Ombudsman, and that includes issues outside of England as well.
+
+**Mr Griffin**: Thank you.     I am going to ask now that a part of your statement is put up on our screens.    Please put up core bundle page 207 and could you expand paragraphs 5 to 7. Thank you very much.
+
+This, Sir Rob, is where you provide a little bit more information about the PHSO and I would like to look at paragraphs 5 and 7.    You say at paragraph 5 that the service is free for everyone and:
+
+"... it investigates complaints where someone (or a group) believes there has been injustice or hardship because an organisation in jurisdiction [and you then provide the relevant piece of law about that] has not acted properly or fairly, or has given a poor service, and has failed to put things right."
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Then at paragraph 7, you say:
+
+"As Health Ombudsman, the PHSO can look at administrative issues of maladministration and has the power to make judgements about clinical advice and acts of the clinicians who are complained about."
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.     So, first of all, it's very important that, unlike courts, anyone who comes to the Ombudsman has a free service, they are not charged in any way, and that is a very significant point of access for individuals.
+
+.. rst-class:: indented
+
+The second point is that the remit of the Ombudsman is about maladministration, which is mentioned in the legislation but is not defined in the legislation, which gives responsibility to the Ombudsman to interpret it in a way which people understand that they can -- what they can make complaints about.
+
+.. rst-class:: indented
+
+So, originally, in 1967 there was something called the Crossman Catalogue, which defined in non-legislative terms bias, neglect, delay, and so on, as being part of maladministration.    But as the office has developed and expanded, it has come to be -- to be able to look at serious service failure, service failure, avoidable death as being aspects of maladministration.
+
+.. rst-class:: indented
+
+Now, this is very important because one of the things that government departments don't always understand is that maladministration does -- is not the same thing as illegality.    Things can be maladministrative and not be illegal.       So there are whole aspects of service failure, for example, in the Health Service, which are unacceptable and -- but they are not illegal in that sense and, therefore, the jurisdiction of the Ombudsman is different to a court or a tribunal.
+
+**Mr Griffin**: Thank you.    Can we just break down a little bit what you have put in those paragraphs.    So we are looking at complaints about injustice or hardship, as we can see, arising from a failure in a service provided by an organisation that comes within your jurisdiction, and we will have a look at what those might be in a moment.
+
+You say at the end of paragraph 5:
+
+"... and the relevant organisation has failed to put things right."
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: So if an organisation has acted, in your view, to put things right, you wouldn't have jurisdiction to take on the complaint?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, there are a number of aspects to this, to be helpful.   First of all, the person complaining has to be directly affected by what has happened.   So, under the law, good citizenship is not enough to be able to make a complaint and I think that that is very important. You have to demonstrate that you are affected personally or in a group by what has happened.
+
+.. rst-class:: indented
+
+Secondly, we will look at poor service.   If something has -- is clearly poor service but has been addressed and, in the terminology "put right", then that's not an issue that we would necessarily take forward because we believe that the complainant has had the service that ultimately they deserve, as far as that's concerned.
+
+**Mr Griffin**: Just to --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: And, thirdly, there is a defined list in legislation of bodies in jurisdiction.
+
+**Mr Griffin**: We will look in a moment at a summary of that.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Okay.
+
+**Mr Griffin**: But can I ask you about one other aspect of this, you refer, we can see in paragraph 5, to relevant organisations which have not acted properly or fairly -- that's the language used there -- and, as you have already said, we have also seen the use of the word maladministration; can you explain what is the difference, if any, between those two concepts?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: No, well, because there is no legal definition, not acted properly or fairly is a way of describing, in common parlance, what maladministration means.
+
+**Mr Griffin**: Thank you.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I mean, we -- the big problems for the Ombudsman are, first of all, that very few people understand what the term means and, secondly, if you think that's bad then ask people to define what is maladministration, and that's not a term that is used in schools today, I can assure you of that.      So we -- the organisation has a responsibility to communicate in simple terms what it can do and what it can't do.
+
+**Mr Griffin**: Let's look at some of the organisations that are within your jurisdiction.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Please put up the exhibits bundle, page 535.     Could you highlight or expand from "For a complaint to be in remit".     Next page.   Thank you very much.
+
+So can we see here, this is a summary that you provided of a much longer document that sets out the procedures of the PHSO and here you summarise, or the relevant document summarises, the particular organisations that are in scope.
+
+We can see:
+
+"For a complaint to be in remit, we need to assess two aspects of a case:
+
+"Whether the organisation is in remit
+
+"Whether the action being complained about is in remit."
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: The document then talks about the relevant legislation and the fact that that sets out which organisations can be investigated.     Do we see there:
+
+"... we can investigate, namely Health Service organisations, family health providers and independent providers.
+
+"Health Service organisations broadly include ..."
+
+Does the document then set out in a number of bullet points which organisations those are and can we see that the first one is NHS Trusts and Foundation Trusts, and the last of the three bullet points is NHS England, Clinical Commissioning Groups and Integrated Care Systems.
+
+Can we see, at the bottom of the screen, that independent providers may be in scope:
+
+"Any person or organisation that provides a service of any kind [I think that should be 'by arrangement'] with a health service organisation or a family provider."
+
+So having seen this, is a complaint about a mental health trust likely to come within the PHSO's jurisdiction?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.     But I need to be quite careful in responding to this.     First of all, the Ombudsman cannot look at issues brought by staff against the Trust or staff who have complaints about each other.     That is outside the remit.
+
+.. rst-class:: indented
+
+Secondly, as we may come on to, it has to be in time.
+
+**Mr Griffin**: We will come on to that.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Thirdly, there are a number of other bodies that have responsibility for mental health complaints.
+
+**Mr Griffin**: We will come on to those as well.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I mean, that is very, very important.
+
+.. rst-class:: indented
+
+And my other point would be that, in comparison to other ombudsman services, the Ombudsman cannot look at independent provision of health services or mental health services, unless that is being funded by the NHS.
+
+.. rst-class:: indented
+
+Now, this is in direct contrast to the Local Government and Social Care Ombudsman, which can look at all private providers of social care and, frankly, I think this is an unnecessary restriction on the role of the Ombudsman, and my counterparts in other countries had the possibility of looking at independent health provision in the way that the PHSO can't do.
+
+**Mr Griffin**: That actually takes us quite neatly to other limitations or restriction on the PHSO role.
+
+Further to the one that you have just mentioned, what, in your view, are the main limitations on the PHSO's powers?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: So, first of all, the Ombudsman has the power of the High Court to call for papers, so there is no problem about securing information that might be difficult to obtain and I think that that needs to be put on the record.   But the Ombudsman is operating, unlike the vast majority of its European counterparts, in being constrained to look only at those issues that are complained about by citizens and non-citizens, and I cannot emphasise enough how important this has been, particularly in the case of Essex, in limiting the Ombudsman's capacity to contribute to a greater awareness and a public service in this issue.
+
+**Mr Griffin**: Could you just expand on that: why would the fact that you can only act on a complaint limit what you could do with relation to the issues that were arising in Essex?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Because there were a small number of very significant and heartbreaking cases in Essex, where the families of the people who died were brave enough to complain about what had happened, and that was the focus of our investigations.   But we subsequently discovered that, in the same institution, there were a significant number of other deaths where, for understandable reasons, because of bereavement or trauma or both, the families had not complained about and the Ombudsman had no opportunity to investigate those cases.
+
+.. rst-class:: indented
+
+If -- we will come on to it but if we had had the power of own initiative, then the resolution of these tragic issues could have been speeded up very dramatically, and I think that needs to be put on the record.
+
+**Mr Griffin**: What does it mean to be a point of last resort?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: So what it means is that, constitutionally, under the law, users of the service have to try to resolve their issue by going to the frontline deliverer before they can come to the Ombudsman and, in the case of the Parliamentary remit, they then have to go to their MP.
+
+.. rst-class:: indented
+
+But in the case of the Health Service, that doesn't apply but it means that the Ombudsman would look at issues -- does look at issues only after there's been an attempt at resolution and the complainant does not believe they have received satisfaction from the outcome.
+
+**Mr Griffin**: What if there is the possibility of a legal case to be brought by a putative complainant against a Trust for example?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Absolutely.    So there is, in law, the provision that the Ombudsman would not look at a case where there is an alternative legal remedy and the Ombudsman has discretion to look at those cases to advise the complainant that they would be better off going to law, rather than coming to the Ombudsman.
+
+.. rst-class:: indented
+
+The example I can give you is, in the close relationship we had with NHS Resolution, which deals with avoidable death and giving financial compensation, and we advised many families that, if they were looking for a significant redress in financial terms, then they would be better off going to NHS Resolution than going through the Ombudsman process.
+
+**Mr Griffin**: So we are going to hear about a number of bodies and regulators --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- operating within the health and the mental health sphere.     Is there a hierarchy as between them and the PHSO as to who should take on a particular complaint?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: There is no hierarchy.    That's -- I mean it's colleagues seeking to do the best that they can in an overcrowded and horribly complicated situation.
+
+**Mr Griffin**: We will come on to talk about the complexity of it in a moment.     Is there a time limit within which a person needs to bring a complaint?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.     I mean, again, the Ombudsman has discretion about whether or not to impose the time limit but, generally speaking, complainants have to come to the Ombudsman within one year of being aware of the facts which cause the complaint to be raised.
+
+.. rst-class:: indented
+
+Now, sometimes the attempt at resolution on the front line will take longer than a year, sadly, and, in that situation, the Ombudsman will use their discretion to allow a complaint to be taken forward but there has been litigation in a judicial review where the courts have opined that the Ombudsman took too long, allowed too long for a -- that principle to be applied and that there should be a more realistic interpretation of the rule.
+
+**Mr Griffin**: Thank you, and --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Sorry, just before we go on: the Ombudsman is the last resort but it doesn't mean to say that people cannot challenge the decisions of the Ombudsman, which they can do through judicial review.    And there have been a small number of significant challenges to the decisions of the Ombudsman, which have led to useful improvements in the service.
+
+.. rst-class:: indented
+
+So it's -- you know, it's not an absolute last resort.
+
+**Mr Griffin**: Is there any particular form in which a complaint must be made?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, and this is a reflection.     I mean, I personally have been arguing for ombudsman reform for a very long time.     The system is out of time, as one of my Scottish counterparts described it, and in law people have to make a complaint in writing.
+
+.. rst-class:: indented
+
+Now, you know, in modern parlance that is outdated and that is a disincentive to some people to use the system.    So --
+
+**Mr Griffin**: Could you just expand on what you have just said? A disincentive: are there particular communities or type of people for whom providing a complaint in writing would be particularly difficult?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Absolutely.    So people with mental health challenges, elderly people, refugees, marginalised and vulnerable communities, they are not necessarily of a view that a written complaint is going to be the way that they get quick access to an institution.
+
+.. rst-class:: indented
+
+Now, we do what we can to assist there.     But it is, it is a hurdle that people have to go through.
+
+**Mr Griffin**: So you were talking about things that you'd change to make the PHSO a more effective operation.    Would you change the way in which complaints can be submitted?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, as I said, the -- first of all, the MP filter is iniquitous and it is a disgrace which should be removed --
+
+**Mr Griffin**: That relates to the other half of your role, if I understand things correctly?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: It does but I need to say that.
+
+.. rst-class:: indented
+
+The problem for the user is that they don't know where to complain because of the curious jurisdictions that make up Public Service Ombudsman possibilities.
+
+**Mr Griffin**: We are going to come on to that and we will deal with that in a little detail.   My question was actually about the way in which a complaint can be submitted because, as we have just seen, it needs to be submitted in writing.   Is that a restriction that you would want to see removed?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, it is but, if you look at the evidence which we have given, the office receives around 125,000/130,000 enquiries each year which are predominantly on the telephone.   They are not written down.
+
+.. rst-class:: indented
+
+So the office is already listening to people, ear to ear or face to face, without stuff going in writing and I think that that's the way it should be and that I wouldn't want to change.
+
+**Mr Griffin**: You have already spoken about the need to be able to proceed on your own initiative --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- on your own motion, and not have to rely on a complaint being made?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I mean, I did a big study of, for the International Ombudsman Institute on ombudsman services coming out of Covid in 2021.    All my European counterparts had the power of own initiative.     In the new Ombudsman schemes in the United Kingdom, in Northern Ireland and in Wales there are powers of own initiative and it's absolutely astounding that the Ombudsman doesn't have that power as a UK Ombudsman, and it is a serious limitation on our capacity to serve the public.
+
+**Mr Griffin**: Amanda, would you take down the document on the screen.
+
+I want to now move to the point that you have touched on already, which is the complaints landscape if I can put it in that way.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: We have had the benefit of a presentation and slides accompanying it given by The King's Fund.    What I want to do, just to introduce this topic, please, is to look at one of the slides provided by The King's Fund.
+
+Would you put up, please, King's Fund slide 23.
+
+So here we can see "Non-NHS regulatory and investigatory bodies".    Can we see in the left-hand column the healthcare regulatory boards, such as the General Medical Council, The Nursing and Midwifery Council and the Health and Care Professions Council?     Do we also see in further columns the HSE, or the Health and Safety Executive, and then your organisation, as well as the Coroner's Service.   So those are all bodies or organisations operating within the Health -- and also to a certain extent, the mental health -- sphere; is that correct?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: It is correct but it's incomplete.
+
+**Mr Griffin**: Well, hold on just for one moment because we will come and look at another slide in a moment.
+
+Could you put up The King's Fund slide 22, please. So this is NHS regulatory and investigatory bodies and can we see here further organisations throughout the years, including the Mental Health Act Commission, the Care Quality Commission, NHS England, and the Health Services Safety Investigations Body or HSSIB.   So are these, again, further organisations that we need to be aware of in this area?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, and some of it is also missing here.   So we not only have the absence of the Local Government and Social Care Ombudsman.   In -- one of the big defects of the system is that health and social care are not integrated in an ombudsman service, so people don't know where to complain, as far as that is concerned.
+
+.. rst-class:: indented
+
+Secondly, we now have a Patient Safety Commissioner, which is not mentioned here, who has, the own initiative to look at patient safety issues, and she does a brilliant job in doing that.    And we have HSSIB, which under -- it looks at serious issues of safety but, unfortunately, it has taken away the power of the Ombudsman to look at serious issues without the permission of the High Court.
+
+.. rst-class:: indented
+
+And I took that case to the Venice Commission in the Council of Europe, who agreed with me that this was a wrong restriction on the role of the ombudsman, but the Government took no notice of that.
+
+**Mr Griffin**: Could you take down that slide, please.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I think I would just like to say, asking members of the public to appreciate those two slides, which are simplified and wrong, is a big part of the problem.
+
+**Mr Griffin**: Well, we will look at it a little bit more because, in your second witness statement you make the point that there are more than a dozen different health and care regulators playing important roles in patient safety?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: That's something that you have raised in one of the PHSO reports called Broken Trust.     Is Broken Trust a report from 2023, with the full name Broken Trust: making patient safety more than just a promise?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Did that report consider reasons for continued failures to accept mistakes and take accountability for turning learning into action and improvement?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I mean, we -- everything that we said in Broken Trust applies today.    We argued very strongly that the regulatory framework was over complicated and needed to be reformed.
+
+**Mr Griffin**: Can I ask you to pause there because I actually want to look at the relevant part of the report where you say that.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Okay.
+
+**Mr Griffin**: Could you put up exhibits bundle, page 450, please.        Can we see here part of the report.    I just want to look at what it says here:
+
+"Second, political leaders have created a confusing landscape of organisations, often in knee-jerk reaction to patient safety crisis points."
+
+Now, is that referring to what you have just been talking about?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: "HSIB, the Patient Safety Commissioner, PHSO, NHS England, NHS Resolution and more than a dozen different health and care regulators all play important roles in patient safety.    But there are significant overlaps in functions, which create uncertainty about who is responsible for what.    This means patient safety voice and leadership are fractured.    This is not due to a lack of dedication and professionalism from those tasked with championing patient safety.    The problem is structural."
+
+The report goes on to say:
+
+"The Government must consider the case for streamlining some of these functions, for the benefit of people who use the NHS, their families and carers.    This is not about reducing investment in patient safety.       It is about creating a system that is coherent and easier to navigate, based on evidence and engagement with patients, families, NHS staff and leaders."
+
+So the report refers to a confusing landscape of organisations.    May I ask you some questions about that: in your view, does the confusion extend to which of the various bodies has jurisdiction to consider a matter of concern?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.    So, to illustrate, in the field of mental health there are four possibilities of complaining: CQC has some responsibility, the Local Government and Social Care Ombudsman has responsibility, and a Mental Health Act tribunal also has responsibility, in addition to PHSO.
+
+.. rst-class:: indented
+
+So you need to be very clever to understand where to complain about.
+
+**Mr Griffin**: Does this overlap, for example in the bodies that you have just referred to --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- create a general uncertainty about who is responsible for what?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, I mean, you have to be pragmatic, as Ombudsman, and one of the things that we did was to work with the Local Government and Social Care Ombudsman to create a joint working team in which the two organisations bring together investigators to look at complaints where there is overlap between the two services.
+
+**Mr Griffin**: In fact, I am going to come on to ask you about wider cooperation in a moment.      Just sticking with the complexity point if I may --
+
+**The Chair**: Sorry, could I just interrupt?
+
+**Mr Griffin**: Of course.
+
+**The Chair**: You have mentioned four organisations in respect of a mental health complaint that might have a part to play.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**The Chair**: What about other people you have identified also, like the HSIB arrangements and the Patient Safety Commissioner, presumably they too would be.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: But they don't look at individual complaints.
+
+**The Chair**: I see you were referring specifically to complaints.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**The Chair**: I am so sorry, thank you.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: You know, I have great respect for HSSIB and what they do.    My problem with them is that, by excluding the Ombudsman from looking at their investigations, they have reduced our power to intervene in a way which is not helpful.
+
+.. rst-class:: indented
+
+Although that has not been tested with a particular case at the moment.
+
+**The Chair**: Thank you.
+
+**Mr Griffin**: Just dealing with the complexity point.
+
+Is it possible, in your view, that some incidents fall through the gaps between the various bodies and are therefore not investigated when they should be?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I think that that is the case.     I think there are a lot of people who simply don't know where to go.     I think there is a problem which we also raised in the Broken Trust report, as you will know, saying that advocacy services, which advise people about what to do and where to go, have been on the decline because of a lack of public funding and that was one of our recommendations; that for people to be properly informed about how to go about making a complaint, they very often need advocacy services and they have been scarcer.
+
+**Mr Griffin**: Given the complexity again, what certainty do we have now that deaths in the mental health context are always properly being investigated?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I think what the Broken Trust report showed was that, in a large -- well, more than nearly two dozen cases, where the Trust had said there was "No issue here", we, as the Ombudsman, had looked at the case and found cases of serious failure and avoidable death, and that is very worrying.    And I think coroners have come to the same conclusion on the issue of eating disorders: that Trusts have been reluctant to look at issues that they should be looking at.
+
+.. rst-class:: indented
+
+So I have no great confidence that the system is right at the moment.
+
+**Mr Griffin**: We have looked at various bodies including the CQC?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Is there anything in particular arising from the remit of that organisation that causes difficulties?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, first of all, the CQC has had serious internal problems in the last couple of years, which have been publicly reported, about its ability to carry out reviews.    You know, which is a problem.   This also applies to the Nursing and Midwifery Council.     So the regulatory partners themselves are not in optimal condition and, for example, where there is bullying taking place in an organisation like NMC, can we rely on the NMC to call out bullying in the Health Service?     You know, I think, I think that it -- that is a very important issue.
+
+**Mr Griffin**: As we can see, the extract that's still on our screen, you make -- or the report made -- the case for streamlining some of the functions.   What did you have in mind or what, in your view, could be done to streamline?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, I mean, unusually when it comes to my personal record, the Government actually listened to what we proposed in this report and they established an inquiry by Penny Dash, which is currently -- it's not reported yet, to look at this very issue, to see whether there could be a streamlining to make it more simple for users to understand the service and for there to be less overlap.   For example, and you know this is my view, it's not the view of PHSO, we have a brilliant Patient Safety Commissioner who operates as a singleton, Henrietta Hughes, she does a great job and she did a brilliant job in ensuring that Martha's Rule would be implemented to allow people to get a second opinion when they are concerned about how their relatives are being treated.
+
+.. rst-class:: indented
+
+Should that be a standalone role when you have a separate ombudsman service, you have a separate HSSIB and you have a separate CQC?    That's one example.
+
+.. rst-class:: indented
+
+Another example is that we are supposed to be joined up and working together and largely that's what is done. But CQC is a body in jurisdiction for PHSO.     So in addition to working together in the regulatory framework, PHSO has responsibility of oversight of what CQC does and, in a number of cases, where I found maladministration in CQC, over the fit and proper persons test in the Health Service, there was dismay in CQC that a regulatory partner would call them out in this way.
+
+.. rst-class:: indented
+
+So, you know, it's not, it's not all roses and flowers.
+
+**Mr Griffin**: Can we move to look at ways in which the different organisations that we have been looking at do cooperate.
+
+Could you take down the document from the screen, please, and I want to talk about the Health and Social Care Regulators Forum, this is paragraph 13 of your statement.    Have you set out there the various bodies and organisations which are members of the Forum?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Can we see that they are the CQC; the General Dental Council; the General Medical Council; the General Optical Council; the General Osteopathic Council; the General Pharmaceutical Council; the Health and Care Practitioners Council; the other ombudsman, the Local Government and Social Care Ombudsman; NHS England and NHS Improvement; the Nursing and Midwifery Council; the Professional Standards Authority; and Social Work England.    Correct?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, there are others as well.    So the Patient Safety Commissioner is now a member of the Forum and HSSIB is a member of the Forum, too.
+
+**Mr Griffin**: What is the purpose of the Forum?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: To allow the regulators -- so the Ombudsman is not a regulator, it has no regulatory power, it has no power to bind decisions which are made, which regulators will do.    So it has no coercive role but it is part of the regulatory framework and it is sensible and appropriate that there should be a forum for people to come together to discuss issues of common concern so that there is a general awareness about what's going on in the system, and it does perform that role and I think that's good.
+
+**Mr Griffin**: You say in your statement that NHS England used to sit on the Forum but does not do so any more.
+
+Do you recall approximately when that happened and why?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: No.    I mean, NHS England is no more.   So I -- you know, you will have to ask them about that.
+
+**Mr Griffin**: You also --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I think there is a problem about, historically, the role of NHS England being independent from, separate from, Government and, if you are going to have a regulatory forum, you need a degree of independence in order for that to have credibility.    So I think that's one of the issues.
+
+**Mr Griffin**: You also refer in your statement to an Emerging Concerns Protocol.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: What is that?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: So this is the ability of one of the regular -- regulatory partners to say to the partners, "This is an issue of such concern that we are dealing with that we feel it should be put in the public domain through the protocol", and I think that is a good thing.    The problem is that it's hardly ever been used and the only time that I am aware that it's been used was by a PHSO in dealing with the unacceptable behaviour of University Hospitals Birmingham Trust and their reluctance to cooperate with the Ombudsman over a prolonged period of time.
+
+.. rst-class:: indented
+
+But we did it and it had the appropriate effect of getting the Trust to finally take notice of what the Ombudsman had been saying.   So it needs to be used more.
+
+**Mr Griffin**: In fact, there has been a development, I think, since you stopped being PHSO.
+
+Chair, may I just use this opportunity to refer to information provided by Rebecca Hilsenrath, and she explains in her first statement.    The reference for anyone who wants it is at core bundle page 248, at paragraph 5.2.   She says:
+
+"In late 2024, it was agreed to merge the Emerging Concerns Protocol Group with the Health and Social Care Regulators Forum Thematic Group."
+
+Can we please put up core bundle, page 251, and could you expand paragraph 4 and 4.1, please.    Here this is a second statement from Ms Hilsenrath and she was asked:
+
+"What was the reasoning behind merging the Emerging Concerns Protocol with the Health and Social Care Regulators Forum Thematic Group?"
+
+Her response, we can see here:
+
+"On a practical level, it is hoped that bringing together the two groups will reduce the potential for duplication of discussion and encourage proactive discussion on thematic issues of interest across members.   By incorporating the ECP discussions into the forum, it is hoped that there will be more organic consideration of where a thematic interest area could generate an early indicator of a need to trigger the Emerging Concerns Protocol based on insight from other members."
+
+Sir Rob, is that an approach that you would agree with?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I do agree with that but I also need to say, in my experience of having been an ombudsman in legal services, in higher education, in health and in Government, that I have never come across a regulatory area as complicated as the Health Service and that, without addressing the core issue of simplifying the number of regulators, 4.1 won't have as much effect as it needs to have.
+
+**Mr Griffin**: Well, that is a question I was going to ask you.    To what extent does the Forum and your ability to talk to people outside the Forum as you need to mitigate the extent to which the complexity has caused problems?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, you know, the -- these are groups of public servants who do their very best under the circumstances which they are operating in.   But the core issue is: does the public understand how the system is regulated and where they go if they want to make a complaint? Anything else is filigree and, at the moment, I have no confidence that people trust the system because they don't know where to go when they want to make a complaint.
+
+**Mr Griffin**: Could you take down that document, please.
+
+Can we just take stock.       As we have just been discussing, if I have understood your evidence correctly, are there two general areas that you believe should be addressed: first of all, the limitations on the PHSO's powers that you have described; and, secondly, the complexity of the complaints and regulatory landscape, including specifically in relation to mental health care?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.    Could I just say this?    I am not an aggrandiser for ombudsman power.    I do understand that there are areas that you wouldn't want to go in.
+
+.. rst-class:: indented
+
+I have heard people argue for binding powers for the Ombudsman, so at the moment, as you know, the Ombudsman can't force anybody to do anything; its recommendations are recommendations.    And I know, from watching the experience in South Africa recently, that, where the Ombudsman does have binding powers, that that has led to enormous litigation in the constitutional court and below, where people have challenged the power of the Ombudsman successfully and, in fact, she was impeached as a result of these things.
+
+.. rst-class:: indented
+
+We don't want the Ombudsman to be judicialised.      We don't want to make the Ombudsman a second-class legal service.    It's not that, it's separate, and I would not support binding powers.
+
+**Mr Griffin**: We are going to come on later to look at some statistics that you have provided but, with the limitations and the complexity that we have just been discussing, I want to look at caveats that we may need to apply to the statistics that we come on to.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: In brief, does it come to this: because of the limitations of your role and because there are a number of other organisations working in the complex landscape you described, do the statistics you are able to provide actually only provide part of the picture?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I think they do only provide part of the picture because we only can look at cases where people come to us.    So if the wider issue of people having grievances and complaints about a system which they don't complain about is not available to us.
+
+.. rst-class:: indented
+
+And you may come on to it, but we did a survey with YouGov, in which we asked 3,500 people for their experience of complaining in the Health Service.
+
+**Mr Griffin**: Well, we will come on to look at that.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Okay, and what that showed, and just to make this point, is that many people with mental health challenges did not want to complain, and our data doesn't cover that.
+
+**Mr Griffin**: So if this Inquiry wants to build up an accurate picture, to the extent that that's possible, of what was occurring, we will need to go to the various other organisations and bodies to seek information from them too; is that correct?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: That's correct.
+
+**Mr Griffin**: I want to deal now with procedure, please.     You cover this in some detail in your statement, and I don't propose to do that now.      But the procedure that you adopt, does the process you describe involve a number of different stages: from receiving the complaint and considering whether it's within the PHSO's jurisdiction; to primary investigation and consideration whether the complaint can be resolved quickly without further investigation; through to detailed investigation for complaints that can't be resolved at the primary investigation stage; and on to provisional views shared by the PHSO with the parties to allow them to comment on them; through to formal finding, with the PHSO formally upholding or not upholding the complaint, or actually upholding it in part, and, as you have just been discussing, recommendations, which we will come on to look at.
+
+You have told us that in fact you do have power to require or compel evidence and, just looking at formal findings briefly, in what form are formal findings delivered to the relevant people: are they presented as part of a report or is there some other way?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: No, they are -- they're presented in the final report that the Ombudsman issues.
+
+**Mr Griffin**: Who is the report sent to generally?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: It's sent to the complainant and to the body in jurisdiction and, subsequently, where it's appropriate, to the co-regulators because one of the issues for a non-regulator is oversight of the implementation of the recommendations which are made, and that's why it's so important for the Ombudsman and the CQC to work together because, after a period of time, it's not appropriate for an Ombudsman to keep monitoring what a body in jurisdiction has done or not done and it's up to other bodies to make sure that that is borne in mind.
+
+**Mr Griffin**: We will come on to aspects of that a little later on.
+
+Can we come on though to look at recommendations in a little bit more detail --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Before we do that, if I can be helpful.
+
+**Mr Griffin**: Yes?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: The intake and the early resolution phase of what the Ombudsman does is absolutely vital, in terms of making sure that citizens are listened to, and we have an early resolution team which has been set up to see whether or not it's possible when complaints are received and seen to be appropriate, whether some resolution can be made without there being a formal investigation.
+
+.. rst-class:: indented
+
+And one of the things that I was able to do was to create a mediation team in the office to try and increase the number of complaints that are settled by talks between the complainant and the body in jurisdiction itself.
+
+.. rst-class:: indented
+
+And this is a very important development, it's not yet to scale, but it does mean that there is a possibility of avoiding a long, drawn-out investigation going through primary and then detailed investigation, and it's something that needs to be made -- have bigger capacity.
+
+**Mr Griffin**: So if we look at statistics, which we may do, that show that maybe quite a large proportion of complaints don't make it past primary investigation, from what you have said that shouldn't necessarily indicate that something wrong has happened.    It may in part indicate that there has been appropriate early resolution?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.    But to be fair, the vast majority of the reason for not taking cases further is that they are out of jurisdiction.     So they are not appropriate for the Ombudsman to take them forward and I think Sir Bernard Jenkin made this point when he was Chair of PACAC, that one of the unacknowledged roles of PHSO is to be an advice centre for people about what to do when they have problems in the NHS, to guide people to different complaints bodies and regulators, and that is a very important role which needs to be thought about as well.
+
+**Mr Griffin**: So if someone gets in touch with the PHSO and a decision is made that their complaint is not in your jurisdiction, your team or the PHSO team might signpost them to another organisation?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Absolutely.
+
+**Mr Griffin**: As I said, I would like to just look at recommendations, please.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: So where a complaint is upheld, the PHSO considers what recommendations to make and will they be included in the report?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: What is the purpose of recommendations?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: The purpose of recommendations is to make it useful for both the complainant and for the body in jurisdiction. So quite often, the thing that the complainant most wants at the end of a process is, first of all, an apology and a proper apology -- and some of the apologies that I've seen aren't worth the paper they are written on; but, secondly, some element of financial redress for what has happened; and then, thirdly, and this is very vital, people say to the Ombudsman, "I am complaining not for myself but to make sure that the system learns from what has happened so that it doesn't happen to somebody else".
+
+.. rst-class:: indented
+
+And so we make -- we made operational and policy suggestions in our recommendations to try and make sure that what occurred doesn't occur again, and that is what is so frustrating about the Missed Opportunities report that we made strategic suggestions and they were taken no notice of.
+
+**Mr Griffin**: So let's just be clear: in Missed Opportunities, you were looking at the case of Mr R and Matthew Leahy?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: In both of those cases, there was a final report at the end of the PHSO investigation --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- and both of those reports included recommendations?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: So for recommendations you have mentioned, I think, apologies, financial redress and general recommendations for learning and improvement.    You mention also in your statement that a requirement or a request for an explanation can also be included as a recommendation?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Which type of recommendation is made most often?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, I think, fundamentally, apologies are the critical issue but they tend to be associated with operational and policy recommendations to go with it because, if there's been a service failure, we want to make sure that doesn't happen again, so there are implications as far as that's concerned.
+
+.. rst-class:: indented
+
+The financial redress comes from the body in jurisdiction, it doesn't come from the Ombudsman.     It's around £500,000 a year, which is very small in comparison to what NHS Resolution pays or the Infected Blood Compensation Authority.
+
+.. rst-class:: indented
+
+But it is important in being tangible to people that their complaint is valued.
+
+**Mr Griffin**: How often is financial redress recommended?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I think -- I have to check, I can't remember but I think it's about 1,000 cases a year there would be financial redress.
+
+**The Chair**: I know every case is different, but do you have a view about the principles of an apology that you consider ought to be evident in an apology?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Absolutely and it starts from the bad practice of public bodies saying, "If you were -- if you were upset by what happened, then we are sorry"; in other words, "It's your fault that you were upset", and the apology is a put-off.
+
+.. rst-class:: indented
+
+It has to be genuine, it has to be sincere, it has to be empathetic and we have, along with the Social Care Ombudsman and other ombudsman schemes, set out the principles of what constitutes a good apology.   One of the key players in this field is Chris Gill, at the University of Glasgow, who's done research into this. So there's a big difference between different types of apology.
+
+**Mr Griffin**: Do you --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Sometimes they can be very patronising and it just shows a lack of empathy.
+
+**Mr Griffin**: Do you ever recommend that a public inquiry should be instituted?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, and that's a big issue.   Can I take a glass of water before responding to that?
+
+**Mr Griffin**: Please do.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: So this is very serious.    There is legislation about public inquiries being commissioned which applies but, in my view, it is used in a -- or has been used in a very cavalier, inaccessible way, meaning that it's arcane about how inquiries, public inquiries, are commissioned.    And the two examples I can give of that are, first of all, the case of Robbie Powell, which you may be aware of, who was a young boy who died of Addison's disease in 1995, where there was evidence of a cover-up by the doctors who looked after him and then of fraud by the police that investigated the case and the evidence went to the Crown Prosecution Service.
+
+.. rst-class:: indented
+
+And Mr Powell was promised by various politicians that there would be a public inquiry to look at this and he has worked for 35 years to try and get that inquiry and has been unsuccessful.    And I have supported in public, along with the Welsh Ombudsman, the need for a public inquiry to look at this disgraceful set of events which Government has decided that they won't look at.   So that is a concern.
+
+.. rst-class:: indented
+
+This issue, the Lampard Inquiry, which I am really pleased to see coming about, has frankly taken far too long to come about because the Government was extremely reluctant to create a public inquiry in these issues and, despite all the evidence to the contrary it wouldn't have an independent inquiry after our report Missing Opportunities, and then it went for an independent inquiry, against the advice of many people, which, as you know, collapsed because clinicians would not participate with it.
+
+.. rst-class:: indented
+
+And I was promised by the Cabinet Office in 2020 that they were looking to review the rules for public inquiries and that came to nothing.   And we still have the same arcane, non-transparent approach to creating public inquiries and there was, frankly, a disgraceful exchange between two health ministers about this issue involving Matthew Leahy's mother, in which they clearly showed no public service element in their consideration of whether there should be a public inquiry.
+
+**Mr Griffin**: I think those were text messages or communications that we saw a little of at our hearing in September.    Is your point, in short, that the current mechanism for setting up an inquiry, at least a statutory inquiry, which requires a minister to act, not the appropriate way forward and, twinned with that, are you saying that politicians too often call for public inquiries without actually following up?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I am saying both those things.
+
+**Mr Griffin**: That's what I understood.   Thank you.
+
+Chair, it is time now for our mid-morning break. Could we come back at 11.45, please, so 15 minutes, thank you very much?
+
+**The Chair**: 15 minutes.
+
+*(11.29 am)*
+
+*(A short break)*
+
+*(11.45 am)*
+
+**Mr Griffin**: Sir Rob, we ended the last session talking about public inquiries.      Is there anything further you would like to say on that point before we move on to another topic?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, thank you.   There is just one final point I would like to make with due respect to you.     One of the big problems about public inquiries is what happens after they have reported and there -- as Dr Bill Kirkup has made the point, that time and again we have big public inquiries which make brilliant recommendations which are not implemented and, of course, politicians have to make decisions.
+
+.. rst-class:: indented
+
+But it seems to me there needs to be a mechanism, through perhaps the National Audit Office, to monitor what happens to recommendations of public inquiries so that the public get a chance to see the impact of these inquiries on policy development.
+
+**Mr Griffin**: Thank you and, in fact, Sir Rob, recommendations and implementation of recommendations is very much on the radar of this Inquiry and we have set up, as I mentioned last week, a Recommendations and Implementation Forum to start looking at implementation, even at this early stage of the Inquiry.
+
+You have spoken about some external body that might oversee implementation of recommendations and we will be hearing next week from Deborah Coles of the organisation INQUEST, and she, I know, and her organisation have views about that too and they are in favour of something they refer to as a National Oversight Mechanism, so I will ask her about that as well.
+
+But since we are dealing with implementation of recommendations, can we look at that topic in relation to PHSO recommendations?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: You have already told us that you don't have the power to require implementation and, indeed, you don't want it or you wouldn't personally advocate it?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: But how does PHSO monitor the implementation of recommendations once they are made and included in a report?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: So when a report is issued, we give the body in jurisdiction usually three months to be able to come back and explain to the office how they have gone about implementing the recommendations and, broadly speaking, that is successful, in the sense that, in routine matters, Trusts tend to accept the recommendations and to implement them.    But that's not always the case and the challenge for the regulatory framework is to make sure that, even if an Ombudsman has recommended something, beyond that three months, the regulatory partners make sure that it's not forgotten about.
+
+**Mr Griffin**: Does that happen at the moment: if we, say, take a report containing various recommendations issued to a Trust, once the PHSO is satisfied that those recommendations have been implemented, do you then hand over to a relevant regulator to monitor things further?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, a couple of things: one is when we make a -- when we issue a report, in general that is copied to the CQC to make sure they are aware of that; secondly, in serious cases, we would lay the report before Parliament, so that the Select Committee gets an opportunity to see whether or not the recommendations have been implemented.
+
+.. rst-class:: indented
+
+And I think, as we will come on to, laying the Missed Opportunities report before Parliament and allowing the Select Committee PACAC or -- that body anyway --
+
+**Mr Griffin**: So that's the Parliamentary and Constitutional Affairs --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- Select Committee?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: They conducted their own inquiry into the extent to which the recommendations which went beyond the Trust to Government in general, and they played a critical role in raising awareness about the recommendations and the issues.
+
+.. rst-class:: indented
+
+And, unfortunately, after Sir Bernard Jenkins stood down as Chair of PACAC, that ceased to happen and I think that's a retrograde step.    The Ombudsman is supposed to be an officer of Parliament.    If Select Committees don't take up the reports of the Ombudsman when there's been a failure to implement recommendations, that reduces the authority of the Ombudsman.
+
+**Mr Griffin**: But the mechanism you have just discussed, elevating cases beyond the Trusts, onwards and upwards up to Parliament, you can't do that in all of the cases of non-compliance, can you?     I mean, there will be many instances of non-compliance where you don't seek to elevate through an additional report or putting a matter before a Select Committee?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, that's true, and it's about proportionality.     So to give you one example, I can recall a deeply problematic dentist who had arbitrarily excluded a patient from their list and refused to accept our recommendation that the patient should be restored to the list, despite everything we did to try and make this happen, and, on grounds of proportionality, we decided this was not something we needed to put to Parliament.
+
+**Mr Griffin**: Could we just dig down into the actual way in which PHSO checks whether a recommendation has been implemented. Is it the case worker who does that or how does it work?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, I mean, it's guided by the case worker.   One of the issues to consider is that we have tended to ask bodies in jurisdiction to provide a report on what they have done in response to the recommendations rather than specifically mention issues that have to be addressed. Sometimes we will ask for a change progress report.
+
+.. rst-class:: indented
+
+So that element is a bit subjective about whether or not it has been implemented or not.
+
+**Mr Griffin**: But if you are recommending, for example, some kind of financial redress --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Absolutely -- I mean --
+
+**Mr Griffin**: -- a written apology --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: -- those things are very clear and, in general, bodies in jurisdiction are good at delivering on those things.
+
+**Mr Griffin**: Can I ask you this: does the PHSO check whether the complainant agrees that a particular recommendation has been implemented?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Good question.   I mean, we obviously talk to the complainant and there will be correspondence with the complainant but, formally, we don't go out of our way to ask the complainant if -- or we didn't go out of our way to ask a complainant.   Maybe that's something that could be done to improve the system.
+
+**Mr Griffin**: How confident are you that the PHSO's monitoring really does identify where a recommendation has or has not been complied with?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I'm reasonably confident because of what I've seen over a seven-year period, because the power of transparency and publicity is all important in this area and, in my time, we did a great deal to publicise what had happened in individual cases, with a whole new approach to putting summaries of cases online and, frankly, bodies in jurisdiction don't like adverse publicity.
+
+.. rst-class:: indented
+
+So it's not about moral suasion, as the old Ombudsman writers used to say as the moral power of the Ombudsman.   It is about embarrassing the bodies in jurisdiction that really has the impact that that is ...
+
+**Mr Griffin**: So this is something you have touched on before but I want to look at it in a little bit more detail.     We have heard from you that the named organisations are not obliged to carry out your recommendations?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: What's the process where a case worker or someone else was in the PHSO finds that compliance has not been completed?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: They will report it to their operations manager and that will be addressed and it will come up to the Ombudsman if there is continued reluctance to comply.
+
+**Mr Griffin**: You have mentioned that, ultimately, there is a power to lay a report before Parliament?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Do we actually see that with the Missed Opportunities report that we are going to come on and look at?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Absolutely.
+
+**Mr Griffin**: What would you hope to achieve by laying a report before Parliament?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Exactly what the Missed Opportunities report did.       It -- the Select Committee summonsed the Government and the Health Service to give an account of what they had done in response to the very serious failures in these cases, and the Government produced its own evidence and, you know, it was deeply embarrassing for the Government to have to go through this process, and necessary.
+
+.. rst-class:: indented
+
+We had done our bit, we passed it on to the Select Committee, and they then did their bit.
+
+**Mr Griffin**: Thank you.    I would like to move to a new topic now, please, and that is generally complaints to your office when you were in role, looking at matters at a general level and then coming on to look at Missed Opportunities the report.
+
+You have set out at paragraph 26 of your first statement statistics for the number and types of complaint received by the PHSO.
+
+Could you put up, please, core bundle, page 211, and expand paragraph 26, so "Number and types of complaints received".   I think you have mentioned this already:
+
+"In a non-Covid year, the [office] would expect to receive [over] 100,000 enquiries from the public, mainly relating to Health Service issues."
+
+However, as you say there, there are a growing number of enquiries falling into the other side of your role.
+
+Could you, please, go to the next page, show the full page.
+
+What you have done -- and don't worry we don't need to look at these in any detail -- over a number of pages of your statement, you have provided statistics in relation to complaints and, just looking at this page, for example [page 212], can we see that, on an annual basis from -- in fact it was 2011/12, you provide figures for the total complaints received, those that fell within PHSO jurisdiction, those identified as relating to mental health and then those relating to the Essex Trusts.
+
+Please could you go to the next page, just to give an idea of the amount of information that's been provided, and show the full page [page 213], and then the page after that [page 214].
+
+Then could we see at the bottom "2023-2024", the year that the data relates to there.    Would you go to the top of the next page, please [page 215] and just expand those top bullet points, please.
+
+So can we see that, over those pages, you have provided helpfully information from the 2011/12 year, right up to the year we have just looked at, covering those various areas that I was just mentioning.
+
+Thank you, could you take that down, please.
+
+Now, Sir Rob, the Inquiry legal team has converted the statistics we have just scrolled through there and turned them into a chart.    Have you been provided in advance with the chart and have you had time to consider and check it?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I have, thank you.
+
+**Mr Griffin**: Are you happy that it -- and, in fact, we will look at one more -- adequately plots the statistics we have just seen?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Thank you.
+
+Amanda, would you put up chart 1, please?
+
+So here we can see the statistics going back to the 2011/12 period and up to the 2023/24 period, can't we? This is relating to health-related complaints, both physical and mental, covering that period.    I think it's right, or at least the Inquiry has been told by your office, that, for various reasons, you are unable to provide data before 2011/2012.
+
+So can we see that this chart plots the total number of complaints relating to physical health received year by year, together with the numbers relating to mental health.     So the physical health is the blue part of the bar, and the complaints relating to mental health is the -- I would say that's pink part of the bar.
+
+So, first point, these are national statistics, aren't they, they don't relate to one part of the country or Essex?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Do you have any observation about the proportion of complaints relating to mental health, as opposed to physical health, that PHSO receives?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.     I think you can see from the chart that, excepting the Covid year, when we had to close down our operations because of the crisis in Trusts and NHS bodies, there has been a slow but significant rise in health complaints but not necessarily in mental health complaints.     And this really synergises with the study which we did of service users of mental health.
+
+**Mr Griffin**: We will come on to look at that in a moment.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Okay.
+
+**Mr Griffin**: But is there any particular reason, in your view, why the proportion of mental health complaints appears to be small, compared to that relating to physical health?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, because people with mental health challenges are often in a less advantageous position than other people to make complaints: (a) they are not necessarily able to make complaints themselves; (b) they may be in a very tricky confined situation, which makes making a complaint difficult; and (c) what we know is that very often -- and this is also true with elderly people in the Health Service -- that there are two dispositions which don't apply to other sectors of the community, (i) is that they don't want to bother the system and (ii) they feel that they might be victimised if they did make a complaint.
+
+**Mr Griffin**: That does take us, doesn't it, to your survey.   So can we put up, please, exhibits bundle page 152.
+
+You have mentioned this a couple of times, I think, Sir Rob.   Is this a "Survey of experiences of NHS mental health care in England" conducted in February 2020, or at least reporting in February 2020?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: (The witness nodded)
+
+**Mr Griffin**: Can we see there -- thank you very much -- that the survey asked people about their experiences of using NHS mental health services in England and it included an open question that allowed participants to give more detail about their experiences?
+
+Now, Sir Rob, you have referred to, I think, these responses; is that correct?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: So:
+
+"The key findings were:
+
+"one in five people ... did not feel safe while in the care of the NHS mental health service that treated them
+
+"over half (56%) said they experienced delays to their treatment, and four in 10 (42%) said they waited too long to be diagnosed
+
+"[Also] almost half (48%) said they would be unlikely to complain if they were unhappy with the service provided
+
+"One in three (32%) said they did not think their complaint would be taken seriously ..."
+
+I think, touching on something you have just mentioned:
+
+"... the main reason given for not complaining was that they would not want 'to cause trouble'."
+
+Does that pick up on the points that you wanted to?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Absolutely.
+
+**Mr Griffin**: Is there anything further arising from those bullet points that you would like to tell us about?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, I think, this wasn't just any old survey.        It was YouGov that did it for us, so the figures are statistically reliable; they are not -- they are not just impressions.
+
+**Mr Griffin**: Thank you.    I am going to ask can we go to the next page, please.     In fact, what you do in the survey is to summarise key findings in another report Maintaining Momentum.     Is the full title of that report Maintaining Momentum: driving improvements in mental health care and was it produced in 2018?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Do we see here summarised conveniently five themes arising from that report?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, and I think, if I may say so, that point 3 is a very significant point.
+
+**Mr Griffin**: Well, let me read them out and then, by all means, make any observations that you want.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Sure.
+
+**Mr Griffin**: So the five failings identified in Maintaining Momentum are listed as, first of all:
+
+"Failure to diagnose and/or treat the patient
+
+"[Secondly] Poor risk assessment and safety practices
+
+"[Third] Not treating patients with dignity and/or infringing human rights
+
+"4.    Poor communication with the patient and/or their family or carers
+
+"5.     Inappropriate hospital discharge and aftercare of the patient."
+
+I mean, you wanted to speak about one of those. Give us any observations you wish arising from those five key points?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Sure.     I mean, they are all fundamental to the issues around safe care in the NHS.    Point 4, poor communication, you know we come across that time and time again across the whole of the Health Service.      The poor communication, often the lack of respect that service users receive and their families too.
+
+.. rst-class:: indented
+
+But on number 3 and mental health, the Ombudsman has no power in law to look at human rights issues and I gave evidence before I ended my term to the Justice Select Committee in the House of Commons, who were looking at whether or not they should create a new Human Rights Ombudsman in the UK and I said that that was a nonsense to do that because what you needed to do was to incorporate -- you don't need to further create more ombudsman schemes when we have got too much already.       So it would be appropriate to give a human rights mandate to the existing Ombudsman.
+
+.. rst-class:: indented
+
+There are two cases in that report where the human rights of mental health patients were flagrantly violated: one was in the case of a woman who was menstruating but had no opportunity to address that issue because everything was taken away from her; and the other was the case of a woman who had given birth to a baby, she had mental health challenges, the baby was taken away from her without any consultation or consideration of the impact for the person.
+
+.. rst-class:: indented
+
+That -- you know, that is a fundamental human rights issue.   We looked at it, it's just that we couldn't say that it was a breach of human rights in law.
+
+**Mr Griffin**: Maintaining Momentum was published in 2018.    Are you able to say to what extent these five failings remained of concern up until the end of your period as Ombudsman?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I think, you know, what's interesting is that, in each of the reports that we have published, going on to the Broken Trust report and then the Discharge report, these issues don't go away.   They are there time and time again.   We keep talking about poor communication, the defensiveness of institutions, I don't think these are fundamentally addressed as far as things go that I can, that I could see to the end of my term.
+
+**Mr Griffin**: So you have referred to two reports there, Broken Trust: making patient safety more than just a promise, which was published in June 2023 --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- and Discharge from mental health care: making it safety and patient centred, which was published in February 2024, so close to the end of your period as Ombudsman?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: These are issues that you say that we see recurring?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, if you look at what we reported in Broken Trust, it was about the failure to make the right diagnosis in too many cases, delays in providing treatment, poor handovers by clinicians and a failure to listen to the concerns of patients or their families.    You know, that is pretty much the same as we were saying five years earlier.
+
+**Mr Griffin**: Thank you.    Would you take down the document on the screen, please, and would you put up chart 2, please.
+
+So this chart relates to the same data we looked at before from paragraph 26 of your first statement.       So do we see here mental health related complaints over the period that we have been looking at, and this chart plots mental health complaints on a national but also on an Essex basis.
+
+Can we start by looking at the national statistics, the darker blue bars.    Can we see in this chart that, in the period 2011/12 a total of 1,769 mental health related complaints were received nationally --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: (The witness nodded)
+
+**Mr Griffin**: -- and that, by the end of the period covered, '23/'24, that figure had risen to 2,558, albeit with fluctuations along the way?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Your successor, Rebecca Hilsenrath, refers to a spike between 2018/19 and '19/'20, and she attributes that to the impact of the Covid pandemic.      Would you agree with that?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, I think Covid had an adverse -- a more adverse impact on people with mental health challenges than other health cases.     That's true.
+
+**Mr Griffin**: Ms Hilsenrath goes on to say that the spike appears to have levelled off in subsequent years and should be read within the context of an increase already prevalent, not only in mental health cases but across the gamut of complaints about the Health Service --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- which is not attributable to the pandemic.
+
+So I understand her as saying that there is a general overall increase --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- even if one puts the pandemic to one side; would you agree with that?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I would, yes.
+
+**Mr Griffin**: What, in your opinion, is the main reason or are the main reasons for this overall rise in health and mental health related complaints?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Because the National Health Service has been under increasing pressure in terms of finance, in terms of staff, in terms of the morale of the staff, in terms of the reliance on bank temporary staff to cover, and it's very interesting to me that that the National Audit Office found a couple of years ago that 30 per cent of people who leave the National Health Service, as either nurses or staff, say that it's stress and mental health challenges that have caused them to do this.
+
+.. rst-class:: indented
+
+I think we need to be very careful about stigmatising the generality of staff in the Health Service without recognising the great challenges that they have had to put up with.   So one of the things that I tried to do as Ombudsman was to go round as many Health Service establishments as I could to meet with those who worked in the situations, to meet with patients, and going to mental health units was very challenging for me, and I was just there as a visitor.
+
+.. rst-class:: indented
+
+So I don't underestimate what it takes to work in these situations and that to me would be one of the reasons why there is a rise in complaints.
+
+.. rst-class:: indented
+
+And the other reason, which is tragic but very important, is that there is a decline of public trust in the Health Service, which used to be the exception to the general decline in public trust in public services. That is no longer the case.
+
+**Mr Griffin**: Can we look, staying with this chart, at the information relating to Essex specifically?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: So that's the light blue bar.    We can see there, I think, figures fluctuating from the low 70s and going up to the mid-120s, concerning complaints relating to Essex Trusts.     In fact, you observe in your second statement that cases related to Essex were on average 5 per cent of the cases related to mental health over this period.
+
+Is there any significance in that level of Essex complaints, as opposed to the national picture that you can think of?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I honestly don't think so.     I have tried to think of whether or not there is but I can't see that from the figures.
+
+**Mr Griffin**: Thank you.    Could you take down the chart, please.    You refer in your second statement at paragraph 10 for those who are following, to themes arising from the complaints the PHSO received about Essex Trusts, and I would like to just look at those themes now.
+
+The first of the themes that you identify is discharge or poor discharge planning -- yes, is discharge.    Can you just expand a little on what that theme encompasses?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Could you just point me to --
+
+**Mr Griffin**: It is page 7 of your second statement at paragraph 10.1. We could put it up on the screen.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, please, if you would.
+
+**Mr Griffin**: Could you put up -- and this hasn't been notified, but could you put up core bundle, page 246, please.       Could you expand paragraph 10 up to the end of 10.2, please.
+
+So here you have been asked to confirm matters about Essex, and we can see at 10.2:
+
+"... complaints received about Essex Trusts discharge is a relatively common theme ..."
+
+I would just ask you to expand on what you meant in an Essex context about the discharge theme?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.     Thank you.   I mean, I need to be careful about generalising but, as far as I can recall in the Essex situation, but it's not confined to Essex, there was a lack of consideration of the personal circumstances people were in when they were discharged, a failure to listen to the families and to the patients about what would be appropriate for them and priority given to the convenience of the Trusts and the bodies in jurisdiction about how people should be discharged.
+
+.. rst-class:: indented
+
+There was, therefore, a routinisation and a lack of empathy in dealing with that issue, which I think is not just confined to Essex.
+
+**Mr Griffin**: The routinisation or the lack of empathy is something that the Inquiry is interested in.   I mean, you have already mentioned the difficult circumstances particularly in mental health units that you visited but do you have a view as to why that came about or when that came about?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, I think, in my experience, it was always there from the moment that I became the Ombudsman and, you know, I have great appreciation for the work that people -- clinicians in the Health Service do, and managers, too.
+
+.. rst-class:: indented
+
+But there are two things that I recall: one is that, if I would go to a hospital, the Chair and the Chief Executive would welcome me and say, "Thank you for coming, we are all in this together and we are one big happy family", and as soon as you left them and went round the Trust and met individual clinicians, you saw that that was not necessarily the case.
+
+**Mr Griffin**: Can we be clear: are you talking about the situation nationally or in a general way, or are you talking specifically about the experience in Essex?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: No, I am talking about the general situation.
+
+.. rst-class:: indented
+
+And that was always the issue that people were working under very great stress and they felt, when they talked to me, that they didn't have the necessary development, training and profile to be able to address the issues that they were dealing with as appropriately as they might.
+
+**Mr Griffin**: Thank you.
+
+Amanda, would you expand now 10.3 and 10.4.
+
+This is now returning to the themes arising from Essex.
+
+I'm sorry, in fact, I can see there are two 10.3s. Would you expand the paragraph that's at the top, the one above that, please.      You will see that there are two 10.3s.    Thank you.
+
+So another theme you talk about here is poor communication.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.     I mean, I don't want to labour the point but, in the cases that I looked at in Essex, including the Missed Opportunities one, what stands out is the scant communication between the patient and the clinician, which was disastrous for the safety of the patient and, you know, even when it's not disastrous for the safety of the patient, it is a feature of the NHS more widely.
+
+**Mr Griffin**: You have spoken already of a failure to listen?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, I mean, when we come on to Missed Opportunities, in both of the cases there, you know, there was a cavalier approach to communication which was disastrous for the survival of the two people involved.
+
+**Mr Griffin**: Then we can see the last of the issues that you refer to is poor recordkeeping.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Again, is that an issue that you see more widely beyond Essex?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Absolutely.   I mean, as I said, I was Higher Education Ombudsman, I was Ombudsman in Legal Services.     I did not expect the fabrication of documents to feature in my role as Health Service Ombudsman, and it has done, and the failure to record what has happened, both in Essex and outside Essex, has been shocking.
+
+**Mr Griffin**: Is "shocking" a word that you use regularly in relation to your work or does this really stand out?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I don't -- I try not to be sensationalist but I think it's an appropriate term to use.
+
+**Mr Griffin**: Do we see that the Essex issues we have just been looking at reflect, to at least a certain extent, those key five key issues that you identified in Maintaining Momentum?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: They do.
+
+**Mr Griffin**: Could you take that down, please.
+
+I would like to move on now, please, Sir Rob, to missed opportunities and to the tragic cases of Mr R and Matthew Leahy?
+
+**The Chair**: Before you go on, you have just said how shocking the communication, the recordkeeping, falsification was for you.    Have you encountered it elsewhere other than Essex?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.    In a number of cases, in Bristol, in the Robbie Powell case, untruths were written down for the convenience and the reputation of the body in jurisdiction, rather than accurately describing what had happened to the patient.
+
+**The Chair**: Thank you.
+
+**Mr Griffin**: Chair.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Sorry, document -- in the Powell case, documents went missing.    They disappeared and that was brought to the attention of the Crown Prosecution Service but nothing came of it.
+
+**Mr Griffin**: We may be looking in a moment at some similar issues in the Missed Opportunities report?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Chair, as I have mentioned, I am coming on now to talk about and ask Sir Rob about Missed Opportunities and this report includes some very difficult details, and I just want to give a warning, again, to people about that, so that they are prepared, and I refer everyone back to what I said at the start of this hearing about the availability of support, being able to leave the room at any time, if you want to, and so on.
+
+Sir Rob, you refer in your first statement about when the Ombudsman would become personally responsible in investigations, I could take you to the paragraph if we need to.   But when would that, in general, be?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: There is a body that the Ombudsman chairs which, on a monthly basis, looks at high profile complex cases and decisions are made collectively within the office about who, in a very senior position, would take responsibility for the oversight of those cases.
+
+.. rst-class:: indented
+
+So pretty soon after something comes in and it's agreed that it's an issue to look at, a decision would be made about who will take responsibility for it.    It might be the Ombudsman, it might be one of the two deputy Ombudsman leaders, or it might be someone else in a senior position.
+
+**Mr Griffin**: If, say, you became involved in a case, what would the nature of your involvement be?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, I would be the strategic leader of the investigation.   So there would be a case handler, or case handlers, a team of people, there would be an operations manager, there would be other people involved.   But they would meet with me as Ombudsman to give me an update about what was happening, what needed to be done and where -- you know, what should our position be on various issues, and I would be familiar with the case and, in certain circumstances, I would meet with the families involved.
+
+**Mr Griffin**: Now, we are going to hear that you took on that role in relation to Matthew Leahy's investigation --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- once you had become Ombudsman.   I believe that investigation started before you took up your post.     Was the process that you have just described, the process by which you decided to become personally involved in that case?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I -- I created the high risk committee but there was an informal way of doing it and it became very evident, very early on, that the Ombudsman should take responsibility for this case.
+
+**Mr Griffin**: Is that for the issues that we are about to come on and discuss?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, and just -- I need to put on record that I was -- I had the privilege of meeting Mrs Leahy on a number of occasions and she was an exemplary complainant.    She had her own views, she was very well prepared for every meeting, she was courteous but assertive, she knew what she wanted out of an investigation and, given the tragedy that she had been through, it was a remarkable contribution to public life that she performed over many years, and that needs to go on the record.
+
+**Mr Griffin**: I may ask you about another aspect or aspects of Melanie Leahy's involvement in a moment.
+
+But what I would like to do is to start with the case of the person we are calling Mr R?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: He died in December 2008 and the complaint, we understand, was brought to the PHSO in October 2015, and the case closed in February 2017.    So these are dates, as I understand it, before you became Ombudsman?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Can I just ask you one question that we see here but we see it elsewhere as well.    We have got a complaint brought in 2015 that is then closed in 2017.    Is that kind of delay normal?    Is there any usual amount of time it takes between a complaint being accepted and the case being closed?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: It's a good question.    I think that these are very sensitive cases.    They will be prolonged if new evidence becomes available during the course of the investigation or if the family or the body in jurisdiction brings it forward.   There are always delays in waiting to receive information from the body in jurisdiction.
+
+.. rst-class:: indented
+
+As an intimate part and parcel of both these cases, there was clinical evidence, which we commissioned from independent practitioners, which takes a long time to gather together and then to review.   So with such serious cases, we don't want to make mistakes and perhaps they take too long but that is because, even when you get to the end, people may say, "I don't think you have got it right and these are the reasons for it", so we would go back and have a look at it.
+
+.. rst-class:: indented
+
+I will say one of the things that is not often mentioned is, of course, the trauma and the tragedy lies with the families of the complainants but the stress and the trauma of the case handlers looking at an issue over -- between two and five years is very great indeed, and I personally know the people who were involved in these cases and it took a great deal out of them because of the -- the very sensitive issues that they had to deal with in a professional way.
+
+**Mr Griffin**: Well, we are going to come on and look at some of those issues in a moment.   What I would like to do is -- obviously Missed Opportunities includes Mr R as one of the two cases, and what I would like to do with you is to look at what the report says about Mr R --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- and the issues arising from his very tragic death. Could we please put up exhibits bundle, page 191, please.     So this is just the front cover of the report, we have talked about it already several times.       Was the report published in June 2019?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Could you please now, Amanda, go to page 206 and put up the whole page.
+
+Can we see here the start of the report addressing Mr R's case and do we see here that, at age 20, Mr R was admitted to NEPT on 8 December 2008 to the Linden Centre as an informal patient?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: (The witness nodded)
+
+**Mr Griffin**: I am not going to read all of this but I do want to read parts of it and, if we drop down in the left-hand column, we can see:
+
+"On the evening of 28 December Mr R asked to be discharged.     A short time later, he was found in an unresponsive state in his room.     Attempts to resuscitate him were unsuccessful.
+
+"After Mr R's death, the Trust prepared a 7-day report, followed by a Serious Incident Panel Inquiry which was completed in July 2009.
+
+"An inquest into Mr R's death, in February 2011, recorded a narrative conclusion: '[Mr R] ... killed himself, while the balance of his mind was disturbed, before his illness was fully diagnosed to ensure a suitable care programme to be implemented to manage his condition.   These factors more than minimally contributed to [his] death'."
+
+Do you then, having summarised matters in that way, set out what PHSO found in his case?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: (The witness nodded)
+
+**Mr Griffin**: Can we see at the top right-hand corner of the page:
+
+"We found failings in the care and treatment provided to Mr R, which meant there were missed opportunities to mitigate the risk of him taking his own life.   Ms R, his mother, suffers the ongoing injustice of knowing this, and also knowing that he did not receive the standard of care he should have done."
+
+Does the report then set out areas or failings that you had identified?    Can we see failings in relation to medication; to ward leave, in that "NEPT failed to manage Mr R's ward leave in line with its policy"; in relation to physical restraint; in relation to care and treatment on 28 December 2008.   It says there that:
+
+"Mr R's initial care plan had not been updated, and the assessment and management of risk was not adequate. Mr R had been admitted at [and would you go to the next page, please] risk of suicide but there was no mitigation plan in place other than 'as needed' lorazepam.    NEPT acknowledged through its own investigation that staff had not responded adequately when Mr R threatened to harm himself on 28 December. Environmental risks were also not properly managed. An assessment in 2007 rated certain ligature points as low risk.     Before Mr R's death these environmental risks had changed but had not been identified or acted upon."
+
+Thank you.   Could you take that down.
+
+As we've established, this is an investigation that was conducted before you became Ombudsman, but do you have any observations on the points that we have just looked at in the report there?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.     I think time and again there were assumptions made and a failure to follow up, which were seriously problematic for the patient, and in every aspect of his care he didn't receive the detailed attention that he was entitled to which contributed to the way in which he finally died.
+
+.. rst-class:: indented
+
+And it's, it's -- you know, in hindsight, the treatment that he was given was not checked, the implications of what the treatment -- what impact it had on him weren't looked at, the ward leave was granted at the same time as his dosages were increased and staff behaved improperly when it came to physically restraining him.   He deserved much better.
+
+.. rst-class:: indented
+
+And one of the things -- I would like to say this, is that some clinicians were interviewed after he died and they had a very patronising approach to him saying that, in their view, he didn't have mental health problems at all and that he had been admitted because he wanted somewhere to live because he was homeless. I mean, that is staggering.
+
+**Mr Griffin**: Thank you.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: It's --
+
+**Mr Griffin**: What I would like to do now is come on to the case of Matthew, Matthew Leahy and, as you have explained in your statement, Melanie Leahy brought a complaint about Matthew's care to the PHSO in March 2015.     This is paragraph 63 of your statement.    And you then explain how the complaint was proceeded with, the investigation was commenced in June 2015, the scope of the investigation was subsequently extended twice and the case ultimately closed in June 2019.
+
+So we can see that this was an investigation that was over four years in duration?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: (The witness nodded)
+
+**Mr Griffin**: As you have said, you oversaw this complaint and, as you have explained, you were looking at the strategic direction of the complaint; is that correct?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: As we have seen, or as I have just mentioned, the scope of the investigation was extended twice.     Was one of the reasons that it was extended because Melanie Leahy had herself provided further information --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- to you?
+
+Was she persistent in the way that she assisted with the investigation of her complaint?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Lord Scarman once used the word "persistent" in a not-very-nice way to describe the behaviour of the Metropolitan Police.
+
+.. rst-class:: indented
+
+Mrs Leahy was persistent in the best possible sense of the term; that she was better informed than almost anybody else about the case, she was willing to put the information in the public domain and she articulated her views with precision and forcefulness.     She was the model interlocutor in a case like this.
+
+**Mr Griffin**: As we will come on to see very shortly, there was a high number of findings of maladministration in Matthew's case?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Did that, in part, reflect Melanie Leahy's input and the information that she provided?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Absolutely.    I mean, without her this case might have gone away, not only at the Ombudsman but after the Ombudsman.    And one of the issues for all of us is why it has taken so long for this finally to become a matter of public importance in the way that it is.
+
+**Mr Griffin**: I would like now to look at missed opportunities where the report addresses Matthew's case and can we do this in the same way that we did with Mr R.
+
+Could you put up please page 208 of the exhibits bundle, and the whole page, please.   So we see that Matthew was 20 and on 7 November 2012 police brought Matthew to the Linden Centre as a place of safety:
+
+"On 8 November [he] told staff he would hang himself if they gave him injectable medication.
+
+"On 9 November he alleged he had been raped during the night.
+
+"On 15 November staff found [him] hanging in his room.   After attempts to resuscitate him, he was taken to A&E at Broomfield Hospital where he died.
+
+"A number of investigations had been carried out [it says here in the report] into Matthew's death and the alleged failings in his care and treatment.    In January 2013, NEPT completed a Serious Incident Panel Investigation that concluded care and treatment was of a good standard."
+
+In January 2015, the report continues:
+
+"... an inquest was held that considered a report from an independent psychiatrist which concluded that overall NEPT had provided an acceptable level of care. A police report commenting on the independent psychiatrist's findings said Matthew's care was appropriate at the time of his death.    However [as we can see at the bottom of the page], a report by a second independent psychiatrist said the treatment provided to Matthew, 'fell below the standard of a reasonably competent practitioner'.
+
+"The inquest recorded a narrative conclusion which said Matthew, 'was subject to a series of multiple failings and missed opportunities over a prolonged period of time by those entrusted with his care ...'"
+
+So we see the words "missed opportunities" used both in the report as it related to Mr R and here as it related to Matthew's case and is that why you gave the report that name?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: In the same way, as you did or the report did in relation to Mr R, have you in the report also set out a summary of what you found?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: We can see here it says:
+
+"We found that some aspects of Matthew's care and treatment were in line with relevant guidelines.    But our investigation also identified a number of significant failings in key elements of care.     Knowing Matthew did not receive adequate care has caused unimaginable distress to his family.
+
+"We also found that NEPT's investigations were not robust enough and that NEPT was not open and honest with his family about the steps being taken to improve safety at the Linden Centre.     When his family came to us, NEPT had not taken sufficient and timely action to put things right -- this added to the distress and frustration as there was no reassurance that things had changed for the better."
+
+Do you then set out various failings or a large number of failings that the PHSO concluded had been the case with Matthew?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: There were 19 instances of maladministration which we identified.
+
+**Mr Griffin**: Is that level or that number of incidents of maladministration unusual?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: It is unusual.
+
+**Mr Griffin**: Is it unusual because of the number?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, not only the number, but the seriousness of the -- of the failures.
+
+**Mr Griffin**: Can we look at them.   So we can see a failing in relation to care planning or failures in relation to care planning, in that NEPT did not ensure Matthew's care was adequately planned.
+
+Could you go to the next page, please, and expand the whole page.    Thank you.
+
+We can see there were issues in relation to risk assessment and management:
+
+"The assessment and management of risk during Matthew's admission was not rigorous enough."
+
+In relation to his physical health and nutrition, in that NEP did not take adequate care of Matthew's physical health.
+
+Again, in relation to medication and in relation to observation and engagement:
+
+"Matthew's observations were not properly managed."
+
+We heard that there had been a rape allegation and a failure in response to that allegation in that staff did not take adequate action when Matthew reported being raped on 9 November.
+
+Could you go to the next full page, please.     Again, continuing with the areas of failure, allocation of a key worker, and that NEPT failed to properly allocate one to Matthew.
+
+Recordkeeping, which is a point that you have already referred to, here specifically in relation to Matthew's case:
+
+"NEPT's recordkeeping was not always as robust as it should have been.    Some paperwork was lost and Matthew's care plan was falsified."
+
+Then NEPT's investigations, looking at the first paragraph there:
+
+"Overall the investigations into Matthew's death were not adequate.   NEPT's seven-day report contains inaccurate information about how Matthew's care plan was reviewed.   It lacks credibility because it was written by a member of staff who was later found to have been involved in the falsification of Matthew's care plan."
+
+Then we can see also failures in relation to a lack of timely safety improvements:
+
+"After Matthew's death, NEPT reviewed some of its policies and practices but did not make substantive physical improvements in the Linden Centre until August 2015."
+
+Could you take that down, please.
+
+What was your personal response to the findings in the case of Matthew's investigation, including as we have just seen, summarised in Missed Opportunities?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, first of all, it was a combination of the service failure and then the refusal in the serious incidents report to accept that there were issues to address, which were entirely inappropriate.
+
+.. rst-class:: indented
+
+And, interestingly, the person who falsified the accounts, the -- the care plan was referred to the NMC but did not lose their ability to work in the Health Service afterwards, which I think is inappropriate.
+
+.. rst-class:: indented
+
+And I did an interview for ITV News and afterwards the newscaster said, "You're very angry, aren't you? I don't see that very often in public servants".     And I was a bit ashamed at the time that I -- I showed that anger.    But actually, reflecting on it, this was a disgrace.     This was the National Health Service at its worst and needed calling out.
+
+**Mr Griffin**: You say this in your statement.    I can read it out and if you want me to I can get it put up on the screen, but:
+
+"There was, in summary, a near complete failure of the leadership of this Trust certainly before it was merged.     This was an indictment of the Health Service."
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes, and I don't say that lightly.
+
+.. rst-class:: indented
+
+As I say, we do have to accept that leaders operate in very difficult conditions and situations but this was entirely unacceptable.
+
+**Mr Griffin**: In Missed Opportunities, the report includes this. Again, we can go to it if we need to, but:
+
+"The issues uncovered demonstrated wider systemic issues at the Trust, including a failure over many years to develop the learning culture necessary to prevent similar mistakes from being repeated."
+
+Could you expand on that?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, I mean, this is a structural challenge for the NHS broadly, which it still hasn't yet got to grips with, and that is to put patient safety issues above the reputation of the institution that leaders work at and time and again I've seen that to be the case.
+
+.. rst-class:: indented
+
+It's still the case, as far as I can see, and in this case it was absolutely clear that there was a failure of leadership, a failure to understand the importance of cultural appropriateness in organisations which treat people with dignity.
+
+**Mr Griffin**: You refer in your statement to the different accounts given by Trust staff --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- about what had happened in the last couple of hours before Matthew was found --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- in his room and you say this:
+
+"None of the parties had a shared view of Matthew Leahy's behaviour and who had said what to whom. Therefore, even on the balance of probabilities we were unable to make a decision about what really happened which we know is very difficult for Matthew Leahy's family."
+
+That does lead to the question about the PHSO approach generally where there's more than one version of events.   First of all, who within the PHSO makes a decision on the basis of conflicting facts?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I mean, that is -- if you have a team of people under the Ombudsman looking at cases then that will be discussed before a report is concluded.   So it wouldn't be just one case handler coming to that view.   I can remember it was discussed.
+
+**Mr Griffin**: You refer in your statement there to establishing things even on the balance of probabilities.   Is that the standard of proof that you would apply --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- where there were factual disputes?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Why, why did differing accounts cause you to be unable to come to a view on the balance of probabilities?     For example, do you normally require a consensus before coming to a view?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I think we do have to make judgements and -- but we are not a court and we don't have an adversarial approach to weighing the evidence and that was the view which was arrived at.     Whether it was the correct one or not, I -- I don't know.
+
+.. rst-class:: indented
+
+But it didn't take away from the complete failure of the Trust to deal with Matthew's care.
+
+**Mr Griffin**: Would you adopt a different approach to that factual dispute now?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I am no longer the Ombudsman.
+
+**Mr Griffin**: Do PHSO procedures allow a complainant to challenge a decision that's been made about a factual dispute?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: They can, yes.    They can say, "You have got the facts wrong".
+
+**Mr Griffin**: What would happen after that?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: That would be reviewed.
+
+**Mr Griffin**: Do you know if that happened in relation to Matthew's case?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I can't remember.     But I know Mrs Leahy was not happy with that particular aspect of the findings and I have respect for her view.
+
+**Mr Griffin**: I want to move on now before lunch to the recommendations that the PHSO made in relation to Matthew's investigation.     So this is not missed opportunities, this is the actual investigation itself and you describe in your statement, this is paragraph 70, how the PHSO, following that investigation, went on to make a series of recommendations.
+
+Just summarising, did these recommendations include writing to Melanie Leahy to provide a full and final acknowledgement of the failings identified in the report of her complaint and the distress that this had caused her --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- an apology and a £500-payment for distress caused by NEPT's incorrect information about the extent of safety changes it had made --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- and writing to Melanie Leahy to provide a detailed summary of the action that had or would be taken to help prevent a recurrence of the failings identified and did the PHSO add both that copies of the information should be provided to the PHSO itself and that a copy of the investigation report and information should also be sent to the CQC?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Did EPUT accept the recommendations when they were sent to them?
+
+Did you hear that?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: No.
+
+**Mr Griffin**: Did EPUT accept the recommendations when they were sent to them?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: This is dealt with in your second statement at paragraph 8.3, but on what basis are you able to say that EPUT implemented the recommendations that were contained within the report?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: I -- I can't remember it precisely.    But what I do know is that the situation was changed by the merger of the Trust and that the new leadership which came in had a more, slightly more enlightened approach to the issues that were addressed and when CQC did a follow-up investigation they noted, they noted that.
+
+**Mr Griffin**: Well, just dealing with that very briefly if I may. Clearly you may be referring to a specific CQC investigation.
+
+Can I just make sure you can hear my questions.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Yes.    You may be referring there to a specific CQC investigation.    Clearly this Inquiry will need to have regard to all relevant CQC investigations within the period that we are concerned with?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: You say in your statement, just in relation to the recommendations that were sent to EPUT in relation to Matthew Leahy, that you were able to check that an apology had been sent and that there had been evidence of the financial remedy and of an action plan and policies and that a case worker requested clinical advice to assess compliance and that compliance was closed in October 2019?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Were you aware that Melanie Leahy gave written evidence to PACAC, the Public Administration and Constitutional Affairs Committee, which included that "The action plan provided by EPUT in relation to the PHSO report findings" -- I'm using her words -- "does not give me confidence in the timeliness or robustness of their approach to addressing their failures"?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Chair, we are now just at lunchtime.    I don't have a huge amount more to ask Sir Rob about, but I think this would be a convenient moment to rise.
+
+**The Chair**: When would you like us to come back again?
+
+**Mr Griffin**: Could we come back again at 2.00, please.
+
+*(1.00 pm)*
+
+*(The short adjournment)*
+
+*(2.00 pm)*
+
+**Mr Griffin**: Sir Rob, I want to come on to one last topic with you at this stage at least and that is a section of your statement that's entitled "Are the issues or failings confined to Essex?"
+
+You have identified this morning for us themes arising in Essex and, of course, we have seen the very serious issues arising from the cases of Mr R and Matthew Leahy.
+
+To what extent are the issues you have identified in relation to Essex confined to services there or are the Essex themes representative of what's happening more widely?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Objectively, I don't know the answer to that.   Secondly, we have to remember that the investigations that we did were a long time ago.   My sense is that Essex is not exceptional.   My sense is that all the issues which have come out of the cases which I looked at you can see in other places, not necessarily in exactly the same way, but, just thinking about it, the absence of leadership, the failure to use the duty of candour, not communicating effectively with patients, the safety issues around ligature points, the failure of the serious incident review and the absence of training and development.   These are still issues which the NHS has to address generally, not just in Essex.
+
+**Mr Griffin**: One of the points that you have made in relation to, for example, Matthew's case is the severity or, for example, the high number of instances of maladministration?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: To what extent is that kind of level of seriousness reflected across the country or is it something like that that might make Essex unusual?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: It's possible, yes.    I mean, there are -- in my time, there were half a dozen very big Health Service issues where you would have the same number of serious failures and they weren't confined to Essex, they were in Bristol, they were in Wales, they were in other places.
+
+.. rst-class:: indented
+
+What makes the Essex situation that I looked at so poignant is that all this happened with Mr R and then it happened again, when there was clear warning that this was the issue, there were lots of regulators about but nothing changed, and that is an indictment of the system.
+
+.. rst-class:: indented
+
+And then on top of that, it took us until very recently to get to a public inquiry.    You know, we were -- we were reassured that an independent inquiry would be fine and it wasn't because they refused to cooperate -- the clinicians refused to cooperate with it.    Ministers tried to bat that away but, in the end, justice was done.
+
+**Mr Griffin**: You have explained to us changes that you would advocate to make the PHSO more effective.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: If there was one key area in your view, in relation to mental health services generally, that could be addressed for real improvement, what would that be?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: So there are three, if I may.
+
+**Mr Griffin**: Yes.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: First of all, the duty of candour does not work and, unless people are prepared to say what happens in difficult cases, clinicians, then these kinds of situations are going to repeat themselves.
+
+.. rst-class:: indented
+
+The law doesn't work.   It wasn't as Robert Francis proposed it should be in 2014; it needs to be changed.
+
+.. rst-class:: indented
+
+Secondly and related, the law on whistleblowing doesn't work either, and I have had dozens of clinicians get in touch with me and say, "I want to raise this issue but, if I do, I am going to lose my job, I am going to lose my career".      That is unacceptable.   But it does need to change and it can only change by a legal change.
+
+.. rst-class:: indented
+
+And the third thing which I think is very, very important in mental health is there needs to be continuing professional development and training of those people involved.    It's not fair to expect clinicians and managers to undertake these immensely difficult supervision roles and caring roles unless they have access to the professional training that they need, and one of the things that I am most pleased about when I was Ombudsman was that we introduced -- you haven't mentioned it but it is important -- we introduced the Complaints Good Practice Framework, which is a way of encouraging frontline bodies to adopt model good practice and complaints handling and provides them with professional training to do their jobs better.
+
+.. rst-class:: indented
+
+And I think in the last year, PHSO got accreditation for 600 NHS employees, and 700 individuals participated in the training.    Now that's not enough, it's a tiny fraction but it shows how important, how much thirst there is for professional development and yet we had a national report into training and development in the NHS, which was published in 2022, the Messenger Report, a good piece of work, Sir Gordon Messenger wrote it: where has it gone?    It's disappeared as far as I can see.    It may come again but it's not been implemented. And, without these things, it's not going to fundamentally change.
+
+**Mr Griffin**: You have mentioned three things.     May I ask you about one of them and that is whistleblowing, and you say the law doesn't work?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Could you just explain a little bit more what you mean by that?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.    So the reason that I use the Protocol on Emerging Concerns was because I discovered, through my supervision of University Hospitals Birmingham, that the Chief Executive at the time had sent more than 20 clinicians to the GMC when they wanted to blow the whistle or did blow the whistle about patient safety in Birmingham.     And so the situation was -- and is -- that when good and honourable people try to raise patient safety issues the response of the NHS leadership has been to discipline them by referring them to their regulatory body, in this case the GMC.     That is wrong. It should not have happened.
+
+.. rst-class:: indented
+
+The law is weak at the moment, in comparison to the European Union and other countries.    You need a lot of money in order to fight people who send you to the tribunals to resolve these issues and there is -- unlike Scotland, there is no National Whistleblowing Authority that clinicians or managers can go to, to say, "Help me, advise me what to do, give me support".    In Scotland the Ombudsman has that role.     In England, the Ombudsman could have that role; other people want to create a separate body.
+
+.. rst-class:: indented
+
+But I know that these people are brave but they are lonely and they don't get the support that they need in
+
+.. rst-class:: indented
+
+order to bring issues like the ones that we have been
+
+.. rst-class:: indented
+
+looking at to the fore, and these are people on the
+
+.. rst-class:: indented
+
+front line and, if they don't get a chance to do it,
+
+.. rst-class:: indented
+
+then these issues are not going to be properly raised.
+
+**Mr Griffin**: Thank you.   Chair, those are the questions that
+
+I have for Sir Rob at the moment.
+
+Unless you have questions, might I ask that we rise
+
+just for 10 minutes to ensure there aren't any further
+
+questions that need to be put.
+
+**The Chair**: Yes.
+
+*(2.12 pm)*
+
+*(A short break)*
+
+*(2.22 pm)*
+
+**Mr Griffin**: Chair, just two further questions.   First of
+
+all, just following on, Sir Rob, from what you said
+
+about whistleblowing, could you just acknowledge that
+
+this was also one of the features of Melanie Leahy's
+
+case: for an investigation of mental health issues it is
+
+a real rather than a theoretical issue that staff were
+
+silenced?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Sorry, could you just repeat?
+
+**Mr Griffin**: So in Melanie Leahy's case --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- there was an allegation that a member of staff was
+
+told to "keep schtum"?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Do you recall that?   You mention it in your statement.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: So I think the point here is you were talking about
+
+whistleblowers --
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: -- and the question that I have asked is directed to the
+
+fact or the point that this is something that actually
+
+has happened in one of the cases we have been looking
+
+at.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: That's absolutely right and remember that I said there
+
+.. rst-class:: indented
+
+were three issues.
+
+**Mr Griffin**: Yes.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: One of them is a duty of candour --
+
+**Mr Griffin**: Yes.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: -- which was broken by the instruction to "keep schtum"
+
+.. rst-class:: indented
+
+on anything.    So I think that's absolutely right and
+
+.. rst-class:: indented
+
+I accept that.
+
+**Mr Griffin**: In your Missed Opportunities report, you make various
+
+recommendations, including for -- I think it's an NHS
+
+Improvement investigation to take place.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Yes.
+
+**Mr Griffin**: Did that investigation ultimately take place?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: No.    What happened was that -- I mean, there were
+
+.. rst-class:: indented
+
+a number of investigations going on when we completed the Missed Opportunities report.    One was a police investigation, one was a Health and Safety Executive investigation.   We, therefore, held back from making a recommendation for a public inquiry until we sent the -- we laid the report on Missed Opportunities before Parliament and, at that time, we said there should be a public inquiry.
+
+**Mr Griffin**: So was that because, for various reasons, the NHS Improvement investigation had not taken place?
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Well, they, what they said was they wouldn't do it.      They told Parliament this: they wouldn't do it because there was now going to be an independent inquiry which would do -- perform the same role.     And, as we know, that inquiry collapsed.
+
+**Mr Griffin**: Thank you.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: So NHS England didn't carry out what they had promised.
+
+**Mr Griffin**: Thank you very much.
+
+Chair, I've got no further questions for Sir Rob.
+
+**The Chair**: Sir Rob, thank you very much indeed.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Thank you.   Thank you for your courtesy.
+
+**Mr Griffin**: Chair, we are now going to move to a different phase of the evidence and, with your permission, I am going to leave and I will be replaced by a colleague.
+
+Sir Rob, thank you very much.
+
+*(The witness withdrew)*
+
+**Dr Ilozue**: Good afternoon, Chair.
+
+.. rst-class:: indented
+
+**Sir Robert Behrens**: Good afternoon, Dr Ilozue.
+
+**Ms Harris**: Chair, as indicated by Mr Griffin, we are now going to hear a presentation from another colleague in the Counsel to the Inquiry team Dr Tagbo Ilozue.    He is going to update you on the evidence the Inquiry has received so far, relating to services provided by the Trusts in Essex and where those services were being provided.
+
+That will be then followed, we understand it, by a short presentation touching on the issues raised, which will be delivered by Steven Snowden, King's Counsel, afterwards.
+
+**The Chair**: Thank you. Presentation on mental health services provided to Essex NHS
+
+patients by DR ILOZUE
+
+**Dr Ilozue**: Chair, this presentation will provide an overview of the information that the Inquiry currently holds in relation to the mental health services provided to NHS patients from Essex over the relevant period, the period that the Inquiry is investigating, and also regarding the locations of the facilities through which those services were delivered. My aim in this presentation is to summarise the evidence that has been received from the commissioners of mental health services and from the providers of those services about where, what and from whom mental health services were delivered to inpatients under the care of the Essex Trusts.
+
+I will begin with a brief word about the context of the Rule 9 requests that we sent out asking for information on this matter.   The Inquiry is tasked with investigating the circumstances surrounding the deaths of mental health inpatients under the care of NHS Trusts in Essex and, therefore, it is of course focused on the inpatient care delivered by those NHS Trusts in Essex. However, as set out in the Explanatory Note in relation to Scope of the Terms of Reference, the Inquiry's definition of inpatient deaths includes deaths which occurred in other settings.
+
+Amanda, please would you put up the amended explanatory note in relation to scope.   This explanatory note is, of course, available on the Lampard Inquiry website and, under the definition of "inpatient death", subsection (a) begins "those who died on an NHS mental health inpatient unit", but then it conditions, "or in receipt of NHS funded inpatient care within the independent sector".
+
+At subsection (d), we see the definition includes those who died within three months of transfers, including transfer to a physical health setting or to an out-of-area mental health service.
+
+At (e) we have those who died whilst awaiting an assessment under the Mental Health Act and then at (f) those who died whilst waiting for a bed in a mental health inpatient unit within three months of a clinical assessment of need.
+
+Next page, please, Amanda.
+
+Then (g) and (h): (g) as recently amended, now includes those who died within three months of a mental health assessment provided by the Trusts or on behalf of Essex local authorities, which did not result in admission as an inpatient; and (h) can includes those who died within three months of discharge from any of the above units.
+
+That can now be taken down, please.
+
+In addition to the explanatory note, one further matter of context arises from when the Inquiry was considering Core Participant applications.   Chair, you at that stage determined that the Inquiry's definition of "inpatient" includes mental health inpatients who were under the care of NHS providers in Essex but who were placed outside Essex, either because there was not enough bed space in Essex or due to needing specialist services that were not, at the relevant time, available in Essex.
+
+Therefore, the range of mental health services which are relevant to the Inquiry is broader than merely the services provided by Essex NHS Trusts within Essex inpatient facilities.    It also encompasses the services provided by those NHS Trusts in non-inpatient settings which could or should have led to admission and/or those which were provided by those Trusts to the patients in the weeks following discharge.
+
+It also encompasses the mental health services provided to patients who were admitted into NHS inpatient facilities for physical health in Essex, and it encompasses the inpatient mental health services provided by NHS Trusts outside of Essex and by independent providers both inside and outside of Essex.
+
+The Inquiry, therefore, has sent requests for information to numerous organisations in order to identify what all these services were and where and by whom they were provided.
+
+The Inquiry began with Rule 9 requests for information to EPUT, as the largest provider of NHS mental health services in Essex, and to the three Integrated Care Boards who are responsible for commissioning core mental health services in Essex and also for funding placements of Essex NHS patients with private providers and external NHS Trusts.
+
+Those Integrated Care Boards, or ICBs, are Mid and South Essex ICB, Suffolk and North East Essex ICB and Hertfordshire and West Essex ICB.
+
+EPUT was asked to set out the mental health services it had provided over the relevant period and the locations at which those services were provided.   In the Rule 9 request, the Inquiry used the term "Wards and Services" to refer to that location and service data that was sought.
+
+EPUT was also asked to identify all the private facilities and NHS Trust facilities outside of Essex into which patients under its care had been admitted for inpatient treatment.   In the request, the Inquiry used the term "Out-of-Area" to refer to this group of providers and facilities.
+
+The ICBs were asked to explain the circumstances in which placements of patients outside Essex occurred and to identify all the out-of-area providers, with whom patients under the care of the Essex Trusts had been placed.
+
+Then, subsequently, after those two initial requests for information, additional requests were sent to: NELFT, in a similar vein to that sent to EPUT; to the private providers, known to have inpatient facilities in Essex, namely Priory, Cygnet, St Andrew's Healthcare and NEST Healthcare; and to the NHS Trusts responsible for the physical health hospitals in Essex.   They were all asked about the wards and services they provided.
+
+Then a list of providers was compiled from the initial response the Inquiry received from EPUT and the ICBs and all of them were asked about the inpatient facilities into which they admitted Essex NHS patients over the relevant period.
+
+Finally, NHS England, who are responsible for commissioning specialised mental health services for Essex patients, was asked similar questions about the out-of-area providers of those specialised services, similar questions to those the ICB had been asked about their core mental health providers.   In total, the Inquiry contacted 46 organisations asking for information on those matters.   29 of them have provided statements to date, one of them remaining in draft, and 28 organisations provided details about their inpatient units.   In total, the Inquiry has received so far information about 870 wards in 249 facilities.
+
+The Inquiry has also received information from EPUT, NHS England and the ICBs about 66 out-of-area organisations, who had provided care to Essex patients and NEFLT and EPUT identified 175 distinct teams that were responsible for providing potentially relevant non-inpatient care.
+
+All of this information that the Inquiry has received on this topic is detailed and wide ranging. However, it's not yet complete.   This is not merely because of the providers who failed to respond appropriately.   In addition, the organisations who did respond were not all able to respond in full in the time available between the requests and this hearing.   The majority of them reported limitations arising mainly out of difficulties obtaining historical information for the early part of the relevant period from paper-based records.
+
+I would give two brief examples.   Hertfordshire Partnership Foundation NHS Trust or HPFT referred to an archive of 20,000 boxes of paper records and a microfiche archive of 43,000 patient records, covering the period before its electronic records began in 2006. HPFT said they would need to review, one by one, all of those documents in order to identify all the admissions of Essex patients.
+
+The ICBs were only able to retrieve information about providers utilised by their placement teams since 2014 because the relevant information had not been collated from the records before that date.   Therefore, the ICBs told the Inquiry that providing complete pre-2014 information to the Inquiry would require them to undertake a manual review of nearly 5,000 individual patient records.
+
+The limitations of this nature, and there were numerous of a similar nature, provide insight into the manner in which records had been created and maintained by the organisations responsible for delivering mental health care over the relevant period.   They also indicate the challenges that such issues with historic record retention and categorisation will raise to the ongoing work of this Inquiry.
+
+In this presentation, I will not attempt to reproduce all the information which the Inquiry has received on this topic.    The witness statements and the key exhibits from each organisation have been included in the hearing bundle and the raw data is available for scrutiny, and the key exhibit in this case is an Excel template that was sent to each provider and with the request for them to populate it with the data sought.
+
+What follows in this presentation are selected themes and data points, which have been drawn out and summarised, to assist those listening to develop a general appreciation of what services were delivered by what providers, where and when.    All of the information and data presented has been reproduced as presented by the providers.   With the exception of a few postcode adjustments using publicly available information from the CQC website about facility location, there has been no attempt to verify or confirm or adjust the information.    Therefore, any inaccuracies present in the underlying data will be incorporated into the summaries and analyses that I will present.
+
+The presentation of that data does not signify any acceptance of the accuracy of that information by the Inquiry.   The aim at this stage is simply to provide an overview of what information has been received in a form which enables some insight to be gained about nature and content of the current evidence.
+
+With that, I move on to providing that overview and I will do so in four sections: firstly, I will identify the Essex NHS Trusts over the relevant period; secondly, I will describe the inpatient services that were provided by those Trusts; in the third section, I will set out other locations in which Essex patients were admitted; and, finally, I will identify some of the most relevant non-inpatient services that were delivered by the Essex NHS Trusts within Essex.
+
+Turning then to section 1, who are the Trusts?
+
+Amanda, would you please put up Table 1 and please move on to the second page.
+
+Beginning with EPUT, EPUT was formed in 2017, 1 April 2017, in the final row of this table.   It was formed by the merger of South Essex Partnership University NHS Foundation Trust, SEPT, and North Essex Partnership University NHS Foundation Trust, NEPT.    Both NEPT and SEPT began operating early in the relevant period.   We can see in row 1 and row 3 of this table that they were named Foundation Trusts in 2006 and 2007 respectively but -- and now, Amanda, if you go to the first page, please -- they were both formed very close to the start of our relevant period, in 2000 and 2001, that's the second row and third row of the table, second and third columns respectively.
+
+Prior to that, NEPT, which was previously called North Essex Mental Health Partnership NHS Trust, was formed as a merger of three Trusts that had provided services in northwest and mid-Essex.   They were North East Essex Mental Health NHS Trust, Mid Essex Community and Mental Health NHS Trust and Essex and Herts Community NHS Trust.
+
+SEPT.   SEPT's immediate predecessors were Thameside Community Healthcare NHS Trust and Southend Community Care Services NHS Trust.
+
+The other two providers of mental health services in Essex are NELFT and the predecessors of NELFT, and that information will be provided in due course, and HPFT, who I have already mentioned, and they run a specialist inpatient and community learning disability service throughout north Essex, and they have done so since 2010.   HPFT is responsible for one inpatient unit in Colchester, which is called Lexden Hospital and it became a Foundation Trust in August 2007.    None of its predecessors before 2010 are relevant for the Inquiry's purposes because only its activities within Essex are relevant from the perspective of naming the NHS mental health rusts.
+
+Thank you.   Can that come down, please.
+
+So those are the mental health trusts.     It is also relevant to mention the NHS Trusts who provide Accident and Emergency services across Essex.     These are currently Mid and South Essex NHS Foundation Trust, East Suffolk and North Essex NHS Foundation Trust and the Princess Alexandra Hospital NHS Trust.
+
+Mid and South Essex NHS Foundation Trust, or MSEFT, operates Southend Hospital, Basildon Hospital and Broomfield Hospital in Chelmsford.   East Suffolk and North Essex NHS Trust, or ESNEFT, operates Colchester Hospital, and the Princess Alexandra Hospital NHS Trust, or PAHT, operates the Princess Alexandra Hospital in Harlow.
+
+Trusts like these and their predecessors are sometimes referred to as "acute" Trusts, due to the emergency services they provide, and the Inquiry sent out requests for information to all three to obtain information about how mental health care was provided over the relevant period to patients with mental health difficulties who presented at their A&E departments or were admitted to their wards with co-existing physical health issues.
+
+All three Trusts provided similar evidence.       They have no dedicated departments or facilities for mental health services and do not provide mental health services themselves.    The mental health services required by their patients over the relevant period were delivered by either EPUT, or its predecessors, or NELFT and its predecessors.    The acute Trusts would treat patients for their physical conditions and then seek support from or make a referral to the appropriate mental health trust for the mental health care required.
+
+PAHT also explained that, on occasion, they will have patients who are medically fit for discharge but require a mental health bed, and their discharge is delayed because there is no mental health bed immediately available.    PAHT explained that those patients will remain under joint care with the mental health care managed by EPUT or NELFT.   MSEFT and PAHT told the Inquiry that they employ no dedicated mental health professionals.    However, in the case of ESNEFT, since April 2022, that Trust has directly employed two registered mental health nurses, based at Colchester Hospital to help with the support of patients under the age of 18 years.
+
+The mental health Trusts EPUT and NELFT retain responsibility for the mental health needs of the parents but ESNEFT's nurses support the care provided. They provide additional guidance, liaison and multi-agency communication during office hours on Monday to Friday.   They also provide support in the emergency department if there are delays with discharge and, if the patient is admitted, they will review patients within one working day to commence care planning and, following daily reviews on Monday to Friday, they will support the care which is ultimately under the responsibility of the mental health trust, NELFT.
+
+NELFT also holds responsibility for the patients' post discharge care planning and risk assessments but ESNEFT's nurses will support those discussions too.
+
+Before leaving the issue of the NHS mental health Trusts, the Essex NHS Trusts, I will finally say a word about the local authorities.   This is because the local authorities have a statutory responsibility for arranging and managing assessments under the Mental Health Act.   They employ Approved Mental Health Professionals or AMHPs, who coordinate assessments by approved clinicians and make applications for admission under the Mental Health Act on the recommendation of those clinicians.
+
+Although the local authorities are, of course, not NHS Trusts, they should be noted because they are obviously public bodies and the AMHPs function is directly and importantly relevant to the work of the Inquiry.   Essex has three local authorities, Essex County Council, Southend Borough Council and Thurrock Council.
+
+With that, I turn now to the second section of the overview, identifying the inpatient mental health services provided by the Essex NHS Trusts.    The evidence we have obtained to date indicates that the Trusts have delivered inpatient care from 120 different wards in 34 different facilities over the relevant period, the vast majority of those wards and facilities were run by EPUT.
+
+Amanda, please will you put up Table 2.
+
+The first page of this table shows the start of the facilities that EPUT ran in the north or have run in the north.
+
+Please turn to page 2.
+
+That continues through to the second half of the second page and then we see the start of the southern facilities, Basildon Hospital, et cetera.
+
+Page 3, please, continuation of the facilities in the south.
+
+Then the final page, we see only two facilities run by the other two trusts, NELFT and HPFT, Mascalls Park and Lexden Hospital.   The remaining 32 were under the responsibility of EPUT.
+
+Thank you, that can come down.
+
+Please would you put up Video 1.    This image is a map showing the location of all those 34 facilities across Essex.   I will not read out the labels, just as I didn't read out each name from the table, but I will leave it up for just a moment to give everyone an opportunity to cast their eyes over the map and appreciate the distribution and clustering.
+
+Thank you, Amanda.    Please would you take that down now and switch to Video 2.
+
+If you play that now.    What we have here is the same or a similar image but this time the blue spots showing the locations have been replaced with bar charts.    These charts show the exact same 34 locations.    The additional information they contain at this stage is they also show the specialities provided at each of those locations, and I will say a little bit more about those specialities in a moment.
+
+I have referred a few times to the figure 34, not all of those facilities were in place for the entirety of the period of the Inquiry's investigation.     The number of facilities has varied from year to year, and the next video that I will show demonstrates that change over time.
+
+So, Amanda, if you play now, please, Video 3.
+
+The date, the year, is in the bottom left, and each time the bar chart grows it shows that distribution of specialities that I will speak more on.
+
+In terms of the number of facilities, the final point I make, at the start of the relevant period we know there were 23 facilities and the peak was in 2009 when it rose to 27 and then, since 2019, there have been 16 facilities all run in Essex.    15 of those facilities are run by EPUT and just one, Lexden Hospital, which we can see that top right of this image in yellow, is the sole facility run by a different provider, run by HPFT.
+
+I will say a little bit more about the specialities now.     You can see them identified in the bottom right of this image, in the legend to the bar charts.     Some of the specialties have been combined together to make the bar chart easier to read, easier to see.    The majority of those specialities have been provided throughout the relevant period.    Those are: adult mental health and PICU; mental health assessment units; CAMHS, but not the CAMHS PICU; forensic (low secure); and forensic (medium secure); and learning disability; and older mental health.     Later on in the relevant period, the mother and baby unit, which is what MBU under "other" stands for, and the drug and alcohol unit and the PICU began to be provided.     The MBU was provided since 2010; the CAMHS PICU since 2012; and the drug and alcohol unit since 2022.
+
+These are bar charts.    They demonstrate the distribution of the number of beds that each speciality delivered at the location.    The higher the bar, the greater the number of beds.
+
+Amanda, if you take that down now and switch to Figure 1, please.
+
+This figure also gives information about the number of beds in a clearer and more quantitative way.       It shows how that level of inpatient service provision, the bed numbers, varied over the relevant period.       The absolute figures are not accurate, they are likely to be a slight underestimate but it is likely that the trend is correct and it is clear.   It shows a steady and significant decline in the number of general adult and older adult psychiatry beds: older adult is depicted in purple; general adult is depicted in blue at the bottom of the graph.   There has also been a reduction in learning disability beds but the remainder of the specialities have remained reasonably stable.
+
+Please could that come down.
+
+We also asked the providers for details about which wards were single sex and which wards were mixed sex.
+
+Would you put up Figure 2, please, Amanda.
+
+This second chart shows the proportion of the beds that were on single-sex or mixed-sex wards.     So out of the total number of beds provided in any given year, with the year along the bottom, what percentage were mixed in purple, what percentage were male, in blue, what percentage were female, in the light red.    We see an increase in the number of single-sex beds over the relevant period but, by the end, by 2003, still almost half of the NHS mental health beds in Essex remained on mixed wards.
+
+Thank you that can come down.
+
+I turn now to section 3 of my overview, and this is the out-of-area inpatient care delivered to the Essex patients over the relevant period.   What I will do is show a series of map charts to provide an overview of the geographical spread of the care provided to Essex patients in private facilities and in non-Essex NHS Trusts across the country.   But before I ask for them to be shown, I must emphasise and it must be understood that this data set is very incomplete.    It is based on the provider list that the Inquiry obtained from EPUT and from the ICBs, and it's based on the information that the Inquiry received from the providers who responded in time about the number of Essex patients they had admitted into their facilities over the relevant period.
+
+The majority of providers were unable to provide complete figures for the entire relevant period because they did not have electronic records for that entire period and they were unable to review their paper-based records in the time available.
+
+At present, the total number of out-of-area admissions from all the providers who were able to give figures currently stands at over 5,800.   However, clearly, in the light of what I just said and in the light of all the issues noted previously, that figure is of limited utility at present.
+
+Amanda, please will you put up item 9, Figure 3, please, before the table.
+
+For those 5,800 admissions that we know about, we know they took place in 249 facilities across the country.   This map shows the location of every mental health facility that the Inquiry has received information about to date.
+
+Each postcode is marked in red and shaded in blue is the unitary authority responsible for the location of the facility.
+
+Thank you, that can come down.
+
+I will say a brief word about the reasons for the placements.     It would be wrong to assume that all of those placements were inappropriate.     NHS patients can be admitted into private units or into units outside the geographic area where they are registered with a GP or where they reside for a variety of reasons.     A list of reasons has been compiled from the evidence received from the ICBs and from NHS England.
+
+The first reason identified was where there is limited national provision for a service.    There were some key specialised inpatient services which have not been provided by the NHS Trusts in Essex at any stage during the relevant period.    Those are specialised eating disorder services, high secure forensic services, and inpatient personality disorder services.    So where those services were required, then an Essex NHS patient would need to go outside of area in order to receive the care they required.
+
+Furthermore, even where there were specialised services potentially available in Essex, there may be services in another part of the country where a clinician with a special interest or an expertise in the specific mental health matter would give a benefit to the patient from the care and treatment that they could deliver and, therefore, potentially deliver better outcomes or a shorter length of stay.
+
+The second reason for out-of-area placements might be patient or family choice.
+
+A third would be capacity gaps in the local service due to, for example, a lack of beds or insufficient clinical capacity.
+
+A fourth reason could be criminal restrictions or other matters from the Justice Department requiring placements in other areas.
+
+A related fifth reason might be risk to victims or an exclusion zone or other safeguarding considerations requiring patients to be placed elsewhere.
+
+A sixth reason would be potentially geographical proximity to the patient's home address or to their family.
+
+Seventh, to maintain patient confidentiality, for example if staff members required treatment and they were employed by a Trust within Essex, they may be placed out-of-area.
+
+A further reason would be patients who are admitted as an emergency or via police arrest whilst they are temporarily in another area.
+
+Finally, if patients move away but remain registered with a GP in Essex then that would also be categorised as an out-of-area placement.
+
+As things stand, the Inquiry has virtually no quantifiable data on how the placements which did occur were distributed between these potential reasons, and it may well be impossible for the Inquiry ever to obtain reliable and complete data of that nature.   The ICBs have said they are continuing enquiries for information which may lie with them but they have also said that other data would be with the NHS providers or is simply not compiled and merely recorded in individual patient notes.
+
+On the part of EPUT -- here, please, Amanda, if you put up Table 3 -- EPUT have said they do not maintain a central log of out-of-area placements, but they did provide the following table of figures on the number of placements that occurred over the relevant period, and they separated those figures into those occurring in NHS facilities and those occurring in the independent sector and then we have other.    The vast majority, as we can see, are in the middle column, in the independent sector, and there seems to be an increase over the years, but the information provided isn't complete, so that is not necessarily reliable.    The top of the table is, of course, the end of the relevant period.
+
+Thank you, that can come down.
+
+What will be shown next are a series of maps illustrating the distribution of admissions outside the country.
+
+If we start with the next video, please.    Pause at the beginning.
+
+We see at the bottom all out-of-area facilities in the bottom left, and what this map shows is a distribution of the number of placements out of the 5,800 the Inquiry has been told about.    For the background shading of the unitary authorities, where that colour is darker, so in Essex and Cambridgeshire, then it shows a higher number of placements occurring in that area.
+
+Where that shading is lighter, then it is a lower number, and that quantifiable data is reflected in the hot spots that you can see distributed across the map. They show the same data but now localised to the postcode or the longitude and latitude of the facility into which the admission occurred.   So this map shows all out-of-area facilities, excluding therefore the facilities within Essex.
+
+We can see that the cluster and the heat map makes it clear that there was a concentration in the area around Essex, as one would hope and expect, but the distribution is all over the country.
+
+Thank you, that can come down.   If you put up the next one, please -- forgive me if you move on to the next, thank you.
+
+What we see here at 2 is the NHS out-of-area facilities, and so these are NHS Trusts outside of Essex into which Essex patients were admitted, and the map is on the same basis, with the intensity reflecting higher numbers.
+
+Thank you, if you move on to the next.
+
+Here is the independent facilities with a slightly broader distribution, in terms of the geographic spread.
+
+Thank you, the next.
+
+Here we have providers of specialised services, so specialised services including the personality disorder, high secure forensic and eating disorder, I mentioned earlier, but also forensic low and medium secure and CAMHS.
+
+Finally, these will be non-specialised services, the core mental health services, older adults, acute adults, PICU, et cetera.
+
+Now, this evidence about the spread of these admissions is not presented in order to invite any judgement about what has been depicted.   We know that we cannot reach any conclusions at present about the proportions of placements that were appropriate or the appropriateness of the place in which treatment was received.   We can't draw any of those conclusions from the information currently available.    The objective in providing these maps at this stage is to assist with visualising the spread of the location in which care has been delivered to those who might be within scope of the Inquiry.
+
+Thank you, that can come down.
+
+I conclude with the fourth section of my overview, touching on the non-inpatient services that were provided by the Essex NHS Trusts.    EPUT has provided the Inquiry with a detailed account of the history and framework of the teams which hold a gatekeeping role over inpatient admissions in the Trust.    These teams have responsibility for assessing patients to decide whether or not they should be admitted, and I will give a brief overview of the teams identified by EPUT.    They include the Crisis and Home Treatment Teams, these were introduced progressively across Essex from the early 2000s.
+
+The second team is the A&E Liaison Team.    They provide a mental health liaison service in acute hospitals.   I already referred earlier, from the perspective of those hospitals, to the fact that the care required from a mental health perspective within their facilities is provided by the mental health Trusts and EPUT have informed the Inquiry that that care was initially provided by individuals from the community and inpatients mental health teams working on rotas, but then progressively dedicated teams were introduced across Essex to provide that liaison service.
+
+In some areas, the crisis team would have a dual role within acute facilities and in the community; in other areas of Essex, it was a specific and separate mental health liaison service.
+
+EPUT also told us about the Crisis Response Service. This is a service that's much more recent.     They have had it in place since 2020 and it receives and triages urgent calls that are made via NHS 111 option 2, if patients are in mental health crisis.
+
+If thought to be required, the crisis response service can also carry out a face-to-face assessment of the patient following the telephone triage, and they will have a gatekeeping role in deciding whether admission is required.
+
+A fourth service, with a gatekeeping role, is the Urgent Care Department in Basildon Hospital.   This is again another recent service, which has been delivered as an alternative to A&E for patients who present in crisis.
+
+EPUT also told the Inquiry about a variety of dedicated Older Adult gatekeeping teams, and they told the Inquiry that the Forensic Inpatient Units and the Mother and Baby Unit carry out their own specialised gatekeeping process, which doesn't go through the crisis or any of the other teams, but requires an assessment to be carried out on the ward, on the unit, in order to determine whether admission is required.
+
+In relation to CAMHS, EPUT told the Inquiry that they previously organised gatekeeping of admissions for CAMHS patients, that was over the first decade of the relevant period, and it was done in the Trust's only CAMHS unit at the time, which was Longview Ward on Turner Road in Colchester.
+
+They told the Inquiry that, from 2007 in north Essex and from 2009 in south Essex, the Trust had a CAMHS Crisis Outreach Team, which undertook gatekeeping.    Then in 2015, EPUT informed the Inquiry that CAMHS Community Services were passed to NELFT and, following this, that admissions were arranged by direct liaison between the NELFT CAMHS Crisis Teams and the EPUT CAMHS Wards.
+
+So those are gatekeeping assessments.
+
+I turn now to talk about the Mental Health Act assessments.    I have already noted that they fall under the statutory responsibility of the local authority. However, under Section 75 of the National Health Service Act 2006, the local authorities were empowered to enter into agreements with NHS Trusts in order to exercise their functions and, in 2006, the three Essex councils entered into such an agreement with EPUT for EPUT to provide Mental Health Act assessments between 9.00 am and 5.00 pm on Monday to Friday.
+
+Accordingly, the Trust had AMHP teams, who delivered that service.
+
+Outside those hours, the responsibility for the assessments remained with the local authorities who had emergency duty teams.    EPUT informed the Inquiry that the Section 75 agreements for EPUT to provide those daytime AMHP services came to an end late in the relevant period.    With Essex County Council, it came to an end in 2019; with Thurrock Council, it came to an end in 2021; and with Southend Borough Council, in 2023. The councils took back the AMHP role centrally.
+
+Information about NELFT's non-inpatient facilities will follow in due course.   HPFT have not yet been asked about its non-inpatient services because the Inquiry received confirmation of its role as an Essex NHS Trust only very recently.   Therefore, moving forward, further information will be sought about the learning, about the scope of the learning disability services that HPFT provides in north Essex.
+
+Chair, that concludes the four sections that I wished to provide by way of overview.   Moving forwards, as I noted, the data the Inquiry has received so far remains incomplete and it will be finalised.      It will be finalised by gathering pending evidence from the providers who did not or could not respond in time for this hearing, and the Inquiry will also ensure that the commissioners have identified all the providers that they can practicably identify from their records, so that they can also be contacted.
+
+For the reasons I have touched on already, it is unlikely to be possible to obtain a perfect record of every location in every context in which any patient who falls within the Inquiry's Terms of Reference may have been treated.   However, the Inquiry will endeavour to achieve a picture that is as complete as possible while giving proper regard to considerations of proportionality.    The analyses that I have illustrated in this presentation will be continued and expanded in order to ensure that the data are presented in the most useful and instructive way, and the Inquiry will seek the assistance of its expert health statistician, Professor Donnelly, to complete that work.
+
+The final analysis will represent important context regarding the care that was delivered to the patients within scope of the Inquiry's Terms of Reference.     Of course, each of the providers will also be asked to provide information about any deaths occurring amongst the patients from Essex under their care, which may be in scope of the Inquiry's investigations, and the data may also assist in guiding the selection of the most appropriate regions to use for the comparisons that will be needed to understand how similar or divergent the care delivered in Essex was to the rest of the country.
+
+Chair, that concludes my presentation to you this afternoon.
+
+**The Chair**: Thank you very much indeed, Dr Ilozue.   Really clear, thank you.
+
+**Ms Harris**: Chair, we are now due to hear from Steven Snowden, King's Counsel.     I was looking at the time, I am not sure if a 10-minute break would be appropriate at this stage.    I think we have been going just over an hour.
+
+I see Mr Snowden is indicating he is not going to be very long perhaps.
+
+**The Chair**: Well, then we will go straight ahead.    Thank you.
+
+Response to presentation by MR SNOWDEN
+
+**The Chair**: Mr Snowden, good afternoon.
+
+**Mr Snowden**: Chair, good afternoon.   It is a pleasure to sit here for a third time.    We and other Core Participants are really grateful, indeed, to my learned friend and to your Inquiry team for the update on where we've got to about the numbers who may have been treated in different places in and outside Essex as defined so far.
+
+We are very grateful for the opportunity to respond and I will do my very best to make it no more than 10 minutes and we can go and have a cup of tea and go home, I hope.     My learned friend concluded, and his paper concludes, that it is unlikely to be possible to obtain a perfect record of every location in every context in which any patient who falls within the Inquiry's Terms of Reference may have been treated, and we suggest that begs at least three questions: first what is the purpose of gathering this data; second, how can your Inquiry do as much as is practicable and proportionate to fulfil that purpose; and, third, we are going to touch on the Terms of Reference in relation to this data.
+
+So the first of those three points: what is the purpose of gathering this data?   We invite the Inquiry to take a step back now that substantial amounts of preliminary data have been obtained.
+
+So we suggest that the purpose of gathering the data must always be sensitive to the concerns of the families and the patients and what actually happened to them.    We don't need to investigate numbers just for numbers' sake we don't see that -- we respectfully suggest that's not part of your role.
+
+We suggest the Inquiry should focus its efforts on the actual people, the families, the friends, the survivors, who are the interested parties before it. The questions that should drive this Inquiry's investigations, we suggest, are principally: where were they treated; how and by whom were they treated; what do they have to say about the nature and the quality of the treatment that they were given?
+
+We suggest that the Inquiry's ability to make useful findings in relation to those about whom it has no firsthand evidence, so those theoretically scattered around the country, whose names we do not necessarily know, who are not necessarily participants, not necessarily Core Participants, and haven't necessarily or won't necessarily give you witness statements.     So your ability to make useful findings about that spread of patients will inevitably be limited, even if you did have a perfect record of how many people had been sent to various places.
+
+Because we note that, as my learned friend said and in his helpful paper, the objective for providing the maps that we have just been taken to is to assist with visualising the spread of locations in which care was being delivered to those who might be within the scope of the Inquiry.   We just pause there and we express our concern -- and, with respect, hoping that it will cause the Inquiry to pause and think -- that the focus on the hypothetical scope of those who might be within the scope of the Inquiry is wrong if it's pursued at the cost of those who have actually made applications for CP status, who are actually participants in the Inquiry, and we know who they are, you will know in due course where they were treated.   We suggest that that is likely to be more fruitful ground for you to search, interrogate and understand how poor the treatment was than ascertaining numbers in far-flung parts of the country.
+
+Clearly, it will be important, we accept, to know how many inpatient deaths occurred in Essex and that is one of the tasks for your statistician.   But if it is impossible to say how many people may have been treated where or how, then, in a sense, we say: so be it.     The data on wards and services is not essential to what is expressed to be one of your functions, which is to determine how similar or divergent the care delivered in Essex was to the rest of the country.   Knowing the spread of where patients were treated won't necessarily answer that question for you because, for instance, if an expert in your Inquiry gives evidence in due course that a minimum standard was in place and if you determined, through the case studies, that the care provided in Essex fell below that standard, then the divergence questions falls away.   You don't really need to know the numbers elsewhere and you don't necessarily need to compare how the two patients who were treated in the northwest of the country fared against the several hundreds about whom you will have real evidence in Essex.
+
+So we invite your Inquiry to be clear and to engage with the Core Participants about the purpose of gathering this data and to be cautious not to elevate the data above the evidence of real experience of real patients.
+
+So that's the first point, the purpose of gathering the data.
+
+The second: how can the Inquiry do as much as is practicable and proportionate to serve the real purpose of gathering the data?   We say we invite the Inquiry to consider what to do about the gaps in the material that my learned friends kindly identified for us in conjunction with Core Participants and in conjunction with your expert statistician, and only to dig deeper into the data of who was spread where once you have received the Core Participants' accounts, once you have the full range of Rule 9 statements at your fingertips because, we suggest, it must be difficult for the Inquiry to assess now whether it's worth using your own personnel to conduct difficult research that may be important to obtain.
+
+As some other inquiries have done, sent out paralegals to all parts of the country to analyse boxes of documents.   Other options open to you may include dispensing with some of the areas where you don't have that detail because you may feel, when you have seen the full range of evidence and the full range of Rule 9 statements from the Core Participants, that it's not necessarily to pursue to its absolute detail the far-flung parts of the country.
+
+The third point we would like to make on behalf of our Core Participants arising from this paper and this presentation is to do with your Terms of Reference. Chair, we have already been in extensive correspondence with your Inquiry team about your Terms of Reference. We now note and are grateful that you have changed your stance as to the interpretation of some of the Terms of Reference, for instance your focus on assessments is now most closely on those associated with inpatient assessments, as footnoted in the paper and as trailed by your leading Counsel to the Inquiry at the opening of these hearings.
+
+We do say, we do suggest, that it is important to make sure that we are in your final version of the Terms of Reference your final version of your understanding of the Terms of Reference, when you take stock of what has transpired at this hearing, before we move forward and the Inquiry moves forward in obtaining data and analysing it.   You need to know the solid footing of what you know before you decide how much more you really need to know, if I can put it that way.
+
+One discrete issue though that arises about the Terms of Reference and which is illustrated by this paper and data you have heard is the geographical scope of the Inquiry and, if you will allow me two minutes I will explain what I mean by that.
+
+We are grateful that this Inquiry has the power, which we know you will use to make national recommendations but, at the moment, we know the Inquiry terms "Essex" to be coterminous with the local government areas of Essex, Southend-on-Sea and Thurrock pursuant to the Lieutenancies Act of 1997, and we say now that your team have gathered some of the evidence that has been summarised for you today, that definition of Essex, for the purposes for which this Inquiry has convened, is slightly arbitrary and it offers no real gains, as this paper demonstrates.    Essex patients were treated in many places outside the boundaries of those three local government areas, and they have been provided for in so many places at various times that a complete list of the places they have been treated may never be ascertained.
+
+So we suggest that the Inquiry should stand back and take more of an issues-based approach to the interpretation to these Terms of Reference and should decide whether to admit consideration of deaths of Essex patients at other hospitals because the evidence you have obtained so far, which we are grateful for, suggests that healthcare provision for Essex patients doesn't follow the local authority boundaries.
+
+We note that NHS England have provided evidence explaining that it uses the term "natural clinical flow", rather than talking about "out-of-area patients". So this seems to us to suggest a system in which the boundaries set by the Inquiry, the geographical boundaries, don't necessarily dovetail with the boundaries the authorities themselves use, the providers or the oversight bodies.
+
+EPUT themselves have said they don't maintain a central log of out-of-area placements and, again, there is a risk that, if you exclude those who were treated out of area, you may be excluding some who were treated out of area at EPUT's behest.
+
+So, essentially, we do say healthcare provision doesn't seem to follow those local authority boundaries and we encourage the Inquiry to be flexible about how it looks at its geographical boundaries.
+
+So those are the three main points, Chair, to make arising from the presentation.
+
+But if you'll permit me, there are just a handful of shorter points arising.    First, to say something brief about disclosure.   As with the other papers presented by Counsel to the Inquiry, we note that the information on wards and services is still substantially incomplete and is recognised to be so, and we suggest that engaging with the Core Participants as to how to fill the gaps, how to obtain more material and whether it is necessary to obtain more material is important.
+
+The second point is on disclosure, not to the Inquiry, but from the Inquiry to Core Participants, and, Chair, I hope you will forgive me if I repeat in a slightly different way what I said the other day because, at paragraph 16 of this presentation, it is said, "The witness statements and the key exhibits for each organisation have been included in the hearing bundle so the evidence and the raw data are available for scrutiny", and that must be scrutiny by us, the Core Participants.
+
+But this isn't, in fact, the case because we see at one of the footnotes that some exhibits have been deliberately omitted from the evidence bundle because they are thought not to be so relevant for this hearing. We respectfully suggest, again, that Core Participants will feel better able to engage -- I would feel better able to comment and respond to this paper -- if we had had greater disclosure by this stage of the material the Inquiry holds.
+
+It's difficult for us to attempt to verify or to comment on or to really substantially assist you with this paper in the absence of full disclosure.    So, again, Chair, we respectfully suggest that that means you -- rather, we invite the Inquiry to continue to give us better rolling disclosure and a platform on which we can interrogate that data.
+
+Moving to the next discrete short point is a reference to local authorities, which my learned friend touched on in your paper.    At a few of his paragraphs, reference is made to involvement of local authorities but no local authority evidence, as far as we know, has yet been obtained, certainly none has been disclosed to us if it has yet been obtained and clearly this is an area where you will want to do further investigation.
+
+A separate short point is one in relation to mixed wards where, again, forgive me for just dotting around between points, as you have invited a response.       On mixed wards, we note the position in the paper as written and as delivered.    We note that Dr Karale's evidence for EPUT, in his second statement at paragraph 32, tells us that some localities have implemented what he calls a swing or a flexible system of wards and beds, so some operate a single sex when required, some don't, and then change, and we don't know, either on his evidence or from your learned counsel's paper, how far this represents the practise across Essex.   Again, that area, we suggest, is going to be important that it receives particular scrutiny, given the issue of sexual safety in your list of issues.
+
+Finally, one comment, if I may, in relation to out-of-area placements, and we note, as your counsel noted, the difficulties you have faced in determining the reasons for out-of-area placements.   This is an important area for the Inquiry to investigate, it is in your list of issues.    Dr Davidson's report touches on it and it is important because, Chair, you will recall the commemorative evidence and the huge personal impact that an out-of-area placement of a patient or a beloved family member has on a family who are still here.
+
+Again, we note that your learned counsel has told us that virtually no quantifiable data currently available on how the placements which occurred out of area were distributed, and it may be impossible to obtain those. Again, we suggest this highlights the need for you to gather patient notes, to gather family and patient recollections, and to analyse this area, this issue of out-of-area placements by case studies where the overarching national data is going to be difficult to obtain or difficult to understand.
+
+So, Chair, moving forward, we are grateful, as I say, for the delivery of the information that your Inquiry has received so far.   But, if I may summarise really what I have said now and in the two previous papers really in six points: the first is we, at least, as Core Participants -- and we believe all the other Core Participants too -- would be grateful for increased greater disclosure on a rolling basis, in good time through a usable platform; we would be grateful to be involved in good time and substantial time before hearings happen; we would be grateful if there is an increased focus, as we know there will be as the Inquiry moves forward, on drawing on the experience and perspectives of the different recognised legal representatives and Core Participants; the fourth point is the involvement of your statistician early in this data gathering process -- we understand from the language used in my learned friend's presentation that the Inquiry will seek the assistance of Professor Donnelly on this material, and we are grateful for that.
+
+If I may then be so bold as to put the fifth point this way: we invite the Inquiry not to be so wedded to timetables that the participation of Core Participants and their recognised legal representatives, so that's us, is rushed and last minute because we do invite the Inquiry to consider that the Core Participants will be able to bring their experience and their help to you to bear better if there is a little bit more time to digest material.
+
+So, finally, we do invite you to consider your timetable for hearings going forwards.   I have already made some suggestions about those, we will make some more in written submissions at the end of this hearing.
+
+We invite you to consider that it might be helpful to adjourn hearings that are already listed.     It might be helpful to change them to different dates or to shorten or elongate the hearing spells that you have already identified.   It might be a useful and cost-effective use of everyone's time and effort if the pace and the timing is driven by the evidence you obtain and the issues as they are developing, rather than necessarily sticking with a timetable which is set.
+
+So, Chair, we are really grateful for those papers, we are very grateful indeed for the opportunity to engage with them and look forward to doing more of that.
+
+Thank you.
+
+**Ms Harris**: Chair, that's the conclusion of the evidence to be presented today the Inquiry will not be sitting tomorrow but we will sit again at 10.00 on Thursday when we will hear expert evidence about the provision of mental health inpatient care.
+
+**The Chair**: Thank you very much, indeed.   Thank you.   10.00
+
+on Thursday.
+
+*(3.33 pm)*
+
+*(The Inquiry adjourned until 10.00 am on Thursday, 8 May 2025)*
+
